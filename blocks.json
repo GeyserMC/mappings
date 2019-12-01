@@ -504,76 +504,76 @@
     "bedrock_data": 37
   },
   "minecraft:stripped_oak_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 24
   },
   "minecraft:stripped_oak_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 8
   },
   "minecraft:stripped_oak_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 40
   },
   "minecraft:stripped_spruce_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_spruce_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 25
   },
   "minecraft:stripped_spruce_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_spruce_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 9
   },
   "minecraft:stripped_spruce_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_spruce_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 41
   },
   "minecraft:stripped_birch_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_birch_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 26
   },
   "minecraft:stripped_birch_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_birch_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 10
   },
   "minecraft:stripped_birch_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_birch_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 42
   },
   "minecraft:stripped_jungle_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_jungle_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 27
   },
   "minecraft:stripped_jungle_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_jungle_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 11
   },
   "minecraft:stripped_jungle_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_jungle_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 43
   },
   "minecraft:stripped_acacia_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_acacia_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 28
   },
   "minecraft:stripped_acacia_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_acacia_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 12
   },
   "minecraft:stripped_acacia_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_acacia_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 44
   },
   "minecraft:stripped_dark_oak_wood[axis=x]": {
-    "bedrock_identifier": "minecraft:stripped_dark_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 29
   },
   "minecraft:stripped_dark_oak_wood[axis=y]": {
-    "bedrock_identifier": "minecraft:stripped_dark_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 13
   },
   "minecraft:stripped_dark_oak_wood[axis=z]": {
-    "bedrock_identifier": "minecraft:stripped_dark_oak_log",
-    "bedrock_data": 3
+    "bedrock_identifier": "minecraft:wood",
+    "bedrock_data": 45
   },
   "minecraft:oak_leaves[distance=1,persistent=true]": {
     "bedrock_identifier": "minecraft:leaves",
