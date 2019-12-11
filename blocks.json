@@ -44791,67 +44791,131 @@
     "bedrock_identifier": "minecraft:stonecutter_block",
     "bedrock_data": 5
   },
-  "minecraft:bell[attachment=floor,facing=north]": {
+  "minecraft:bell[attachment=floor,facing=north,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 2
   },
-  "minecraft:bell[attachment=floor,facing=south]": {
+  "minecraft:bell[attachment=floor,facing=north,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 2
+  },
+  "minecraft:bell[attachment=floor,facing=south,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 0
   },
-  "minecraft:bell[attachment=floor,facing=west]": {
+  "minecraft:bell[attachment=floor,facing=south,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 0
+  },
+  "minecraft:bell[attachment=floor,facing=west,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 1
   },
-  "minecraft:bell[attachment=floor,facing=east]": {
+  "minecraft:bell[attachment=floor,facing=west,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 1
+  },
+  "minecraft:bell[attachment=floor,facing=east,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 3
   },
-  "minecraft:bell[attachment=ceiling,facing=north]": {
+  "minecraft:bell[attachment=floor,facing=east,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 3
+  },
+  "minecraft:bell[attachment=ceiling,facing=north,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 6
   },
-  "minecraft:bell[attachment=ceiling,facing=south]": {
+  "minecraft:bell[attachment=ceiling,facing=north,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 6
+  },
+  "minecraft:bell[attachment=ceiling,facing=south,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 4
   },
-  "minecraft:bell[attachment=ceiling,facing=west]": {
+  "minecraft:bell[attachment=ceiling,facing=south,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 4
+  },
+  "minecraft:bell[attachment=ceiling,facing=west,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 5
   },
-  "minecraft:bell[attachment=ceiling,facing=east]": {
+  "minecraft:bell[attachment=ceiling,facing=west,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 5
+  },
+  "minecraft:bell[attachment=ceiling,facing=east,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 7
   },
-  "minecraft:bell[attachment=single_wall,facing=north]": {
+  "minecraft:bell[attachment=ceiling,facing=east,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 7
+  },
+  "minecraft:bell[attachment=single_wall,facing=north,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 10
   },
-  "minecraft:bell[attachment=single_wall,facing=south]": {
+  "minecraft:bell[attachment=single_wall,facing=north,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 10
+  },
+  "minecraft:bell[attachment=single_wall,facing=south,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 8
   },
-  "minecraft:bell[attachment=single_wall,facing=west]": {
+  "minecraft:bell[attachment=single_wall,facing=south,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 8
+  },
+  "minecraft:bell[attachment=single_wall,facing=west,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 9
   },
-  "minecraft:bell[attachment=single_wall,facing=east]": {
+  "minecraft:bell[attachment=single_wall,facing=west,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 9
+  },
+  "minecraft:bell[attachment=single_wall,facing=east,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 11
   },
-  "minecraft:bell[attachment=double_wall,facing=north]": {
+  "minecraft:bell[attachment=single_wall,facing=east,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 11
+  },
+  "minecraft:bell[attachment=double_wall,facing=north,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 14
   },
-  "minecraft:bell[attachment=double_wall,facing=south]": {
+  "minecraft:bell[attachment=double_wall,facing=north,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 14
+  },
+  "minecraft:bell[attachment=double_wall,facing=south,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 12
   },
-  "minecraft:bell[attachment=double_wall,facing=west]": {
+  "minecraft:bell[attachment=double_wall,facing=south,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 12
+  },
+  "minecraft:bell[attachment=double_wall,facing=west,powered=true]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 13
   },
-  "minecraft:bell[attachment=double_wall,facing=east]": {
+  "minecraft:bell[attachment=double_wall,facing=west,powered=false]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 13
+  },
+  "minecraft:bell[attachment=double_wall,facing=east,powered=true]": {
+    "bedrock_identifier": "minecraft:bell",
+    "bedrock_data": 15
+  },
+  "minecraft:bell[attachment=double_wall,facing=east,powered=false]": {
     "bedrock_identifier": "minecraft:bell",
     "bedrock_data": 15
   },
@@ -45082,5 +45146,205 @@
   "minecraft:composter[level=8]": {
     "bedrock_identifier": "minecraft:composter",
     "bedrock_data": 8
+  },
+  "minecraft:bee_nest[facing=north,honey_level=0]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=north,honey_level=1]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=north,honey_level=2]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=north,honey_level=3]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=north,honey_level=4]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=north,honey_level=5]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=0]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=1]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=2]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=3]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=4]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=south,honey_level=5]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=0]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=1]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=2]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=3]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=4]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=west,honey_level=5]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=0]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=1]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=2]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=3]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=4]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest[facing=east,honey_level=5]": {
+    "bedrock_identifier": "minecraft:bee_nest",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=0]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=1]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=2]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=3]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=4]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=north,honey_level=5]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=0]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=1]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=2]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=3]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=4]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=south,honey_level=5]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=0]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=1]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=2]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=3]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=4]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=west,honey_level=5]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=0]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=1]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=2]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=3]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=4]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:beehive[facing=east,honey_level=5]": {
+    "bedrock_identifier": "minecraft:beehive",
+    "bedrock_data": 0
+  },
+  "minecraft:honey_block": {
+    "bedrock_identifier": "minecraft:honey_block",
+    "bedrock_data": 0
+  },
+  "minecraft:honeycomb_block": {
+    "bedrock_identifier": "minecraft:honeycomb_block",
+    "bedrock_data": 0
   }
 }

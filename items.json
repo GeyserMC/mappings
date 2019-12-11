@@ -2791,6 +2791,10 @@
     "bedrock_id": 383,
     "bedrock_data": 19
   },
+  "minecraft:bee_spawn_egg": {
+    "bedrock_id": 383,
+    "bedrock_data": 122
+  },
   "minecraft:blaze_spawn_egg": {
     "bedrock_id": 383,
     "bedrock_data": 43
@@ -3505,6 +3509,30 @@
   },
   "minecraft:campfire": {
     "bedrock_id": 720,
+    "bedrock_data": 0
+  },
+  "minecraft:honeycomb": {
+    "bedrock_id": 736,
+    "bedrock_data": 0
+  },
+  "minecraft:bee_nest": {
+    "bedrock_id": -218,
+    "bedrock_data": 0
+  },
+  "minecraft:beehive": {
+    "bedrock_id": -219,
+    "bedrock_data": 0
+  },
+  "minecraft:honey_bottle": {
+    "bedrock_id": 737,
+    "bedrock_data": 0
+  },
+  "minecraft:honey_block": {
+    "bedrock_id": -220,
+    "bedrock_data": 0
+  },
+  "minecraft:honeycomb_block": {
+    "bedrock_id": -221,
     "bedrock_data": 0
   }
 }
