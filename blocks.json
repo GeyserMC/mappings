@@ -57817,13 +57817,13 @@
   "minecraft:bubble_column[drag=true]": {
     "bedrock_identifier": "minecraft:bubble_column",
     "bedrock_states": {
-      "drag_down": 0
+      "drag_down": 1
     }
   },
   "minecraft:bubble_column[drag=false]": {
     "bedrock_identifier": "minecraft:bubble_column",
     "bedrock_states": {
-      "drag_down": 1
+      "drag_down": 0
     }
   },
   "minecraft:polished_granite_stairs[facing=north,half=top,shape=straight,waterlogged=true]": {
