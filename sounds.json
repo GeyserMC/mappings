@@ -260,15 +260,15 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.dispenser.dispense": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.click",
     "bedrock_mapping": "SHOOT"
   },
   "block.dispenser.fail": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.click",
     "bedrock_mapping": "DENY"
   },
   "block.dispenser.launch": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.bow",
     "bedrock_mapping": "LAUNCH"
   },
   "block.enchantment_table.use": {
@@ -328,7 +328,7 @@
     "bedrock_mapping": ""
   },
   "block.glass.place": {
-    "playsound_mapping": "random.glass",
+    "playsound_mapping": "block.lantern.place",
     "bedrock_mapping": "PLACE"
   },
   "block.glass.step": {
@@ -336,7 +336,7 @@
     "bedrock_mapping": "STEP"
   },
   "block.grass.break": {
-    "playsound_mapping": "random.glass",
+    "playsound_mapping": "hit.grass",
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.grass.fall": {
@@ -348,7 +348,7 @@
     "bedrock_mapping": ""
   },
   "block.grass.place": {
-    "playsound_mapping": "use.grass",
+    "playsound_mapping": "dig.grass",
     "bedrock_mapping": "PLACE"
   },
   "block.grass.step": {
@@ -420,7 +420,7 @@
     "bedrock_mapping": ""
   },
   "block.ladder.break": {
-    "playsound_mapping": "hit.ladder",
+    "playsound_mapping": "dig.wood",
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.ladder.fall": {
@@ -752,7 +752,7 @@
     "bedrock_mapping": ""
   },
   "block.tripwire.detach": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.click",
     "bedrock_mapping": "DETACH"
   },
   "block.water.ambient": {
@@ -2468,7 +2468,7 @@
     "bedrock_mapping": "BREAK"
   },
   "entity.splash_potion.throw": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.bow",
     "bedrock_mapping": "THROW"
   },
   "entity.squid.ambient": {
@@ -2756,19 +2756,19 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "entity.wither.death": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.wither.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.wither.hurt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.wither.hurt",
     "bedrock_mapping": "HURT"
   },
   "entity.wither.shoot": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.wither.shoot",
     "bedrock_mapping": "SHOOT"
   },
   "entity.wither.spawn": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.wither.spawn",
     "bedrock_mapping": "SPAWN"
   },
   "entity.wither_skeleton.ambient": {
@@ -3044,12 +3044,12 @@
     "bedrock_mapping": "FLY"
   },
   "item.firecharge.use": {
-    "playsound_mapping": "",
+    "playsound_mapping": "fire.ignite",
     "bedrock_mapping": "IGNITE"
   },
   "item.flintandsteel.use": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ITEM_USE_ON"
+    "playsound_mapping": "fire.ignite",
+    "bedrock_mapping": "IGNITE"
   },
   "item.hoe.till": {
     "playsound_mapping": "",
