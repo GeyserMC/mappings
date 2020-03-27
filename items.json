@@ -2081,15 +2081,21 @@
   },
   "minecraft:iron_shovel": {
     "bedrock_id": 256,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "iron"
   },
   "minecraft:iron_pickaxe": {
     "bedrock_id": 257,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "iron"
   },
   "minecraft:iron_axe": {
     "bedrock_id": 258,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "iron"
   },
   "minecraft:flint_and_steel": {
     "bedrock_id": 259,
@@ -2129,55 +2135,81 @@
   },
   "minecraft:iron_sword": {
     "bedrock_id": 267,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "iron"
   },
   "minecraft:wooden_sword": {
     "bedrock_id": 268,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "wooden"
   },
   "minecraft:wooden_shovel": {
     "bedrock_id": 269,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "wooden"
   },
   "minecraft:wooden_pickaxe": {
     "bedrock_id": 270,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "wooden"
   },
   "minecraft:wooden_axe": {
     "bedrock_id": 271,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "wooden"
   },
   "minecraft:stone_sword": {
     "bedrock_id": 272,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "stone"
   },
   "minecraft:stone_shovel": {
     "bedrock_id": 273,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "stone"
   },
   "minecraft:stone_pickaxe": {
     "bedrock_id": 274,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "stone"
   },
   "minecraft:stone_axe": {
     "bedrock_id": 275,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "stone"
   },
   "minecraft:diamond_sword": {
     "bedrock_id": 276,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "diamond"
   },
   "minecraft:diamond_shovel": {
     "bedrock_id": 277,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "diamond"
   },
   "minecraft:diamond_pickaxe": {
     "bedrock_id": 278,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "diamond"
   },
   "minecraft:diamond_axe": {
     "bedrock_id": 279,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "diamond"
   },
   "minecraft:stick": {
     "bedrock_id": 280,
@@ -2193,19 +2225,27 @@
   },
   "minecraft:golden_sword": {
     "bedrock_id": 283,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "golden"
   },
   "minecraft:golden_shovel": {
     "bedrock_id": 284,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "golden"
   },
   "minecraft:golden_pickaxe": {
     "bedrock_id": 285,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "golden"
   },
   "minecraft:golden_axe": {
     "bedrock_id": 286,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "golden"
   },
   "minecraft:string": {
     "bedrock_id": 287,
@@ -2221,23 +2261,33 @@
   },
   "minecraft:wooden_hoe": {
     "bedrock_id": 290,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "wooden"
   },
   "minecraft:stone_hoe": {
     "bedrock_id": 291,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "stone"
   },
   "minecraft:iron_hoe": {
     "bedrock_id": 292,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "iron"
   },
   "minecraft:diamond_hoe": {
     "bedrock_id": 293,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "diamond"
   },
   "minecraft:golden_hoe": {
     "bedrock_id": 294,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "golden"
   },
   "minecraft:wheat_seeds": {
     "bedrock_id": 295,
@@ -2689,7 +2739,8 @@
   },
   "minecraft:shears": {
     "bedrock_id": 359,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "tool_type": "shears"
   },
   "minecraft:melon_slice": {
     "bedrock_id": 360,
