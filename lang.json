@@ -1,0 +1,14 @@
+{
+  "block.minecraft.bed.no_sleep": "tile.bed.noSleep",
+  "block.minecraft.bed.not_safe": "tile.bed.notSafe",
+  "block.minecraft.bed.not_valid": "tile.bed.notValid",
+  "block.minecraft.bed.occupied": "tile.bed.occupied",
+  "block.minecraft.bed.set_spawn": "tile.bed.respawnSet",
+  "block.minecraft.bed.too_far_away": "tile.bed.tooFar",
+  "chat.type.advancement.challenge": "chat.type.achievement",
+  "chat.type.advancement.goal": "chat.type.achievement",
+  "chat.type.advancement.task": "chat.type.achievement",
+  "advancements.story.smelt_iron.title": "achievement.acquireIron",
+  "commands.teleport.success.entity.single": "commands.tp.success",
+  "commands.teleport.success.location.single": "commands.tp.success.coordinates"
+}
