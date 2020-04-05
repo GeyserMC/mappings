@@ -19,6 +19,18 @@
     "Name": "SOUND_ANVIL_BREAK",
     "Type": "soundLevel"
   },
+  "BLOCK_DISPENSER_DISPENSE": {
+    "Name": "SOUND_CLICK",
+    "Type": "soundLevel"
+  },
+  "BLOCK_DISPENSER_FAIL": {
+    "Name": "SOUND_CLICK_FAIL",
+    "Type": "soundLevel"
+  },
+  "BLOCK_DISPENSER_LAUNCH": {
+    "Name": "SHOOT",
+    "Type": "soundLevel"
+  },
   "BLOCK_IRON_DOOR_OPEN": {
     "Name": "SOUND_DOOR",
     "Type": "soundLevel"
@@ -51,12 +63,28 @@
     "Name": "SOUND_DOOR",
     "Type": "soundLevel"
   },
+  "ENTITY_BLAZE_SHOOT": {
+    "Name": "SOUND_BLAZE_SHOOT",
+    "Type": "soundLevel"
+  },
+  "ENTITY_GHAST_WARN": {
+    "Name": "SOUND_GHAST",
+    "Type": "soundLevel"
+  },
+  "ENTITY_GHAST_SHOOT": {
+    "Name": "SOUND_GHAST_SHOOT",
+    "Type": "soundLevel"
+  },
   "BLOCK_END_PORTAL_SPAWN": {
     "Name": "BLOCK_END_PORTAL_SPAWN",
     "Type": "soundEvent"
   },
   "BLOCK_FIRE_EXTINGUISH": {
     "Name": "EXTINGUISH_FIRE",
+    "Type": "soundEvent"
+  },
+  "BLOCK_PORTAL_TRAVEL": {
+    "Name": "PORTAL_TRAVEL",
     "Type": "soundEvent"
   },
   "ENTITY_BAT_TAKEOFF": {
