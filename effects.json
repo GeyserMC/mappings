@@ -1,0 +1,99 @@
+{
+  "BREAK_EYE_OF_ENDER": {
+    "Name": "EYE_DESPAWN",
+    "Type": "particle"
+  },
+  "BREAK_SPLASH_POTION": {
+    "Name": "SPLASH",
+    "Type": "particle"
+  },
+  "BLOCK_ANVIL_DESTROY": {
+    "Name": "SOUND_ANVIL_BREAK",
+    "Type": "soundLevel"
+  },
+  "BLOCK_ANVIL_LAND": {
+    "Name": "SOUND_ANVIL_BREAK",
+    "Type": "soundLevel"
+  },
+  "BLOCK_ANVIL_USE": {
+    "Name": "SOUND_ANVIL_BREAK",
+    "Type": "soundLevel"
+  },
+  "BLOCK_IRON_DOOR_OPEN": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_IRON_DOOR_CLOSE": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_IRON_TRAPDOOR_OPEN": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_IRON_TRAPDOOR_CLOSE": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_WOODEN_DOOR_OPEN": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_WOODEN_DOOR_CLOSE": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_WOODEN_TRAPDOOR_OPEN": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_WOODEN_TRAPDOOR_CLOSE": {
+    "Name": "SOUND_DOOR",
+    "Type": "soundLevel"
+  },
+  "BLOCK_END_PORTAL_SPAWN": {
+    "Name": "BLOCK_END_PORTAL_SPAWN",
+    "Type": "soundEvent"
+  },
+  "BLOCK_FIRE_EXTINGUISH": {
+    "Name": "EXTINGUISH_FIRE",
+    "Type": "soundEvent"
+  },
+  "ENTITY_BAT_TAKEOFF": {
+    "Identifier": "minecraft:bat",
+    "Name": "TAKEOFF",
+    "Type": "soundEvent"
+  },
+  "ENTITY_ENDEREYE_LAUNCH": {
+    "Identifier": "minecraft:player",
+    "Name": "THROW",
+    "Type": "soundEvent"
+  },
+  "ENTITY_FIREWORK_SHOOT": {
+    "Name": "LAUNCH",
+    "Type": "soundEvent"
+  },
+  "ENTITY_ZOMBIE_CONVERTED_TO_DROWNED": {
+    "Name": "CONVERT_TO_DROWNED",
+    "Type": "soundEvent"
+  },
+  "RECORD": {
+    "Name": "",
+    "Type": "soundEvent",
+    "records": {
+      "0": "STOP_RECORD",
+      "841": "RECORD_13",
+      "842": "RECORD_CAT",
+      "843": "RECORD_BLOCKS",
+      "844": "RECORD_CHIRP",
+      "845": "RECORD_FAR",
+      "846": "RECORD_MALL",
+      "847": "RECORD_MELLOHI",
+      "848": "RECORD_STAL",
+      "849": "RECORD_STRAD",
+      "850": "RECORD_WARD",
+      "851": "RECORD_11",
+      "852": "RECORD_WAIT"
+    }
+  }
+}

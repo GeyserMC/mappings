@@ -1,0 +1,190 @@
+[
+	{
+		"java": "AMBIENT_ENTITY_EFFECT",
+		"bedrock":"PARTICLE_MOB_SPELL_AMBIENT"
+	},
+	{
+		"java": "ANGRY_VILLAGER",
+		"bedrock":"PARTICLE_VILLAGER_ANGRY"
+	},
+	{
+		"java": "BUBBLE",
+		"bedrock":"PARTICLE_BUBBLE"
+	},
+	{
+		"java": "BUBBLE_COLUMN_UP",
+		"bedrock":"PARTICLE_BUBBLE_COLUMN_UP"
+	},
+	{
+		"java": "BUBBLE_POP",
+		"bedrock":"PARTICLE_BUBBLE"
+	},
+	{
+		"java": "CAMPFIRE_COSY_SMOKE",
+		"bedrock":"PARTICLE_CAMPFIRE_SMOKE"
+	},
+	{
+		"java": "CAMPFIRE_SIGNAL_SMOKE",
+		"bedrock":"minecraft:campfire_tall_smoke_particle"
+	},
+	{
+		"java": "CLOUD",
+		"bedrock":"PARTICLE_EVAPORATION"
+	},
+	{
+		"java": "COMPOSTER",
+		"bedrock":"EVENT_PARTICLE_BONEMEAL"
+	},
+	{
+		"java": "HAPPY_VILLAGER",
+		"bedrock":"PARTICLE_VILLAGER_HAPPY"
+	},
+	{
+		"java": "CRIT",
+		"bedrock":"PARTICLE_CRITICAL"
+	},
+	{
+		"java": "CURRENT_DOWN",
+		"bedrock":"PARTICLE_BUBBLE_COLUMN_DOWN"
+	},
+	{
+		"java": "DOLPHIN",
+		"bedrock":"minecraft:dolphin_move_particle"
+	},
+	{
+		"java": "DRAGON_BREATH",
+		"bedrock":"PARTICLE_DRAGONS_BREATH"
+	},
+	{
+		"java": "DRIPPING_LAVA",
+		"bedrock":"PARTICLE_DRIP_LAVA"
+	},
+	{
+		"java": "DRIPPING_WATER",
+		"bedrock":"PARTICLE_DRIP_WATER"
+	},
+	{
+		"java": "EFFECT",
+		"bedrock":"minecraft:splash_spell_emitter "
+	},
+	{
+		"java": "ENCHANT",
+		"bedrock":"PARTICLE_ENCHANTMENT_TABLE"
+	},
+	{
+		"java": "END_ROD",
+		"bedrock":"PARTICLE_END_ROD"
+	},
+	{
+		"java": "ENTITY_EFFECT",
+		"bedrock":"PARTICLE_MOB_SPELL"
+	},
+	{
+		"java": "EXPLOSION",
+		"bedrock":"PARTICLE_LARGE_EXPLOSION"
+	},
+	{
+		"java": "EXPLOSION_EMITTER",
+		"bedrock":"minecraft:huge_explosion_emitter"
+	},
+	{
+		"java": "FALLING_LAVA",
+		"bedrock":"PARTICLE_DRIP_LAVA"
+	},
+	{
+		"java": "FALLING_WATER",
+		"bedrock":"PARTICLE_DRIP_WATER"
+	},
+	{
+		"java": "FIREWORK",
+		"bedrock":"PARTICLE_FIREWORKS_SPARK"
+	},
+	{
+		"java": "FISHING",
+		"bedrock":"PARTICLE_WATER_WAKE"
+	},
+	{
+		"java": "FLAME",
+		"bedrock":"PARTICLE_FLAME"
+	},
+	{
+		"java": "HEART",
+		"bedrock":"PARTICLE_HEART"
+	},
+	{
+		"java": "INSTANT_EFFECT",
+		"bedrock":"PARTICLE_MOB_SPELL_INSTANTANEOUS"
+	},
+	{
+		"java": "ITEM",
+		"bedrock":"PARTICLE_ITEM_BREAK"
+	},
+	{
+		"java": "ITEM_SLIME",
+		"bedrock":"PARTICLE_SLIME"
+	},
+	{
+		"java": "ITEM_SNOWBALL",
+		"bedrock":"PARTICLE_SNOWBALL_POOF"
+	},
+	{
+		"java": "LARGE_SMOKE",
+		"bedrock":"PARTICLE_LARGE_SMOKE"
+	},
+	{
+		"java": "LAVA",
+		"bedrock":"PARTICLE_LAVA"
+	},
+	{
+		"java": "MYCELIUM",
+		"bedrock":"minecraft:mycelium_dust_particle"
+	},
+	{
+		"java": "NAUTILUS",
+		"bedrock":"minecraft:nautilus"
+	},
+	{
+		"java": "NOTE",
+		"bedrock":"PARTICLE_NOTE"
+	},
+	{
+		"java": "POOF",
+		"bedrock":"PARTICLE_EXPLODE"
+	},
+	{
+		"java": "PORTAL",
+		"bedrock":"PARTICLE_PORTAL"
+	},
+	{
+		"java": "RAIN",
+		"bedrock":"PARTICLE_RAIN_SPLASH"
+	},
+	{
+		"java": "SMOKE",
+		"bedrock":"PARTICLE_SMOKE"
+	},
+	{
+		"java": "SQUID_INK",
+		"bedrock":"minecraft:ink"
+	},
+	{
+		"java": "SNEEZE",
+		"bedrock":"PARTICLE_SNEEZE"
+	},
+	{
+		"java": "SPLASH",
+		"bedrock":"SPLASH"
+	},
+	{
+		"java": "SPIT",
+		"bedrock":"PARTICLE_SPIT"
+	},
+	{
+		"java": "TOTEM_OF_UNDYING",
+		"bedrock":"PARTICLE_TOTEM"
+	},
+	{
+		"java": "WITCH",
+		"bedrock":"PARTICLE_WITCH_SPELL"
+	}
+]
