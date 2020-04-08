@@ -529,7 +529,8 @@
   },
   "block.note_block.bit": {
     "playsound_mapping": "note.bit",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 3328
   },
   "block.note_block.chime": {
     "playsound_mapping": "note.chime",
