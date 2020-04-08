@@ -513,19 +513,23 @@
   },
   "block.note_block.banjo": {
     "playsound_mapping": "note.banjo",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 3584
   },
   "block.note_block.basedrum": {
     "playsound_mapping": "note.basedrum",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 256
   },
   "block.note_block.bass": {
     "playsound_mapping": "note.bass",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 1024
   },
   "block.note_block.bell": {
     "playsound_mapping": "note.bell",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 1280
   },
   "block.note_block.bit": {
     "playsound_mapping": "note.bit",
@@ -534,47 +538,58 @@
   },
   "block.note_block.chime": {
     "playsound_mapping": "note.chime",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 1792
   },
   "block.note_block.cow_bell": {
     "playsound_mapping": "note.cow_bell",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 2816
   },
   "block.note_block.didgeridoo": {
     "playsound_mapping": "note.didgeridoo",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 3072
   },
   "block.note_block.flute": {
     "playsound_mapping": "note.flute",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 1536
   },
   "block.note_block.guitar": {
     "playsound_mapping": "note.guitar",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 2048
   },
   "block.note_block.harp": {
     "playsound_mapping": "note.harp",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 0
   },
   "block.note_block.hat": {
     "playsound_mapping": "note.hat",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 768
   },
   "block.note_block.iron_xylophone": {
     "playsound_mapping": "note.iron_xylophone",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 2560
   },
   "block.note_block.pling": {
     "playsound_mapping": "note.pling",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 3840
   },
   "block.note_block.snare": {
     "playsound_mapping": "note.snare",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 512
   },
   "block.note_block.xylophone": {
     "playsound_mapping": "note.xylophone",
-    "bedrock_mapping": "NOTE"
+    "bedrock_mapping": "NOTE",
+    "extra_data": 2304
   },
   "block.piston.contract": {
     "playsound_mapping": "tile.piston.in",
