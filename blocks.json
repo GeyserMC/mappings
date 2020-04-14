@@ -51928,6 +51928,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51937,6 +51939,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51946,6 +51950,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51955,6 +51961,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51964,6 +51972,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51973,6 +51983,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51982,6 +51994,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51991,6 +52005,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52000,6 +52016,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52009,6 +52027,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52018,6 +52038,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52027,6 +52049,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52036,6 +52060,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52045,6 +52071,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52054,6 +52082,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52063,6 +52093,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52072,6 +52104,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52081,6 +52115,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52090,6 +52126,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52099,6 +52137,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 0,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52108,6 +52148,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52117,6 +52159,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52126,6 +52170,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52135,6 +52181,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52144,6 +52192,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52153,6 +52203,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52162,6 +52214,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52171,6 +52225,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52180,6 +52236,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52189,6 +52247,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52198,6 +52258,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52207,6 +52269,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52216,6 +52280,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52225,6 +52291,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52234,6 +52302,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52243,6 +52313,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52252,6 +52324,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52261,6 +52335,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52270,6 +52346,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52279,6 +52357,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 1,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52288,6 +52368,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52297,6 +52379,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52306,6 +52390,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52315,6 +52401,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52324,6 +52412,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52333,6 +52423,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52342,6 +52434,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52351,6 +52445,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52360,6 +52456,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52369,6 +52467,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52378,6 +52478,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52387,6 +52489,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52396,6 +52500,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52405,6 +52511,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52414,6 +52522,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52423,6 +52533,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52432,6 +52544,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52441,6 +52555,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52450,6 +52566,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52459,6 +52577,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 2,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52468,6 +52588,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52477,6 +52599,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52486,6 +52610,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52495,6 +52621,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52504,6 +52632,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52513,6 +52643,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52522,6 +52654,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52531,6 +52665,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52540,6 +52676,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52549,6 +52687,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52558,6 +52698,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52567,6 +52709,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52576,6 +52720,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52585,6 +52731,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52594,6 +52742,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52603,6 +52753,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52612,6 +52764,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52621,6 +52775,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52630,6 +52786,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52639,6 +52797,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 3,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52648,6 +52808,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52657,6 +52819,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52666,6 +52830,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52675,6 +52841,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52684,6 +52852,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52693,6 +52863,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52702,6 +52874,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52711,6 +52885,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52720,6 +52896,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52729,6 +52907,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52738,6 +52918,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52747,6 +52929,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52756,6 +52940,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52765,6 +52951,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52774,6 +52962,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52783,6 +52973,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52792,6 +52984,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52801,6 +52995,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52810,6 +53006,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52819,6 +53017,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 4,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52828,6 +53028,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52837,6 +53039,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 1.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52846,6 +53050,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 2.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52855,6 +53061,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 3.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52864,6 +53072,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52873,6 +53083,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 5.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52882,6 +53094,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 6.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52891,6 +53105,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 7.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52900,6 +53116,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52909,6 +53127,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 9.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52918,6 +53138,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 10.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52927,6 +53149,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 11.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52936,6 +53160,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52945,6 +53171,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 13.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52954,6 +53182,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 14.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52963,6 +53193,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 15.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52972,6 +53204,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 0.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52981,6 +53215,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 8.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52990,6 +53226,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 12.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52999,6 +53237,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
+    "skull_rotation": 4.0,
+    "variation" : 5,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
