@@ -49,7 +49,8 @@
   },
   "block.anvil.place": {
     "playsound_mapping": "hit.stone",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 2542
   },
   "block.anvil.step": {
     "playsound_mapping": "hit.stone",
@@ -249,7 +250,8 @@
   },
   "block.coral_block.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 2569
   },
   "block.coral_block.step": {
     "playsound_mapping": "",
@@ -329,7 +331,8 @@
   },
   "block.glass.place": {
     "playsound_mapping": "block.lantern.place",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 474
   },
   "block.glass.step": {
     "playsound_mapping": "random.glass",
@@ -349,7 +352,8 @@
   },
   "block.grass.place": {
     "playsound_mapping": "dig.grass",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 2082
   },
   "block.grass.step": {
     "playsound_mapping": "step.grass",
@@ -369,7 +373,8 @@
   },
   "block.gravel.place": {
     "playsound_mapping": "use.gravel",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1135
   },
   "block.gravel.step": {
     "playsound_mapping": "step.gravel",
@@ -393,7 +398,8 @@
   },
   "block.honey_block.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1412
   },
   "block.honey_block.slide": {
     "playsound_mapping": "",
@@ -433,7 +439,8 @@
   },
   "block.ladder.place": {
     "playsound_mapping": "use.ladder",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 3065
   },
   "block.ladder.step": {
     "playsound_mapping": "step.ladder",
@@ -453,7 +460,8 @@
   },
   "block.lantern.place": {
     "playsound_mapping": "block.lantern.place",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1907
   },
   "block.lantern.step": {
     "playsound_mapping": "block.lantern.step",
@@ -473,11 +481,11 @@
   },
   "block.lever.click": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "REDSTONE_TRIGGER"
   },
   "block.lily_pad.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": ""
   },
   "block.metal.break": {
     "playsound_mapping": "",
@@ -493,7 +501,8 @@
   },
   "block.metal.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1436
   },
   "block.metal.step": {
     "playsound_mapping": "",
@@ -633,7 +642,8 @@
   },
   "block.sand.place": {
     "playsound_mapping": "use.sand",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 243
   },
   "block.sand.step": {
     "playsound_mapping": "step.sand",
@@ -653,7 +663,8 @@
   },
   "block.scaffolding.place": {
     "playsound_mapping": "block.scaffolding.place",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1007
   },
   "block.scaffolding.step": {
     "playsound_mapping": "block.scaffolding.step",
@@ -681,7 +692,8 @@
   },
   "block.slime_block.place": {
     "playsound_mapping": "use.slime",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1693
   },
   "block.slime_block.step": {
     "playsound_mapping": "step.slime",
@@ -705,7 +717,8 @@
   },
   "block.snow.place": {
     "playsound_mapping": "use.snow",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "ITEM_USE_ON",
+    "extra_data": 313
   },
   "block.snow.step": {
     "playsound_mapping": "step.snow",
@@ -725,7 +738,8 @@
   },
   "block.stone.place": {
     "playsound_mapping": "use.stone",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 130
   },
   "block.stone.step": {
     "playsound_mapping": "step.stone",
@@ -753,7 +767,8 @@
   },
   "block.sweet_berry_bush.place": {
     "playsound_mapping": "block.sweet_berry_bush.place",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 729
   },
   "block.tripwire.attach": {
     "playsound_mapping": "block.sweet_berry_bush.place",
@@ -789,7 +804,8 @@
   },
   "block.wet_grass.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 3127
   },
   "block.wet_grass.step": {
     "playsound_mapping": "",
@@ -809,7 +825,8 @@
   },
   "block.wood.place": {
     "playsound_mapping": "use.wood",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 1099
   },
   "block.wood.step": {
     "playsound_mapping": "step.wood",
@@ -861,7 +878,8 @@
   },
   "block.wool.place": {
     "playsound_mapping": "use.cloth",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "extra_data": 415
   },
   "block.wool.step": {
     "playsound_mapping": "step.cloth",
@@ -889,7 +907,7 @@
   },
   "entity.arrow.hit": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "HIT"
   },
   "entity.arrow.hit_player": {
     "playsound_mapping": "random.bowhit",
@@ -937,7 +955,7 @@
   },
   "entity.bee.pollinate": {
     "playsound_mapping": "mob.bee.pollinate",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BEEHIVE_WORK"
   },
   "entity.bee.sting": {
     "playsound_mapping": "mob.bee.sting",
@@ -1841,7 +1859,7 @@
   },
   "entity.painting.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "SOUND_ITEMFRAME_ADD_ITEM"
   },
   "entity.panda.aggressive_ambient": {
     "playsound_mapping": "mob.panda.idle.aggressive",
