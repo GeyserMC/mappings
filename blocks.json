@@ -51928,8 +51928,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 0,
+    "skull_rotation": 0,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51939,8 +51939,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 0,
+    "skull_rotation": 1,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51950,8 +51950,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 0,
+    "skull_rotation": 2,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51961,8 +51961,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 0,
+    "skull_rotation": 3,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51972,8 +51972,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 0,
+    "skull_rotation": 4,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51983,8 +51983,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 0,
+    "skull_rotation": 5,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -51994,8 +51994,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 0,
+    "skull_rotation": 6,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52005,8 +52005,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 0,
+    "skull_rotation": 7,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52016,8 +52016,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 0,
+    "skull_rotation": 8,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52027,8 +52027,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 0,
+    "skull_rotation": 9,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52038,8 +52038,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 0,
+    "skull_rotation": 10,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52049,8 +52049,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 0,
+    "skull_rotation": 11,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52060,8 +52060,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 0,
+    "skull_rotation": 12,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52071,8 +52071,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 0,
+    "skull_rotation": 13,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52082,8 +52082,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 0,
+    "skull_rotation": 14,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52093,8 +52093,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 0,
+    "skull_rotation": 15,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52104,8 +52104,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 0,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52115,8 +52114,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 0,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52126,8 +52124,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 0,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52137,8 +52134,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 0,
+    "variation": 0,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52148,8 +52144,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 1,
+    "skull_rotation": 0,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52159,8 +52155,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 1,
+    "skull_rotation": 1,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52170,8 +52166,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 1,
+    "skull_rotation": 2,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52181,8 +52177,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 1,
+    "skull_rotation": 3,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52192,8 +52188,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 1,
+    "skull_rotation": 4,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52203,8 +52199,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 1,
+    "skull_rotation": 5,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52214,8 +52210,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 1,
+    "skull_rotation": 6,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52225,8 +52221,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 1,
+    "skull_rotation": 7,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52236,8 +52232,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 1,
+    "skull_rotation": 8,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52247,8 +52243,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 1,
+    "skull_rotation": 9,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52258,8 +52254,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 1,
+    "skull_rotation": 10,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52269,8 +52265,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 1,
+    "skull_rotation": 11,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52280,8 +52276,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 1,
+    "skull_rotation": 12,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52291,8 +52287,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 1,
+    "skull_rotation": 13,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52302,8 +52298,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 1,
+    "skull_rotation": 14,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52313,8 +52309,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 1,
+    "skull_rotation": 15,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52324,8 +52320,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 1,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52335,8 +52330,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 1,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52346,8 +52340,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 1,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52357,8 +52350,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 1,
+    "variation": 1,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52368,8 +52360,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 2,
+    "skull_rotation": 0,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52379,8 +52371,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 2,
+    "skull_rotation": 1,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52390,8 +52382,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 2,
+    "skull_rotation": 2,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52401,8 +52393,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 2,
+    "skull_rotation": 3,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52412,8 +52404,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 2,
+    "skull_rotation": 4,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52423,8 +52415,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 2,
+    "skull_rotation": 5,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52434,8 +52426,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 2,
+    "skull_rotation": 6,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52445,8 +52437,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 2,
+    "skull_rotation": 7,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52456,8 +52448,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 2,
+    "skull_rotation": 8,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52467,8 +52459,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 2,
+    "skull_rotation": 9,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52478,8 +52470,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 2,
+    "skull_rotation": 10,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52489,8 +52481,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 2,
+    "skull_rotation": 11,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52500,8 +52492,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 2,
+    "skull_rotation": 12,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52511,8 +52503,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 2,
+    "skull_rotation": 13,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52522,8 +52514,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 2,
+    "skull_rotation": 14,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52533,8 +52525,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 2,
+    "skull_rotation": 15,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52544,8 +52536,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 2,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52555,8 +52546,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 2,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52566,8 +52556,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 2,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52577,8 +52566,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 2,
+    "variation": 2,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52588,8 +52576,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 3,
+    "skull_rotation": 0,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52599,8 +52587,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 3,
+    "skull_rotation": 1,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52610,8 +52598,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 3,
+    "skull_rotation": 2,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52621,8 +52609,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 3,
+    "skull_rotation": 3,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52632,8 +52620,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 3,
+    "skull_rotation": 4,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52643,8 +52631,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 3,
+    "skull_rotation": 5,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52654,8 +52642,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 3,
+    "skull_rotation": 6,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52665,8 +52653,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 3,
+    "skull_rotation": 7,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52676,8 +52664,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 3,
+    "skull_rotation": 8,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52687,8 +52675,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 3,
+    "skull_rotation": 9,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52698,8 +52686,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 3,
+    "skull_rotation": 10,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52709,8 +52697,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 3,
+    "skull_rotation": 11,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52720,8 +52708,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 3,
+    "skull_rotation": 12,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52731,8 +52719,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 3,
+    "skull_rotation": 13,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52742,8 +52730,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 3,
+    "skull_rotation": 14,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52753,8 +52741,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 3,
+    "skull_rotation": 15,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52764,8 +52752,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 3,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52775,8 +52762,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 3,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -52786,8 +52772,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 3,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -52797,8 +52782,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 3,
+    "variation": 3,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -52808,8 +52792,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 4,
+    "skull_rotation": 0,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52819,8 +52803,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 4,
+    "skull_rotation": 1,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52830,8 +52814,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 4,
+    "skull_rotation": 2,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52841,8 +52825,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 4,
+    "skull_rotation": 3,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52852,8 +52836,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 4,
+    "skull_rotation": 4,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52863,8 +52847,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 4,
+    "skull_rotation": 5,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52874,8 +52858,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 4,
+    "skull_rotation": 6,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52885,8 +52869,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 4,
+    "skull_rotation": 7,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52896,8 +52880,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 4,
+    "skull_rotation": 8,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52907,8 +52891,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 4,
+    "skull_rotation": 9,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52918,8 +52902,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 4,
+    "skull_rotation": 10,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52929,8 +52913,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 4,
+    "skull_rotation": 11,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52940,8 +52924,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 4,
+    "skull_rotation": 12,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52951,8 +52935,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 4,
+    "skull_rotation": 13,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52962,8 +52946,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 4,
+    "skull_rotation": 14,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52973,8 +52957,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 4,
+    "skull_rotation": 15,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -52984,8 +52968,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 4,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -52995,8 +52978,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 4,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -53006,8 +52988,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 4,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -53017,8 +52998,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 4,
+    "variation": 4,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -53028,8 +53008,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 5,
+    "skull_rotation": 0,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53039,8 +53019,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 1.0,
-    "variation" : 5,
+    "skull_rotation": 1,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53050,8 +53030,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 2.0,
-    "variation" : 5,
+    "skull_rotation": 2,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53061,8 +53041,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 3.0,
-    "variation" : 5,
+    "skull_rotation": 3,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53072,8 +53052,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 5,
+    "skull_rotation": 4,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53083,8 +53063,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 5.0,
-    "variation" : 5,
+    "skull_rotation": 5,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53094,8 +53074,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 6.0,
-    "variation" : 5,
+    "skull_rotation": 6,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53105,8 +53085,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 7.0,
-    "variation" : 5,
+    "skull_rotation": 7,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53116,8 +53096,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 5,
+    "skull_rotation": 8,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53127,8 +53107,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 9.0,
-    "variation" : 5,
+    "skull_rotation": 9,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53138,8 +53118,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 10.0,
-    "variation" : 5,
+    "skull_rotation": 10,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53149,8 +53129,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 11.0,
-    "variation" : 5,
+    "skull_rotation": 11,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53160,8 +53140,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 5,
+    "skull_rotation": 12,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53171,8 +53151,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 13.0,
-    "variation" : 5,
+    "skull_rotation": 13,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53182,8 +53162,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 14.0,
-    "variation" : 5,
+    "skull_rotation": 14,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53193,8 +53173,8 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 15.0,
-    "variation" : 5,
+    "skull_rotation": 15,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 1,
       "no_drop_bit": false
@@ -53204,8 +53184,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 0.0,
-    "variation" : 5,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 2,
       "no_drop_bit": false
@@ -53215,8 +53194,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 8.0,
-    "variation" : 5,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 3,
       "no_drop_bit": false
@@ -53226,8 +53204,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 12.0,
-    "variation" : 5,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 4,
       "no_drop_bit": false
@@ -53237,8 +53214,7 @@
     "bedrock_identifier": "minecraft:skull",
     "block_hardness": 1.0,
     "can_break_with_hand": true,
-    "skull_rotation": 4.0,
-    "variation" : 5,
+    "variation": 5,
     "bedrock_states": {
       "facing_direction": 5,
       "no_drop_bit": false
@@ -64982,6 +64958,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -64991,6 +64968,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65000,6 +64978,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65009,6 +64988,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65018,6 +64998,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65027,6 +65008,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65036,6 +65018,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65045,6 +65028,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65054,6 +65038,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65063,6 +65048,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65072,6 +65058,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65081,6 +65068,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65090,6 +65078,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65099,6 +65088,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65108,6 +65098,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65117,6 +65108,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65126,6 +65118,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65135,6 +65128,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65144,6 +65138,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65153,6 +65148,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65162,6 +65158,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65171,6 +65168,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65180,6 +65178,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65189,6 +65188,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65198,6 +65198,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65207,6 +65208,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65216,6 +65218,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65225,6 +65228,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65234,6 +65238,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65243,6 +65248,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65252,6 +65258,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65261,6 +65268,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65270,6 +65278,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65279,6 +65288,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65288,6 +65298,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65297,6 +65308,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65306,6 +65318,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65315,6 +65328,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65324,6 +65338,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65333,6 +65348,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65342,6 +65358,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65351,6 +65368,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65360,6 +65378,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65369,6 +65388,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65378,6 +65398,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65387,6 +65408,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65396,6 +65418,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65405,6 +65428,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65414,6 +65438,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65423,6 +65448,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65432,6 +65458,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65441,6 +65468,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65450,6 +65478,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65459,6 +65488,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65468,6 +65498,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65477,6 +65508,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65486,6 +65518,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65495,6 +65528,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65504,6 +65538,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65513,6 +65548,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65522,6 +65558,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65531,6 +65568,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65540,6 +65578,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65549,6 +65588,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65558,6 +65598,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65567,6 +65608,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65576,6 +65618,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65585,6 +65628,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65594,6 +65638,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65603,6 +65648,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65612,6 +65658,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65621,6 +65668,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65630,6 +65678,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65639,6 +65688,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65648,6 +65698,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65657,6 +65708,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65666,6 +65718,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65675,6 +65728,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65684,6 +65738,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65693,6 +65748,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65702,6 +65758,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65711,6 +65768,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65720,6 +65778,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65729,6 +65788,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65738,6 +65798,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65747,6 +65808,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65756,6 +65818,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65765,6 +65828,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65774,6 +65838,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65783,6 +65848,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65792,6 +65858,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65801,6 +65868,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65810,6 +65878,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65819,6 +65888,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65828,6 +65898,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65837,6 +65908,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65846,6 +65918,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65855,6 +65928,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -65864,6 +65938,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -65873,6 +65948,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -65882,6 +65958,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -65891,6 +65968,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -65900,6 +65978,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -65909,6 +65988,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -65918,6 +65998,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -65927,6 +66008,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -65936,6 +66018,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -65945,6 +66028,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -65954,6 +66038,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -65963,6 +66048,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -65972,6 +66058,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -65981,6 +66068,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -65990,6 +66078,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -65999,6 +66088,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66008,6 +66098,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66017,6 +66108,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66026,6 +66118,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66035,6 +66128,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66044,6 +66138,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66053,6 +66148,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66062,6 +66158,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66071,6 +66168,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66080,6 +66178,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66089,6 +66188,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66098,6 +66198,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66107,6 +66208,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66116,6 +66218,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66125,6 +66228,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66134,6 +66238,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66143,6 +66248,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66152,6 +66258,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66161,6 +66268,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66170,6 +66278,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66179,6 +66288,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66188,6 +66298,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66197,6 +66308,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66206,6 +66318,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66215,6 +66328,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66224,6 +66338,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66233,6 +66348,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66242,6 +66358,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66251,6 +66368,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66260,6 +66378,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66269,6 +66388,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66278,6 +66398,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66287,6 +66408,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66296,6 +66418,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66305,6 +66428,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66314,6 +66438,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66323,6 +66448,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66332,6 +66458,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66341,6 +66468,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66350,6 +66478,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66359,6 +66488,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66368,6 +66498,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66377,6 +66508,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66386,6 +66518,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66395,6 +66528,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66404,6 +66538,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66413,6 +66548,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66422,6 +66558,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66431,6 +66568,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66440,6 +66578,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66449,6 +66588,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66458,6 +66598,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66467,6 +66608,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66476,6 +66618,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66485,6 +66628,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66494,6 +66638,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66503,6 +66648,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66512,6 +66658,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66521,6 +66668,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66530,6 +66678,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66539,6 +66688,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66548,6 +66698,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66557,6 +66708,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66566,6 +66718,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66575,6 +66728,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66584,6 +66738,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66593,6 +66748,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66602,6 +66758,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66611,6 +66768,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66620,6 +66778,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66629,6 +66788,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66638,6 +66798,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66647,6 +66808,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66656,6 +66818,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66665,6 +66828,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66674,6 +66838,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66683,6 +66848,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66692,6 +66858,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66701,6 +66868,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66710,6 +66878,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66719,6 +66888,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66728,6 +66898,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66737,6 +66908,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66746,6 +66918,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66755,6 +66928,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66764,6 +66938,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66773,6 +66948,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66782,6 +66958,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66791,6 +66968,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66800,6 +66978,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66809,6 +66988,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66818,6 +66998,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66827,6 +67008,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66836,6 +67018,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66845,6 +67028,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66854,6 +67038,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -66863,6 +67048,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -66872,6 +67058,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -66881,6 +67068,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -66890,6 +67078,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -66899,6 +67088,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -66908,6 +67098,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -66917,6 +67108,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -66926,6 +67118,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -66935,6 +67128,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -66944,6 +67138,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -66953,6 +67148,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -66962,6 +67158,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -66971,6 +67168,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -66980,6 +67178,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -66989,6 +67188,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -66998,6 +67198,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -67007,6 +67208,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -67016,6 +67218,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -67025,6 +67228,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -67034,6 +67238,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -67043,6 +67248,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -67052,6 +67258,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -67061,6 +67268,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -67070,6 +67278,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -67079,6 +67288,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -67088,6 +67298,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -67097,6 +67308,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -67106,6 +67318,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -67115,6 +67328,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -67124,6 +67338,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -67133,6 +67348,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -67142,6 +67358,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 0
     }
@@ -67151,6 +67368,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 1
     }
@@ -67160,6 +67378,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 2
     }
@@ -67169,6 +67388,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 3
     }
@@ -67178,6 +67398,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 4
     }
@@ -67187,6 +67408,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 5
     }
@@ -67196,6 +67418,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 6
     }
@@ -67205,6 +67428,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 7
     }
@@ -67214,6 +67438,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 8
     }
@@ -67223,6 +67448,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 9
     }
@@ -67232,6 +67458,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 10
     }
@@ -67241,6 +67468,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 11
     }
@@ -67250,6 +67478,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 12
     }
@@ -67259,6 +67488,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 13
     }
@@ -67268,6 +67498,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 14
     }
@@ -67277,6 +67508,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "ground_sign_direction": 15
     }
@@ -67286,6 +67518,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67295,6 +67528,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67304,6 +67538,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67313,6 +67548,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 0,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67322,6 +67558,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67331,6 +67568,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67340,6 +67578,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67349,6 +67588,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 1,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67358,6 +67598,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67367,6 +67608,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67376,6 +67618,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67385,6 +67628,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 2,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67394,6 +67638,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67403,6 +67648,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67412,6 +67658,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67421,6 +67668,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 3,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67430,6 +67678,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67439,6 +67688,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67448,6 +67698,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67457,6 +67708,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 4,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67466,6 +67718,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67475,6 +67728,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67484,6 +67738,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67493,6 +67748,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 5,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67502,6 +67758,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67511,6 +67768,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67520,6 +67778,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67529,6 +67788,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 6,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67538,6 +67798,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67547,6 +67808,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67556,6 +67818,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67565,6 +67828,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 7,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67574,6 +67838,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67583,6 +67848,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67592,6 +67858,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67601,6 +67868,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 8,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67610,6 +67878,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67619,6 +67888,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67628,6 +67898,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67637,6 +67908,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 9,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67646,6 +67918,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67655,6 +67928,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67664,6 +67938,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67673,6 +67948,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 10,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67682,6 +67958,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67691,6 +67968,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67700,6 +67978,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67709,6 +67988,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 11,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67718,6 +67998,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67727,6 +68008,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67736,6 +68018,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67745,6 +68028,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 12,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67754,6 +68038,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67763,6 +68048,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67772,6 +68058,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67781,6 +68068,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 13,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67790,6 +68078,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67799,6 +68088,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67808,6 +68098,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67817,6 +68108,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 14,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -67826,6 +68118,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -67835,6 +68128,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -67844,6 +68138,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -67853,6 +68148,7 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "banner_color": 15,
     "bedrock_states": {
       "facing_direction": 5
     }
