@@ -3782,7 +3782,7 @@
   },
   "minecraft:villager_spawn_egg": {
     "bedrock_id": 383,
-    "bedrock_data": 15,
+    "bedrock_data": 115,
     "is_block": false
   },
   "minecraft:vindicator_spawn_egg": {
@@ -3827,7 +3827,7 @@
   },
   "minecraft:zombie_villager_spawn_egg": {
     "bedrock_id": 383,
-    "bedrock_data": 44,
+    "bedrock_data": 116,
     "is_block": false
   },
   "minecraft:experience_bottle": {
