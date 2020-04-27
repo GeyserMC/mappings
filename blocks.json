@@ -79025,49 +79025,49 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north"
+    "shulker_direction": 2
   },
   "minecraft:shulker_box[facing=east]": {
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east"
+    "shulker_direction": 5
   },
   "minecraft:shulker_box[facing=south]": {
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south"
+    "shulker_direction": 3
   },
   "minecraft:shulker_box[facing=west]": {
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west"
+    "shulker_direction": 4
   },
   "minecraft:shulker_box[facing=up]": {
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up"
+    "shulker_direction": 1
   },
   "minecraft:shulker_box[facing=down]": {
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down"
+    "shulker_direction": 0
   },
   "minecraft:white_shulker_box[facing=north]": {
     "bedrock_identifier": "minecraft:shulker_box",
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "white"
     }
@@ -79077,7 +79077,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "white"
     }
@@ -79087,7 +79087,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "white"
     }
@@ -79097,7 +79097,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "white"
     }
@@ -79107,7 +79107,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "white"
     }
@@ -79117,7 +79117,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "white"
     }
@@ -79127,7 +79127,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79137,7 +79137,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79147,7 +79147,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79157,7 +79157,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79167,7 +79167,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79177,7 +79177,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "orange"
     }
@@ -79187,7 +79187,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79197,7 +79197,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79207,7 +79207,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79217,7 +79217,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79227,7 +79227,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79237,7 +79237,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "magenta"
     }
@@ -79247,7 +79247,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79257,7 +79257,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79267,7 +79267,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79277,7 +79277,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79287,7 +79287,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79297,7 +79297,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "light_blue"
     }
@@ -79307,7 +79307,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79317,7 +79317,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79327,7 +79327,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79337,7 +79337,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79347,7 +79347,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79357,7 +79357,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "yellow"
     }
@@ -79367,7 +79367,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79377,7 +79377,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79387,7 +79387,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79397,7 +79397,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79407,7 +79407,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79417,7 +79417,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "lime"
     }
@@ -79427,7 +79427,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79437,7 +79437,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79447,7 +79447,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79457,7 +79457,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79467,7 +79467,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79477,7 +79477,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "pink"
     }
@@ -79487,7 +79487,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79497,7 +79497,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79507,7 +79507,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79517,7 +79517,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79527,7 +79527,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79537,7 +79537,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "gray"
     }
@@ -79547,7 +79547,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79557,7 +79557,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79567,7 +79567,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79577,7 +79577,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79587,7 +79587,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79597,7 +79597,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "silver"
     }
@@ -79607,7 +79607,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79617,7 +79617,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79627,7 +79627,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79637,7 +79637,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79647,7 +79647,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79657,7 +79657,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "cyan"
     }
@@ -79667,7 +79667,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79677,7 +79677,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79687,7 +79687,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79697,7 +79697,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79707,7 +79707,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79717,7 +79717,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "purple"
     }
@@ -79727,7 +79727,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79737,7 +79737,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79747,7 +79747,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79757,7 +79757,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79767,7 +79767,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79777,7 +79777,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "blue"
     }
@@ -79787,7 +79787,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79797,7 +79797,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79807,7 +79807,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79817,7 +79817,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79827,7 +79827,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79837,7 +79837,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "brown"
     }
@@ -79847,7 +79847,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "green"
     }
@@ -79857,7 +79857,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "green"
     }
@@ -79867,7 +79867,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "green"
     }
@@ -79877,7 +79877,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "green"
     }
@@ -79887,7 +79887,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "green"
     }
@@ -79897,7 +79897,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "green"
     }
@@ -79907,7 +79907,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "red"
     }
@@ -79917,7 +79917,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "red"
     }
@@ -79927,7 +79927,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "red"
     }
@@ -79937,7 +79937,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "red"
     }
@@ -79947,7 +79947,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "red"
     }
@@ -79957,7 +79957,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "red"
     }
@@ -79967,7 +79967,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "north",
+    "shulker_direction": 2,
     "bedrock_states": {
       "color": "black"
     }
@@ -79977,7 +79977,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "east",
+    "shulker_direction": 5,
     "bedrock_states": {
       "color": "black"
     }
@@ -79987,7 +79987,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "south",
+    "shulker_direction": 3,
     "bedrock_states": {
       "color": "black"
     }
@@ -79997,7 +79997,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "west",
+    "shulker_direction": 4,
     "bedrock_states": {
       "color": "black"
     }
@@ -80007,7 +80007,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "up",
+    "shulker_direction": 1,
     "bedrock_states": {
       "color": "black"
     }
@@ -80017,7 +80017,7 @@
     "block_hardness": 2.0,
     "can_break_with_hand": true,
     "tool_type": "pickaxe",
-    "shulker_direction": "down",
+    "shulker_direction": 0,
     "bedrock_states": {
       "color": "black"
     }
