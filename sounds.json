@@ -510,11 +510,11 @@
   },
   "block.metal_pressure_plate.click_off": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_OFF"
   },
   "block.metal_pressure_plate.click_on": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_ON"
   },
   "block.nether_wart.break": {
     "playsound_mapping": "",
@@ -747,19 +747,19 @@
   },
   "block.stone_button.click_off": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_OFF"
   },
   "block.stone_button.click_on": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_ON"
   },
   "block.stone_pressure_plate.click_off": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_OFF"
   },
   "block.stone_pressure_plate.click_on": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_ON"
   },
   "block.sweet_berry_bush.break": {
     "playsound_mapping": "block.sweet_berry_bush.break",
@@ -834,11 +834,11 @@
   },
   "block.wooden_button.click_off": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_OFF"
   },
   "block.wooden_button.click_on": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_ON"
   },
   "block.wooden_door.close": {
     "playsound_mapping": "random.door_close",
@@ -850,11 +850,11 @@
   },
   "block.wooden_pressure_plate.click_off": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_OFF"
   },
   "block.wooden_pressure_plate.click_on": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "POWER_ON"
   },
   "block.wooden_trapdoor.close": {
     "playsound_mapping": "random.door_close",
@@ -3107,7 +3107,7 @@
   },
   "item.shovel.flatten": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "ITEM_USE_ON"
   },
   "item.sweet_berries.pick_from_bush": {
     "playsound_mapping": "",
