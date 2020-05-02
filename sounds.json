@@ -907,15 +907,15 @@
   },
   "entity.arrow.hit": {
     "playsound_mapping": "",
-    "bedrock_mapping": "HIT"
+    "bedrock_mapping": "BOW_HIT"
   },
   "entity.arrow.hit_player": {
     "playsound_mapping": "random.bowhit",
-    "bedrock_mapping": "HIT"
+    "bedrock_mapping": "BOW_HIT"
   },
   "entity.arrow.shoot": {
     "playsound_mapping": "crossbow.shoot",
-    "bedrock_mapping": "SHOOT"
+    "bedrock_mapping": "BOW"
   },
   "entity.bat.ambient": {
     "playsound_mapping": "mob.bat.idle",
