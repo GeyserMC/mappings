@@ -1443,7 +1443,7 @@
   },
   "entity.generic.burn": {
     "playsound_mapping": "game.player.hurt",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "HURT"
   },
   "entity.generic.death": {
     "playsound_mapping": "game.player.die",
