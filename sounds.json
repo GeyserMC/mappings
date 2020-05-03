@@ -1697,23 +1697,28 @@
   },
   "entity.item_frame.add_item": {
     "playsound_mapping": "random.itemframe.add_item",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SOUND_ITEMFRAME_ADD_ITEM",
+    "level_event": true
   },
   "entity.item_frame.break": {
     "playsound_mapping": "random.itemframe.break",
-    "bedrock_mapping": "BREAK"
+    "bedrock_mapping": "SOUND_ITEMFRAME_REMOVE",
+    "level_event": true
   },
   "entity.item_frame.place": {
     "playsound_mapping": "random.itemframe.place",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "SOUND_ITEMFRAME_PLACE",
+    "level_event": true
   },
   "entity.item_frame.remove_item": {
     "playsound_mapping": "random.itemframe.remove_item",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SOUND_ITEMFRAME_REMOVE_ITEM",
+    "level_event": true
   },
   "entity.item_frame.rotate_item": {
     "playsound_mapping": "random.itemframe.rotate_item",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SOUND_ITEMFRAME_ROTATE_ITEM",
+    "level_event": true
   },
   "entity.leash_knot.break": {
     "playsound_mapping": "leashknot.break",
@@ -1857,11 +1862,13 @@
   },
   "entity.painting.break": {
     "playsound_mapping": "",
-    "bedrock_mapping": "BREAK"
+    "bedrock_mapping": "SOUND_ITEMFRAME_REMOVE",
+    "level_event": true
   },
   "entity.painting.place": {
     "playsound_mapping": "",
-    "bedrock_mapping": "SOUND_ITEMFRAME_ADD_ITEM"
+    "bedrock_mapping": "SOUND_ITEMFRAME_ADD_ITEM",
+    "level_event": true
   },
   "entity.panda.aggressive_ambient": {
     "playsound_mapping": "mob.panda.idle.aggressive",
@@ -2541,7 +2548,8 @@
   },
   "entity.tnt.primed": {
     "playsound_mapping": "random.fuse",
-    "bedrock_mapping": "FUSE"
+    "bedrock_mapping": "SOUND_IGNITE",
+    "level_event": true
   },
   "entity.tropical_fish.ambient": {
     "playsound_mapping": "",
