@@ -31,6 +31,14 @@
     "name": "SHOOT",
     "type": "soundLevel"
   },
+  "BLOCK_FENCE_GATE_OPEN": {
+    "name": "SOUND_DOOR",
+    "type": "soundLevel"
+  },
+  "BLOCK_FENCE_GATE_CLOSE": {
+    "name": "SOUND_DOOR",
+    "type": "soundLevel"
+  },
   "BLOCK_IRON_DOOR_OPEN": {
     "name": "SOUND_DOOR",
     "type": "soundLevel"
