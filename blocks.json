@@ -174,7 +174,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "oak"
@@ -185,7 +184,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "oak"
@@ -196,7 +194,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "spruce"
@@ -207,7 +204,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "spruce"
@@ -218,7 +214,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "birch"
@@ -229,7 +224,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "birch"
@@ -240,7 +234,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "jungle"
@@ -251,7 +244,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "jungle"
@@ -262,7 +254,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "acacia"
@@ -273,7 +264,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "acacia"
@@ -284,7 +274,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": false,
       "sapling_type": "dark_oak"
@@ -295,7 +284,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "age_bit": true,
       "sapling_type": "dark_oak"
@@ -11222,7 +11210,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "tall_grass_type": "fern"
     }
@@ -11753,15 +11740,13 @@
     "bedrock_identifier": "minecraft:yellow_flower",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "tool_type": "axe",
-    "pottable": true
+    "tool_type": "axe"
   },
   "minecraft:poppy": {
     "bedrock_identifier": "minecraft:red_flower",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "poppy"
     }
@@ -11771,7 +11756,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "orchid"
     }
@@ -11781,7 +11765,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "allium"
     }
@@ -11791,7 +11774,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "houstonia"
     }
@@ -11801,7 +11783,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "tulip_red"
     }
@@ -11811,7 +11792,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "tulip_orange"
     }
@@ -11830,7 +11810,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "tulip_pink"
     }
@@ -11840,7 +11819,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "oxeye"
     }
@@ -11850,7 +11828,6 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "cornflower"
     }
@@ -11859,15 +11836,13 @@
     "bedrock_identifier": "minecraft:wither_rose",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "tool_type": "axe",
-    "pottable": true
+    "tool_type": "axe"
   },
   "minecraft:lily_of_the_valley": {
     "bedrock_identifier": "minecraft:red_flower",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "flower_type": "lily_of_the_valley"
     }
@@ -11876,15 +11851,13 @@
     "bedrock_identifier": "minecraft:brown_mushroom",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "tool_type": "axe",
-    "pottable": true
+    "tool_type": "axe"
   },
   "minecraft:red_mushroom": {
     "bedrock_identifier": "minecraft:red_mushroom",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "tool_type": "axe",
-    "pottable": true
+    "tool_type": "axe"
   },
   "minecraft:gold_block": {
     "bedrock_identifier": "minecraft:gold_block",
@@ -16887,6 +16860,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16896,6 +16870,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16905,6 +16880,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16914,6 +16891,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16923,6 +16902,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16932,6 +16913,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16941,6 +16924,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16950,6 +16934,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16959,6 +16944,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16968,6 +16955,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16977,6 +16966,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16986,6 +16977,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16995,6 +16988,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17004,6 +16998,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17013,6 +17008,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17022,6 +17019,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17031,6 +17030,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17040,6 +17041,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17049,6 +17052,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17058,6 +17062,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17067,6 +17072,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17076,6 +17083,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17085,6 +17094,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17094,6 +17105,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -51155,7 +51168,6 @@
     "bedrock_identifier": "minecraft:flower_pot",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "pottable": true,
     "bedrock_states": {
       "update_bit": false
     }
@@ -54173,6 +54185,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54182,6 +54195,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54191,6 +54205,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54200,6 +54216,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54209,6 +54227,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54218,6 +54238,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54227,6 +54249,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54236,6 +54259,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54245,6 +54269,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54254,6 +54280,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54263,6 +54291,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54272,6 +54302,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54281,6 +54313,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54290,6 +54323,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54299,6 +54333,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54308,6 +54344,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54317,6 +54355,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54326,6 +54366,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54335,6 +54377,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54344,6 +54387,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54353,6 +54397,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54362,6 +54408,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54371,6 +54419,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54380,6 +54430,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -83465,7 +83517,6 @@
     "block_hardness": 1.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
-    "pottable": true,
     "bedrock_states": {
       "bamboo_stalk_thickness": "thin",
       "bamboo_leaf_size": "no_leaves",
