@@ -16887,6 +16887,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16896,6 +16897,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16905,6 +16907,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16914,6 +16918,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16923,6 +16929,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16932,6 +16940,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -16941,6 +16951,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16950,6 +16961,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16959,6 +16971,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16968,6 +16982,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16977,6 +16993,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16986,6 +17004,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -16995,6 +17015,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17004,6 +17025,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17013,6 +17035,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17022,6 +17046,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17031,6 +17057,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17040,6 +17068,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -17049,6 +17079,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17058,6 +17089,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17067,6 +17099,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17076,6 +17110,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17085,6 +17121,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -17094,6 +17132,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54173,6 +54213,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54182,6 +54223,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54191,6 +54233,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54200,6 +54244,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54209,6 +54255,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54218,6 +54266,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": false,
     "bedrock_states": {
       "facing_direction": 2
     }
@@ -54227,6 +54277,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54236,6 +54287,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54245,6 +54297,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54254,6 +54308,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54263,6 +54319,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54272,6 +54330,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "z": true,
     "bedrock_states": {
       "facing_direction": 3
     }
@@ -54281,6 +54341,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54290,6 +54351,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54299,6 +54361,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54308,6 +54372,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54317,6 +54383,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54326,6 +54394,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": false,
     "bedrock_states": {
       "facing_direction": 4
     }
@@ -54335,6 +54405,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54344,6 +54415,7 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54353,6 +54425,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54362,6 +54436,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "left",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54371,6 +54447,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
@@ -54380,6 +54458,8 @@
     "block_hardness": 2.5,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "double_chest_position": "right",
+    "x": true,
     "bedrock_states": {
       "facing_direction": 5
     }
