@@ -71,6 +71,10 @@
     "name": "SOUND_DOOR",
     "type": "soundLevel"
   },
+  "BONEMEAL_GROW": {
+    "name": "BONEMEAL",
+    "type": "particle"
+  },
   "ENTITY_BLAZE_SHOOT": {
     "name": "SOUND_BLAZE_SHOOT",
     "type": "soundLevel"
