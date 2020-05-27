@@ -31672,7 +31672,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": true,
-      "lever_direction": "up_north_south"
+      "lever_direction": "up_east_west"
     }
   },
   "minecraft:lever[face=floor,facing=west,powered=false]": {
@@ -31681,7 +31681,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": false,
-      "lever_direction": "up_north_south"
+      "lever_direction": "up_east_west"
     }
   },
   "minecraft:lever[face=floor,facing=east,powered=true]": {
@@ -31690,7 +31690,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": true,
-      "lever_direction": "up_north_south"
+      "lever_direction": "up_east_west"
     }
   },
   "minecraft:lever[face=floor,facing=east,powered=false]": {
@@ -31699,7 +31699,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": false,
-      "lever_direction": "up_north_south"
+      "lever_direction": "up_east_west"
     }
   },
   "minecraft:lever[face=wall,facing=north,powered=true]": {
@@ -31780,7 +31780,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": true,
-      "lever_direction": "down_east_west"
+      "lever_direction": "down_north_south"
     }
   },
   "minecraft:lever[face=ceiling,facing=north,powered=false]": {
@@ -31789,7 +31789,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": false,
-      "lever_direction": "down_east_west"
+      "lever_direction": "down_north_south"
     }
   },
   "minecraft:lever[face=ceiling,facing=south,powered=true]": {
@@ -31798,7 +31798,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": true,
-      "lever_direction": "down_east_west"
+      "lever_direction": "down_north_south"
     }
   },
   "minecraft:lever[face=ceiling,facing=south,powered=false]": {
@@ -31807,7 +31807,7 @@
     "can_break_with_hand": true,
     "bedrock_states": {
       "open_bit": false,
-      "lever_direction": "down_east_west"
+      "lever_direction": "down_north_south"
     }
   },
   "minecraft:lever[face=ceiling,facing=west,powered=true]": {
@@ -31852,7 +31852,7 @@
     "can_break_with_hand": false,
     "tool_type": "pickaxe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:stone_pressure_plate[powered=false]": {
@@ -32638,7 +32638,7 @@
     "can_break_with_hand": true,
     "tool_type": "axe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:oak_pressure_plate[powered=false]": {
@@ -32665,7 +32665,7 @@
     "can_break_with_hand": true,
     "tool_type": "axe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:birch_pressure_plate[powered=true]": {
@@ -32692,7 +32692,7 @@
     "can_break_with_hand": true,
     "tool_type": "axe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:jungle_pressure_plate[powered=false]": {
@@ -32710,7 +32710,7 @@
     "can_break_with_hand": true,
     "tool_type": "axe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:acacia_pressure_plate[powered=false]": {
@@ -32728,7 +32728,7 @@
     "can_break_with_hand": true,
     "tool_type": "axe",
     "bedrock_states": {
-      "redstone_signal": 0
+      "redstone_signal": 15
     }
   },
   "minecraft:dark_oak_pressure_plate[powered=false]": {
