@@ -1,51 +1,219 @@
 {
-  "AMBIENT_ENTITY_EFFECT": "PARTICLE_MOB_SPELL_AMBIENT",
-  "ANGRY_VILLAGER": "PARTICLE_VILLAGER_ANGRY",
-  "BUBBLE": "PARTICLE_BUBBLE",
-  "BUBBLE_COLUMN_UP": "PARTICLE_BUBBLE_COLUMN_UP",
-  "BUBBLE_POP": "PARTICLE_BUBBLE",
-  "CAMPFIRE_COSY_SMOKE": "PARTICLE_CAMPFIRE_SMOKE",
-  "CAMPFIRE_SIGNAL_SMOKE": "minecraft:campfire_tall_smoke_particle",
-  "CLOUD": "PARTICLE_EVAPORATION",
-  "COMPOSTER": "PARTICLE_CROP_GROWTH",
-  "HAPPY_VILLAGER": "PARTICLE_VILLAGER_HAPPY",
-  "CRIT": "PARTICLE_CRITICAL",
-  "CURRENT_DOWN": "PARTICLE_BUBBLE_COLUMN_DOWN",
-  "DOLPHIN": "minecraft:dolphin_move_particle",
-  "DRAGON_BREATH": "PARTICLE_DRAGONS_BREATH",
-  "DRIPPING_HONEY": "PARTICLE_DRIP_HONEY",
-  "DRIPPING_LAVA": "PARTICLE_DRIP_LAVA",
-  "DRIPPING_WATER": "PARTICLE_DRIP_WATER",
-  "EFFECT": "minecraft:splash_spell_emitter",
-  "ELDER_GUARDIAN": "PARTICLE_SOUND_GUARDIAN_GHOST",
-  "ENCHANT": "PARTICLE_ENCHANTMENT_TABLE",
-  "END_ROD": "PARTICLE_END_ROD",
-  "ENTITY_EFFECT": "PARTICLE_MOB_SPELL",
-  "EXPLOSION": "PARTICLE_LARGE_EXPLOSION",
-  "EXPLOSION_EMITTER": "minecraft:huge_explosion_emitter",
-  "FALLING_LAVA": "PARTICLE_DRIP_LAVA",
-  "FALLING_WATER": "PARTICLE_DRIP_WATER",
-  "FIREWORK": "PARTICLE_FIREWORKS_SPARK",
-  "FISHING": "PARTICLE_WATER_WAKE",
-  "FLAME": "PARTICLE_FLAME",
-  "HEART": "PARTICLE_HEART",
-  "INSTANT_EFFECT": "PARTICLE_MOB_SPELL_INSTANTANEOUS",
-  "ITEM": "PARTICLE_ITEM_BREAK",
-  "ITEM_SLIME": "PARTICLE_SLIME",
-  "ITEM_SNOWBALL": "PARTICLE_SNOWBALL_POOF",
-  "LARGE_SMOKE": "PARTICLE_LARGE_SMOKE",
-  "LAVA": "PARTICLE_LAVA",
-  "MYCELIUM": "minecraft:mycelium_dust_particle",
-  "NAUTILUS": "minecraft:nautilus",
-  "NOTE": "PARTICLE_NOTE",
-  "POOF": "PARTICLE_EXPLODE",
-  "PORTAL": "PARTICLE_PORTAL",
-  "RAIN": "PARTICLE_RAIN_SPLASH",
-  "SMOKE": "PARTICLE_SMOKE",
-  "SQUID_INK": "PARTICLE_INK",
-  "SNEEZE": "PARTICLE_SNEEZE",
-  "SPLASH": "PARTICLE_SPLASH",
-  "SPIT": "PARTICLE_SPIT",
-  "TOTEM_OF_UNDYING": "PARTICLE_TOTEM",
-  "WITCH": "PARTICLE_WITCH_SPELL"
+	"AMBIENT_ENTITY_EFFECT": {
+		"eventType": "PARTICLE_MOB_SPELL_AMBIENT",
+		"bedrockId": "minecraft:mobspell_emitter",
+		"bedrockNumericId": 31
+	},
+	"ANGRY_VILLAGER": {
+		"eventType": "PARTICLE_VILLAGER_ANGRY",
+		"bedrockId": "minecraft:villager_angry",
+		"bedrockNumericId": 36
+	},
+	"BUBBLE": {
+		"eventType": "PARTICLE_BUBBLE",
+		"bedrockId": "basic_bubble_particle_manual",
+		"bedrockNumericId": 1
+	},
+	"BUBBLE_COLUMN_UP": {
+		"eventType": "PARTICLE_BUBBLE_COLUMN_UP",
+		"bedrockId": "minecraft:bubble_column_up_particle",
+		"bedrockNumericId": 56
+	},
+	"BUBBLE_POP": {
+		"eventType": "PARTICLE_BUBBLE",
+		"bedrockId": "minecraft:bubble_column_particle",
+		"bedrockNumericId": 1
+	},
+	"CAMPFIRE_COSY_SMOKE": {
+		"eventType": "PARTICLE_CAMPFIRE_SMOKE",
+		"bedrockId": "minecraft:campfire_smoke_particle",
+		"bedrockNumericId": 64
+	},
+	"CAMPFIRE_SIGNAL_SMOKE": {
+		"bedrockId": "minecraft:campfire_tall_smoke_particle",
+		"bedrockNumericId": 64
+	},
+	"CLOUD": {
+		"eventType": "PARTICLE_EVAPORATION",
+		"bedrockId": "minecraft:water_evaporation_bucket_emitter",
+		"bedrockNumericId": 7
+	},
+	"COMPOSTER": {
+		"eventType": "BONEMEAL",
+		"bedrockId": "minecraft:villager_happy",
+		"bedrockNumericId": 37
+	},
+	"HAPPY_VILLAGER": {
+		"eventType": "PARTICLE_VILLAGER_HAPPY",
+		"bedrockId": "minecraft:villager_happy",
+		"bedrockNumericId": 37
+	},
+	"CRIT": {
+		"eventType": "PARTICLE_CRITICAL",
+		"bedrockId": "minecraft:critical_hit_emitter",
+		"bedrockNumericId": 3
+	},
+	"CURRENT_DOWN": {
+		"eventType": "PARTICLE_BUBBLE_COLUMN_DOWN",
+		"bedrockId": "minecraft:bubble_column_down_particle",
+		"bedrockNumericId": 57
+	},
+	"DOLPHIN": {
+		"bedrockId": "minecraft:dolphin_move_particle"
+	},
+	"DRAGON_BREATH": {
+		"eventType": "PARTICLE_DRAGONS_BREATH",
+		"bedrockId": "minecraft:dragon_breath_lingering",
+		"bedrockNumericId": 67
+	},
+	"DRIPPING_LAVA": {
+		"eventType": "PARTICLE_DRIP_LAVA",
+		"bedrockId": "minecraft:lava_drip_particle",
+		"bedrockNumericId": 27
+	},
+	"DRIPPING_WATER": {
+		"eventType": "PARTICLE_DRIP_WATER",
+		"bedrockId": "minecraft:water_drip_particle",
+		"bedrockNumericId": 26
+	},
+	"EFFECT": {
+		"bedrockId": "minecraft:splash_spell_emitter"
+	},
+	"ENCHANT": {
+		"eventType": "PARTICLE_ENCHANTMENT_TABLE",
+		"bedrockId": "minecraft:enchanting_table_particle",
+		"bedrockNumericId": 38
+	},
+	"END_ROD": {
+		"eventType": "PARTICLE_END_ROD",
+		"bedrockId": "minecraft:endrod",
+		"bedrockNumericId": 44
+	},
+	"ENTITY_EFFECT": {
+		"eventType": "PARTICLE_MOB_SPELL",
+		"bedrockId": "minecraft:evoker_spell",
+		"bedrockNumericId": 30
+	},
+	"EXPLOSION": {
+		"eventType": "PARTICLE_LARGE_EXPLOSION",
+		"bedrockId": "minecraft:large_explosion",
+		"bedrockNumericId": 61
+	},
+	"EXPLOSION_EMITTER": {
+		"bedrockId": "minecraft:huge_explosion_emitter"
+	},
+	"FALLING_LAVA": {
+		"eventType": "PARTICLE_DRIP_LAVA",
+		"bedrockId": "minecraft:lava_drip_particle",
+		"bedrockNumericId": 27
+	},
+	"FALLING_WATER": {
+		"eventType": "PARTICLE_DRIP_WATER",
+		"bedrockId": "water_splash_particle",
+		"bedrockNumericId": 26
+	},
+	"FIREWORK": {
+		"eventType": "PARTICLE_FIREWORKS_SPARK",
+		"bedrockId": "minecraft:sparkler_emitter",
+		"bedrockNumericId": 50
+	},
+	"FISHING": {
+		"eventType": "PARTICLE_WATER_WAKE",
+		"bedrockId": "minecraft:water_wake_particle",
+		"bedrockNumericId": 25
+	},
+	"FLAME": {
+		"eventType": "PARTICLE_FLAME",
+		"bedrockId": "minecraft:basic_flame_particle",
+		"bedrockNumericId": 8
+	},
+	"HEART": {
+		"eventType": "PARTICLE_HEART",
+		"bedrockId": "minecraft:heart_particle",
+		"bedrockNumericId": 18
+	},
+	"INSTANT_EFFECT": {
+		"eventType": "PARTICLE_MOB_SPELL_INSTANTANEOUS",
+		"bedrockId": "minecraft:mobspell_emitter",
+		"bedrockNumericId": 32
+	},
+	"ITEM": {
+		"eventType": "PARTICLE_ITEM_BREAK",
+		"bedrockId": "minecraft:breaking_item_icon",
+		"bedrockNumericId": 13
+	},
+	"ITEM_SLIME": {
+		"eventType": "PARTICLE_SLIME",
+		"bedrockNumericId": 34
+	},
+	"ITEM_SNOWBALL": {
+		"eventType": "PARTICLE_SNOWBALL_POOF",
+		"bedrockNumericId": 14
+	},
+	"LARGE_SMOKE": {
+		"eventType": "PARTICLE_LARGE_SMOKE",
+		"bedrockId": "minecraft:water_evaporation_actor_emitter",
+		"bedrockNumericId": 10
+	},
+	"LAVA": {
+		"eventType": "PARTICLE_LAVA",
+		"bedrockId": "minecraft:lava_particle",
+		"bedrockNumericId": 9
+	},
+	"MYCELIUM": {
+		"bedrockId": "minecraft:mycelium_dust_particle"
+	},
+	"NAUTILUS": {
+		"bedrockId": "minecraft:nautilus"
+	},
+	"NOTE": {
+		"eventType": "PARTICLE_NOTE",
+		"bedrockId": "minecraft:note_particle",
+		"bedrockNumericId": 40
+	},
+	"POOF": {
+		"eventType": "PARTICLE_EXPLODE",
+		"bedrockId": "explode",
+		"bedrockNumericId": 6
+	},
+	"PORTAL": {
+		"eventType": "PARTICLE_PORTAL",
+		"bedrockId": "minecraft:mob_portal",
+		"bedrockNumericId": 21
+	},
+	"RAIN": {
+		"eventType": "PARTICLE_RAIN_SPLASH",
+		"bedrockNumericId": 35
+	},
+	"SMOKE": {
+		"eventType": "PARTICLE_SMOKE",
+		"bedrockNumericId": 5
+	},
+	"SQUID_INK": {
+		"bedrockId": "minecraft:ink",
+		"bedrockNumericId": 62
+	},
+	"SNEEZE": {
+		"eventType": "PARTICLE_SNEEZE",
+		"bedrockNumericId": 58
+	},
+	"SPLASH": {
+		"eventType": "SPLASH",
+		"bedrockId": "minecraft:water_splash_particle_manual",
+		"bedrockNumericId": 23
+	},
+	"SPIT": {
+		"eventType": "PARTICLE_SPIT",
+		"bedrockId": "minecraft:llama_spit_smoke",
+		"bedrockNumericId": 46
+	},
+	"TOTEM_OF_UNDYING": {
+		"eventType": "PARTICLE_TOTEM",
+		"bedrockId": "minecraft:totem_particle",
+		"bedrockNumericId": 47
+	},
+	"WITCH": {
+		"eventType": "PARTICLE_WITCH_SPELL",
+		"bedrockNumericId": 41
+	}
 }
