@@ -11231,7 +11231,8 @@
     "bedrock_identifier": "minecraft:deadbush",
     "block_hardness": 0.0,
     "can_break_with_hand": true,
-    "tool_type": "axe"
+    "tool_type": "axe",
+    "pottable": true
   },
   "minecraft:seagrass": {
     "bedrock_identifier": "minecraft:seagrass",
@@ -11821,6 +11822,7 @@
     "block_hardness": 0.0,
     "can_break_with_hand": true,
     "tool_type": "axe",
+    "pottable": true,
     "bedrock_states": {
       "flower_type": "tulip_white"
     }
@@ -33168,6 +33170,7 @@
     "bedrock_identifier": "minecraft:cactus",
     "block_hardness": 0.4,
     "can_break_with_hand": true,
+    "pottable": true,
     "bedrock_states": {
       "age": 0
     }
