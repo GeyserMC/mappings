@@ -59,6 +59,14 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_nylium": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_nylium": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:cobblestone": {
     "bedrock_id": 4,
     "bedrock_data": 0,
@@ -93,6 +101,14 @@
     "bedrock_id": 5,
     "bedrock_data": 5,
     "is_block": true
+  },
+  "minecraft:crimson_planks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_planks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:oak_sapling": {
     "bedrock_id": 6,
@@ -159,6 +175,10 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:nether_gold_ore": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:oak_log": {
     "bedrock_id": 17,
     "bedrock_data": 0,
@@ -188,6 +208,14 @@
     "bedrock_id": 162,
     "bedrock_data": 1,
     "is_block": true
+  },
+  "minecraft:crimson_stem": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_stem": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:stripped_oak_log": {
     "bedrock_id": -10,
@@ -219,6 +247,14 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:stripped_crimson_stem": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:stripped_warped_stem": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:stripped_oak_wood": {
     "bedrock_id": -212,
     "bedrock_data": 8,
@@ -249,6 +285,14 @@
     "bedrock_data": 13,
     "is_block": true
   },
+  "minecraft:stripped_crimson_hyphae": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:stripped_warped_hyphae": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:oak_wood": {
     "bedrock_id": -212,
     "bedrock_data": 0,
@@ -278,6 +322,14 @@
     "bedrock_id": -212,
     "bedrock_data": 5,
     "is_block": true
+  },
+  "minecraft:crimson_hyphae": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_hyphae": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:oak_leaves": {
     "bedrock_id": 18,
@@ -564,6 +616,49 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_fungus": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_fungus": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:crimson_roots": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_roots": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:nether_sprouts": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:weeping_vines": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:twisting_vines": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:sugar_cane": {
+    "bedrock_id": 338,
+    "bedrock_data": 0,
+    "is_block": true
+  },
+  "minecraft:kelp": {
+    "bedrock_id": 335,
+    "bedrock_data": 0,
+    "is_block": true
+  },
+  "minecraft:bamboo": {
+    "bedrock_id": -163,
+    "bedrock_data": 0,
+    "is_block": true
+  },
   "minecraft:gold_block": {
     "bedrock_id": 41,
     "bedrock_data": 0,
@@ -603,6 +698,14 @@
     "bedrock_id": 158,
     "bedrock_data": 5,
     "is_block": true
+  },
+  "minecraft:crimson_slab": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_slab": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:stone_slab": {
     "bedrock_id": -166,
@@ -859,6 +962,18 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_pressure_plate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_pressure_plate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_pressure_plate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:redstone_ore": {
     "bedrock_id": 73,
     "bedrock_data": 0,
@@ -866,11 +981,6 @@
   },
   "minecraft:redstone_torch": {
     "bedrock_id": 76,
-    "bedrock_data": 0,
-    "is_block": true
-  },
-  "minecraft:stone_button": {
-    "bedrock_id": 77,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -934,6 +1044,14 @@
     "bedrock_data": 5,
     "is_block": true
   },
+  "minecraft:crimson_fence": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_fence": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:pumpkin": {
     "bedrock_id": 86,
     "bedrock_data": 0,
@@ -953,6 +1071,22 @@
     "bedrock_id": 88,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:soul_soil": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:basalt": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_basalt": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:soul_torch": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:glowstone": {
     "bedrock_id": 89,
@@ -993,6 +1127,14 @@
     "bedrock_id": -147,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:crimson_trapdoor": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_trapdoor": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:infested_stone": {
     "bedrock_id": 97,
@@ -1064,6 +1206,10 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:chain": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:glass_pane": {
     "bedrock_id": 102,
     "bedrock_data": 0,
@@ -1109,6 +1255,14 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_fence_gate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_fence_gate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:brick_stairs": {
     "bedrock_id": 108,
     "bedrock_data": 0,
@@ -1133,6 +1287,14 @@
     "bedrock_id": 112,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:cracked_nether_bricks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:chiseled_nether_bricks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:nether_brick_fence": {
     "bedrock_id": 113,
@@ -1214,6 +1376,14 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_stairs": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_stairs": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:command_block": {
     "bedrock_id": 137,
     "bedrock_data": 0,
@@ -1294,6 +1464,23 @@
     "bedrock_data": 3,
     "is_block": true
   },
+  "minecraft:blackstone_wall": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_wall": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_brick_wall": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:stone_button": {
+    "bedrock_id": 77,
+    "bedrock_data": 0,
+    "is_block": true
+  },
   "minecraft:oak_button": {
     "bedrock_id": 143,
     "bedrock_data": 0,
@@ -1323,6 +1510,18 @@
     "bedrock_id": -142,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:crimson_button": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_button": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_button": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:anvil": {
     "bedrock_id": 145,
@@ -1383,6 +1582,10 @@
     "bedrock_id": 155,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:quartz_bricks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:quartz_pillar": {
     "bedrock_id": 155,
@@ -1878,6 +2081,10 @@
     "bedrock_id": 214,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:warped_wart_block": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:red_nether_bricks": {
     "bedrock_id": 215,
@@ -2564,6 +2771,14 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:crimson_door": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_door": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:repeater": {
     "bedrock_id": 356,
     "bedrock_data": 0,
@@ -2581,11 +2796,6 @@
   },
   "minecraft:jigsaw": {
     "bedrock_id": -211,
-    "bedrock_data": 0,
-    "is_block": true
-  },
-  "minecraft:composter": {
-    "bedrock_id": -213,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -2664,6 +2874,14 @@
     "bedrock_id": 266,
     "bedrock_data": 0,
     "is_block": false
+  },
+  "minecraft:netherite_ingot": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:netherite_scrap": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:iron_sword": {
     "bedrock_id": 267,
@@ -2799,6 +3017,30 @@
     "tool_type": "axe",
     "tool_tier": "golden"
   },
+  "minecraft:netherite_sword": {
+    "bedrock_id": 248,
+    "bedrock_data": 0,
+    "tool_type": "sword",
+    "tool_tier": "netherite"
+  },
+  "minecraft:netherite_shovel": {
+    "bedrock_id": 248,
+    "bedrock_data": 0,
+    "tool_type": "shovel",
+    "tool_tier": "netherite"
+  },
+  "minecraft:netherite_pickaxe": {
+    "bedrock_id": 248,
+    "bedrock_data": 0,
+    "tool_type": "pickaxe",
+    "tool_tier": "netherite"
+  },
+  "minecraft:netherite_axe": {
+    "bedrock_id": 248,
+    "bedrock_data": 0,
+    "tool_type": "axe",
+    "tool_tier": "netherite"
+  },
   "minecraft:string": {
     "bedrock_id": 287,
     "bedrock_data": 0,
@@ -2848,6 +3090,12 @@
     "is_block": false,
     "tool_type": "hoe",
     "tool_tier": "golden"
+  },
+  "minecraft:netherite_hoe": {
+    "bedrock_id": 248,
+    "bedrock_data": 0,
+    "tool_type": "hoe",
+    "tool_tier": "netherite"
   },
   "minecraft:wheat_seeds": {
     "bedrock_id": 295,
@@ -2964,6 +3212,22 @@
     "bedrock_data": 0,
     "is_block": false
   },
+  "minecraft:netherite_helmet": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:netherite_chestplate": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:netherite_leggings": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:netherite_boots": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:flint": {
     "bedrock_id": 318,
     "bedrock_data": 0,
@@ -3023,6 +3287,14 @@
     "bedrock_id": 476,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:crimson_sign": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:warped_sign": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:bucket": {
     "bedrock_id": 325,
@@ -3104,23 +3376,8 @@
     "bedrock_data": 0,
     "is_block": false
   },
-  "minecraft:sugar_cane": {
-    "bedrock_id": 338,
-    "bedrock_data": 0,
-    "is_block": true
-  },
-  "minecraft:kelp": {
-    "bedrock_id": 335,
-    "bedrock_data": 0,
-    "is_block": true
-  },
   "minecraft:dried_kelp_block": {
     "bedrock_id": -139,
-    "bedrock_data": 0,
-    "is_block": true
-  },
-  "minecraft:bamboo": {
-    "bedrock_id": -163,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -3630,6 +3887,10 @@
     "bedrock_data": 49,
     "is_block": false
   },
+  "minecraft:hoglin_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:horse_spawn_egg": {
     "bedrock_id": 383,
     "bedrock_data": 23,
@@ -3684,6 +3945,10 @@
     "bedrock_id": 383,
     "bedrock_data": 12,
     "is_block": false
+  },
+  "minecraft:piglin_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:pillager_spawn_egg": {
     "bedrock_id": 383,
@@ -3760,6 +4025,10 @@
     "bedrock_data": 46,
     "is_block": false
   },
+  "minecraft:strider_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:trader_llama_spawn_egg": {
     "bedrock_id": 383,
     "bedrock_data": 29,
@@ -3810,6 +4079,10 @@
     "bedrock_data": 14,
     "is_block": false
   },
+  "minecraft:zoglin_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:zombie_spawn_egg": {
     "bedrock_id": 383,
     "bedrock_data": 32,
@@ -3820,15 +4093,14 @@
     "bedrock_data": 27,
     "is_block": false
   },
-  "minecraft:zombie_pigman_spawn_egg": {
-    "bedrock_id": 383,
-    "bedrock_data": 36,
-    "is_block": false
-  },
   "minecraft:zombie_villager_spawn_egg": {
     "bedrock_id": 383,
     "bedrock_data": 116,
     "is_block": false
+  },
+  "minecraft:zombified_piglin_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:experience_bottle": {
     "bedrock_id": 384,
@@ -3929,6 +4201,10 @@
     "bedrock_id": 398,
     "bedrock_data": 0,
     "is_block": false
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:nether_star": {
     "bedrock_id": 399,
@@ -4315,6 +4591,10 @@
     "bedrock_data": 0,
     "is_block": false
   },
+  "minecraft:music_disc_pigstep": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:trident": {
     "bedrock_id": 455,
     "bedrock_data": 0,
@@ -4375,6 +4655,15 @@
     "bedrock_data": 4,
     "is_block": false
   },
+  "minecraft:piglin_banner_pattern": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:composter": {
+    "bedrock_id": -213,
+    "bedrock_data": 0,
+    "is_block": true
+  },
   "minecraft:barrel": {
     "bedrock_id": -203,
     "bedrock_data": 0,
@@ -4430,6 +4719,10 @@
     "bedrock_data": 0,
     "is_block": true
   },
+  "minecraft:soul_lantern": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
   "minecraft:sweet_berries": {
     "bedrock_id": 477,
     "bedrock_data": 0,
@@ -4439,6 +4732,14 @@
     "bedrock_id": 720,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:soul_campfire": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:shroomlight": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:honeycomb": {
     "bedrock_id": 736,
@@ -4469,5 +4770,77 @@
     "bedrock_id": -221,
     "bedrock_data": 0,
     "is_block": true
+  },
+  "minecraft:lodestone": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:netherite_block": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:ancient_debris": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:target": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:crying_obsidian": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:blackstone": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:blackstone_slab": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:blackstone_stairs": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:gilded_blackstone": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_slab": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_stairs": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:chiseled_polished_blackstone": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_bricks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_brick_slab": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:polished_blackstone_brick_stairs": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:cracked_polished_blackstone_bricks": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
+  },
+  "minecraft:respawn_anchor": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   }
 }
