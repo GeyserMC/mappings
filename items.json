@@ -1250,7 +1250,7 @@
     "is_block": true
   },
   "minecraft:melon": {
-    "bedrock_id": 360,
+    "bedrock_id": 103,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -4661,7 +4661,7 @@
     "is_block": false
   },
   "minecraft:music_disc_pigstep": {
-    "bedrock_id": 248,
+    "bedrock_id": 759,
     "bedrock_data": 0,
     "is_block": false
   },
@@ -4726,8 +4726,8 @@
     "is_block": false
   },
   "minecraft:piglin_banner_pattern": {
-    "bedrock_id": 248,
-    "bedrock_data": 0,
+    "bedrock_id": 434,
+    "bedrock_data": 6,
     "is_block": false
   },
   "minecraft:composter": {
