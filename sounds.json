@@ -547,7 +547,7 @@
   },
   "block.chest.locked": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.chest.open": {
@@ -1041,12 +1041,12 @@
   },
   "block.fence_gate.close": {
     "playsound_mapping": "random.door_close",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.fence_gate.open": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "item.firecharge.use": {
@@ -1560,12 +1560,12 @@
   },
   "block.iron_door.close": {
     "playsound_mapping": "random.door_close",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.iron_door.open": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "entity.iron_golem.attack": {
@@ -1594,12 +1594,12 @@
   },
   "block.iron_trapdoor.close": {
     "playsound_mapping": "random.door_close",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.iron_trapdoor.open": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "entity.item_frame.add_item": {
@@ -1924,7 +1924,7 @@
   },
   "music_disc.pigstep": {
     "playsound_mapping": "music_disc.pigstep",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "RECORD_PIGSTEP"
   },
   "music_disc.stal": {
     "playsound_mapping": "record.stal",
@@ -3812,22 +3812,22 @@
   },
   "block.wooden_door.close": {
     "playsound_mapping": "random.door_close",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_door.open": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_trapdoor.close": {
     "playsound_mapping": "random.door_close",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_trapdoor.open": {
     "playsound_mapping": "random.door_open",
-    "bedrock_mapping": "SOUND_DOOR",
+    "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wood.break": {
