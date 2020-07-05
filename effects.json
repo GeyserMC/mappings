@@ -76,7 +76,7 @@
     "type": "particle"
   },
   "ENTITY_BLAZE_SHOOT": {
-    "name": "SOUND_BLAZE_SHOOT",
+    "name": "SOUND_BLAZE_FIREBALL",
     "type": "soundLevel"
   },
   "ENTITY_GHAST_WARN": {
