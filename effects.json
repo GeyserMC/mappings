@@ -1,16 +1,4 @@
 {
-  "BLOCK_ANVIL_DESTROY": {
-    "name": "SOUND_ANVIL_BROKEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_ANVIL_LAND": {
-    "name": "SOUND_ANVIL_LAND",
-    "type": "soundLevel"
-  },
-  "BLOCK_ANVIL_USE": {
-    "name": "SOUND_ANVIL_USED",
-    "type": "soundLevel"
-  },
   "BLOCK_DISPENSER_DISPENSE": {
     "data": 1000,
     "name": "SOUND_CLICK",
@@ -26,80 +14,6 @@
     "name": "SOUND_CLICK",
     "type": "soundLevel"
   },
-  "BLOCK_FENCE_GATE_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_FENCE_GATE_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_IRON_DOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_IRON_DOOR_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_IRON_TRAPDOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_IRON_TRAPDOOR_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_DOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_DOOR_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_TRAPDOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_TRAPDOOR_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "ENTITY_BLAZE_SHOOT": {
-    "name": "SOUND_BLAZE_FIREBALL",
-    "type": "soundLevel"
-  },
-  "ENTITY_GHAST_WARN": {
-    "name": "SOUND_GHAST_WARNING",
-    "type": "soundLevel"
-  },
-  "ENTITY_GHAST_SHOOT": {
-    "name": "SOUND_GHAST_FIREBALL",
-    "type": "soundLevel"
-  },
-  "BLOCK_END_PORTAL_SPAWN": {
-    "name": "BLOCK_END_PORTAL_SPAWN",
-    "type": "soundEvent"
-  },
-  "BLOCK_FIRE_EXTINGUISH": {
-    "name": "EXTINGUISH_FIRE",
-    "type": "soundEvent"
-  },
-  "BLOCK_PORTAL_TRAVEL": {
-    "name": "portal.travel",
-    "volume": 0.25,
-    "pitch_sub": false,
-    "pitch_mul": 0.4,
-    "pitch_add": 0.8,
-    "relative": false,
-    "type": "playSound"
-  },
-  "ENTITY_BAT_TAKEOFF": {
-    "identifier": "minecraft:bat",
-    "name": "TAKEOFF",
-    "type": "soundEvent"
-  },
   "ENTITY_ENDEREYE_LAUNCH": {
     "identifier": "minecraft:player",
     "name": "THROW",
@@ -109,14 +23,25 @@
     "name": "LAUNCH",
     "type": "soundEvent"
   },
-  "ENTITY_ZOMBIE_CONVERTED_TO_DROWNED": {
-    "name": "entity.zombie.converted_to_drowned",
-    "volume": 2.0,
-    "pitch_sub": true,
-    "pitch_mul": 0.2,
-    "pitch_add": 1.0,
-    "relative": true,
-    "type": "playSound"
+  "BLOCK_IRON_DOOR_OPEN": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_WOODEN_DOOR_OPEN": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_WOODEN_TRAPDOOR_OPEN": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_FENCE_GATE_OPEN": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_FIRE_EXTINGUISH": {
+    "name": "EXTINGUISH_FIRE",
+    "type": "soundEvent"
   },
   "RECORD": {
     "type": "record",
@@ -137,8 +62,36 @@
       "920": "RECORD_PIGSTEP"
     }
   },
+  "BLOCK_IRON_DOOR_CLOSE": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_WOODEN_DOOR_CLOSE": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_WOODEN_TRAPDOOR_CLOSE": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_FENCE_GATE_CLOSE": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "ENTITY_GHAST_WARN": {
+    "name": "SOUND_GHAST_WARNING",
+    "type": "soundLevel"
+  },
+  "ENTITY_GHAST_SHOOT": {
+    "name": "SOUND_GHAST_FIREBALL",
+    "type": "soundLevel"
+  },
   "ENTITY_ENDERDRAGON_SHOOT": {
     "name": "SOUND_GHAST_FIREBALL",
+    "type": "soundLevel"
+  },
+  "ENTITY_BLAZE_SHOOT": {
+    "name": "SOUND_BLAZE_FIREBALL",
     "type": "soundLevel"
   },
   "ENTITY_ZOMBIE_ATTACK_DOOR_WOOD": {
@@ -167,6 +120,11 @@
     "name": "SHOOT",
     "type": "soundEvent"
   },
+  "ENTITY_BAT_TAKEOFF": {
+    "identifier": "minecraft:bat",
+    "name": "TAKEOFF",
+    "type": "soundEvent"
+  },
   "ENTITY_ZOMBIE_INFECT": {
     "name": "",
     "type": ""
@@ -180,6 +138,27 @@
     "name": "DEATH",
     "type": "soundEvent"
   },
+  "BLOCK_ANVIL_DESTROY": {
+    "name": "SOUND_ANVIL_BROKEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_ANVIL_USE": {
+    "name": "SOUND_ANVIL_USED",
+    "type": "soundLevel"
+  },
+  "BLOCK_ANVIL_LAND": {
+    "name": "SOUND_ANVIL_LAND",
+    "type": "soundLevel"
+  },
+  "BLOCK_PORTAL_TRAVEL": {
+    "name": "portal.travel",
+    "volume": 0.25,
+    "pitch_sub": false,
+    "pitch_mul": 0.4,
+    "pitch_add": 0.8,
+    "relative": false,
+    "type": "playSound"
+  },
   "BLOCK_CHORUS_FLOWER_GROW": {
     "name": "CHORUS_GROW",
     "type": "soundEvent"
@@ -192,10 +171,31 @@
     "name": "POTION_BREWED",
     "type": "soundEvent"
   },
+  "BLOCK_IRON_TRAPDOOR_CLOSE": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_IRON_TRAPDOOR_OPEN": {
+    "name": "SOUND_DOOR_OPEN",
+    "type": "soundLevel"
+  },
+  "BLOCK_END_PORTAL_SPAWN": {
+    "name": "BLOCK_END_PORTAL_SPAWN",
+    "type": "soundEvent"
+  },
   "ENTITY_PHANTOM_BITE": {
     "identifier": "minecraft:phantom",
     "name": "ATTACK",
     "type": "soundEvent"
+  },
+  "ENTITY_ZOMBIE_CONVERTED_TO_DROWNED": {
+    "name": "entity.zombie.converted_to_drowned",
+    "volume": 2.0,
+    "pitch_sub": true,
+    "pitch_mul": 0.2,
+    "pitch_add": 1.0,
+    "relative": true,
+    "type": "playSound"
   },
   "ENTITY_HUSK_CONVERTED_TO_ZOMBIE": {
     "name": "",
