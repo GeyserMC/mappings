@@ -2564,6 +2564,30 @@
     "playsound_mapping": "entity.piglin.converted_to_zombified",
     "bedrock_mapping": ""
   },
+  "entity.piglin_brute.ambient": {
+    "playsound_mapping": "entity.piglin_brute.ambient",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.angry": {
+    "playsound_mapping": "entity.piglin_brute.angry",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.death": {
+    "playsound_mapping": "entity.piglin_brute.death",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.hurt": {
+    "playsound_mapping": "entity.piglin_brute.hurt",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.step": {
+    "playsound_mapping": "entity.piglin_brute.step",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.converted_to_zombified": {
+    "playsound_mapping": "entity.piglin_brute.converted_to_zombified",
+    "bedrock_mapping": ""
+  },
   "entity.pillager.ambient": {
     "playsound_mapping": "mob.pillager.idle",
     "bedrock_mapping": "AMBIENT"
