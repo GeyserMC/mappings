@@ -2859,27 +2859,6 @@
     "bedrock_data": 0,
     "is_block": false
   },
-  "minecraft:iron_shovel": {
-    "bedrock_id": 256,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "shovel",
-    "tool_tier": "iron"
-  },
-  "minecraft:iron_pickaxe": {
-    "bedrock_id": 257,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "pickaxe",
-    "tool_tier": "iron"
-  },
-  "minecraft:iron_axe": {
-    "bedrock_id": 258,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "axe",
-    "tool_tier": "iron"
-  },
   "minecraft:flint_and_steel": {
     "bedrock_id": 259,
     "bedrock_data": 0,
@@ -2935,13 +2914,6 @@
     "bedrock_data": 0,
     "is_block": false
   },
-  "minecraft:iron_sword": {
-    "bedrock_id": 267,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "sword",
-    "tool_tier": "iron"
-  },
   "minecraft:wooden_sword": {
     "bedrock_id": 268,
     "bedrock_data": 0,
@@ -2968,6 +2940,13 @@
     "bedrock_data": 0,
     "is_block": false,
     "tool_type": "axe",
+    "tool_tier": "wooden"
+  },
+  "minecraft:wooden_hoe": {
+    "bedrock_id": 290,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "hoe",
     "tool_tier": "wooden"
   },
   "minecraft:stone_sword": {
@@ -2998,48 +2977,12 @@
     "tool_type": "axe",
     "tool_tier": "stone"
   },
-  "minecraft:diamond_sword": {
-    "bedrock_id": 276,
+  "minecraft:stone_hoe": {
+    "bedrock_id": 291,
     "bedrock_data": 0,
     "is_block": false,
-    "tool_type": "sword",
-    "tool_tier": "diamond"
-  },
-  "minecraft:diamond_shovel": {
-    "bedrock_id": 277,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "shovel",
-    "tool_tier": "diamond"
-  },
-  "minecraft:diamond_pickaxe": {
-    "bedrock_id": 278,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "pickaxe",
-    "tool_tier": "diamond"
-  },
-  "minecraft:diamond_axe": {
-    "bedrock_id": 279,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "axe",
-    "tool_tier": "diamond"
-  },
-  "minecraft:stick": {
-    "bedrock_id": 280,
-    "bedrock_data": 0,
-    "is_block": false
-  },
-  "minecraft:bowl": {
-    "bedrock_id": 281,
-    "bedrock_data": 0,
-    "is_block": false
-  },
-  "minecraft:mushroom_stew": {
-    "bedrock_id": 282,
-    "bedrock_data": 0,
-    "is_block": false
+    "tool_type": "hoe",
+    "tool_tier": "stone"
   },
   "minecraft:golden_sword": {
     "bedrock_id": 283,
@@ -3069,6 +3012,83 @@
     "tool_type": "axe",
     "tool_tier": "golden"
   },
+  "minecraft:golden_hoe": {
+    "bedrock_id": 294,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "hoe",
+    "tool_tier": "golden"
+  },
+  "minecraft:iron_sword": {
+    "bedrock_id": 267,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "sword",
+    "tool_tier": "iron"
+  },
+  "minecraft:iron_shovel": {
+    "bedrock_id": 256,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "shovel",
+    "tool_tier": "iron"
+  },
+  "minecraft:iron_pickaxe": {
+    "bedrock_id": 257,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "pickaxe",
+    "tool_tier": "iron"
+  },
+  "minecraft:iron_axe": {
+    "bedrock_id": 258,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "axe",
+    "tool_tier": "iron"
+  },
+  "minecraft:iron_hoe": {
+    "bedrock_id": 292,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "hoe",
+    "tool_tier": "iron"
+  },
+  "minecraft:diamond_sword": {
+    "bedrock_id": 276,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "sword",
+    "tool_tier": "diamond"
+  },
+  "minecraft:diamond_shovel": {
+    "bedrock_id": 277,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "shovel",
+    "tool_tier": "diamond"
+  },
+  "minecraft:diamond_pickaxe": {
+    "bedrock_id": 278,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "pickaxe",
+    "tool_tier": "diamond"
+  },
+  "minecraft:diamond_axe": {
+    "bedrock_id": 279,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "axe",
+    "tool_tier": "diamond"
+  },
+  "minecraft:diamond_hoe": {
+    "bedrock_id": 293,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "hoe",
+    "tool_tier": "diamond"
+  },
   "minecraft:netherite_sword": {
     "bedrock_id": 743,
     "bedrock_data": 0,
@@ -3097,6 +3117,28 @@
     "tool_type": "axe",
     "tool_tier": "netherite"
   },
+  "minecraft:netherite_hoe": {
+    "bedrock_id": 747,
+    "bedrock_data": 0,
+    "is_block": false,
+    "tool_type": "hoe",
+    "tool_tier": "netherite"
+  },
+  "minecraft:stick": {
+    "bedrock_id": 280,
+    "bedrock_data": 0,
+    "is_block": false
+  },
+  "minecraft:bowl": {
+    "bedrock_id": 281,
+    "bedrock_data": 0,
+    "is_block": false
+  },
+  "minecraft:mushroom_stew": {
+    "bedrock_id": 282,
+    "bedrock_data": 0,
+    "is_block": false
+  },
   "minecraft:string": {
     "bedrock_id": 287,
     "bedrock_data": 0,
@@ -3111,48 +3153,6 @@
     "bedrock_id": 289,
     "bedrock_data": 0,
     "is_block": false
-  },
-  "minecraft:wooden_hoe": {
-    "bedrock_id": 290,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "wooden"
-  },
-  "minecraft:stone_hoe": {
-    "bedrock_id": 291,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "stone"
-  },
-  "minecraft:iron_hoe": {
-    "bedrock_id": 292,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "iron"
-  },
-  "minecraft:diamond_hoe": {
-    "bedrock_id": 293,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "diamond"
-  },
-  "minecraft:golden_hoe": {
-    "bedrock_id": 294,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "golden"
-  },
-  "minecraft:netherite_hoe": {
-    "bedrock_id": 747,
-    "bedrock_data": 0,
-    "is_block": false,
-    "tool_type": "hoe",
-    "tool_tier": "netherite"
   },
   "minecraft:wheat_seeds": {
     "bedrock_id": 295,
@@ -4014,6 +4014,10 @@
     "bedrock_id": 383,
     "bedrock_data": 123,
     "is_block": false
+  },
+  "minecraft:piglin_brute_spawn_egg": {
+    "bedrock_id": 248,
+    "bedrock_data": 0
   },
   "minecraft:pillager_spawn_egg": {
     "bedrock_id": 383,
