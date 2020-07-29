@@ -4017,7 +4017,8 @@
   },
   "minecraft:piglin_brute_spawn_egg": {
     "bedrock_id": 248,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_block": false
   },
   "minecraft:pillager_spawn_egg": {
     "bedrock_id": 383,
