@@ -1010,7 +1010,7 @@
     "is_block": true
   },
   "minecraft:snow": {
-    "bedrock_id": 80,
+    "bedrock_id": 78,
     "bedrock_data": 0,
     "is_block": true
   },
