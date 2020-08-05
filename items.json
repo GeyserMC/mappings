@@ -4776,7 +4776,7 @@
     "is_block": true
   },
   "minecraft:stonecutter": {
-    "bedrock_id": 245,
+    "bedrock_id": -197,
     "bedrock_data": 0,
     "is_block": true
   },
