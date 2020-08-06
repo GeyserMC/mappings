@@ -39,7 +39,7 @@
 		"bedrockNumericId": 7
 	},
 	"COMPOSTER": {
-		"eventType": "BONEMEAL",
+		"eventType": "PARTICLE_CROP_GROWTH",
 		"bedrockId": "minecraft:villager_happy",
 		"bedrockNumericId": 37
 	},
