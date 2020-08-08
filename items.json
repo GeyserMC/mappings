@@ -401,7 +401,7 @@
   },
   "minecraft:dispenser": {
     "bedrock_id": 23,
-    "bedrock_data": 0,
+    "bedrock_data": 3,
     "is_block": true
   },
   "minecraft:sandstone": {
@@ -436,7 +436,7 @@
   },
   "minecraft:sticky_piston": {
     "bedrock_id": 29,
-    "bedrock_data": 0,
+    "bedrock_data": 1,
     "is_block": true
   },
   "minecraft:cobweb": {
@@ -471,7 +471,7 @@
   },
   "minecraft:piston": {
     "bedrock_id": 33,
-    "bedrock_data": 0,
+    "bedrock_data": 1,
     "is_block": true
   },
   "minecraft:white_wool": {
@@ -1651,7 +1651,7 @@
   },
   "minecraft:dropper": {
     "bedrock_id": 125,
-    "bedrock_data": 0,
+    "bedrock_data": 3,
     "is_block": true
   },
   "minecraft:white_terracotta": {
