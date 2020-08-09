@@ -445,7 +445,7 @@
     "is_block": true
   },
   "minecraft:grass": {
-    "bedrock_id": 2,
+    "bedrock_id": 31,
     "bedrock_data": 1,
     "is_block": true
   },
