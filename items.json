@@ -3529,16 +3529,6 @@
     "bedrock_data": 0,
     "is_block": false
   },
-  "minecraft:red_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 1,
-    "is_block": false
-  },
-  "minecraft:green_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 2,
-    "is_block": false
-  },
   "minecraft:cocoa_beans": {
     "bedrock_id": 351,
     "bedrock_data": 3,
@@ -3549,49 +3539,9 @@
     "bedrock_data": 4,
     "is_block": false
   },
-  "minecraft:purple_dye": {
+  "minecraft:white_dye": {
     "bedrock_id": 351,
-    "bedrock_data": 5,
-    "is_block": false
-  },
-  "minecraft:cyan_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 6,
-    "is_block": false
-  },
-  "minecraft:light_gray_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 7,
-    "is_block": false
-  },
-  "minecraft:gray_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 8,
-    "is_block": false
-  },
-  "minecraft:pink_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 9,
-    "is_block": false
-  },
-  "minecraft:lime_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 10,
-    "is_block": false
-  },
-  "minecraft:yellow_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 11,
-    "is_block": false
-  },
-  "minecraft:light_blue_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 12,
-    "is_block": false
-  },
-  "minecraft:magenta_dye": {
-    "bedrock_id": 351,
-    "bedrock_data": 13,
+    "bedrock_data": 19,
     "is_block": false
   },
   "minecraft:orange_dye": {
@@ -3599,9 +3549,49 @@
     "bedrock_data": 14,
     "is_block": false
   },
-  "minecraft:bone_meal": {
+  "minecraft:magenta_dye": {
     "bedrock_id": 351,
-    "bedrock_data": 15,
+    "bedrock_data": 13,
+    "is_block": false
+  },
+  "minecraft:light_blue_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 12,
+    "is_block": false
+  },
+  "minecraft:yellow_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 11,
+    "is_block": false
+  },
+  "minecraft:lime_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 10,
+    "is_block": false
+  },
+  "minecraft:pink_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 9,
+    "is_block": false
+  },
+  "minecraft:gray_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 8,
+    "is_block": false
+  },
+  "minecraft:light_gray_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 7,
+    "is_block": false
+  },
+  "minecraft:cyan_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 6,
+    "is_block": false
+  },
+  "minecraft:purple_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 5,
     "is_block": false
   },
   "minecraft:blue_dye": {
@@ -3614,14 +3604,24 @@
     "bedrock_data": 17,
     "is_block": false
   },
+  "minecraft:green_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 2,
+    "is_block": false
+  },
+  "minecraft:red_dye": {
+    "bedrock_id": 351,
+    "bedrock_data": 1,
+    "is_block": false
+  },
   "minecraft:black_dye": {
     "bedrock_id": 351,
     "bedrock_data": 16,
     "is_block": false
   },
-  "minecraft:white_dye": {
+  "minecraft:bone_meal": {
     "bedrock_id": 351,
-    "bedrock_data": 19,
+    "bedrock_data": 15,
     "is_block": false
   },
   "minecraft:bone": {
