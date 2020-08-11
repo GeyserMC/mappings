@@ -2412,6 +2412,10 @@
     "playsound_mapping": "entity.parrot.imitate.piglin",
     "bedrock_mapping": ""
   },
+  "entity.parrot.imitate.piglin_brute": {
+    "playsound_mapping": "entity.parrot.imitate.piglin_brute",
+    "bedrock_mapping": ""
+  },
   "entity.parrot.imitate.pillager": {
     "playsound_mapping": "",
     "bedrock_mapping": ""
@@ -2562,6 +2566,30 @@
   },
   "entity.piglin.converted_to_zombified": {
     "playsound_mapping": "entity.piglin.converted_to_zombified",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.ambient": {
+    "playsound_mapping": "entity.piglin_brute.ambient",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.angry": {
+    "playsound_mapping": "entity.piglin_brute.angry",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.death": {
+    "playsound_mapping": "entity.piglin_brute.death",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.hurt": {
+    "playsound_mapping": "entity.piglin_brute.hurt",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.step": {
+    "playsound_mapping": "entity.piglin_brute.step",
+    "bedrock_mapping": ""
+  },
+  "entity.piglin_brute.converted_to_zombified": {
+    "playsound_mapping": "entity.piglin_brute.converted_to_zombified",
     "bedrock_mapping": ""
   },
   "entity.pillager.ambient": {
