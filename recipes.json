@@ -1,0 +1,2669 @@
+{
+  "leather_armor": [
+    {
+      "id": "leather_298_dye_1",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 1
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3ImLrD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_2",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 2
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IWfF7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_5",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 5
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_6",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 6
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KcnBb/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_7",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 7
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KXnZ3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_8",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 8
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3JST0f/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_9",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 9
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Kqi/P/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_10",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 10
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Ifx4D/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_11",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 11
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3I92P7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_12",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 12
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Laszr/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_13",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 13
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_14",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 14
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IdgPn/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_16",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 16
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IhHR3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_17",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 17
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IyVIP/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_18",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 18
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KqRDz/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_298_dye_19",
+      "type": 0,
+      "input": [
+        {
+          "id": 298
+        },
+        {
+          "id": 351,
+          "damage": 19
+        }
+      ],
+      "output": [
+        {
+          "id": 298,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Lw8PD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_1",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 1
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3ImLrD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_2",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 2
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IWfF7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_5",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 5
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_6",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 6
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KcnBb/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_7",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 7
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KXnZ3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_8",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 8
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3JST0f/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_9",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 9
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Kqi/P/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_10",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 10
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Ifx4D/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_11",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 11
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3I92P7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_12",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 12
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Laszr/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_13",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 13
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_14",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 14
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IdgPn/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_16",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 16
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IhHR3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_17",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 17
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IyVIP/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_18",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 18
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KqRDz/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_299_dye_19",
+      "type": 0,
+      "input": [
+        {
+          "id": 299
+        },
+        {
+          "id": 351,
+          "damage": 19
+        }
+      ],
+      "output": [
+        {
+          "id": 299,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Lw8PD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_1",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 1
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3ImLrD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_2",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 2
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IWfF7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_5",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 5
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_6",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 6
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KcnBb/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_7",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 7
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KXnZ3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_8",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 8
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3JST0f/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_9",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 9
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Kqi/P/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_10",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 10
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Ifx4D/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_11",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 11
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3I92P7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_12",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 12
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Laszr/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_13",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 13
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_14",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 14
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IdgPn/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_16",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 16
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IhHR3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_17",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 17
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IyVIP/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_18",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 18
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KqRDz/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_300_dye_19",
+      "type": 0,
+      "input": [
+        {
+          "id": 300
+        },
+        {
+          "id": 351,
+          "damage": 19
+        }
+      ],
+      "output": [
+        {
+          "id": 300,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Lw8PD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_1",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 1
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3ImLrD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_2",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 2
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IWfF7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_5",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 5
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_6",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 6
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KcnBb/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_7",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 7
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KXnZ3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_8",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 8
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3JST0f/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_9",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 9
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Kqi/P/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_10",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 10
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Ifx4D/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_11",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 11
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3I92P7/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_12",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 12
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Laszr/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_13",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 13
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3K4Mon/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_14",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 14
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IdgPn/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_16",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 16
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IhHR3/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_17",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 17
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3IyVIP/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_18",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 18
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3KqRDz/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "leather_301_dye_19",
+      "type": 0,
+      "input": [
+        {
+          "id": 301
+        },
+        {
+          "id": 351,
+          "damage": 19
+        }
+      ],
+      "output": [
+        {
+          "id": 301,
+          "nbt_b64": "CgAAAwsAY3VzdG9tQ29sb3Lw8PD/AA=="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    }
+  ],
+  "firework_rockets": [
+    {
+      "id": "paper_sulphur_charge_18_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_19_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_1_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAABBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_2_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAACBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_3_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_4_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_5_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAFBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_6_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAGBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_7_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAHBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_8_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAIBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_9_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAJBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwAAAAAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    }
+  ],
+  "firework_stars": [
+    {
+      "id": "paper_sulphur_charge_0_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAABwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_10_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAKBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_11_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAALBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_12_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAMBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_13_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAANBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_14_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAOBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_15_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_16_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAABwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_17_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_18_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_19_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_1_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAABBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_2_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAACBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_3_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_4_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_5_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAFBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_6_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAGBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_7_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAHBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_8_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAIBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_charge_9_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 339,
+          "damage": 32767
+        },
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 402,
+          "damage": 32767
+        }
+      ],
+      "output": [
+        {
+          "id": 401,
+          "count": 3,
+          "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAJBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_0_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_10_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 10
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 10,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yH8eA/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_11_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 11
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 11,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yPdj+/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_12_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 12
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 12,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y2rM6/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_13_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 13
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 13,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yvU7H/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_14_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 14
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 14,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yHYD5/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_15_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 15
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 15,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_16_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 16
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_17_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 17
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 3,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_18_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 18
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 4,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_19_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 19
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 15,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_1_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 1
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 1,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yJi6w/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_2_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 2
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 2,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yFnxe/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_3_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 3
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 3,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_4_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 4
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 4,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_5_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 5
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 5,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yuDKJ/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_6_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 6
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 6,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9ynJwW/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_7_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 7
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 7,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yl52d/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_8_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 8
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 8,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yUk9H/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    },
+    {
+      "id": "paper_sulphur_dye_9_recipeId",
+      "type": 0,
+      "input": [
+        {
+          "id": 289,
+          "damage": 32767
+        },
+        {
+          "id": 351,
+          "damage": 9
+        }
+      ],
+      "output": [
+        {
+          "id": 402,
+          "damage": 9,
+          "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqovz/wA="
+        }
+      ],
+      "block": "crafting_table",
+      "priority": 50
+    }
+  ]
+}
