@@ -2665,5 +2665,6961 @@
       "block": "crafting_table",
       "priority": 50
     }
+  ],
+  "shulker_boxes": [
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_0_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_10_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_11_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_12_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_13_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_14_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_15_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_16_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_17_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_18_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_19_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_1_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_2_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_3_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_4_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_5_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_6_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_7_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_8_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_block_9_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_0_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_10_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 10
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 5
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_11_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 11
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 4
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_12_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 12
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 3
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_13_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 13
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 2
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_14_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 14
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 1
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_15_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 15
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_16_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 16
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 15
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_17_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 17
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_18_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 18
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_19_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 19
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_1_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 1
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 14
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_2_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 2
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 13
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_3_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 3
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 12
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_4_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 4
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 11
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_5_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 5
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 10
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_6_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 6
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 9
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_7_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 7
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 8
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_8_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 8
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 7
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    },
+    {
+      "id" : "shulkerBox_shulker_box_color_dye_9_0",
+      "type" : 5,
+      "input" : [
+        {
+          "id" : 205
+        },
+        {
+          "id" : 351,
+          "damage" : 9
+        }
+      ],
+      "output" : [
+        {
+          "id" : 218,
+          "damage" : 6
+        }
+      ],
+      "block" : "crafting_table",
+      "priority" : 0
+    }
   ]
 }
