@@ -47,19 +47,19 @@
     "type": "record",
     "records": {
       "0": "STOP_RECORD",
-      "908": "RECORD_13",
-      "909": "RECORD_CAT",
-      "910": "RECORD_BLOCKS",
-      "911": "RECORD_CHIRP",
-      "912": "RECORD_FAR",
-      "913": "RECORD_MALL",
-      "914": "RECORD_MELLOHI",
-      "915": "RECORD_STAL",
-      "916": "RECORD_STRAD",
-      "917": "RECORD_WARD",
-      "918": "RECORD_11",
-      "919": "RECORD_WAIT",
-      "920": "RECORD_PIGSTEP"
+      "909": "RECORD_13",
+      "910": "RECORD_CAT",
+      "911": "RECORD_BLOCKS",
+      "912": "RECORD_CHIRP",
+      "913": "RECORD_FAR",
+      "914": "RECORD_MALL",
+      "915": "RECORD_MELLOHI",
+      "916": "RECORD_STAL",
+      "917": "RECORD_STRAD",
+      "918": "RECORD_WARD",
+      "919": "RECORD_11",
+      "920": "RECORD_WAIT",
+      "921": "RECORD_PIGSTEP"
     }
   },
   "BLOCK_IRON_DOOR_CLOSE": {
