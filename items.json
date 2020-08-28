@@ -2675,7 +2675,7 @@
     "is_block": true
   },
   "minecraft:stone_stairs": {
-    "bedrock_id": 67,
+    "bedrock_id": -180,
     "bedrock_data": 0,
     "is_block": true
   },
