@@ -445,7 +445,7 @@
     "is_block": true
   },
   "minecraft:grass": {
-    "bedrock_id": 2,
+    "bedrock_id": 31,
     "bedrock_data": 1,
     "is_block": true
   },
@@ -1250,7 +1250,7 @@
     "is_block": true
   },
   "minecraft:melon": {
-    "bedrock_id": 281,
+    "bedrock_id": 103,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -2886,7 +2886,7 @@
   },
   "minecraft:charcoal": {
     "bedrock_id": 349,
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:diamond": {
@@ -3406,27 +3406,27 @@
   },
   "minecraft:milk_bucket": {
     "bedrock_id": 407,
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:pufferfish_bucket": {
     "bedrock_id": 413,
-    "bedrock_data": 5,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:salmon_bucket": {
     "bedrock_id": 411,
-    "bedrock_data": 3,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cod_bucket": {
     "bedrock_id": 410,
-    "bedrock_data": 2,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:tropical_fish_bucket": {
     "bedrock_id": 412,
-    "bedrock_data": 4,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:brick": {
@@ -3536,92 +3536,92 @@
   },
   "minecraft:lapis_lazuli": {
     "bedrock_id": 458,
-    "bedrock_data": 4,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:white_dye": {
     "bedrock_id": 454,
-    "bedrock_data": 19,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:orange_dye": {
     "bedrock_id": 453,
-    "bedrock_data": 14,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:magenta_dye": {
     "bedrock_id": 452,
-    "bedrock_data": 13,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:light_blue_dye": {
     "bedrock_id": 451,
-    "bedrock_data": 12,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:yellow_dye": {
     "bedrock_id": 450,
-    "bedrock_data": 11,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:lime_dye": {
     "bedrock_id": 449,
-    "bedrock_data": 10,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:pink_dye": {
     "bedrock_id": 448,
-    "bedrock_data": 9,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:gray_dye": {
     "bedrock_id": 447,
-    "bedrock_data": 8,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:light_gray_dye": {
     "bedrock_id": 446,
-    "bedrock_data": 7,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cyan_dye": {
     "bedrock_id": 445,
-    "bedrock_data": 6,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:purple_dye": {
     "bedrock_id": 444,
-    "bedrock_data": 5,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:blue_dye": {
     "bedrock_id": 443,
-    "bedrock_data": 18,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:brown_dye": {
     "bedrock_id": 442,
-    "bedrock_data": 17,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:green_dye": {
     "bedrock_id": 441,
-    "bedrock_data": 2,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:red_dye": {
     "bedrock_id": 440,
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:black_dye": {
     "bedrock_id": 439,
-    "bedrock_data": 16,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:bone_meal": {
     "bedrock_id": 455,
-    "bedrock_data": 15,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:bone": {
@@ -3857,162 +3857,162 @@
   },
   "minecraft:bat_spawn_egg": {
     "bedrock_id": 497,
-    "bedrock_data": 19,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:bee_spawn_egg": {
-    "bedrock_id": 383,
-    "bedrock_data": 122,
+    "bedrock_id": 657,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:blaze_spawn_egg": {
     "bedrock_id": 500,
-    "bedrock_data": 43,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cat_spawn_egg": {
     "bedrock_id": 532,
-    "bedrock_data": 75,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cave_spider_spawn_egg": {
     "bedrock_id": 501,
-    "bedrock_data": 40,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:chicken_spawn_egg": {
     "bedrock_id": 479,
-    "bedrock_data": 10,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cod_spawn_egg": {
     "bedrock_id": 524,
-    "bedrock_data": 112,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:cow_spawn_egg": {
     "bedrock_id": 480,
-    "bedrock_data": 11,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:creeper_spawn_egg": {
     "bedrock_id": 485,
-    "bedrock_data": 33,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:dolphin_spawn_egg": {
     "bedrock_id": 528,
-    "bedrock_data": 31,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:donkey_spawn_egg": {
     "bedrock_id": 509,
-    "bedrock_data": 24,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:drowned_spawn_egg": {
     "bedrock_id": 527,
-    "bedrock_data": 110,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:elder_guardian_spawn_egg": {
     "bedrock_id": 515,
-    "bedrock_data": 50,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:enderman_spawn_egg": {
     "bedrock_id": 486,
-    "bedrock_data": 38,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:endermite_spawn_egg": {
     "bedrock_id": 504,
-    "bedrock_data": 55,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:evoker_spawn_egg": {
     "bedrock_id": 519,
-    "bedrock_data": 104,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:fox_spawn_egg": {
     "bedrock_id": 534,
-    "bedrock_data": 121,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:ghast_spawn_egg": {
     "bedrock_id": 498,
-    "bedrock_data": 41,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:guardian_spawn_egg": {
     "bedrock_id": 505,
-    "bedrock_data": 49,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:hoglin_spawn_egg": {
     "bedrock_id": 538,
-    "bedrock_data": 124,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:horse_spawn_egg": {
     "bedrock_id": 502,
-    "bedrock_data": 23,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:husk_spawn_egg": {
     "bedrock_id": 507,
-    "bedrock_data": 47,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:llama_spawn_egg": {
     "bedrock_id": 517,
-    "bedrock_data": 29,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:magma_cube_spawn_egg": {
     "bedrock_id": 499,
-    "bedrock_data": 42,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:mooshroom_spawn_egg": {
     "bedrock_id": 484,
-    "bedrock_data": 16,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:mule_spawn_egg": {
     "bedrock_id": 510,
-    "bedrock_data": 25,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:ocelot_spawn_egg": {
     "bedrock_id": 495,
-    "bedrock_data": 22,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:panda_spawn_egg": {
     "bedrock_id": 533,
-    "bedrock_data": 113,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:parrot_spawn_egg": {
     "bedrock_id": 522,
-    "bedrock_data": 30,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:phantom_spawn_egg": {
     "bedrock_id": 530,
-    "bedrock_data": 58,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:pig_spawn_egg": {
     "bedrock_id": 481,
-    "bedrock_data": 12,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:piglin_spawn_egg": {
     "bedrock_id": 539,
-    "bedrock_data": 123,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:piglin_brute_spawn_egg": {
@@ -4022,157 +4022,157 @@
   },
   "minecraft:pillager_spawn_egg": {
     "bedrock_id": 535,
-    "bedrock_data": 114,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:polar_bear_spawn_egg": {
     "bedrock_id": 516,
-    "bedrock_data": 28,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:pufferfish_spawn_egg": {
     "bedrock_id": 525,
-    "bedrock_data": 108,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:rabbit_spawn_egg": {
     "bedrock_id": 503,
-    "bedrock_data": 18,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:ravager_spawn_egg": {
     "bedrock_id": 536,
-    "bedrock_data": 59,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:salmon_spawn_egg": {
     "bedrock_id": 526,
-    "bedrock_data": 109,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:sheep_spawn_egg": {
     "bedrock_id": 482,
-    "bedrock_data": 13,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:shulker_spawn_egg": {
     "bedrock_id": 513,
-    "bedrock_data": 54,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:silverfish_spawn_egg": {
     "bedrock_id": 487,
-    "bedrock_data": 39,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:skeleton_spawn_egg": {
     "bedrock_id": 488,
-    "bedrock_data": 34,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:skeleton_horse_spawn_egg": {
     "bedrock_id": 511,
-    "bedrock_data": 26,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:slime_spawn_egg": {
     "bedrock_id": 489,
-    "bedrock_data": 37,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:spider_spawn_egg": {
     "bedrock_id": 490,
-    "bedrock_data": 35,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:squid_spawn_egg": {
     "bedrock_id": 494,
-    "bedrock_data": 17,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:stray_spawn_egg": {
     "bedrock_id": 506,
-    "bedrock_data": 46,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:strider_spawn_egg": {
     "bedrock_id": 537,
-    "bedrock_data": 125,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:trader_llama_spawn_egg": {
-    "bedrock_id": 383,
-    "bedrock_data": 29,
+    "bedrock_id": 517,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:tropical_fish_spawn_egg": {
     "bedrock_id": 523,
-    "bedrock_data": 111,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:turtle_spawn_egg": {
     "bedrock_id": 529,
-    "bedrock_data": 74,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:vex_spawn_egg": {
     "bedrock_id": 520,
-    "bedrock_data": 105,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:villager_spawn_egg": {
     "bedrock_id": 493,
-    "bedrock_data": 115,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:vindicator_spawn_egg": {
     "bedrock_id": 518,
-    "bedrock_data": 57,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:wandering_trader_spawn_egg": {
-    "bedrock_id": 383,
-    "bedrock_data": 118,
+    "bedrock_id": 493,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:witch_spawn_egg": {
     "bedrock_id": 496,
-    "bedrock_data": 45,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:wither_skeleton_spawn_egg": {
     "bedrock_id": 508,
-    "bedrock_data": 48,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:wolf_spawn_egg": {
     "bedrock_id": 483,
-    "bedrock_data": 14,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:zoglin_spawn_egg": {
     "bedrock_id": 540,
-    "bedrock_data": 126,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:zombie_spawn_egg": {
     "bedrock_id": 491,
-    "bedrock_data": 32,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:zombie_horse_spawn_egg": {
     "bedrock_id": 512,
-    "bedrock_data": 27,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:zombie_villager_spawn_egg": {
     "bedrock_id": 521,
-    "bedrock_data": 116,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:zombified_piglin_spawn_egg": {
-    "bedrock_id": 383,
-    "bedrock_data": 36,
+    "bedrock_id": 492,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:experience_bottle": {
@@ -4557,27 +4557,27 @@
   },
   "minecraft:spruce_boat": {
     "bedrock_id": 422,
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:birch_boat": {
     "bedrock_id": 420,
-    "bedrock_data": 2,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:jungle_boat": {
     "bedrock_id": 421,
-    "bedrock_data": 3,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:acacia_boat": {
     "bedrock_id": 423,
-    "bedrock_data": 4,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:dark_oak_boat": {
     "bedrock_id": 424,
-    "bedrock_data": 5,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:totem_of_undying": {
@@ -4707,7 +4707,7 @@
   },
   "minecraft:flower_banner_pattern": {
     "bedrock_id": 615,
-    "bedrock_data": 2,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:creeper_banner_pattern": {
@@ -4717,22 +4717,22 @@
   },
   "minecraft:skull_banner_pattern": {
     "bedrock_id": 617,
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:mojang_banner_pattern": {
     "bedrock_id": 618,
-    "bedrock_data": 3,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:globe_banner_pattern": {
-    "bedrock_id": 434,
-    "bedrock_data": 4,
+    "bedrock_id": 656,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:piglin_banner_pattern": {
-    "bedrock_id": 434,
-    "bedrock_data": 6,
+    "bedrock_id": 656,
+    "bedrock_data": 0,
     "is_block": false
   },
   "minecraft:composter": {
