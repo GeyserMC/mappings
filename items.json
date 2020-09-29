@@ -3861,7 +3861,7 @@
     "is_block": false
   },
   "minecraft:bee_spawn_egg": {
-    "bedrock_id": 660,
+    "bedrock_id": 538,
     "bedrock_data": 0,
     "is_block": false
   },
@@ -4131,7 +4131,7 @@
     "is_block": false
   },
   "minecraft:wandering_trader_spawn_egg": {
-    "bedrock_id": 493,
+    "bedrock_id": 536,
     "bedrock_data": 0,
     "is_block": false
   },
