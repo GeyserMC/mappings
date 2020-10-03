@@ -4821,7 +4821,7 @@
     "is_block": true
   },
   "minecraft:honeycomb": {
-    "bedrock_id": 302,
+    "bedrock_id": 301,
     "bedrock_data": 0,
     "is_block": false
   },
@@ -4836,7 +4836,7 @@
     "is_block": true
   },
   "minecraft:honey_bottle": {
-    "bedrock_id": 301,
+    "bedrock_id": 302,
     "bedrock_data": 0,
     "is_block": false
   },
