@@ -39,11 +39,6 @@
 		"bedrockNumericId": 7
 	},
 	"COMPOSTER": {
-		"eventType": "PARTICLE_CROP_GROWTH",
-		"bedrockId": "minecraft:villager_happy",
-		"bedrockNumericId": 37
-	},
-	"HAPPY_VILLAGER": {
 		"eventType": "PARTICLE_VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy",
 		"bedrockNumericId": 37
@@ -65,6 +60,10 @@
 		"eventType": "PARTICLE_DRAGONS_BREATH",
 		"bedrockId": "minecraft:dragon_breath_lingering",
 		"bedrockNumericId": 67
+	},
+	"DRIPPING_HONEY": {
+		"eventType": "PARTICLE_DRIP_HONEY",
+		"bedrockNumericId": 28
 	},
 	"DRIPPING_LAVA": {
 		"eventType": "PARTICLE_DRIP_LAVA",
@@ -95,7 +94,7 @@
 		"bedrockNumericId": 30
 	},
 	"EXPLOSION": {
-		"eventType": "PARTICLE_LARGE_EXPLOSION",
+		"eventType": "PARTICLE_HUGE_EXPLODE",
 		"bedrockId": "minecraft:large_explosion",
 		"bedrockNumericId": 61
 	},
@@ -126,6 +125,11 @@
 		"eventType": "PARTICLE_FLAME",
 		"bedrockId": "minecraft:basic_flame_particle",
 		"bedrockNumericId": 8
+	},
+	"HAPPY_VILLAGER": {
+		"eventType": "PARTICLE_VILLAGER_HAPPY",
+		"bedrockId": "minecraft:villager_happy",
+		"bedrockNumericId": 37
 	},
 	"HEART": {
 		"eventType": "PARTICLE_HEART",
@@ -190,6 +194,7 @@
 		"bedrockNumericId": 5
 	},
 	"SQUID_INK": {
+		"eventType": "PARTICLE_INK",
 		"bedrockId": "minecraft:ink",
 		"bedrockNumericId": 62
 	},
@@ -198,7 +203,7 @@
 		"bedrockNumericId": 58
 	},
 	"SPLASH": {
-		"eventType": "SPLASH",
+		"eventType": "PARTICLE_SPLASH",
 		"bedrockId": "minecraft:water_splash_particle_manual",
 		"bedrockNumericId": 23
 	},
