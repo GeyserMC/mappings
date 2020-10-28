@@ -900,11 +900,14 @@
     "id" : "paper_sulphur_charge_18_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -917,11 +920,14 @@
     "id" : "paper_sulphur_charge_19_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -934,11 +940,14 @@
     "id" : "paper_sulphur_charge_1_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -951,11 +960,14 @@
     "id" : "paper_sulphur_charge_2_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -968,11 +980,14 @@
     "id" : "paper_sulphur_charge_3_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -985,11 +1000,14 @@
     "id" : "paper_sulphur_charge_4_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1002,11 +1020,14 @@
     "id" : "paper_sulphur_charge_5_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1019,11 +1040,14 @@
     "id" : "paper_sulphur_charge_6_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1036,11 +1060,14 @@
     "id" : "paper_sulphur_charge_7_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1053,11 +1080,14 @@
     "id" : "paper_sulphur_charge_8_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1070,11 +1100,14 @@
     "id" : "paper_sulphur_charge_9_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1087,9 +1120,11 @@
     "id" : "paper_sulphur_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1103,11 +1138,14 @@
     "id" : "paper_sulphur_charge_0_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1120,11 +1158,14 @@
     "id" : "paper_sulphur_charge_10_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1137,11 +1178,14 @@
     "id" : "paper_sulphur_charge_11_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1154,11 +1198,14 @@
     "id" : "paper_sulphur_charge_12_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1171,11 +1218,14 @@
     "id" : "paper_sulphur_charge_13_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1188,11 +1238,14 @@
     "id" : "paper_sulphur_charge_14_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1205,11 +1258,14 @@
     "id" : "paper_sulphur_charge_15_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1222,11 +1278,14 @@
     "id" : "paper_sulphur_charge_16_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1239,11 +1298,14 @@
     "id" : "paper_sulphur_charge_17_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1256,11 +1318,14 @@
     "id" : "paper_sulphur_charge_18_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1273,11 +1338,14 @@
     "id" : "paper_sulphur_charge_19_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1290,11 +1358,14 @@
     "id" : "paper_sulphur_charge_1_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1307,11 +1378,14 @@
     "id" : "paper_sulphur_charge_2_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1324,11 +1398,14 @@
     "id" : "paper_sulphur_charge_3_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1341,11 +1418,14 @@
     "id" : "paper_sulphur_charge_4_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1358,11 +1438,14 @@
     "id" : "paper_sulphur_charge_5_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1375,11 +1458,14 @@
     "id" : "paper_sulphur_charge_6_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1392,11 +1478,14 @@
     "id" : "paper_sulphur_charge_7_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1409,11 +1498,14 @@
     "id" : "paper_sulphur_charge_8_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1426,11 +1518,14 @@
     "id" : "paper_sulphur_charge_9_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 384
+      "id" : 384,
+      "damage" : 32767
     }, {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
-      "id" : 510
+      "id" : 510,
+      "damage" : 32767
     } ],
     "output" : [ {
       "id" : 509,
@@ -1440,29 +1535,17 @@
     "block" : "crafting_table",
     "priority" : 50
   }, {
-    "id" : "paper_sulphur_dye_0_recipeId",
-    "type" : 0,
-    "input" : [ {
-      "id" : 328
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 510,
-      "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d/wA="
-    } ],
-    "block" : "crafting_table",
-    "priority" : 50
-  }, {
     "id" : "paper_sulphur_dye_10_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 403
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 10,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yH8eA/wA="
     } ],
     "block" : "crafting_table",
@@ -1471,12 +1554,14 @@
     "id" : "paper_sulphur_dye_11_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 404
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 11,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yPdj+/wA="
     } ],
     "block" : "crafting_table",
@@ -1485,12 +1570,14 @@
     "id" : "paper_sulphur_dye_12_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 405
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 12,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y2rM6/wA="
     } ],
     "block" : "crafting_table",
@@ -1499,12 +1586,14 @@
     "id" : "paper_sulphur_dye_13_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 406
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 13,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yvU7H/wA="
     } ],
     "block" : "crafting_table",
@@ -1513,27 +1602,15 @@
     "id" : "paper_sulphur_dye_14_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 407
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 14,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yHYD5/wA="
-    } ],
-    "block" : "crafting_table",
-    "priority" : 50
-  }, {
-    "id" : "paper_sulphur_dye_15_recipeId",
-    "type" : 0,
-    "input" : [ {
-      "id" : 328
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 510,
-      "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
     } ],
     "block" : "crafting_table",
     "priority" : 50
@@ -1541,7 +1618,8 @@
     "id" : "paper_sulphur_dye_16_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 393
     } ],
@@ -1555,12 +1633,14 @@
     "id" : "paper_sulphur_dye_17_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 396
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 3,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
     } ],
     "block" : "crafting_table",
@@ -1569,12 +1649,14 @@
     "id" : "paper_sulphur_dye_18_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 397
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 4,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
     } ],
     "block" : "crafting_table",
@@ -1583,12 +1665,14 @@
     "id" : "paper_sulphur_dye_19_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 408
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 15,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
     } ],
     "block" : "crafting_table",
@@ -1597,12 +1681,14 @@
     "id" : "paper_sulphur_dye_1_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 394
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 1,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yJi6w/wA="
     } ],
     "block" : "crafting_table",
@@ -1611,42 +1697,15 @@
     "id" : "paper_sulphur_dye_2_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 395
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 2,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yFnxe/wA="
-    } ],
-    "block" : "crafting_table",
-    "priority" : 50
-  }, {
-    "id" : "paper_sulphur_dye_3_recipeId",
-    "type" : 0,
-    "input" : [ {
-      "id" : 328
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 510,
-      "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
-    } ],
-    "block" : "crafting_table",
-    "priority" : 50
-  }, {
-    "id" : "paper_sulphur_dye_4_recipeId",
-    "type" : 0,
-    "input" : [ {
-      "id" : 328
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 510,
-      "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
     } ],
     "block" : "crafting_table",
     "priority" : 50
@@ -1654,12 +1713,14 @@
     "id" : "paper_sulphur_dye_5_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 398
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 5,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yuDKJ/wA="
     } ],
     "block" : "crafting_table",
@@ -1668,12 +1729,14 @@
     "id" : "paper_sulphur_dye_6_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 399
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 6,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9ynJwW/wA="
     } ],
     "block" : "crafting_table",
@@ -1682,12 +1745,14 @@
     "id" : "paper_sulphur_dye_7_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 400
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 7,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yl52d/wA="
     } ],
     "block" : "crafting_table",
@@ -1696,12 +1761,14 @@
     "id" : "paper_sulphur_dye_8_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 401
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 8,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yUk9H/wA="
     } ],
     "block" : "crafting_table",
@@ -1710,242 +1777,20 @@
     "id" : "paper_sulphur_dye_9_recipeId",
     "type" : 0,
     "input" : [ {
-      "id" : 328
+      "id" : 328,
+      "damage" : 32767
     }, {
       "id" : 402
     } ],
     "output" : [ {
       "id" : 510,
+      "damage" : 9,
       "nbt_b64" : "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqovz/wA="
     } ],
     "block" : "crafting_table",
     "priority" : 50
   } ],
   "shulker_boxes" : [ {
-    "id" : "shulkerBox_shulker_box_color_block_0_10_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 5
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_11_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 4
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_12_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 3
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_13_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 2
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_14_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 1
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_15_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_1_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 14
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_2_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 13
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_3_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 12
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_4_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 11
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_5_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 10
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_6_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 9
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_7_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 8
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_8_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 7
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_0_9_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 6
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
     "id" : "shulkerBox_shulker_box_color_block_10_0_0",
     "type" : 5,
     "input" : [ {
@@ -3062,216 +2907,6 @@
     "output" : [ {
       "id" : 218,
       "damage" : 1
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_0_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 15
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_10_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 5
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_11_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 4
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_12_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 3
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_13_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 2
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_14_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 1
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_1_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 14
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_2_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 13
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_3_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 12
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_4_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 11
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_5_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 10
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_6_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 9
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_7_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 8
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_8_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 7
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_15_9_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 6
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
     } ],
     "block" : "crafting_table",
     "priority" : 0
@@ -4606,469 +4241,6 @@
     "block" : "crafting_table",
     "priority" : 0
   }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_0_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 15
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_10_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 5
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_11_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 4
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_12_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 3
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_13_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 2
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_14_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 1
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_15_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_1_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 14
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_2_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 13
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_4_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 11
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_5_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 10
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_6_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 9
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_7_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 8
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_8_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 7
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_3_9_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 6
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_0_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 15
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_10_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 5
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_11_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 4
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_12_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 3
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_13_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 2
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_14_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 1
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_15_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_1_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 14
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_2_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 13
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_3_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 12
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_5_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 10
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_6_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 9
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_7_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 8
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_8_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 7
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_block_4_9_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 218,
-      "damage" : 6
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
     "id" : "shulkerBox_shulker_box_color_block_5_0_0",
     "type" : 5,
     "input" : [ {
@@ -6189,20 +5361,6 @@
     "block" : "crafting_table",
     "priority" : 0
   }, {
-    "id" : "shulkerBox_shulker_box_color_dye_0_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 205
-    }, {
-      "id" : 411
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 15
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
     "id" : "shulkerBox_shulker_box_color_dye_10_0",
     "type" : 5,
     "input" : [ {
@@ -6269,19 +5427,6 @@
     "output" : [ {
       "id" : 218,
       "damage" : 1
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_dye_15_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 205
-    }, {
-      "id" : 409
-    } ],
-    "output" : [ {
-      "id" : 218
     } ],
     "block" : "crafting_table",
     "priority" : 0
@@ -6369,35 +5514,6 @@
     "block" : "crafting_table",
     "priority" : 0
   }, {
-    "id" : "shulkerBox_shulker_box_color_dye_3_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 205
-    }, {
-      "id" : 410,
-      "damage" : 3
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 12
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
-    "id" : "shulkerBox_shulker_box_color_dye_4_0",
-    "type" : 5,
-    "input" : [ {
-      "id" : 205
-    }, {
-      "id" : 412
-    } ],
-    "output" : [ {
-      "id" : 218,
-      "damage" : 11
-    } ],
-    "block" : "crafting_table",
-    "priority" : 0
-  }, {
     "id" : "shulkerBox_shulker_box_color_dye_5_0",
     "type" : 5,
     "input" : [ {
@@ -6467,5 +5583,937 @@
     } ],
     "block" : "crafting_table",
     "priority" : 0
+  } ],
+  "suspicious_stew" : [ {
+    "id" : "minecraft:suspicious_stew_from_allium",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 2
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 7
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_azure_bluet",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 3
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 3
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_blue_orchid",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 1
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 6
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_cornflower",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 9
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 1
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_dandelion",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 37,
+      "damage" : 32767
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 5
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_lily_of_the_valley",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 10
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 4
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_oxeye_daisy",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 8
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 8
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_poppy",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38
+    } ],
+    "output" : [ {
+      "id" : 579
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_tulip_orange",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 5
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 2
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_tulip_pink",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 7
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 2
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_tulip_red",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 4
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 2
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_tulip_white",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : 38,
+      "damage" : 6
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 2
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  }, {
+    "id" : "minecraft:suspicious_stew_from_wither_rose",
+    "type" : 0,
+    "input" : [ {
+      "id" : 39,
+      "damage" : 32767
+    }, {
+      "id" : 40,
+      "damage" : 32767
+    }, {
+      "id" : 321,
+      "damage" : 32767
+    }, {
+      "id" : -216,
+      "damage" : 32767
+    } ],
+    "output" : [ {
+      "id" : 579,
+      "damage" : 9
+    } ],
+    "block" : "crafting_table",
+    "priority" : 0
+  } ],
+  "tipped_arrows" : [ {
+    "id" : "weapon_arrow_recipe_10",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 10
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 11,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_11",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 11
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 12,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_12",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 12
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 13,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_13",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 13
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 14,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_14",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 14
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 15,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_15",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 15
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 16,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_16",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 16
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 17,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_17",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 17
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 18,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_18",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 18
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 19,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_19",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 19
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 20,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_20",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 20
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 21,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_21",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 21
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 22,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_22",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 22
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 23,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_23",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 23
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 24,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_24",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 24
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 25,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_25",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 25
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 26,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_26",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 26
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 27,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_27",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 27
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 28,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_28",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 28
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 29,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_29",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 29
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 30,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_30",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 30
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 31,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_31",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 31
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 32,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_32",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 32
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 33,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_33",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 33
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 34,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_34",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 34
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 35,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_35",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 35
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 36,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_36",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 36
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 37,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_37",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 37
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 38,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_38",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 38
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 39,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_39",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 39
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 40,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_40",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 40
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 41,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_41",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 41
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 42,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_42",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 42
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 43,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_5",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 5
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 6,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_6",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 6
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 7,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_7",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 7
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 8,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_8",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 8
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 9,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
+  }, {
+    "id" : "weapon_arrow_recipe_9",
+    "type" : 1,
+    "input" : [ {
+      "id" : 301
+    }, {
+      "id" : 552,
+      "damage" : 9
+    } ],
+    "output" : [ {
+      "id" : 301,
+      "damage" : 10,
+      "count" : 8
+    } ],
+    "shape" : [ "AAA", "ABA", "AAA" ],
+    "block" : "crafting_table",
+    "priority" : 50
   } ]
 }
