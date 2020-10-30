@@ -855,7 +855,8 @@
   },
   "entity.egg.throw": {
     "playsound_mapping": "random.bow",
-    "bedrock_mapping": "THROW"
+    "bedrock_mapping": "THROW",
+    "identifier": "minecraft:player"
   },
   "entity.elder_guardian.ambient": {
     "playsound_mapping": "mob.elderguardian.idle",
@@ -984,7 +985,8 @@
   },
   "entity.ender_pearl.throw": {
     "playsound_mapping": "random.bow",
-    "bedrock_mapping": "THROW"
+    "bedrock_mapping": "THROW",
+    "identifier": "minecraft:player"
   },
   "block.end_gateway.spawn": {
     "playsound_mapping": "block.end_portal.spawn",
@@ -3254,7 +3256,8 @@
   },
   "entity.snowball.throw": {
     "playsound_mapping": "random.bow",
-    "bedrock_mapping": "THROW"
+    "bedrock_mapping": "THROW",
+    "identifier": "minecraft:player"
   },
   "block.snow.break": {
     "playsound_mapping": "dig.snow",
@@ -3781,7 +3784,8 @@
   },
   "entity.witch.throw": {
     "playsound_mapping": "mob.witch.throw",
-    "bedrock_mapping": "THROW"
+    "bedrock_mapping": "THROW",
+    "identifier": "minecraft:witch"
   },
   "entity.wither.ambient": {
     "playsound_mapping": "mob.wither.ambient",
