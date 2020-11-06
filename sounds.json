@@ -357,11 +357,11 @@
   },
   "block.bell.use": {
     "playsound_mapping": "block.bell.hit",
-    "bedrock_mapping": "BELL_RING"
+    "bedrock_mapping": "BELL"
   },
   "block.bell.resonate": {
     "playsound_mapping": "block.bell.hit",
-    "bedrock_mapping": "BELL_RING"
+    "bedrock_mapping": "BELL"
   },
   "entity.blaze.ambient": {
     "playsound_mapping": "mob.blaze.breathe",
