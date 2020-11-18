@@ -2790,7 +2790,7 @@
     "is_block": true
   },
   "minecraft:oak_door": {
-    "bedrock_id": 324,
+    "bedrock_id": 359,
     "bedrock_data": 0,
     "is_block": true
   },
@@ -3640,82 +3640,82 @@
     "is_block": true
   },
   "minecraft:white_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 0,
     "is_block": true
   },
   "minecraft:orange_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 1,
     "is_block": true
   },
   "minecraft:magenta_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 2,
     "is_block": true
   },
   "minecraft:light_blue_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 3,
     "is_block": true
   },
   "minecraft:yellow_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 4,
     "is_block": true
   },
   "minecraft:lime_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 5,
     "is_block": true
   },
   "minecraft:pink_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 6,
     "is_block": true
   },
   "minecraft:gray_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 7,
     "is_block": true
   },
   "minecraft:light_gray_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 8,
     "is_block": true
   },
   "minecraft:cyan_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 9,
     "is_block": true
   },
   "minecraft:purple_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 10,
     "is_block": true
   },
   "minecraft:blue_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 11,
     "is_block": true
   },
   "minecraft:brown_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 12,
     "is_block": true
   },
   "minecraft:green_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 13,
     "is_block": true
   },
   "minecraft:red_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 14,
     "is_block": true
   },
   "minecraft:black_bed": {
-    "bedrock_id": 355,
+    "bedrock_id": 416,
     "bedrock_data": 15,
     "is_block": true
   },
@@ -4241,32 +4241,32 @@
     "is_block": false
   },
   "minecraft:skeleton_skull": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 0,
     "is_block": true
   },
   "minecraft:wither_skeleton_skull": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 1,
     "is_block": true
   },
   "minecraft:player_head": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 3,
     "is_block": true
   },
   "minecraft:zombie_head": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 2,
     "is_block": true
   },
   "minecraft:creeper_head": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 4,
     "is_block": true
   },
   "minecraft:dragon_head": {
-    "bedrock_id": 397,
+    "bedrock_id": 506,
     "bedrock_data": 5,
     "is_block": true
   },
