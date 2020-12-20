@@ -2018,7 +2018,8 @@
   },
   "item.nether_wart.plant": {
     "playsound_mapping": "",
-    "bedrock_mapping": "PLACE"
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:nether_wart[age=0]"
   },
   "block.stem.break": {
     "playsound_mapping": "block.stem.break",
