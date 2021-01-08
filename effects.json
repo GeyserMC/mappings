@@ -133,6 +133,15 @@
     "name": "UNFECT",
     "type": "soundEvent"
   },
+  "ENTITY_ENDERDRAGON_GROWL": {
+    "name": "mob.enderdragon.growl",
+    "volume": 64.0,
+    "pitch_sub": false,
+    "pitch_mul": 0.3,
+    "pitch_add": 0.8,
+    "relative": true,
+    "type": "playSound"
+  },
   "ENTITY_ENDERDRAGON_DEATH": {
     "identifier": "minecraft:ender_dragon",
     "name": "DEATH",
