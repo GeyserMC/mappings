@@ -1711,11 +1711,13 @@
   },
   "entity.lightning_bolt.impact": {
     "playsound_mapping": "ambient.weather.lightning.impact",
-    "bedrock_mapping": "THUNDER"
+    "bedrock_mapping": "EXPLODE",
+    "identifier": "minecraft:lightning_bolt"
   },
   "entity.lightning_bolt.thunder": {
     "playsound_mapping": "ambient.weather.thunder",
-    "bedrock_mapping": "THUNDER"
+    "bedrock_mapping": "THUNDER",
+    "identifier": "minecraft:lightning_bolt"
   },
   "entity.lingering_potion.throw": {
     "playsound_mapping": "random.bow",
