@@ -1750,7 +1750,8 @@
   },
   "entity.llama.spit": {
     "playsound_mapping": "mob.llama.spit",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SHOOT",
+    "identifier": "minecraft:llama"
   },
   "entity.llama.step": {
     "playsound_mapping": "mob.llama.step",
