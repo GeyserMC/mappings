@@ -1109,7 +1109,8 @@
   },
   "entity.fishing_bobber.splash": {
     "playsound_mapping": "random.splash",
-    "bedrock_mapping": "SPLASH"
+    "bedrock_mapping": "SPLASH",
+    "identifier": "minecraft:fishing_hook"
   },
   "entity.fishing_bobber.throw": {
     "playsound_mapping": "random.bow",
@@ -1749,7 +1750,8 @@
   },
   "entity.llama.spit": {
     "playsound_mapping": "mob.llama.spit",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SHOOT",
+    "identifier": "minecraft:llama"
   },
   "entity.llama.step": {
     "playsound_mapping": "mob.llama.step",
