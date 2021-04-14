@@ -70,6 +70,9 @@
 		"bedrockId": "minecraft:lava_drip_particle",
 		"bedrockNumericId": 27
 	},
+	"DRIPPING_OBBSIDIAN_TEAR": {
+		"eventType": "PARTICLE_OBSIDIAN_TEAR"
+	},
 	"DRIPPING_WATER": {
 		"eventType": "PARTICLE_DRIP_WATER",
 		"bedrockId": "minecraft:water_drip_particle",
@@ -101,10 +104,19 @@
 	"EXPLOSION_EMITTER": {
 		"bedrockId": "minecraft:huge_explosion_emitter"
 	},
+	"FALLING_HONEY": {
+		"bedrockId": "minecraft:honey_drip_particle"
+	},
 	"FALLING_LAVA": {
 		"eventType": "PARTICLE_DRIP_LAVA",
 		"bedrockId": "minecraft:lava_drip_particle",
 		"bedrockNumericId": 27
+	},
+	"FALLING_NECTAR": {
+		"bedrockId": "minecraft:nectar_drip_particle"
+	},
+	"FALLING_OBSIDIAN_TEAR": {
+		"bedrockId": "minecraft:obsidian_tear_particle"
 	},
 	"FALLING_WATER": {
 		"eventType": "PARTICLE_DRIP_WATER",
@@ -188,6 +200,13 @@
 	"RAIN": {
 		"eventType": "PARTICLE_RAIN_SPLASH",
 		"bedrockNumericId": 35
+	},
+	"SOUL": {
+		"eventType": "PARTICLE_SOUL",
+		"bedrockId": "minecraft:soul_particle"
+	},
+	"SOUL_FLAME": {
+		"bedrockId": "minecraft:blue_flame_particle"
 	},
 	"SMOKE": {
 		"eventType": "PARTICLE_SMOKE",
