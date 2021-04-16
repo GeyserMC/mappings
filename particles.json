@@ -115,9 +115,6 @@
 	"FALLING_NECTAR": {
 		"bedrockId": "minecraft:nectar_drip_particle"
 	},
-	"FALLING_OBSIDIAN_TEAR": {
-		"bedrockId": "minecraft:obsidian_tear_particle"
-	},
 	"FALLING_WATER": {
 		"eventType": "PARTICLE_DRIP_WATER",
 		"bedrockId": "water_splash_particle",
