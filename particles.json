@@ -9,6 +9,12 @@
 		"bedrockId": "minecraft:villager_angry",
 		"bedrockNumericId": 36
 	},
+	"ASH": {
+		"bedrockId": "geyseropt:ash"
+	},
+	"BARRIER": {
+		"bedrockId": "geyseropt:barrier"
+	},
 	"BUBBLE": {
 		"eventType": "PARTICLE_BUBBLE",
 		"bedrockId": "basic_bubble_particle_manual",
@@ -43,6 +49,9 @@
 		"bedrockId": "minecraft:villager_happy",
 		"bedrockNumericId": 37
 	},
+	"CRIMSON_SPORE": {
+		"bedrockId": "geyseropt:crimson_spore"
+	},
 	"CRIT": {
 		"eventType": "PARTICLE_CRITICAL",
 		"bedrockId": "minecraft:critical_hit_emitter",
@@ -52,6 +61,9 @@
 		"eventType": "PARTICLE_BUBBLE_COLUMN_DOWN",
 		"bedrockId": "minecraft:bubble_column_down_particle",
 		"bedrockNumericId": 57
+	},
+	"DAMAGE_INDICATOR": {
+		"bedrockId": "geyseropt:damage_indicator"
 	},
 	"DOLPHIN": {
 		"bedrockId": "minecraft:dolphin_move_particle"
@@ -85,6 +97,9 @@
 		"eventType": "PARTICLE_ENCHANTMENT_TABLE",
 		"bedrockId": "minecraft:enchanting_table_particle",
 		"bedrockNumericId": 38
+	},
+	"ENCHANTED_HIT": {
+		"bedrockId": "geyseropt:enchanted_hit_single"
 	},
 	"END_ROD": {
 		"eventType": "PARTICLE_END_ROD",
@@ -135,6 +150,9 @@
 		"bedrockId": "minecraft:basic_flame_particle",
 		"bedrockNumericId": 8
 	},
+	"FLASH": {
+		"bedrockId": "geyseropt:flash"
+	},
 	"HAPPY_VILLAGER": {
 		"eventType": "PARTICLE_VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy",
@@ -177,7 +195,7 @@
 		"bedrockId": "minecraft:mycelium_dust_particle"
 	},
 	"NAUTILUS": {
-		"bedrockId": "minecraft:nautilus"
+		"bedrockId": "geyseropt:nautilus"
 	},
 	"NOTE": {
 		"eventType": "PARTICLE_NOTE",
@@ -228,13 +246,25 @@
 		"bedrockId": "minecraft:llama_spit_smoke",
 		"bedrockNumericId": 46
 	},
+	"SWEEP_ATTACK": {
+		"bedrockId": "geyseropt:sweep_attack"
+	},
 	"TOTEM_OF_UNDYING": {
 		"eventType": "PARTICLE_TOTEM",
 		"bedrockId": "minecraft:totem_particle",
 		"bedrockNumericId": 47
 	},
+	"UNDERWATER": {
+		"bedrockId": "geyseropt:underwater"
+	},
+	"WARPED_SPORE": {
+		"bedrockId": "geyseropt:warped_spore"
+	},
 	"WITCH": {
 		"eventType": "PARTICLE_WITCH_SPELL",
 		"bedrockNumericId": 41
+	},
+	"WHITE_ASH": {
+		"bedrockId": "geyseropt:white_ash"
 	}
 }
