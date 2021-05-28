@@ -743,16 +743,6 @@
     "bedrock_data": 2,
     "blockRuntimeId": 280
   },
-  "minecraft:powered_rail": {
-    "bedrock_id": 27,
-    "bedrock_data": 0,
-    "blockRuntimeId": 1350
-  },
-  "minecraft:detector_rail": {
-    "bedrock_id": 28,
-    "bedrock_data": 0,
-    "blockRuntimeId": 1374
-  },
   "minecraft:cobweb": {
     "bedrock_id": 30,
     "bedrock_data": 0,
@@ -1257,11 +1247,6 @@
     "bedrock_id": 65,
     "bedrock_data": 0,
     "blockRuntimeId": 3695
-  },
-  "minecraft:rail": {
-    "bedrock_id": 66,
-    "bedrock_data": 0,
-    "blockRuntimeId": 3703
   },
   "minecraft:cobblestone_stairs": {
     "bedrock_id": 67,
@@ -1782,11 +1767,6 @@
     "bedrock_id": 156,
     "bedrock_data": 0,
     "blockRuntimeId": 6960
-  },
-  "minecraft:activator_rail": {
-    "bedrock_id": 126,
-    "bedrock_data": 0,
-    "blockRuntimeId": 7042
   },
   "minecraft:white_terracotta": {
     "bedrock_id": 159,
@@ -3320,6 +3300,101 @@
     "bedrock_data": 0,
     "blockRuntimeId": 15548
   },
+  "minecraft:powered_rail": {
+    "bedrock_id": 27,
+    "bedrock_data": 0,
+    "blockRuntimeId": 1350
+  },
+  "minecraft:detector_rail": {
+    "bedrock_id": 28,
+    "bedrock_data": 0,
+    "blockRuntimeId": 1374
+  },
+  "minecraft:rail": {
+    "bedrock_id": 66,
+    "bedrock_data": 0,
+    "blockRuntimeId": 3703
+  },
+  "minecraft:activator_rail": {
+    "bedrock_id": 126,
+    "bedrock_data": 0,
+    "blockRuntimeId": 7042
+  },
+  "minecraft:saddle": {
+    "bedrock_id": 372,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:minecart": {
+    "bedrock_id": 371,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:chest_minecart": {
+    "bedrock_id": 390,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:furnace_minecart": {
+    "bedrock_id": 522,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:tnt_minecart": {
+    "bedrock_id": 521,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:hopper_minecart": {
+    "bedrock_id": 522,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:carrot_on_a_stick": {
+    "bedrock_id": 513,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "bedrock_id": 612,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:elytra": {
+    "bedrock_id": 560,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:oak_boat": {
+    "bedrock_id": 376,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:spruce_boat": {
+    "bedrock_id": 379,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:birch_boat": {
+    "bedrock_id": 377,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:jungle_boat": {
+    "bedrock_id": 378,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:acacia_boat": {
+    "bedrock_id": 380,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
+  "minecraft:dark_oak_boat": {
+    "bedrock_id": 381,
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
   "minecraft:structure_block": {
     "bedrock_id": 252,
     "bedrock_data": 0,
@@ -3873,25 +3948,16 @@
     "bedrock_data": 0,
     "stack_size": 1
   },
-  "minecraft:minecart": {
-    "bedrock_id": 371,
+  "minecraft:powder_snow_bucket": {
+    "bedrock_id": 368,
     "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:saddle": {
-    "bedrock_id": 372,
-    "bedrock_data": 0,
+    "blockRuntimeId": 17717,
     "stack_size": 1
   },
   "minecraft:snowball": {
     "bedrock_id": 375,
     "bedrock_data": 0,
     "stack_size": 16
-  },
-  "minecraft:oak_boat": {
-    "bedrock_id": 376,
-    "bedrock_data": 0,
-    "stack_size": 1
   },
   "minecraft:leather": {
     "bedrock_id": 382,
@@ -3951,16 +4017,6 @@
   "minecraft:slime_ball": {
     "bedrock_id": 389,
     "bedrock_data": 0
-  },
-  "minecraft:chest_minecart": {
-    "bedrock_id": 390,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:furnace_minecart": {
-    "bedrock_id": 522,
-    "bedrock_data": 0,
-    "stack_size": 1
   },
   "minecraft:egg": {
     "bedrock_id": 391,
@@ -4681,16 +4737,6 @@
     "bedrock_data": 5,
     "blockRuntimeId": 6796
   },
-  "minecraft:carrot_on_a_stick": {
-    "bedrock_id": 513,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:warped_fungus_on_a_stick": {
-    "bedrock_id": 612,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
   "minecraft:nether_star": {
     "bedrock_id": 514,
     "bedrock_data": 0
@@ -4715,16 +4761,6 @@
   "minecraft:nether_brick": {
     "bedrock_id": 112,
     "bedrock_data": 0
-  },
-  "minecraft:tnt_minecart": {
-    "bedrock_id": 521,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:hopper_minecart": {
-    "bedrock_id": 522,
-    "bedrock_data": 0,
-    "stack_size": 1
   },
   "minecraft:prismarine_shard": {
     "bedrock_id": 561,
@@ -4947,36 +4983,6 @@
   },
   "minecraft:shield": {
     "bedrock_id": 355,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:elytra": {
-    "bedrock_id": 560,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:spruce_boat": {
-    "bedrock_id": 379,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:birch_boat": {
-    "bedrock_id": 377,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:jungle_boat": {
-    "bedrock_id": 378,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:acacia_boat": {
-    "bedrock_id": 380,
-    "bedrock_data": 0,
-    "stack_size": 1
-  },
-  "minecraft:dark_oak_boat": {
-    "bedrock_id": 381,
     "bedrock_data": 0,
     "stack_size": 1
   },
@@ -5418,12 +5424,6 @@
     "bedrock_id": 248,
     "bedrock_data": 0,
     "blockRuntimeId": 17675
-  },
-  "minecraft:powder_snow_bucket": {
-    "bedrock_id": 368,
-    "bedrock_data": 0,
-    "blockRuntimeId": 17717,
-    "stack_size": 1
   },
   "minecraft:pointed_dripstone": {
     "bedrock_id": -308,
