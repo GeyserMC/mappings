@@ -700,7 +700,8 @@
   },
   "minecraft:flowering_azalea_leaves": {
     "bedrock_id": 248,
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "blockRuntimeId": 259
   },
   "minecraft:sponge": {
     "bedrock_id": 19,
@@ -4672,7 +4673,7 @@
     "bedrock_data": 0
   },
   "minecraft:glow_item_frame": {
-    "bedrock_id": 248,
+    "bedrock_id": 621,
     "bedrock_data": 0
   },
   "minecraft:flower_pot": {
