@@ -1711,22 +1711,22 @@
   "minecraft:cobbled_deepslate_wall": {
     "bedrock_id": -382,
     "bedrock_data": 0,
-    "blockRuntimeId": 18782
+    "blockRuntimeId": 18776
   },
   "minecraft:polished_deepslate_wall": {
     "bedrock_id": -386,
     "bedrock_data": 0,
-    "blockRuntimeId": 19193
+    "blockRuntimeId": 19187
   },
   "minecraft:deepslate_brick_wall": {
     "bedrock_id": -394,
     "bedrock_data": 0,
-    "blockRuntimeId": 20015
+    "blockRuntimeId": 20009
   },
   "minecraft:deepslate_tile_wall": {
     "bedrock_id": -390,
     "bedrock_data": 0,
-    "blockRuntimeId": 19604
+    "blockRuntimeId": 19598
   },
   "minecraft:anvil": {
     "bedrock_id": 145,
