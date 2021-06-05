@@ -424,7 +424,7 @@
     "blockRuntimeId": 18147
   },
   "minecraft:waxed_copper_block": {
-    "bedrock_id": 248,
+    "bedrock_id": -344,
     "bedrock_data": 0,
     "blockRuntimeId": 18168
   },
