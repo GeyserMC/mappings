@@ -3031,7 +3031,7 @@
     "blockRuntimeId": 6916
   },
   "minecraft:sculk_sensor": {
-    "bedrock_id": -307,
+    "bedrock_id": 248,
     "bedrock_data": 0,
     "blockRuntimeId": 17719
   },
