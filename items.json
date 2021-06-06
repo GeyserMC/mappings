@@ -89,7 +89,7 @@
     "blockRuntimeId": 13
   },
   "minecraft:rooted_dirt": {
-    "bedrock_id": 248,
+    "bedrock_id": -318,
     "bedrock_data": 0,
     "blockRuntimeId": 18682
   },
@@ -699,7 +699,7 @@
     "blockRuntimeId": 245
   },
   "minecraft:flowering_azalea_leaves": {
-    "bedrock_id": 248,
+    "bedrock_id": -325,
     "bedrock_data": 0,
     "blockRuntimeId": 259
   },
@@ -1854,7 +1854,7 @@
     "blockRuntimeId": 7754
   },
   "minecraft:light": {
-    "bedrock_id": 248,
+    "bedrock_id": -215,
     "bedrock_data": 0,
     "blockRuntimeId": 7786
   },
@@ -1964,7 +1964,7 @@
     "blockRuntimeId": 7684
   },
   "minecraft:dirt_path": {
-    "bedrock_id": 248,
+    "bedrock_id": 198,
     "bedrock_data": 0,
     "blockRuntimeId": 9473
   },
@@ -4028,7 +4028,7 @@
     "bedrock_data": 0
   },
   "minecraft:bundle": {
-    "bedrock_id": 248,
+    "bedrock_id": 566,
     "bedrock_data": 0,
     "stack_size": 1
   },
@@ -5321,87 +5321,87 @@
     "blockRuntimeId": 16083
   },
   "minecraft:candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17361
   },
   "minecraft:white_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17377
   },
   "minecraft:orange_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17393
   },
   "minecraft:magenta_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17409
   },
   "minecraft:light_blue_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17425
   },
   "minecraft:yellow_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17441
   },
   "minecraft:lime_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17457
   },
   "minecraft:pink_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17473
   },
   "minecraft:gray_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17489
   },
   "minecraft:light_gray_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17505
   },
   "minecraft:cyan_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17521
   },
   "minecraft:purple_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17537
   },
   "minecraft:blue_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17553
   },
   "minecraft:brown_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17569
   },
   "minecraft:green_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17585
   },
   "minecraft:red_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17601
   },
   "minecraft:black_candle": {
-    "bedrock_id": 248,
+    "bedrock_id": -156,
     "bedrock_data": 0,
     "blockRuntimeId": 17617
   },
