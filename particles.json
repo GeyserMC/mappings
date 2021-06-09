@@ -68,7 +68,7 @@
 		"eventType": "PARTICLE_DRIP_LAVA",
 		"bedrockId": "minecraft:lava_drip_particle"
 	},
-	"DRIPPING_OBBSIDIAN_TEAR": {
+	"DRIPPING_OBSIDIAN_TEAR": {
 		"eventType": "PARTICLE_OBSIDIAN_TEAR"
 	},
 	"DRIPPING_WATER": {
