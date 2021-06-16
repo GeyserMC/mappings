@@ -210,5 +210,21 @@
   "BLOCK_SMITHING_TABLE_USE": {
     "name": "SMITHING_TABLE_USE",
     "type": "soundEvent"
+  },
+  "POINTED_DRIPSTONE_LAND": {
+    "name": "SOUND_POINTED_DRIPSTONE_LAND",
+    "type": "soundLevel"
+  },
+  "DRIP_WATER_INTO_CAULDRON": {
+    "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_WATER",
+    "type": "soundEvent"
+  },
+  "DRIP_LAVA_INTO_CAULDRON": {
+    "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_LAVA",
+    "type": "soundEvent"
+  },
+  "ENTITY_SKELETON_CONVERTED_TO_STRAY": {
+    "name": "CONVERT_TO_STRAY",
+    "type": "soundEvent"
   }
 }
