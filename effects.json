@@ -44,23 +44,7 @@
     "type": "soundEvent"
   },
   "RECORD": {
-    "type": "record",
-    "records": {
-      "0": "STOP_RECORD",
-      "909": "RECORD_13",
-      "910": "RECORD_CAT",
-      "911": "RECORD_BLOCKS",
-      "912": "RECORD_CHIRP",
-      "913": "RECORD_FAR",
-      "914": "RECORD_MALL",
-      "915": "RECORD_MELLOHI",
-      "916": "RECORD_STAL",
-      "917": "RECORD_STRAD",
-      "918": "RECORD_WARD",
-      "919": "RECORD_11",
-      "920": "RECORD_WAIT",
-      "921": "RECORD_PIGSTEP"
-    }
+    "type": "record"
   },
   "BLOCK_IRON_DOOR_CLOSE": {
     "name": "SOUND_DOOR_OPEN",
@@ -225,6 +209,22 @@
   },
   "BLOCK_SMITHING_TABLE_USE": {
     "name": "SMITHING_TABLE_USE",
+    "type": "soundEvent"
+  },
+  "POINTED_DRIPSTONE_LAND": {
+    "name": "SOUND_POINTED_DRIPSTONE_LAND",
+    "type": "soundLevel"
+  },
+  "DRIP_WATER_INTO_CAULDRON": {
+    "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_WATER",
+    "type": "soundEvent"
+  },
+  "DRIP_LAVA_INTO_CAULDRON": {
+    "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_LAVA",
+    "type": "soundEvent"
+  },
+  "ENTITY_SKELETON_CONVERTED_TO_STRAY": {
+    "name": "CONVERT_TO_STRAY",
     "type": "soundEvent"
   }
 }
