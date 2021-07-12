@@ -1524,7 +1524,7 @@
     "blockRuntimeId": 5215
   },
   "minecraft:nether_bricks": {
-    "bedrock_identifier": "minecraft:netherbrick",
+    "bedrock_identifier": "minecraft:nether_brick",
     "bedrock_data": 0,
     "blockRuntimeId": 5216
   },
@@ -2260,97 +2260,97 @@
     "stack_size": 1
   },
   "minecraft:white_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 0,
     "blockRuntimeId": 9532,
     "stack_size": 1
   },
   "minecraft:orange_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 1,
     "blockRuntimeId": 9538,
     "stack_size": 1
   },
   "minecraft:magenta_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 2,
     "blockRuntimeId": 9544,
     "stack_size": 1
   },
   "minecraft:light_blue_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 3,
     "blockRuntimeId": 9550,
     "stack_size": 1
   },
   "minecraft:yellow_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 4,
     "blockRuntimeId": 9556,
     "stack_size": 1
   },
   "minecraft:lime_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 5,
     "blockRuntimeId": 9562,
     "stack_size": 1
   },
   "minecraft:pink_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 6,
     "blockRuntimeId": 9568,
     "stack_size": 1
   },
   "minecraft:gray_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 7,
     "blockRuntimeId": 9574,
     "stack_size": 1
   },
   "minecraft:light_gray_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 8,
     "blockRuntimeId": 9580,
     "stack_size": 1
   },
   "minecraft:cyan_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 9,
     "blockRuntimeId": 9586,
     "stack_size": 1
   },
   "minecraft:purple_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 10,
     "blockRuntimeId": 9592,
     "stack_size": 1
   },
   "minecraft:blue_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 11,
     "blockRuntimeId": 9598,
     "stack_size": 1
   },
   "minecraft:brown_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 12,
     "blockRuntimeId": 9604,
     "stack_size": 1
   },
   "minecraft:green_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 13,
     "blockRuntimeId": 9610,
     "stack_size": 1
   },
   "minecraft:red_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 14,
     "blockRuntimeId": 9616,
     "stack_size": 1
   },
   "minecraft:black_shulker_box": {
-    "bedrock_identifier": "minecraft:undyed_shulker_box",
+    "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 15,
     "blockRuntimeId": 9622,
     "stack_size": 1
