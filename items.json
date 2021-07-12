@@ -69,7 +69,7 @@
     "blockRuntimeId": 18564
   },
   "minecraft:grass_block": {
-    "bedrock_identifier": "minecraft:tallgrass",
+    "bedrock_identifier": "minecraft:grass",
     "bedrock_data": 0,
     "blockRuntimeId": 9
   },
@@ -1249,7 +1249,7 @@
     "blockRuntimeId": 3695
   },
   "minecraft:cobblestone_stairs": {
-    "bedrock_identifier": "minecraft:normal_stone_stairs",
+    "bedrock_identifier": "minecraft:stone_stairs",
     "bedrock_data": 0,
     "blockRuntimeId": 3733
   },
@@ -1264,7 +1264,7 @@
     "blockRuntimeId": 3998
   },
   "minecraft:snow_block": {
-    "bedrock_identifier": "minecraft:snow_layer",
+    "bedrock_identifier": "minecraft:snow",
     "bedrock_data": 0,
     "blockRuntimeId": 3999
   },
