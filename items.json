@@ -5321,87 +5321,87 @@
     "blockRuntimeId": 16083
   },
   "minecraft:candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17361
   },
   "minecraft:white_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:white_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17377
   },
   "minecraft:orange_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:orange_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17393
   },
   "minecraft:magenta_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:magenta_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17409
   },
   "minecraft:light_blue_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:light_blue_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17425
   },
   "minecraft:yellow_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:yellow_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17441
   },
   "minecraft:lime_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:lime_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17457
   },
   "minecraft:pink_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:pink_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17473
   },
   "minecraft:gray_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:gray_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17489
   },
   "minecraft:light_gray_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:light_gray_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17505
   },
   "minecraft:cyan_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:cyan_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17521
   },
   "minecraft:purple_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:purple_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17537
   },
   "minecraft:blue_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:blue_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17553
   },
   "minecraft:brown_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:brown_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17569
   },
   "minecraft:green_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:green_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17585
   },
   "minecraft:red_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:red_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17601
   },
   "minecraft:black_candle": {
-    "bedrock_identifier": "minecraft:sea_pickle",
+    "bedrock_identifier": "minecraft:black_candle",
     "bedrock_data": 0,
     "blockRuntimeId": 17617
   },
