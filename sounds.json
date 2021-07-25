@@ -610,7 +610,7 @@
   },
   "item.bucket.empty_axolotl": {
     "playsound_mapping": "item.bucket.empty_axolotl",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BUCKET_EMPTY_FISH"
   },
   "item.bucket.empty_fish": {
     "playsound_mapping": "bucket.empty_fish",
@@ -622,7 +622,7 @@
   },
   "item.bucket.empty_powder_snow": {
     "playsound_mapping": "item.bucket.empty_powder_snow",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BUCKET_EMPTY_POWDER_SNOW"
   },
   "item.bucket.fill": {
     "playsound_mapping": "bucket.fill_water",
@@ -630,7 +630,7 @@
   },
   "item.bucket.fill_axolotl": {
     "playsound_mapping": "item.bucket.fill_axolotl",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BUCKET_FILL_FISH"
   },
   "item.bucket.fill_fish": {
     "playsound_mapping": "bucket.fill_fish",
@@ -642,7 +642,7 @@
   },
   "item.bucket.fill_powder_snow": {
     "playsound_mapping": "item.bucket.fill_powder_snow",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BUCKET_FILL_POWDER_SNOW"
   },
   "block.cake.add_candle": {
     "playsound_mapping": "block.cake.add_candle",
