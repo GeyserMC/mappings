@@ -3725,17 +3725,23 @@
   "minecraft:carrot_on_a_stick": {
     "bedrock_identifier": "minecraft:carrot_on_a_stick",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 25
   },
   "minecraft:warped_fungus_on_a_stick": {
     "bedrock_identifier": "minecraft:warped_fungus_on_a_stick",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 100
   },
   "minecraft:elytra": {
     "bedrock_identifier": "minecraft:elytra",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 432,
+    "repair_materials": [
+      "minecraft:phantom_membrane"
+    ]
   },
   "minecraft:oak_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
@@ -3782,7 +3788,11 @@
   "minecraft:turtle_helmet": {
     "bedrock_identifier": "minecraft:turtle_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 275,
+    "repair_materials": [
+      "minecraft:scute"
+    ]
   },
   "minecraft:scute": {
     "bedrock_identifier": "minecraft:scute",
@@ -3791,7 +3801,8 @@
   "minecraft:flint_and_steel": {
     "bedrock_identifier": "minecraft:flint_and_steel",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 64
   },
   "minecraft:apple": {
     "bedrock_identifier": "minecraft:apple",
@@ -3800,7 +3811,8 @@
   "minecraft:bow": {
     "bedrock_identifier": "minecraft:bow",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 384
   },
   "minecraft:arrow": {
     "bedrock_identifier": "minecraft:arrow",
@@ -3871,210 +3883,375 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "wooden"
+    "tool_tier": "wooden",
+    "max_damage": 59,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:wooden_shovel": {
     "bedrock_identifier": "minecraft:wooden_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "wooden"
+    "tool_tier": "wooden",
+    "max_damage": 59,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:wooden_pickaxe": {
     "bedrock_identifier": "minecraft:wooden_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "wooden"
+    "tool_tier": "wooden",
+    "max_damage": 59,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:wooden_axe": {
     "bedrock_identifier": "minecraft:wooden_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "wooden"
+    "tool_tier": "wooden",
+    "max_damage": 59,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:wooden_hoe": {
     "bedrock_identifier": "minecraft:wooden_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "wooden"
+    "tool_tier": "wooden",
+    "max_damage": 59,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:stone_sword": {
     "bedrock_identifier": "minecraft:stone_sword",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "stone"
+    "tool_tier": "stone",
+    "max_damage": 131,
+    "repair_materials": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ]
   },
   "minecraft:stone_shovel": {
     "bedrock_identifier": "minecraft:stone_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "stone"
+    "tool_tier": "stone",
+    "max_damage": 131,
+    "repair_materials": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ]
   },
   "minecraft:stone_pickaxe": {
     "bedrock_identifier": "minecraft:stone_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "stone"
+    "tool_tier": "stone",
+    "max_damage": 131,
+    "repair_materials": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ]
   },
   "minecraft:stone_axe": {
     "bedrock_identifier": "minecraft:stone_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "stone"
+    "tool_tier": "stone",
+    "max_damage": 131,
+    "repair_materials": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ]
   },
   "minecraft:stone_hoe": {
     "bedrock_identifier": "minecraft:stone_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "stone"
+    "tool_tier": "stone",
+    "max_damage": 131,
+    "repair_materials": [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:blackstone"
+    ]
   },
   "minecraft:golden_sword": {
     "bedrock_identifier": "minecraft:golden_sword",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "golden"
+    "tool_tier": "golden",
+    "max_damage": 32,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_shovel": {
     "bedrock_identifier": "minecraft:golden_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "golden"
+    "tool_tier": "golden",
+    "max_damage": 32,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_pickaxe": {
     "bedrock_identifier": "minecraft:golden_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "golden"
+    "tool_tier": "golden",
+    "max_damage": 32,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_axe": {
     "bedrock_identifier": "minecraft:golden_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "golden"
+    "tool_tier": "golden",
+    "max_damage": 32,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_hoe": {
     "bedrock_identifier": "minecraft:golden_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "golden"
+    "tool_tier": "golden",
+    "max_damage": 32,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:iron_sword": {
     "bedrock_identifier": "minecraft:iron_sword",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "iron"
+    "tool_tier": "iron",
+    "max_damage": 250,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_shovel": {
     "bedrock_identifier": "minecraft:iron_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "iron"
+    "tool_tier": "iron",
+    "max_damage": 250,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_pickaxe": {
     "bedrock_identifier": "minecraft:iron_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "iron"
+    "tool_tier": "iron",
+    "max_damage": 250,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_axe": {
     "bedrock_identifier": "minecraft:iron_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "iron"
+    "tool_tier": "iron",
+    "max_damage": 250,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_hoe": {
     "bedrock_identifier": "minecraft:iron_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "iron"
+    "tool_tier": "iron",
+    "max_damage": 250,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:diamond_sword": {
     "bedrock_identifier": "minecraft:diamond_sword",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "diamond"
+    "tool_tier": "diamond",
+    "max_damage": 1561,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_shovel": {
     "bedrock_identifier": "minecraft:diamond_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "diamond"
+    "tool_tier": "diamond",
+    "max_damage": 1561,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_pickaxe": {
     "bedrock_identifier": "minecraft:diamond_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "diamond"
+    "tool_tier": "diamond",
+    "max_damage": 1561,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_axe": {
     "bedrock_identifier": "minecraft:diamond_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "diamond"
+    "tool_tier": "diamond",
+    "max_damage": 1561,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_hoe": {
     "bedrock_identifier": "minecraft:diamond_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "diamond"
+    "tool_tier": "diamond",
+    "max_damage": 1561,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:netherite_sword": {
     "bedrock_identifier": "minecraft:netherite_sword",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "sword",
-    "tool_tier": "netherite"
+    "tool_tier": "netherite",
+    "max_damage": 2031,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_shovel": {
     "bedrock_identifier": "minecraft:netherite_shovel",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "shovel",
-    "tool_tier": "netherite"
+    "tool_tier": "netherite",
+    "max_damage": 2031,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_pickaxe": {
     "bedrock_identifier": "minecraft:netherite_pickaxe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "pickaxe",
-    "tool_tier": "netherite"
+    "tool_tier": "netherite",
+    "max_damage": 2031,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_axe": {
     "bedrock_identifier": "minecraft:netherite_axe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "axe",
-    "tool_tier": "netherite"
+    "tool_tier": "netherite",
+    "max_damage": 2031,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_hoe": {
     "bedrock_identifier": "minecraft:netherite_hoe",
     "bedrock_data": 0,
     "stack_size": 1,
     "tool_type": "hoe",
-    "tool_tier": "netherite"
+    "tool_tier": "netherite",
+    "max_damage": 2031,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:stick": {
     "bedrock_identifier": "minecraft:stick",
@@ -4120,122 +4297,218 @@
   "minecraft:leather_helmet": {
     "bedrock_identifier": "minecraft:leather_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 55,
+    "repair_materials": [
+      "minecraft:leather"
+    ]
   },
   "minecraft:leather_chestplate": {
     "bedrock_identifier": "minecraft:leather_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 80,
+    "repair_materials": [
+      "minecraft:leather"
+    ]
   },
   "minecraft:leather_leggings": {
     "bedrock_identifier": "minecraft:leather_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 75,
+    "repair_materials": [
+      "minecraft:leather"
+    ]
   },
   "minecraft:leather_boots": {
     "bedrock_identifier": "minecraft:leather_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 65,
+    "repair_materials": [
+      "minecraft:leather"
+    ]
   },
   "minecraft:chainmail_helmet": {
     "bedrock_identifier": "minecraft:chainmail_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 165,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:chainmail_chestplate": {
     "bedrock_identifier": "minecraft:chainmail_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 240,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:chainmail_leggings": {
     "bedrock_identifier": "minecraft:chainmail_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 225,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:chainmail_boots": {
     "bedrock_identifier": "minecraft:chainmail_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 195,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_helmet": {
     "bedrock_identifier": "minecraft:iron_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 165,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_chestplate": {
     "bedrock_identifier": "minecraft:iron_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 240,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_leggings": {
     "bedrock_identifier": "minecraft:iron_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 225,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:iron_boots": {
     "bedrock_identifier": "minecraft:iron_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 195,
+    "repair_materials": [
+      "minecraft:iron_ingot"
+    ]
   },
   "minecraft:diamond_helmet": {
     "bedrock_identifier": "minecraft:diamond_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 363,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_chestplate": {
     "bedrock_identifier": "minecraft:diamond_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 528,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_leggings": {
     "bedrock_identifier": "minecraft:diamond_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 495,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:diamond_boots": {
     "bedrock_identifier": "minecraft:diamond_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 429,
+    "repair_materials": [
+      "minecraft:diamond"
+    ]
   },
   "minecraft:golden_helmet": {
     "bedrock_identifier": "minecraft:golden_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 77,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_chestplate": {
     "bedrock_identifier": "minecraft:golden_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 112,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_leggings": {
     "bedrock_identifier": "minecraft:golden_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 105,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:golden_boots": {
     "bedrock_identifier": "minecraft:golden_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 91,
+    "repair_materials": [
+      "minecraft:gold_ingot"
+    ]
   },
   "minecraft:netherite_helmet": {
     "bedrock_identifier": "minecraft:netherite_helmet",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 407,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_chestplate": {
     "bedrock_identifier": "minecraft:netherite_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 592,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_leggings": {
     "bedrock_identifier": "minecraft:netherite_leggings",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 555,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:netherite_boots": {
     "bedrock_identifier": "minecraft:netherite_boots",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 481,
+    "repair_materials": [
+      "minecraft:netherite_ingot"
+    ]
   },
   "minecraft:flint": {
     "bedrock_identifier": "minecraft:flint",
@@ -4419,7 +4692,8 @@
   "minecraft:fishing_rod": {
     "bedrock_identifier": "minecraft:fishing_rod",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 64
   },
   "minecraft:clock": {
     "bedrock_identifier": "minecraft:clock",
@@ -4679,7 +4953,8 @@
     "bedrock_identifier": "minecraft:shears",
     "bedrock_data": 0,
     "stack_size": 1,
-    "tool_type": "shears"
+    "tool_type": "shears",
+    "max_damage": 238
   },
   "minecraft:melon_slice": {
     "bedrock_identifier": "minecraft:melon_slice",
@@ -5415,7 +5690,18 @@
   "minecraft:shield": {
     "bedrock_identifier": "minecraft:shield",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 336,
+    "repair_materials": [
+      "minecraft:oak_planks",
+      "minecraft:spruce_planks",
+      "minecraft:birch_planks",
+      "minecraft:jungle_planks",
+      "minecraft:acacia_planks",
+      "minecraft:dark_oak_planks",
+      "minecraft:crimson_planks",
+      "minecraft:warped_planks"
+    ]
   },
   "minecraft:totem_of_undying": {
     "bedrock_identifier": "minecraft:totem_of_undying",
@@ -5508,7 +5794,8 @@
   "minecraft:trident": {
     "bedrock_identifier": "minecraft:trident",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 250
   },
   "minecraft:phantom_membrane": {
     "bedrock_identifier": "minecraft:phantom_membrane",
@@ -5525,7 +5812,8 @@
   "minecraft:crossbow": {
     "bedrock_identifier": "minecraft:crossbow",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "max_damage": 326
   },
   "minecraft:suspicious_stew": {
     "bedrock_identifier": "minecraft:suspicious_stew",

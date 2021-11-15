@@ -1,0 +1,851 @@
+{
+  "minecraft:fire_protection": {
+    "rarity": "uncommon",
+    "max_level": 4,
+    "incompatible_enchantments": [
+      "minecraft:protection",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection"
+    ],
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:knockback": {
+    "rarity": "uncommon",
+    "max_level": 2,
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:stone_sword",
+      "minecraft:golden_sword",
+      "minecraft:iron_sword",
+      "minecraft:diamond_sword",
+      "minecraft:netherite_sword"
+    ]
+  },
+  "minecraft:mending": {
+    "rarity": "rare",
+    "max_level": 1,
+    "incompatible_enchantments": [
+      "minecraft:infinity"
+    ],
+    "valid_items": [
+      "minecraft:carrot_on_a_stick",
+      "minecraft:warped_fungus_on_a_stick",
+      "minecraft:elytra",
+      "minecraft:turtle_helmet",
+      "minecraft:flint_and_steel",
+      "minecraft:bow",
+      "minecraft:wooden_sword",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_sword",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_sword",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_sword",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots",
+      "minecraft:fishing_rod",
+      "minecraft:shears",
+      "minecraft:shield",
+      "minecraft:trident",
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:power": {
+    "rarity": "common",
+    "max_level": 5,
+    "valid_items": [
+      "minecraft:bow"
+    ]
+  },
+  "minecraft:luck_of_the_sea": {
+    "rarity": "rare",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:silk_touch"
+    ],
+    "valid_items": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "minecraft:thorns": {
+    "rarity": "very_rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:sweeping": {
+    "rarity": "rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:stone_sword",
+      "minecraft:golden_sword",
+      "minecraft:iron_sword",
+      "minecraft:diamond_sword",
+      "minecraft:netherite_sword"
+    ]
+  },
+  "minecraft:feather_falling": {
+    "rarity": "uncommon",
+    "max_level": 4,
+    "valid_items": [
+      "minecraft:leather_boots",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_boots",
+      "minecraft:diamond_boots",
+      "minecraft:golden_boots",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:flame": {
+    "rarity": "rare",
+    "max_level": 1,
+    "valid_items": [
+      "minecraft:bow"
+    ]
+  },
+  "minecraft:binding_curse": {
+    "rarity": "very_rare",
+    "max_level": 1,
+    "valid_items": [
+      "minecraft:carved_pumpkin",
+      "minecraft:jack_o_lantern",
+      "minecraft:elytra",
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots",
+      "minecraft:skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:player_head",
+      "minecraft:zombie_head",
+      "minecraft:creeper_head",
+      "minecraft:dragon_head"
+    ]
+  },
+  "minecraft:aqua_affinity": {
+    "rarity": "rare",
+    "max_level": 1,
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:chainmail_helmet",
+      "minecraft:iron_helmet",
+      "minecraft:diamond_helmet",
+      "minecraft:golden_helmet",
+      "minecraft:netherite_helmet"
+    ]
+  },
+  "minecraft:projectile_protection": {
+    "rarity": "uncommon",
+    "max_level": 4,
+    "incompatible_enchantments": [
+      "minecraft:protection",
+      "minecraft:fire_protection",
+      "minecraft:blast_protection"
+    ],
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:smite": {
+    "rarity": "uncommon",
+    "max_level": 5,
+    "incompatible_enchantments": [
+      "minecraft:sharpness",
+      "minecraft:bane_of_arthropods"
+    ],
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:wooden_axe",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe",
+      "minecraft:golden_sword",
+      "minecraft:golden_axe",
+      "minecraft:iron_sword",
+      "minecraft:iron_axe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_axe"
+    ]
+  },
+  "minecraft:frost_walker": {
+    "rarity": "rare",
+    "max_level": 2,
+    "incompatible_enchantments": [
+      "minecraft:depth_strider"
+    ],
+    "valid_items": [
+      "minecraft:leather_boots",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_boots",
+      "minecraft:diamond_boots",
+      "minecraft:golden_boots",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:vanishing_curse": {
+    "rarity": "very_rare",
+    "max_level": 1,
+    "valid_items": [
+      "minecraft:carved_pumpkin",
+      "minecraft:jack_o_lantern",
+      "minecraft:carrot_on_a_stick",
+      "minecraft:warped_fungus_on_a_stick",
+      "minecraft:elytra",
+      "minecraft:turtle_helmet",
+      "minecraft:flint_and_steel",
+      "minecraft:bow",
+      "minecraft:wooden_sword",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_sword",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_sword",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_sword",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots",
+      "minecraft:compass",
+      "minecraft:fishing_rod",
+      "minecraft:shears",
+      "minecraft:skeleton_skull",
+      "minecraft:wither_skeleton_skull",
+      "minecraft:player_head",
+      "minecraft:zombie_head",
+      "minecraft:creeper_head",
+      "minecraft:dragon_head",
+      "minecraft:shield",
+      "minecraft:trident",
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:punch": {
+    "rarity": "rare",
+    "max_level": 2,
+    "valid_items": [
+      "minecraft:bow"
+    ]
+  },
+  "minecraft:blast_protection": {
+    "rarity": "rare",
+    "max_level": 4,
+    "incompatible_enchantments": [
+      "minecraft:protection",
+      "minecraft:fire_protection",
+      "minecraft:projectile_protection"
+    ],
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:impaling": {
+    "rarity": "rare",
+    "max_level": 5,
+    "valid_items": [
+      "minecraft:trident"
+    ]
+  },
+  "minecraft:bane_of_arthropods": {
+    "rarity": "uncommon",
+    "max_level": 5,
+    "incompatible_enchantments": [
+      "minecraft:sharpness",
+      "minecraft:smite"
+    ],
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:wooden_axe",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe",
+      "minecraft:golden_sword",
+      "minecraft:golden_axe",
+      "minecraft:iron_sword",
+      "minecraft:iron_axe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_axe"
+    ]
+  },
+  "minecraft:sharpness": {
+    "rarity": "common",
+    "max_level": 5,
+    "incompatible_enchantments": [
+      "minecraft:smite",
+      "minecraft:bane_of_arthropods"
+    ],
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:wooden_axe",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe",
+      "minecraft:golden_sword",
+      "minecraft:golden_axe",
+      "minecraft:iron_sword",
+      "minecraft:iron_axe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_axe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_axe"
+    ]
+  },
+  "minecraft:efficiency": {
+    "rarity": "common",
+    "max_level": 5,
+    "valid_items": [
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:shears"
+    ]
+  },
+  "minecraft:silk_touch": {
+    "rarity": "very_rare",
+    "max_level": 1,
+    "incompatible_enchantments": [
+      "minecraft:looting",
+      "minecraft:fortune",
+      "minecraft:luck_of_the_sea"
+    ],
+    "valid_items": [
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe"
+    ]
+  },
+  "minecraft:looting": {
+    "rarity": "rare",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:silk_touch"
+    ],
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:stone_sword",
+      "minecraft:golden_sword",
+      "minecraft:iron_sword",
+      "minecraft:diamond_sword",
+      "minecraft:netherite_sword"
+    ]
+  },
+  "minecraft:lure": {
+    "rarity": "rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:fishing_rod"
+    ]
+  },
+  "minecraft:depth_strider": {
+    "rarity": "rare",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:frost_walker"
+    ],
+    "valid_items": [
+      "minecraft:leather_boots",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_boots",
+      "minecraft:diamond_boots",
+      "minecraft:golden_boots",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:soul_speed": {
+    "rarity": "very_rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:leather_boots",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_boots",
+      "minecraft:diamond_boots",
+      "minecraft:golden_boots",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:respiration": {
+    "rarity": "rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:chainmail_helmet",
+      "minecraft:iron_helmet",
+      "minecraft:diamond_helmet",
+      "minecraft:golden_helmet",
+      "minecraft:netherite_helmet"
+    ]
+  },
+  "minecraft:fire_aspect": {
+    "rarity": "rare",
+    "max_level": 2,
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:stone_sword",
+      "minecraft:golden_sword",
+      "minecraft:iron_sword",
+      "minecraft:diamond_sword",
+      "minecraft:netherite_sword"
+    ]
+  },
+  "minecraft:piercing": {
+    "rarity": "common",
+    "max_level": 4,
+    "incompatible_enchantments": [
+      "minecraft:multishot"
+    ],
+    "valid_items": [
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:loyalty": {
+    "rarity": "uncommon",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:riptide"
+    ],
+    "valid_items": [
+      "minecraft:trident"
+    ]
+  },
+  "minecraft:unbreaking": {
+    "rarity": "uncommon",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:carrot_on_a_stick",
+      "minecraft:warped_fungus_on_a_stick",
+      "minecraft:elytra",
+      "minecraft:turtle_helmet",
+      "minecraft:flint_and_steel",
+      "minecraft:bow",
+      "minecraft:wooden_sword",
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_sword",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_sword",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_sword",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_sword",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots",
+      "minecraft:fishing_rod",
+      "minecraft:shears",
+      "minecraft:shield",
+      "minecraft:trident",
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:riptide": {
+    "rarity": "rare",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:loyalty",
+      "minecraft:channeling"
+    ],
+    "valid_items": [
+      "minecraft:trident"
+    ]
+  },
+  "minecraft:quick_charge": {
+    "rarity": "uncommon",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:protection": {
+    "rarity": "common",
+    "max_level": 4,
+    "incompatible_enchantments": [
+      "minecraft:fire_protection",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection"
+    ],
+    "valid_items": [
+      "minecraft:turtle_helmet",
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots",
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots",
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots",
+      "minecraft:netherite_helmet",
+      "minecraft:netherite_chestplate",
+      "minecraft:netherite_leggings",
+      "minecraft:netherite_boots"
+    ]
+  },
+  "minecraft:infinity": {
+    "rarity": "very_rare",
+    "max_level": 1,
+    "incompatible_enchantments": [
+      "minecraft:mending"
+    ],
+    "valid_items": [
+      "minecraft:bow"
+    ]
+  },
+  "minecraft:fortune": {
+    "rarity": "rare",
+    "max_level": 3,
+    "incompatible_enchantments": [
+      "minecraft:silk_touch"
+    ],
+    "valid_items": [
+      "minecraft:wooden_shovel",
+      "minecraft:wooden_pickaxe",
+      "minecraft:wooden_axe",
+      "minecraft:wooden_hoe",
+      "minecraft:stone_shovel",
+      "minecraft:stone_pickaxe",
+      "minecraft:stone_axe",
+      "minecraft:stone_hoe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe",
+      "minecraft:diamond_shovel",
+      "minecraft:diamond_pickaxe",
+      "minecraft:diamond_axe",
+      "minecraft:diamond_hoe",
+      "minecraft:netherite_shovel",
+      "minecraft:netherite_pickaxe",
+      "minecraft:netherite_axe",
+      "minecraft:netherite_hoe"
+    ]
+  },
+  "minecraft:multishot": {
+    "rarity": "rare",
+    "max_level": 1,
+    "incompatible_enchantments": [
+      "minecraft:piercing"
+    ],
+    "valid_items": [
+      "minecraft:crossbow"
+    ]
+  },
+  "minecraft:channeling": {
+    "rarity": "very_rare",
+    "max_level": 1,
+    "incompatible_enchantments": [
+      "minecraft:riptide"
+    ],
+    "valid_items": [
+      "minecraft:trident"
+    ]
+  }
+}
