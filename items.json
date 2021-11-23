@@ -3345,7 +3345,7 @@
     "lastBlockRuntimeId": 6931
   },
   "minecraft:sculk_sensor": {
-    "bedrock_identifier": "minecraft:info_update",
+    "bedrock_identifier": "minecraft:sculk_sensor",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 17718,
     "lastBlockRuntimeId": 17813
@@ -5786,6 +5786,11 @@
     "bedrock_data": 0,
     "stack_size": 1
   },
+  "minecraft:music_disc_otherside": {
+    "bedrock_identifier": "minecraft:music_disc_otherside",
+    "bedrock_data": 0,
+    "stack_size": 1
+  },
   "minecraft:music_disc_pigstep": {
     "bedrock_identifier": "minecraft:music_disc_pigstep",
     "bedrock_data": 0,
@@ -5813,7 +5818,7 @@
     "bedrock_identifier": "minecraft:crossbow",
     "bedrock_data": 0,
     "stack_size": 1,
-    "max_damage": 326
+    "max_damage": 465
   },
   "minecraft:suspicious_stew": {
     "bedrock_identifier": "minecraft:suspicious_stew",

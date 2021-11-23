@@ -644,6 +644,18 @@
     "playsound_mapping": "bucket.fill_powder_snow",
     "bedrock_mapping": "BUCKET_FILL_POWDER_SNOW"
   },
+  "item.bundle.drop_contents": {
+    "playsound_mapping": "item.bundle.drop_contents",
+    "bedrock_mapping": ""
+  },
+  "item.bundle.insert": {
+    "playsound_mapping": "item.bundle.insert",
+    "bedrock_mapping": ""
+  },
+  "item.bundle.remove_one": {
+    "playsound_mapping": "item.bundle.remove_one",
+    "bedrock_mapping": ""
+  },
   "block.cake.add_candle": {
     "playsound_mapping": "block.cake.add_candle",
     "bedrock_mapping": ""
@@ -1862,6 +1874,10 @@
     "playsound_mapping": "block.grindstone.use",
     "bedrock_mapping": "GRINDSTONE_USE"
   },
+  "block.growing_plant.crop": {
+    "playsound_mapping": "crop.growing_plant",
+    "bedrock_mapping": ""
+  },
   "entity.guardian.ambient": {
     "playsound_mapping": "mob.guardian.ambient",
     "bedrock_mapping": "AMBIENT"
@@ -2559,6 +2575,10 @@
     "playsound_mapping": "record.ward",
     "bedrock_mapping": "RECORD_WARD"
   },
+  "music_disc.otherside": {
+    "playsound_mapping": "music_disc.otherside",
+    "bedrock_mapping": ""
+  },
   "music.dragon": {
     "playsound_mapping": "music.game.endboss",
     "bedrock_mapping": ""
@@ -2579,16 +2599,48 @@
     "playsound_mapping": "music.nether.basalt_deltas",
     "bedrock_mapping": ""
   },
+  "music.nether.crimson_forest": {
+    "playsound_mapping": "music.nether.crimson_forest",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.dripstone_caves": {
+    "playsound_mapping": "music.overworld.dripstone_caves",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.grove": {
+    "playsound_mapping": "music.overworld.grove",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.jagged_peaks": {
+    "playsound_mapping": "music.overworld.jagged_peaks",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.lush_caves": {
+    "playsound_mapping": "music.overworld.lush_caves",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.meadow": {
+    "playsound_mapping": "music.overworld.meadow",
+    "bedrock_mapping": ""
+  },
   "music.nether.nether_wastes": {
     "playsound_mapping": "music.nether.nether_wastes",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.frozen_peaks": {
+    "playsound_mapping": "music.overworld.frozen_peaks",
+    "bedrock_mapping": ""
+  },
+  "music.overworld.snowy_slopes": {
+    "playsound_mapping": "music.overworld.snowy_slopes",
     "bedrock_mapping": ""
   },
   "music.nether.soul_sand_valley": {
     "playsound_mapping": "music.nether.soul_sand_valley",
     "bedrock_mapping": ""
   },
-  "music.nether.crimson_forest": {
-    "playsound_mapping": "music.nether.crimson_forest",
+  "music.overworld.stony_peaks": {
+    "playsound_mapping": "music.overworld.stony_peaks",
     "bedrock_mapping": ""
   },
   "music.nether.warped_forest": {
