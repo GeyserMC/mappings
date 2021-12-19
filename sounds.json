@@ -2556,7 +2556,7 @@
     "bedrock_mapping": "RECORD_MELLOHI"
   },
   "music_disc.pigstep": {
-    "playsound_mapping": "music_disc.pigstep",
+    "playsound_mapping": "record.pigstep",
     "bedrock_mapping": "RECORD_PIGSTEP"
   },
   "music_disc.stal": {
@@ -2576,8 +2576,8 @@
     "bedrock_mapping": "RECORD_WARD"
   },
   "music_disc.otherside": {
-    "playsound_mapping": "music_disc.otherside",
-    "bedrock_mapping": ""
+    "playsound_mapping": "record.otherside",
+    "bedrock_mapping": "RECORD_OTHERSIDE"
   },
   "music.dragon": {
     "playsound_mapping": "music.game.endboss",
