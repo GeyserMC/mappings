@@ -5852,7 +5852,7 @@
     "stack_size": 1
   },
   "minecraft:globe_banner_pattern": {
-    "bedrock_identifier": "minecraft:banner_pattern",
+    "bedrock_identifier": "minecraft:globe_banner_pattern",
     "bedrock_data": 0,
     "stack_size": 1
   },
