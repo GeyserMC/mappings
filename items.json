@@ -3789,7 +3789,10 @@
     "bedrock_identifier": "minecraft:turtle_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "turtle",
     "max_damage": 275,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:scute"
     ]
@@ -4298,7 +4301,10 @@
     "bedrock_identifier": "minecraft:leather_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "leather",
     "max_damage": 55,
+    "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
     ]
@@ -4307,7 +4313,10 @@
     "bedrock_identifier": "minecraft:leather_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "leather",
     "max_damage": 80,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:leather"
     ]
@@ -4316,7 +4325,10 @@
     "bedrock_identifier": "minecraft:leather_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "leather",
     "max_damage": 75,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:leather"
     ]
@@ -4325,7 +4337,10 @@
     "bedrock_identifier": "minecraft:leather_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "leather",
     "max_damage": 65,
+    "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
     ]
@@ -4334,7 +4349,10 @@
     "bedrock_identifier": "minecraft:chainmail_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "chainmail",
     "max_damage": 165,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4343,7 +4361,10 @@
     "bedrock_identifier": "minecraft:chainmail_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "chainmail",
     "max_damage": 240,
+    "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4352,7 +4373,10 @@
     "bedrock_identifier": "minecraft:chainmail_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "chainmail",
     "max_damage": 225,
+    "protection_value": 4,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4361,7 +4385,10 @@
     "bedrock_identifier": "minecraft:chainmail_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "chainmail",
     "max_damage": 195,
+    "protection_value": 1,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4370,7 +4397,10 @@
     "bedrock_identifier": "minecraft:iron_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "iron",
     "max_damage": 165,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4379,7 +4409,10 @@
     "bedrock_identifier": "minecraft:iron_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "iron",
     "max_damage": 240,
+    "protection_value": 6,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4388,7 +4421,10 @@
     "bedrock_identifier": "minecraft:iron_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "iron",
     "max_damage": 225,
+    "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4397,7 +4433,10 @@
     "bedrock_identifier": "minecraft:iron_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "iron",
     "max_damage": 195,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4406,7 +4445,10 @@
     "bedrock_identifier": "minecraft:diamond_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "diamond",
     "max_damage": 363,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4415,7 +4457,10 @@
     "bedrock_identifier": "minecraft:diamond_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "diamond",
     "max_damage": 528,
+    "protection_value": 8,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4424,7 +4469,10 @@
     "bedrock_identifier": "minecraft:diamond_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "diamond",
     "max_damage": 495,
+    "protection_value": 6,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4433,7 +4481,10 @@
     "bedrock_identifier": "minecraft:diamond_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "diamond",
     "max_damage": 429,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4442,7 +4493,10 @@
     "bedrock_identifier": "minecraft:golden_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "golden",
     "max_damage": 77,
+    "protection_value": 2,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4451,7 +4505,10 @@
     "bedrock_identifier": "minecraft:golden_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "golden",
     "max_damage": 112,
+    "protection_value": 5,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4460,7 +4517,10 @@
     "bedrock_identifier": "minecraft:golden_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "golden",
     "max_damage": 105,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4469,7 +4529,10 @@
     "bedrock_identifier": "minecraft:golden_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "golden",
     "max_damage": 91,
+    "protection_value": 1,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4478,7 +4541,10 @@
     "bedrock_identifier": "minecraft:netherite_helmet",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "helmet",
+    "armor_tier": "netherite",
     "max_damage": 407,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4487,7 +4553,10 @@
     "bedrock_identifier": "minecraft:netherite_chestplate",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "chestplate",
+    "armor_tier": "netherite",
     "max_damage": 592,
+    "protection_value": 8,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4496,7 +4565,10 @@
     "bedrock_identifier": "minecraft:netherite_leggings",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "leggings",
+    "armor_tier": "netherite",
     "max_damage": 555,
+    "protection_value": 6,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4505,7 +4577,10 @@
     "bedrock_identifier": "minecraft:netherite_boots",
     "bedrock_data": 0,
     "stack_size": 1,
+    "armor_type": "boots",
+    "armor_tier": "netherite",
     "max_damage": 481,
+    "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
