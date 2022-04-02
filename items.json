@@ -934,67 +934,80 @@
   "minecraft:dandelion": {
     "bedrock_identifier": "minecraft:yellow_flower",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 1468
+    "firstBlockRuntimeId": 1468,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:poppy": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 1469
+    "firstBlockRuntimeId": 1469,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:blue_orchid": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 1,
-    "firstBlockRuntimeId": 1470
+    "firstBlockRuntimeId": 1470,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:allium": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 2,
-    "firstBlockRuntimeId": 1471
+    "firstBlockRuntimeId": 1471,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:azure_bluet": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 3,
-    "firstBlockRuntimeId": 1472
+    "firstBlockRuntimeId": 1472,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:red_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 4,
-    "firstBlockRuntimeId": 1473
+    "firstBlockRuntimeId": 1473,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:orange_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 5,
-    "firstBlockRuntimeId": 1474
+    "firstBlockRuntimeId": 1474,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:white_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 6,
-    "firstBlockRuntimeId": 1475
+    "firstBlockRuntimeId": 1475,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:pink_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 7,
-    "firstBlockRuntimeId": 1476
+    "firstBlockRuntimeId": 1476,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:oxeye_daisy": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 8,
-    "firstBlockRuntimeId": 1477
+    "firstBlockRuntimeId": 1477,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:cornflower": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 9,
-    "firstBlockRuntimeId": 1478
+    "firstBlockRuntimeId": 1478,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:lily_of_the_valley": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 10,
-    "firstBlockRuntimeId": 1480
+    "firstBlockRuntimeId": 1480,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:wither_rose": {
     "bedrock_identifier": "minecraft:wither_rose",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 1479
+    "firstBlockRuntimeId": 1479,
+    "has_suspicious_stew_effect": true
   },
   "minecraft:spore_blossom": {
     "bedrock_identifier": "minecraft:spore_blossom",
@@ -4823,67 +4836,83 @@
   },
   "minecraft:white_dye": {
     "bedrock_identifier": "minecraft:white_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 0
   },
   "minecraft:orange_dye": {
     "bedrock_identifier": "minecraft:orange_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 1
   },
   "minecraft:magenta_dye": {
     "bedrock_identifier": "minecraft:magenta_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 2
   },
   "minecraft:light_blue_dye": {
     "bedrock_identifier": "minecraft:light_blue_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 3
   },
   "minecraft:yellow_dye": {
     "bedrock_identifier": "minecraft:yellow_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 4
   },
   "minecraft:lime_dye": {
     "bedrock_identifier": "minecraft:lime_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 5
   },
   "minecraft:pink_dye": {
     "bedrock_identifier": "minecraft:pink_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 6
   },
   "minecraft:gray_dye": {
     "bedrock_identifier": "minecraft:gray_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 7
   },
   "minecraft:light_gray_dye": {
     "bedrock_identifier": "minecraft:light_gray_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 8
   },
   "minecraft:cyan_dye": {
     "bedrock_identifier": "minecraft:cyan_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 9
   },
   "minecraft:purple_dye": {
     "bedrock_identifier": "minecraft:purple_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 10
   },
   "minecraft:blue_dye": {
     "bedrock_identifier": "minecraft:blue_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 11
   },
   "minecraft:brown_dye": {
     "bedrock_identifier": "minecraft:brown_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 12
   },
   "minecraft:green_dye": {
     "bedrock_identifier": "minecraft:green_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 13
   },
   "minecraft:red_dye": {
     "bedrock_identifier": "minecraft:red_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 14
   },
   "minecraft:black_dye": {
     "bedrock_identifier": "minecraft:black_dye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "dye_color": 15
   },
   "minecraft:bone_meal": {
     "bedrock_identifier": "minecraft:bone_meal",
@@ -5927,7 +5956,7 @@
     "stack_size": 1
   },
   "minecraft:globe_banner_pattern": {
-    "bedrock_identifier": "minecraft:banner_pattern",
+    "bedrock_identifier": "minecraft:globe_banner_pattern",
     "bedrock_data": 0,
     "stack_size": 1
   },
