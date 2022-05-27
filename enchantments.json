@@ -650,6 +650,18 @@
       "minecraft:crossbow"
     ]
   },
+  "minecraft:swift_sneak": {
+    "rarity": "very_rare",
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:leather_leggings",
+      "minecraft:chainmail_leggings",
+      "minecraft:iron_leggings",
+      "minecraft:diamond_leggings",
+      "minecraft:golden_leggings",
+      "minecraft:netherite_leggings"
+    ]
+  },
   "minecraft:loyalty": {
     "rarity": "uncommon",
     "max_level": 3,

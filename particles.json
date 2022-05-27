@@ -205,6 +205,15 @@
 	},
 	"REVERSE_PORTAL": {},
 	"SCRAPE": {},
+	"SCULK_CHARGE": {},
+	"SCULK_CHARGE_POP": {},
+	"SCULK_SOUL": {
+		"eventType": "PARTICLE_SCULK_SOUL",
+		"bedrockId": "minecraft:sculk_soul_particle"
+	},
+	"SHRIEK": {
+		"bedrockId": "minecraft:shriek_particle"
+	},
 	"SMALL_FLAME": {},
 	"SMOKE": {
 		"eventType": "PARTICLE_SMOKE"
@@ -213,6 +222,9 @@
 		"eventType": "PARTICLE_SNEEZE"
 	},
 	"SNOWFLAKE": {},
+	"SONIC_BOOM": {
+		"bedrockId": "minecraft:sonic_explosion"
+	},
 	"SOUL": {
 		"eventType": "PARTICLE_SOUL",
 		"bedrockId": "minecraft:soul_particle"
