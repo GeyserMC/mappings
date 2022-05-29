@@ -26,6 +26,9 @@
   "minecraft:deep_cold_ocean": {
     "bedrock_id": 45
   },
+  "minecraft:deep_dark": {
+    "bedrock_id": 190
+  },
   "minecraft:deep_frozen_ocean": {
     "bedrock_id": 47
   },
@@ -85,6 +88,9 @@
   },
   "minecraft:lush_caves": {
     "bedrock_id": 187
+  },
+  "minecraft:mangrove_swamp": {
+    "bedrock_id": 191
   },
   "minecraft:meadow": {
     "bedrock_id": 186
