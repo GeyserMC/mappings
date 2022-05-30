@@ -1,11 +1,13 @@
 {
   "entity.allay.ambient_with_item": {
-    "playsound_mapping": "mob.allay.ambient_with_item",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.allay.idle_holding",
+    "bedrock_mapping": "AMBIENT_TAME",
+    "identifier": "minecraft:allay"
   },
   "entity.allay.ambient_without_item": {
-    "playsound_mapping": "mob.allay.ambient_without_item",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.allay.idle",
+    "bedrock_mapping": "AMBIENT",
+    "identifier": "minecraft:allay"
   },
   "entity.allay.death": {
     "playsound_mapping": "mob.allay.death",
@@ -17,15 +19,18 @@
   },
   "entity.allay.item_given": {
     "playsound_mapping": "mob.allay.item_given",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "ITEM_GIVEN",
+    "identifier": "minecraft:allay"
   },
   "entity.allay.item_taken": {
     "playsound_mapping": "mob.allay.item_taken",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "ITEM_TAKEN",
+    "identifier": "minecraft:allay"
   },
   "entity.allay.item_thrown": {
     "playsound_mapping": "mob.allay.item_thrown",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "ITEM_THROWN",
+    "identifier": "minecraft:allay"
   },
   "ambient.cave": {
     "playsound_mapping": "ambient.cave",
@@ -1666,7 +1671,8 @@
   },
   "entity.frog.ambient": {
     "playsound_mapping": "mob.frog.ambient",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "AMBIENT",
+    "identifier": "minecraft:frog"
   },
   "entity.frog.death": {
     "playsound_mapping": "mob.frog.death",
@@ -1674,7 +1680,8 @@
   },
   "entity.frog.eat": {
     "playsound_mapping": "mob.frog.eat",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "EAT",
+    "identifier": "minecraft:frog"
   },
   "entity.frog.hurt": {
     "playsound_mapping": "mob.frog.hurt",
@@ -1682,19 +1689,23 @@
   },
   "entity.frog.lay_spawn": {
     "playsound_mapping": "mob.frog.lay_spawn",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "LAY_SPAWN",
+    "identifier": "minecraft:frog"
   },
   "entity.frog.long_jump": {
-    "playsound_mapping": "mob.frog.long_jump",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.frog.jump_to_block",
+    "bedrock_mapping": "JUMP_TO_BLOCK",
+    "identifier": "minecraft:frog"
   },
   "entity.frog.step": {
     "playsound_mapping": "mob.frog.step",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "STEP",
+    "identifier": "minecraft:frog"
   },
   "entity.frog.tongue": {
     "playsound_mapping": "mob.frog.tongue",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "TONGUE",
+    "identifier": "minecraft:frog"
   },
   "block.roots.break": {
     "playsound_mapping": "block.roots.break",
@@ -2760,8 +2771,8 @@
     "bedrock_mapping": ""
   },
   "music_disc.5": {
-    "playsound_mapping": "music_disc.5",
-    "bedrock_mapping": ""
+    "playsound_mapping": "record.5",
+    "bedrock_mapping": "RECORD_5"
   },
   "music_disc.11": {
     "playsound_mapping": "record.11",
@@ -4069,7 +4080,8 @@
   },
   "entity.sheep.ambient": {
     "playsound_mapping": "mob.sheep.say",
-    "bedrock_mapping": "AMBIENT"
+    "bedrock_mapping": "AMBIENT",
+    "identifier": "minecraft:sheep"
   },
   "entity.sheep.death": {
     "playsound_mapping": "mob.sheep.say",
@@ -4254,11 +4266,13 @@
   },
   "entity.slime.jump": {
     "playsound_mapping": "mob.slime.jump",
-    "bedrock_mapping": "JUMP"
+    "bedrock_mapping": "JUMP",
+    "identifier": "minecraft:slime"
   },
   "entity.slime.squish": {
     "playsound_mapping": "mob.slime.big",
-    "bedrock_mapping": "SQUISH_BIG"
+    "bedrock_mapping": "SQUISH_BIG",
+    "identifier": "minecraft:slime"
   },
   "block.slime_block.break": {
     "playsound_mapping": "hit.slime",
@@ -4421,11 +4435,13 @@
   },
   "entity.slime.jump_small": {
     "playsound_mapping": "mob.slime.jump",
-    "bedrock_mapping": "JUMP"
+    "bedrock_mapping": "JUMP",
+    "identifier": "minecraft:slime"
   },
   "entity.slime.squish_small": {
     "playsound_mapping": "mob.slime.small",
-    "bedrock_mapping": "SQUISH_SMALL"
+    "bedrock_mapping": "SQUISH_SMALL",
+    "identifier": "minecraft:slime"
   },
   "block.smithing_table.use": {
     "playsound_mapping": "smithing_table.use",
