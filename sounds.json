@@ -2153,35 +2153,35 @@
     "bedrock_mapping": "DRINK"
   },
   "item.goat_horn.sound.0": {
-    "playsound_mapping": "item.goat_horn.sound.0",
+    "playsound_mapping": "horn.call.0",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.1": {
-    "playsound_mapping": "item.goat_horn.sound.1",
+    "playsound_mapping": "horn.call.1",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.2": {
-    "playsound_mapping": "item.goat_horn.sound.2",
+    "playsound_mapping": "horn.call.2",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.3": {
-    "playsound_mapping": "item.goat_horn.sound.3",
+    "playsound_mapping": "horn.call.3",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.4": {
-    "playsound_mapping": "item.goat_horn.sound.4",
+    "playsound_mapping": "horn.call.4",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.5": {
-    "playsound_mapping": "item.goat_horn.sound.5",
+    "playsound_mapping": "horn.call.5",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.6": {
-    "playsound_mapping": "item.goat_horn.sound.6",
+    "playsound_mapping": "horn.call.6",
     "bedrock_mapping": ""
   },
   "item.goat_horn.sound.7": {
-    "playsound_mapping": "item.goat_horn.sound.7",
+    "playsound_mapping": "horn.call.7",
     "bedrock_mapping": ""
   },
   "entity.horse.ambient": {
