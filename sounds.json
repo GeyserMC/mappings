@@ -3502,7 +3502,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.pig.saddle": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.horse.leather",
     "bedrock_mapping": "SADDLE"
   },
   "entity.pig.step": {
@@ -5029,19 +5029,23 @@
   },
   "entity.warden.agitated": {
     "playsound_mapping": "mob.warden.agitated",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "AMBIENT",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.ambient": {
-    "playsound_mapping": "mob.warden.ambient",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.warden.idle",
+    "bedrock_mapping": "AMBIENT",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.angry": {
     "playsound_mapping": "mob.warden.angry",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "ANGRY",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.attack_impact": {
-    "playsound_mapping": "mob.warden.attack_impact",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.warden.attack",
+    "bedrock_mapping": "ATTACK",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.death": {
     "playsound_mapping": "mob.warden.death",
@@ -5057,7 +5061,8 @@
   },
   "entity.warden.heartbeat": {
     "playsound_mapping": "mob.warden.heartbeat",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "HEARTBEAT",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.hurt": {
     "playsound_mapping": "mob.warden.hurt",
@@ -5065,23 +5070,25 @@
   },
   "entity.warden.listening": {
     "playsound_mapping": "mob.warden.listening",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "LISTENING",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.listening_angry": {
     "playsound_mapping": "mob.warden.listening_angry",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "LISTENING_ANGRY",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.nearby_close": {
     "playsound_mapping": "mob.warden.nearby_close",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "WARDEN_NEARBY_CLOSE"
   },
   "entity.warden.nearby_closer": {
     "playsound_mapping": "mob.warden.nearby_closer",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "WARDEN_NEARBY_CLOSER"
   },
   "entity.warden.nearby_closest": {
     "playsound_mapping": "mob.warden.nearby_closest",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "WARDEN_NEARBY_CLOSEST"
   },
   "entity.warden.roar": {
     "playsound_mapping": "mob.warden.roar",
@@ -5093,11 +5100,13 @@
   },
   "entity.warden.sonic_boom": {
     "playsound_mapping": "mob.warden.sonic_boom",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SONIC_BOOM",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.sonic_charge": {
     "playsound_mapping": "mob.warden.sonic_charge",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "SONIC_CHARGE",
+    "identifier": "minecraft:warden"
   },
   "entity.warden.step": {
     "playsound_mapping": "mob.warden.step",
