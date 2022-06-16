@@ -1844,20 +1844,20 @@
     "bedrock_mapping": "GLASS"
   },
   "block.glass.fall": {
-    "playsound_mapping": "random.glass",
+    "playsound_mapping": "fall.stone",
     "bedrock_mapping": "FALL"
   },
   "block.glass.hit": {
-    "playsound_mapping": "random.glass",
+    "playsound_mapping": "hit.stone",
     "bedrock_mapping": "HIT"
   },
   "block.glass.place": {
-    "playsound_mapping": "block.lantern.place",
+    "playsound_mapping": "dig.stone",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:glass"
   },
   "block.glass.step": {
-    "playsound_mapping": "random.glass",
+    "playsound_mapping": "step.stone",
     "bedrock_mapping": "STEP"
   },
   "item.glow_ink_sac.use": {
