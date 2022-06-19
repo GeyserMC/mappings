@@ -663,8 +663,8 @@
     "bedrock_mapping": "BUCKET_EMPTY_POWDER_SNOW"
   },
   "item.bucket.empty_tadpole": {
-    "playsound_mapping": "item.bucket.empty_tadpole",
-    "bedrock_mapping": ""
+    "playsound_mapping": "bucket.empty_fish",
+    "bedrock_mapping": "BUCKET_EMPTY_FISH"
   },
   "item.bucket.fill": {
     "playsound_mapping": "bucket.fill_water",
@@ -687,8 +687,8 @@
     "bedrock_mapping": "BUCKET_FILL_POWDER_SNOW"
   },
   "item.bucket.fill_tadpole": {
-    "playsound_mapping": "item.bucket.fill_tadpole",
-    "bedrock_mapping": ""
+    "playsound_mapping": "bucket.fill_fish",
+    "bedrock_mapping": "BUCKET_FILL_FISH"
   },
   "item.bundle.drop_contents": {
     "playsound_mapping": "item.bundle.drop_contents",
