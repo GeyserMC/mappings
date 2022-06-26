@@ -1014,7 +1014,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.creeper.primed": {
-    "playsound_mapping": "mob.creeper.say",
+    "playsound_mapping": "random.fuse",
     "bedrock_mapping": "FUSE",
     "identifier": "minecraft:creeper"
   },
