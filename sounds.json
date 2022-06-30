@@ -2327,8 +2327,8 @@
     "bedrock_mapping": "ATTACK"
   },
   "entity.iron_golem.damage": {
-    "playsound_mapping": "mob.irongolem.hit",
-    "bedrock_mapping": "mob.irongolem.hit"
+    "playsound_mapping": "mob.irongolem.crack",
+    "bedrock_mapping": ""
   },
   "entity.iron_golem.death": {
     "playsound_mapping": "mob.irongolem.death",
@@ -2339,7 +2339,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.iron_golem.repair": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.irongolem.repair",
     "bedrock_mapping": ""
   },
   "entity.iron_golem.step": {
