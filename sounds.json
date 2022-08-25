@@ -3164,7 +3164,7 @@
     "bedrock_mapping": "FALL"
   },
   "block.note_block.basedrum": {
-    "playsound_mapping": "note.basedrum",
+    "playsound_mapping": "note.bd",
     "bedrock_mapping": "NOTE",
     "extra_data": 256
   },
