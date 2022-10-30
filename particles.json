@@ -1,53 +1,55 @@
 {
 	"AMBIENT_ENTITY_EFFECT": {
-		"eventType": "PARTICLE_MOB_SPELL_AMBIENT",
+		"eventType": "MOB_SPELL_AMBIENT",
 		"bedrockId": "minecraft:mobspell_emitter"
 	},
 	"ANGRY_VILLAGER": {
-		"eventType": "PARTICLE_VILLAGER_ANGRY",
+		"eventType": "VILLAGER_ANGRY",
 		"bedrockId": "minecraft:villager_angry"
 	},
 	"ASH": {
 		"bedrockId": "geyseropt:ash"
 	},
-	"BLOCK": {},
+	"BLOCK": {
+		"eventType": "TERRAIN"
+	},
 	"BLOCK_MARKER": {},
 	"BUBBLE": {
-		"eventType": "PARTICLE_BUBBLE",
+		"eventType": "BUBBLE",
 		"bedrockId": "basic_bubble_particle_manual"
 	},
 	"BUBBLE_COLUMN_UP": {
-		"eventType": "PARTICLE_BUBBLE_COLUMN_UP",
+		"eventType": "BUBBLE_COLUMN_UP",
 		"bedrockId": "minecraft:bubble_column_up_particle"
 	},
 	"BUBBLE_POP": {
-		"eventType": "PARTICLE_BUBBLE",
+		"eventType": "BUBBLE",
 		"bedrockId": "minecraft:bubble_column_particle"
 	},
 	"CAMPFIRE_COSY_SMOKE": {
-		"eventType": "PARTICLE_CAMPFIRE_SMOKE",
+		"eventType": "CAMPFIRE_SMOKE",
 		"bedrockId": "minecraft:campfire_smoke_particle"
 	},
 	"CAMPFIRE_SIGNAL_SMOKE": {
 		"bedrockId": "minecraft:campfire_tall_smoke_particle"
 	},
 	"CLOUD": {
-		"eventType": "PARTICLE_EVAPORATION",
+		"eventType": "EVAPORATION",
 		"bedrockId": "minecraft:water_evaporation_bucket_emitter"
 	},
 	"COMPOSTER": {
-		"eventType": "PARTICLE_VILLAGER_HAPPY",
+		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
 	},
 	"CRIMSON_SPORE": {
 		"bedrockId": "geyseropt:crimson_spore"
 	},
 	"CRIT": {
-		"eventType": "PARTICLE_CRITICAL",
+		"eventType": "CRIT",
 		"bedrockId": "minecraft:critical_hit_emitter"
 	},
 	"CURRENT_DOWN": {
-		"eventType": "PARTICLE_BUBBLE_COLUMN_DOWN",
+		"eventType": "BUBBLE_COLUMN_DOWN",
 		"bedrockId": "minecraft:bubble_column_down_particle"
 	},
 	"DAMAGE_INDICATOR": {
@@ -57,49 +59,53 @@
 		"bedrockId": "minecraft:dolphin_move_particle"
 	},
 	"DRAGON_BREATH": {
-		"eventType": "PARTICLE_DRAGONS_BREATH",
+		"eventType": "DRAGON_BREATH",
 		"bedrockId": "minecraft:dragon_breath_lingering"
 	},
 	"DRIPPING_DRIPSTONE_LAVA": {},
 	"DRIPPING_DRIPSTONE_WATER": {},
 	"DRIPPING_HONEY": {
-		"eventType": "PARTICLE_DRIP_HONEY"
+		"eventType": "DRIP_HONEY"
 	},
 	"DRIPPING_LAVA": {
-		"eventType": "PARTICLE_DRIP_LAVA",
+		"eventType": "DRIP_LAVA",
 		"bedrockId": "minecraft:lava_drip_particle"
 	},
 	"DRIPPING_OBSIDIAN_TEAR": {
-		"eventType": "PARTICLE_OBSIDIAN_TEAR"
+		"eventType": "OBSIDIAN_TEAR"
 	},
 	"DRIPPING_WATER": {
-		"eventType": "PARTICLE_DRIP_WATER",
+		"eventType": "DRIP_WATER",
 		"bedrockId": "minecraft:water_drip_particle"
 	},
-	"DUST": {},
-	"DUST_COLOR_TRANSITION": {},
+	"DUST": {
+		"eventType": "RED_DUST"
+	},
+	"DUST_COLOR_TRANSITION": {
+		"eventType": "RED_DUST"
+	},
 	"EFFECT": {
 		"bedrockId": "minecraft:splash_spell_emitter"
 	},
 	"ELDER_GUARDIAN": {},
 	"ELECTRIC_SPARK": {},
 	"ENCHANT": {
-		"eventType": "PARTICLE_ENCHANTMENT_TABLE",
+		"eventType": "ENCHANTING_TABLE",
 		"bedrockId": "minecraft:enchanting_table_particle"
 	},
 	"ENCHANTED_HIT": {
 		"bedrockId": "geyseropt:enchanted_hit_single"
 	},
 	"END_ROD": {
-		"eventType": "PARTICLE_END_ROD",
+		"eventType": "END_ROD",
 		"bedrockId": "minecraft:endrod"
 	},
 	"ENTITY_EFFECT": {
-		"eventType": "PARTICLE_MOB_SPELL",
+		"eventType": "MOB_SPELL",
 		"bedrockId": "minecraft:evoker_spell"
 	},
 	"EXPLOSION": {
-		"eventType": "PARTICLE_HUGE_EXPLODE",
+		"eventType": "HUGE_EXPLOSION",
 		"bedrockId": "minecraft:large_explosion"
 	},
 	"EXPLOSION_EMITTER": {
@@ -112,58 +118,60 @@
 		"bedrockId": "minecraft:honey_drip_particle"
 	},
 	"FALLING_LAVA": {
-		"eventType": "PARTICLE_DRIP_LAVA",
+		"eventType": "DRIP_LAVA",
 		"bedrockId": "minecraft:lava_drip_particle"
 	},
 	"FALLING_NECTAR": {
 		"bedrockId": "minecraft:nectar_drip_particle"
 	},
 	"FALLING_OBSIDIAN_TEAR": {
-		"eventType": "PARTICLE_OBSIDIAN_TEAR"
+		"eventType": "OBSIDIAN_TEAR"
 	},
 	"FALLING_SPORE_BLOSSOM": {},
 	"FALLING_WATER": {
-		"eventType": "PARTICLE_DRIP_WATER",
+		"eventType": "DRIP_WATER",
 		"bedrockId": "water_splash_particle"
 	},
 	"FIREWORK": {
-		"eventType": "PARTICLE_FIREWORKS_SPARK",
+		"eventType": "FIREWORKS_STARTER",
 		"bedrockId": "minecraft:sparkler_emitter"
 	},
 	"FISHING": {
-		"eventType": "PARTICLE_WATER_WAKE",
+		"eventType": "WATER_WAKE",
 		"bedrockId": "minecraft:water_wake_particle"
 	},
 	"FLAME": {
-		"eventType": "PARTICLE_FLAME",
+		"eventType": "FLAME",
 		"bedrockId": "minecraft:basic_flame_particle"
 	},
 	"FLASH": {
 		"bedrockId": "geyseropt:flash"
 	},
 	"GLOW": {},
-	"GLOW_SQUID_INK": {},
+	"GLOW_SQUID_INK": {
+		"eventType": "INK"
+	},
 	"HAPPY_VILLAGER": {
-		"eventType": "PARTICLE_VILLAGER_HAPPY",
+		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
 	},
 	"HEART": {
-		"eventType": "PARTICLE_HEART",
+		"eventType": "HEART",
 		"bedrockId": "minecraft:heart_particle"
 	},
 	"INSTANT_EFFECT": {
-		"eventType": "PARTICLE_MOB_SPELL_INSTANTANEOUS",
+		"eventType": "MOB_SPELL_INSTANTANEOUS",
 		"bedrockId": "minecraft:mobspell_emitter"
 	},
 	"ITEM": {
-		"eventType": "PARTICLE_ITEM_BREAK",
+		"eventType": "ICON_CRACK",
 		"bedrockId": "minecraft:breaking_item_icon"
 	},
 	"ITEM_SLIME": {
-		"eventType": "PARTICLE_SLIME"
+		"eventType": "SLIME"
 	},
 	"ITEM_SNOWBALL": {
-		"eventType": "PARTICLE_SNOWBALL_POOF"
+		"eventType": "SNOWBALL_POOF"
 	},
 	"LANDING_HONEY": {
 		"bedrockId": "geyseropt:landing_honey"
@@ -175,11 +183,11 @@
 		"bedrockId": "geyseropt:landing_obsidian_tear"
 	},
 	"LARGE_SMOKE": {
-		"eventType": "PARTICLE_LARGE_SMOKE",
+		"eventType": "LARGE_SMOKE",
 		"bedrockId": "minecraft:water_evaporation_actor_emitter"
 	},
 	"LAVA": {
-		"eventType": "PARTICLE_LAVA",
+		"eventType": "LAVA",
 		"bedrockId": "minecraft:lava_particle"
 	},
 	"MYCELIUM": {
@@ -189,26 +197,26 @@
 		"bedrockId": "geyseropt:nautilus"
 	},
 	"NOTE": {
-		"eventType": "PARTICLE_NOTE",
+		"eventType": "NOTE",
 		"bedrockId": "minecraft:note_particle"
 	},
 	"POOF": {
-		"eventType": "PARTICLE_EXPLODE",
+		"eventType": "EXPLODE",
 		"bedrockId": "explode"
 	},
 	"PORTAL": {
-		"eventType": "PARTICLE_PORTAL",
+		"eventType": "PORTAL",
 		"bedrockId": "minecraft:mob_portal"
 	},
 	"RAIN": {
-		"eventType": "PARTICLE_RAIN_SPLASH"
+		"eventType": "RAIN_SPLASH"
 	},
 	"REVERSE_PORTAL": {},
 	"SCRAPE": {},
 	"SCULK_CHARGE": {},
 	"SCULK_CHARGE_POP": {},
 	"SCULK_SOUL": {
-		"eventType": "PARTICLE_SCULK_SOUL",
+		"eventType": "SCULK_SOUL",
 		"bedrockId": "minecraft:sculk_soul_particle"
 	},
 	"SHRIEK": {
@@ -216,62 +224,62 @@
 	},
 	"SMALL_FLAME": {},
 	"SMOKE": {
-		"eventType": "PARTICLE_SMOKE"
+		"eventType": "SMOKE"
 	},
 	"SNEEZE": {
-		"eventType": "PARTICLE_SNEEZE"
+		"eventType": "SNEEZE"
 	},
 	"SNOWFLAKE": {},
 	"SONIC_BOOM": {
 		"bedrockId": "minecraft:sonic_explosion"
 	},
 	"SOUL": {
-		"eventType": "PARTICLE_SOUL",
+		"eventType": "SOUL",
 		"bedrockId": "minecraft:soul_particle"
 	},
 	"SOUL_FIRE_FLAME": {
-		"eventType": "PARTICLE_BLUE_FLAME",
+		"eventType": "BLUE_FLAME",
 		"bedrockId": "minecraft:blue_flame_particle"
 	},
 	"SPIT": {
-		"eventType": "PARTICLE_SPIT",
+		"eventType": "SPIT",
 		"bedrockId": "minecraft:llama_spit_smoke"
 	},
 	"SPLASH": {
-		"eventType": "PARTICLE_SPLASH",
+		"eventType": "WATER_SPLASH",
 		"bedrockId": "minecraft:water_splash_particle_manual"
 	},
 	"SPORE_BLOSSOM_AIR": {},
 	"SQUID_INK": {
-		"eventType": "PARTICLE_INK",
+		"eventType": "INK",
 		"bedrockId": "minecraft:ink"
 	},
 	"SWEEP_ATTACK": {
 		"bedrockId": "geyseropt:sweep_attack"
 	},
 	"TOTEM_OF_UNDYING": {
-		"eventType": "PARTICLE_TOTEM",
+		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
 	},
 	"VIBRATION": {
-		"eventType": "PARTICLES_VIBRATION_SIGNAL"
+		"eventType": "VIBRATION_SIGNAL"
 	},
 	"WARPED_SPORE": {
 		"bedrockId": "geyseropt:warped_spore"
 	},
 	"WAX_OFF": {
-		"eventType": "PARTICLE_WAX_OFF"
+		"eventType": "WAX"
 	},
 	"WAX_ON": {
-		"eventType": "PARTICLE_WAX_ON"
+		"eventType": "WAX"
 	},
 	"WHITE_ASH": {
 		"bedrockId": "geyseropt:white_ash"
 	},
 	"WITCH": {
-		"eventType": "PARTICLE_WITCH_SPELL"
+		"eventType": "WITCH_SPELL"
 	}
 }
