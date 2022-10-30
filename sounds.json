@@ -284,7 +284,7 @@
     "bedrock_mapping": "BOW_HIT"
   },
   "entity.arrow.shoot": {
-    "playsound_mapping": "crossbow.shoot",
+    "playsound_mapping": "random.bow",
     "bedrock_mapping": "BOW"
   },
   "item.axe.strip": {
@@ -1056,7 +1056,7 @@
     "bedrock_mapping": "CROSSBOW_QUICK_CHARGE_END"
   },
   "item.crossbow.shoot": {
-    "playsound_mapping": "random.bow",
+    "playsound_mapping": "crossbow.shoot",
     "bedrock_mapping": "CROSSBOW_SHOOT"
   },
   "block.deepslate_bricks.break": {
