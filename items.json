@@ -4005,6 +4005,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "turtle",
     "max_damage": 275,
     "protection_value": 2,
     "repair_materials": [
@@ -4521,6 +4522,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "leather",
     "max_damage": 55,
     "protection_value": 1,
     "repair_materials": [
@@ -4532,6 +4534,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "leather",
     "max_damage": 80,
     "protection_value": 3,
     "repair_materials": [
@@ -4543,6 +4546,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "leather",
     "max_damage": 75,
     "protection_value": 2,
     "repair_materials": [
@@ -4554,6 +4558,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "leather",
     "max_damage": 65,
     "protection_value": 1,
     "repair_materials": [
@@ -4565,6 +4570,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "chain",
     "max_damage": 165,
     "protection_value": 2,
     "repair_materials": [
@@ -4576,6 +4582,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "chain",
     "max_damage": 240,
     "protection_value": 5,
     "repair_materials": [
@@ -4587,6 +4594,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "chain",
     "max_damage": 225,
     "protection_value": 4,
     "repair_materials": [
@@ -4598,6 +4606,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "chain",
     "max_damage": 195,
     "protection_value": 1,
     "repair_materials": [
@@ -4609,6 +4618,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "iron",
     "max_damage": 165,
     "protection_value": 2,
     "repair_materials": [
@@ -4620,6 +4630,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "iron",
     "max_damage": 240,
     "protection_value": 6,
     "repair_materials": [
@@ -4631,6 +4642,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "iron",
     "max_damage": 225,
     "protection_value": 5,
     "repair_materials": [
@@ -4642,6 +4654,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "iron",
     "max_damage": 195,
     "protection_value": 2,
     "repair_materials": [
@@ -4653,6 +4666,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "diamond",
     "max_damage": 363,
     "protection_value": 3,
     "repair_materials": [
@@ -4664,6 +4678,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "diamond",
     "max_damage": 528,
     "protection_value": 8,
     "repair_materials": [
@@ -4675,6 +4690,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "diamond",
     "max_damage": 495,
     "protection_value": 6,
     "repair_materials": [
@@ -4686,6 +4702,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "diamond",
     "max_damage": 429,
     "protection_value": 3,
     "repair_materials": [
@@ -4697,6 +4714,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "gold",
     "max_damage": 77,
     "protection_value": 2,
     "repair_materials": [
@@ -4708,6 +4726,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "gold",
     "max_damage": 112,
     "protection_value": 5,
     "repair_materials": [
@@ -4719,6 +4738,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "gold",
     "max_damage": 105,
     "protection_value": 3,
     "repair_materials": [
@@ -4730,6 +4750,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "gold",
     "max_damage": 91,
     "protection_value": 1,
     "repair_materials": [
@@ -4741,6 +4762,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "helmet",
+    "armor_tier": "netherite",
     "max_damage": 407,
     "protection_value": 3,
     "repair_materials": [
@@ -4752,6 +4774,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "chestplate",
+    "armor_tier": "netherite",
     "max_damage": 592,
     "protection_value": 8,
     "repair_materials": [
@@ -4763,6 +4786,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "leggings",
+    "armor_tier": "netherite",
     "max_damage": 555,
     "protection_value": 6,
     "repair_materials": [
@@ -4774,6 +4798,7 @@
     "bedrock_data": 0,
     "stack_size": 1,
     "armor_type": "boots",
+    "armor_tier": "netherite",
     "max_damage": 481,
     "protection_value": 3,
     "repair_materials": [
@@ -5586,7 +5611,7 @@
     "bedrock_data": 0
   },
   "minecraft:trader_llama_spawn_egg": {
-    "bedrock_identifier": "minecraft:trader_llama_spawn_egg",
+    "bedrock_identifier": "minecraft:llama_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:tropical_fish_spawn_egg": {
