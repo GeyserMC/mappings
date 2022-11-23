@@ -237,7 +237,8 @@
       "minecraft:player_head",
       "minecraft:zombie_head",
       "minecraft:creeper_head",
-      "minecraft:dragon_head"
+      "minecraft:dragon_head",
+      "minecraft:piglin_head"
     ]
   },
   "minecraft:aqua_affinity": {
@@ -401,6 +402,7 @@
       "minecraft:zombie_head",
       "minecraft:creeper_head",
       "minecraft:dragon_head",
+      "minecraft:piglin_head",
       "minecraft:shield",
       "minecraft:trident",
       "minecraft:crossbow"
