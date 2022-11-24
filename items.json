@@ -623,7 +623,7 @@
     "lastBlockRuntimeId": 17953
   },
   "minecraft:bamboo_block": {
-    "bedrock_identifier": "minecraft:bamboo_block",
+    "bedrock_identifier": "minecraft:log",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 145,
     "lastBlockRuntimeId": 147
@@ -1557,7 +1557,7 @@
     "lastBlockRuntimeId": 11242
   },
   "minecraft:bamboo_fence": {
-    "bedrock_identifier": "minecraft:oak_fence",
+    "bedrock_identifier": "minecraft:fence",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11243,
     "lastBlockRuntimeId": 11274
@@ -1953,7 +1953,7 @@
     "lastBlockRuntimeId": 9807
   },
   "minecraft:bamboo_mosaic_stairs": {
-    "bedrock_identifier": "minecraft:minecraft:oak_stairs",
+    "bedrock_identifier": "minecraft:oak_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9808,
     "lastBlockRuntimeId": 9887
@@ -3788,7 +3788,7 @@
     "lastBlockRuntimeId": 11658
   },
   "minecraft:bamboo_door": {
-    "bedrock_identifier": "minecraft:bamboo_door",
+    "bedrock_identifier": "minecraft:wooden_door",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11659,
     "lastBlockRuntimeId": 11722
@@ -3854,7 +3854,7 @@
     "lastBlockRuntimeId": 6243
   },
   "minecraft:bamboo_trapdoor": {
-    "bedrock_identifier": "minecraft:bamboo_trapdoor",
+    "bedrock_identifier": "minecraft:trapdoor",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6244,
     "lastBlockRuntimeId": 6307
@@ -3914,7 +3914,7 @@
     "lastBlockRuntimeId": 11018
   },
   "minecraft:bamboo_fence_gate": {
-    "bedrock_identifier": "minecraft:bamboo_fence_gate",
+    "bedrock_identifier": "minecraft:fence_gate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11019,
     "lastBlockRuntimeId": 11050
@@ -4077,12 +4077,12 @@
     "stack_size": 1
   },
   "minecraft:bamboo_raft": {
-    "bedrock_identifier": "minecraft:bamboo_raft",
+    "bedrock_identifier": "minecraft:oak_boat",
     "bedrock_data": 0,
     "stack_size": 1
   },
   "minecraft:bamboo_chest_raft": {
-    "bedrock_identifier": "minecraft:bamboo_chest_raft",
+    "bedrock_identifier": "minecraft:oak_chest_boat",
     "bedrock_data": 0,
     "stack_size": 1
   },
@@ -4208,7 +4208,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
@@ -4228,7 +4227,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
@@ -4248,7 +4246,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
@@ -4268,7 +4265,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
@@ -4288,7 +4284,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
@@ -6224,7 +6219,6 @@
       "minecraft:acacia_planks",
       "minecraft:dark_oak_planks",
       "minecraft:mangrove_planks",
-      "minecraft:bamboo_planks",
       "minecraft:crimson_planks",
       "minecraft:warped_planks"
     ]
