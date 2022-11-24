@@ -152,7 +152,7 @@
     "firstBlockRuntimeId": 21
   },
   "minecraft:bamboo_planks": {
-    "bedrock_identifier": "minecraft:bamboo_planks",
+    "bedrock_identifier": "minecraft:planks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 22
   },
@@ -167,7 +167,7 @@
     "firstBlockRuntimeId": 18039
   },
   "minecraft:bamboo_mosaic": {
-    "bedrock_identifier": "minecraft:bamboo_mosaic",
+    "bedrock_identifier": "minecraft:planks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 23
   },
@@ -737,7 +737,7 @@
     "lastBlockRuntimeId": 17962
   },
   "minecraft:stripped_bamboo_block": {
-    "bedrock_identifier": "minecraft:stripped_bamboo_block",
+    "bedrock_identifier": "minecraft:planks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 169,
     "lastBlockRuntimeId": 171
@@ -1230,13 +1230,13 @@
     "lastBlockRuntimeId": 10726
   },
   "minecraft:bamboo_slab": {
-    "bedrock_identifier": "minecraft:bamboo_slab",
+    "bedrock_identifier": "minecraft:wooden_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10727,
     "lastBlockRuntimeId": 10732
   },
   "minecraft:bamboo_mosaic_slab": {
-    "bedrock_identifier": "minecraft:bamboo_mosaic_slab",
+    "bedrock_identifier": "minecraft:wooden_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10733,
     "lastBlockRuntimeId": 10738
@@ -1386,7 +1386,7 @@
     "firstBlockRuntimeId": 2044
   },
   "minecraft:chiseled_bookshelf": {
-    "bedrock_identifier": "minecraft:chiseled_bookshelf",
+    "bedrock_identifier": "minecraft:bookshelf",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2045,
     "lastBlockRuntimeId": 2300
@@ -1557,7 +1557,7 @@
     "lastBlockRuntimeId": 11242
   },
   "minecraft:bamboo_fence": {
-    "bedrock_identifier": "minecraft:bamboo_fence",
+    "bedrock_identifier": "minecraft:oak_fence",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11243,
     "lastBlockRuntimeId": 11274
@@ -1947,13 +1947,13 @@
     "lastBlockRuntimeId": 9727
   },
   "minecraft:bamboo_stairs": {
-    "bedrock_identifier": "minecraft:bamboo_stairs",
+    "bedrock_identifier": "minecraft:oak_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9728,
     "lastBlockRuntimeId": 9807
   },
   "minecraft:bamboo_mosaic_stairs": {
-    "bedrock_identifier": "minecraft:bamboo_mosaic_stairs",
+    "bedrock_identifier": "minecraft:minecraft:oak_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9808,
     "lastBlockRuntimeId": 9887
@@ -3638,7 +3638,7 @@
     "lastBlockRuntimeId": 8546
   },
   "minecraft:bamboo_button": {
-    "bedrock_identifier": "minecraft:bamboo_button",
+    "bedrock_identifier": "minecraft:wooden_button",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 8547,
     "lastBlockRuntimeId": 8570
@@ -3722,7 +3722,7 @@
     "lastBlockRuntimeId": 5565
   },
   "minecraft:bamboo_pressure_plate": {
-    "bedrock_identifier": "minecraft:bamboo_pressure_plate",
+    "bedrock_identifier": "minecraft:wooden_pressure_plate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5566,
     "lastBlockRuntimeId": 5567
@@ -4957,7 +4957,7 @@
     "stack_size": 16
   },
   "minecraft:bamboo_sign": {
-    "bedrock_identifier": "minecraft:bamboo_sign",
+    "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4474,
     "lastBlockRuntimeId": 4505,
@@ -4978,70 +4978,70 @@
     "stack_size": 16
   },
   "minecraft:oak_hanging_sign": {
-    "bedrock_identifier": "minecraft:oak_hanging_sign",
+    "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4742,
     "lastBlockRuntimeId": 4805,
     "stack_size": 16
   },
   "minecraft:spruce_hanging_sign": {
-    "bedrock_identifier": "minecraft:spruce_hanging_sign",
+    "bedrock_identifier": "minecraft:spruce_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4806,
     "lastBlockRuntimeId": 4869,
     "stack_size": 16
   },
   "minecraft:birch_hanging_sign": {
-    "bedrock_identifier": "minecraft:birch_hanging_sign",
+    "bedrock_identifier": "minecraft:birch_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4870,
     "lastBlockRuntimeId": 4933,
     "stack_size": 16
   },
   "minecraft:jungle_hanging_sign": {
-    "bedrock_identifier": "minecraft:jungle_hanging_sign",
+    "bedrock_identifier": "minecraft:jungle_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4998,
     "lastBlockRuntimeId": 5061,
     "stack_size": 16
   },
   "minecraft:acacia_hanging_sign": {
-    "bedrock_identifier": "minecraft:acacia_hanging_sign",
+    "bedrock_identifier": "minecraft:acacia_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4934,
     "lastBlockRuntimeId": 4997,
     "stack_size": 16
   },
   "minecraft:dark_oak_hanging_sign": {
-    "bedrock_identifier": "minecraft:dark_oak_hanging_sign",
+    "bedrock_identifier": "minecraft:dark_oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5062,
     "lastBlockRuntimeId": 5125,
     "stack_size": 16
   },
   "minecraft:mangrove_hanging_sign": {
-    "bedrock_identifier": "minecraft:mangrove_hanging_sign",
+    "bedrock_identifier": "minecraft:mangrove_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5254,
     "lastBlockRuntimeId": 5317,
     "stack_size": 16
   },
   "minecraft:bamboo_hanging_sign": {
-    "bedrock_identifier": "minecraft:bamboo_hanging_sign",
+    "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5318,
     "lastBlockRuntimeId": 5381,
     "stack_size": 16
   },
   "minecraft:crimson_hanging_sign": {
-    "bedrock_identifier": "minecraft:crimson_hanging_sign",
+    "bedrock_identifier": "minecraft:crimson_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5126,
     "lastBlockRuntimeId": 5189,
     "stack_size": 16
   },
   "minecraft:warped_hanging_sign": {
-    "bedrock_identifier": "minecraft:warped_hanging_sign",
+    "bedrock_identifier": "minecraft:warped_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5190,
     "lastBlockRuntimeId": 5253,
@@ -5662,7 +5662,7 @@
     "bedrock_data": 0
   },
   "minecraft:iron_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:iron_golem_spawn_egg",
+    "bedrock_identifier": "minecraft:wolf_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:llama_spawn_egg": {
