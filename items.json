@@ -5570,7 +5570,7 @@
     "bedrock_data": 0
   },
   "minecraft:camel_spawn_egg": {
-    "bedrock_identifier": "minecraft:camel_spawn_egg",
+    "bedrock_identifier": "minecraft:llama_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:cave_spider_spawn_egg": {
@@ -5610,7 +5610,7 @@
     "bedrock_data": 0
   },
   "minecraft:ender_dragon_spawn_egg": {
-    "bedrock_identifier": "minecraft:ender_dragon_spawn_egg",
+    "bedrock_identifier": "minecraft:enderman_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:enderman_spawn_egg": {
@@ -5758,7 +5758,7 @@
     "bedrock_data": 0
   },
   "minecraft:snow_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:snow_golem_spawn_egg",
+    "bedrock_identifier": "minecraft:polar_bear_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:spider_spawn_egg": {
@@ -5818,7 +5818,7 @@
     "bedrock_data": 0
   },
   "minecraft:wither_spawn_egg": {
-    "bedrock_identifier": "minecraft:wither_spawn_egg",
+    "bedrock_identifier": "minecraft:wither_skeleton_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:wither_skeleton_spawn_egg": {
