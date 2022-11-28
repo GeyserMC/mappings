@@ -4023,7 +4023,8 @@
   },
   "minecraft:apple": {
     "bedrock_identifier": "minecraft:apple",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:bow": {
     "bedrock_identifier": "minecraft:bow",
@@ -4486,7 +4487,8 @@
   "minecraft:mushroom_stew": {
     "bedrock_identifier": "minecraft:mushroom_stew",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_edible": true
   },
   "minecraft:string": {
     "bedrock_identifier": "minecraft:string",
@@ -4514,7 +4516,8 @@
   },
   "minecraft:bread": {
     "bedrock_identifier": "minecraft:bread",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:leather_helmet": {
     "bedrock_identifier": "minecraft:leather_helmet",
@@ -4786,11 +4789,13 @@
   },
   "minecraft:porkchop": {
     "bedrock_identifier": "minecraft:porkchop",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_porkchop": {
     "bedrock_identifier": "minecraft:cooked_porkchop",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:painting": {
     "bedrock_identifier": "minecraft:painting",
@@ -4798,11 +4803,13 @@
   },
   "minecraft:golden_apple": {
     "bedrock_identifier": "minecraft:golden_apple",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:enchanted_golden_apple": {
     "bedrock_identifier": "minecraft:enchanted_golden_apple",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:oak_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
@@ -4996,27 +5003,33 @@
   },
   "minecraft:cod": {
     "bedrock_identifier": "minecraft:cod",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:salmon": {
     "bedrock_identifier": "minecraft:salmon",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:tropical_fish": {
     "bedrock_identifier": "minecraft:tropical_fish",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:pufferfish": {
     "bedrock_identifier": "minecraft:pufferfish",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_cod": {
     "bedrock_identifier": "minecraft:cooked_cod",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_salmon": {
     "bedrock_identifier": "minecraft:cooked_salmon",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:ink_sac": {
     "bedrock_identifier": "minecraft:ink_sac",
@@ -5245,7 +5258,8 @@
   },
   "minecraft:cookie": {
     "bedrock_identifier": "minecraft:cookie",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:filled_map": {
     "bedrock_identifier": "minecraft:filled_map",
@@ -5260,11 +5274,13 @@
   },
   "minecraft:melon_slice": {
     "bedrock_identifier": "minecraft:melon_slice",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:dried_kelp": {
     "bedrock_identifier": "minecraft:dried_kelp",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:pumpkin_seeds": {
     "bedrock_identifier": "minecraft:pumpkin_seeds",
@@ -5280,23 +5296,28 @@
   },
   "minecraft:beef": {
     "bedrock_identifier": "minecraft:beef",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_beef": {
     "bedrock_identifier": "minecraft:cooked_beef",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:chicken": {
     "bedrock_identifier": "minecraft:chicken",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_chicken": {
     "bedrock_identifier": "minecraft:cooked_chicken",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:rotten_flesh": {
     "bedrock_identifier": "minecraft:rotten_flesh",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:ender_pearl": {
     "bedrock_identifier": "minecraft:ender_pearl",
@@ -5332,7 +5353,8 @@
   },
   "minecraft:spider_eye": {
     "bedrock_identifier": "minecraft:spider_eye",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:fermented_spider_eye": {
     "bedrock_identifier": "minecraft:fermented_spider_eye",
@@ -5586,7 +5608,7 @@
     "bedrock_data": 0
   },
   "minecraft:trader_llama_spawn_egg": {
-    "bedrock_identifier": "minecraft:trader_llama_spawn_egg",
+    "bedrock_identifier": "minecraft:llama_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:tropical_fish_spawn_egg": {
@@ -5684,21 +5706,25 @@
     "bedrock_identifier": "minecraft:carrot",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6923,
-    "lastBlockRuntimeId": 6930
+    "lastBlockRuntimeId": 6930,
+    "is_edible": true
   },
   "minecraft:potato": {
     "bedrock_identifier": "minecraft:potato",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6931,
-    "lastBlockRuntimeId": 6938
+    "lastBlockRuntimeId": 6938,
+    "is_edible": true
   },
   "minecraft:baked_potato": {
     "bedrock_identifier": "minecraft:baked_potato",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:poisonous_potato": {
     "bedrock_identifier": "minecraft:poisonous_potato",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:map": {
     "bedrock_identifier": "minecraft:empty_map",
@@ -5706,7 +5732,8 @@
   },
   "minecraft:golden_carrot": {
     "bedrock_identifier": "minecraft:golden_carrot",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:skeleton_skull": {
     "bedrock_identifier": "minecraft:skull",
@@ -5750,7 +5777,8 @@
   },
   "minecraft:pumpkin_pie": {
     "bedrock_identifier": "minecraft:pumpkin_pie",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:firework_rocket": {
     "bedrock_identifier": "minecraft:firework_rocket",
@@ -5779,16 +5807,19 @@
   },
   "minecraft:rabbit": {
     "bedrock_identifier": "minecraft:rabbit",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_rabbit": {
     "bedrock_identifier": "minecraft:cooked_rabbit",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:rabbit_stew": {
     "bedrock_identifier": "minecraft:rabbit_stew",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_edible": true
   },
   "minecraft:rabbit_foot": {
     "bedrock_identifier": "minecraft:rabbit_foot",
@@ -5838,11 +5869,13 @@
   },
   "minecraft:mutton": {
     "bedrock_identifier": "minecraft:mutton",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:cooked_mutton": {
     "bedrock_identifier": "minecraft:cooked_mutton",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:white_banner": {
     "bedrock_identifier": "minecraft:banner",
@@ -5962,7 +5995,8 @@
   },
   "minecraft:chorus_fruit": {
     "bedrock_identifier": "minecraft:chorus_fruit",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:popped_chorus_fruit": {
     "bedrock_identifier": "minecraft:popped_chorus_fruit",
@@ -5970,7 +6004,8 @@
   },
   "minecraft:beetroot": {
     "bedrock_identifier": "minecraft:beetroot",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_edible": true
   },
   "minecraft:beetroot_seeds": {
     "bedrock_identifier": "minecraft:beetroot_seeds",
@@ -5981,7 +6016,8 @@
   "minecraft:beetroot_soup": {
     "bedrock_identifier": "minecraft:beetroot_soup",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_edible": true
   },
   "minecraft:dragon_breath": {
     "bedrock_identifier": "minecraft:dragon_breath",
@@ -6151,7 +6187,8 @@
   "minecraft:suspicious_stew": {
     "bedrock_identifier": "minecraft:suspicious_stew",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_edible": true
   },
   "minecraft:loom": {
     "bedrock_identifier": "minecraft:loom",
@@ -6267,13 +6304,15 @@
     "bedrock_identifier": "minecraft:sweet_berries",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 16163,
-    "lastBlockRuntimeId": 16166
+    "lastBlockRuntimeId": 16166,
+    "is_edible": true
   },
   "minecraft:glow_berries": {
     "bedrock_identifier": "minecraft:glow_berries",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 19659,
-    "lastBlockRuntimeId": 19710
+    "lastBlockRuntimeId": 19710,
+    "is_edible": true
   },
   "minecraft:campfire": {
     "bedrock_identifier": "minecraft:campfire",
@@ -6311,7 +6350,8 @@
   "minecraft:honey_bottle": {
     "bedrock_identifier": "minecraft:honey_bottle",
     "bedrock_data": 0,
-    "stack_size": 16
+    "stack_size": 16,
+    "is_edible": true
   },
   "minecraft:honeycomb_block": {
     "bedrock_identifier": "minecraft:honeycomb_block",
