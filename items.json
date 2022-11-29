@@ -4959,7 +4959,7 @@
     "stack_size": 16
   },
   "minecraft:bamboo_sign": {
-    "bedrock_identifier": "minecraft:oak_sign",
+    "bedrock_identifier": "minecraft:bamboo_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4474,
     "lastBlockRuntimeId": 4505,
@@ -6504,15 +6504,15 @@
   "minecraft:sweet_berries": {
     "bedrock_identifier": "minecraft:sweet_berries",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 16163,
-    "lastBlockRuntimeId": 16166,
+    "firstBlockRuntimeId": 17947,
+    "lastBlockRuntimeId": 17950,
     "is_edible": true
   },
   "minecraft:glow_berries": {
     "bedrock_identifier": "minecraft:glow_berries",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 19659,
-    "lastBlockRuntimeId": 19710,
+    "firstBlockRuntimeId": 21443,
+    "lastBlockRuntimeId": 21494,
     "is_edible": true
   },
   "minecraft:campfire": {
