@@ -152,7 +152,7 @@
     "firstBlockRuntimeId": 21
   },
   "minecraft:bamboo_planks": {
-    "bedrock_identifier": "minecraft:planks",
+    "bedrock_identifier": "minecraft:bamboo_planks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 22
   },
@@ -167,7 +167,7 @@
     "firstBlockRuntimeId": 18039
   },
   "minecraft:bamboo_mosaic": {
-    "bedrock_identifier": "minecraft:planks",
+    "bedrock_identifier": "minecraft:bamboo_mosaic",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 23
   },
@@ -1230,13 +1230,13 @@
     "lastBlockRuntimeId": 10726
   },
   "minecraft:bamboo_slab": {
-    "bedrock_identifier": "minecraft:wooden_slab",
+    "bedrock_identifier": "minecraft:bamboo_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10727,
     "lastBlockRuntimeId": 10732
   },
   "minecraft:bamboo_mosaic_slab": {
-    "bedrock_identifier": "minecraft:wooden_slab",
+    "bedrock_identifier": "minecraft:bamboo_mosaic_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10733,
     "lastBlockRuntimeId": 10738
@@ -1557,7 +1557,7 @@
     "lastBlockRuntimeId": 11242
   },
   "minecraft:bamboo_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:bamboo_fence",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11243,
     "lastBlockRuntimeId": 11274
@@ -1947,13 +1947,13 @@
     "lastBlockRuntimeId": 9727
   },
   "minecraft:bamboo_stairs": {
-    "bedrock_identifier": "minecraft:oak_stairs",
+    "bedrock_identifier": "minecraft:bamboo_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9728,
     "lastBlockRuntimeId": 9807
   },
   "minecraft:bamboo_mosaic_stairs": {
-    "bedrock_identifier": "minecraft:oak_stairs",
+    "bedrock_identifier": "minecraft:bamboo_mosaic_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9808,
     "lastBlockRuntimeId": 9887
@@ -3638,7 +3638,7 @@
     "lastBlockRuntimeId": 8546
   },
   "minecraft:bamboo_button": {
-    "bedrock_identifier": "minecraft:wooden_button",
+    "bedrock_identifier": "minecraft:bamboo_button",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 8547,
     "lastBlockRuntimeId": 8570
@@ -3722,7 +3722,7 @@
     "lastBlockRuntimeId": 5565
   },
   "minecraft:bamboo_pressure_plate": {
-    "bedrock_identifier": "minecraft:wooden_pressure_plate",
+    "bedrock_identifier": "minecraft:bamboo_pressure_plate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5566,
     "lastBlockRuntimeId": 5567
@@ -3788,7 +3788,7 @@
     "lastBlockRuntimeId": 11658
   },
   "minecraft:bamboo_door": {
-    "bedrock_identifier": "minecraft:wooden_door",
+    "bedrock_identifier": "minecraft:bamboo_door",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11659,
     "lastBlockRuntimeId": 11722
@@ -3854,7 +3854,7 @@
     "lastBlockRuntimeId": 6243
   },
   "minecraft:bamboo_trapdoor": {
-    "bedrock_identifier": "minecraft:trapdoor",
+    "bedrock_identifier": "minecraft:bamboo_trapdoor",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6244,
     "lastBlockRuntimeId": 6307
@@ -3914,7 +3914,7 @@
     "lastBlockRuntimeId": 11018
   },
   "minecraft:bamboo_fence_gate": {
-    "bedrock_identifier": "minecraft:fence_gate",
+    "bedrock_identifier": "minecraft:bamboo_fence_gate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11019,
     "lastBlockRuntimeId": 11050
@@ -5029,7 +5029,7 @@
     "stack_size": 16
   },
   "minecraft:bamboo_hanging_sign": {
-    "bedrock_identifier": "minecraft:oak_sign",
+    "bedrock_identifier": "minecraft:bamboo_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5318,
     "lastBlockRuntimeId": 5381,
