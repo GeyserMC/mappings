@@ -4077,12 +4077,12 @@
     "stack_size": 1
   },
   "minecraft:bamboo_raft": {
-    "bedrock_identifier": "minecraft:oak_boat",
+    "bedrock_identifier": "minecraft:bamboo_raft",
     "bedrock_data": 0,
     "stack_size": 1
   },
   "minecraft:bamboo_chest_raft": {
-    "bedrock_identifier": "minecraft:oak_chest_boat",
+    "bedrock_identifier": "minecraft:bamboo_chest_raft",
     "bedrock_data": 0,
     "stack_size": 1
   },
@@ -5587,7 +5587,7 @@
     "bedrock_data": 0
   },
   "minecraft:camel_spawn_egg": {
-    "bedrock_identifier": "minecraft:llama_spawn_egg",
+    "bedrock_identifier": "minecraft:camel_spawn_egg",
     "bedrock_data": 0
   },
   "minecraft:cave_spider_spawn_egg": {
