@@ -3875,27 +3875,32 @@
   "minecraft:minecart": {
     "bedrock_identifier": "minecraft:minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:chest_minecart": {
     "bedrock_identifier": "minecraft:chest_minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:furnace_minecart": {
     "bedrock_identifier": "minecraft:hopper_minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:tnt_minecart": {
     "bedrock_identifier": "minecraft:tnt_minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:hopper_minecart": {
     "bedrock_identifier": "minecraft:hopper_minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:carrot_on_a_stick": {
     "bedrock_identifier": "minecraft:carrot_on_a_stick",
@@ -3921,72 +3926,86 @@
   "minecraft:oak_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:oak_chest_boat": {
     "bedrock_identifier": "minecraft:oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:spruce_boat": {
     "bedrock_identifier": "minecraft:spruce_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:spruce_chest_boat": {
     "bedrock_identifier": "minecraft:spruce_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:birch_boat": {
     "bedrock_identifier": "minecraft:birch_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:birch_chest_boat": {
     "bedrock_identifier": "minecraft:birch_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:jungle_boat": {
     "bedrock_identifier": "minecraft:jungle_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:jungle_chest_boat": {
     "bedrock_identifier": "minecraft:jungle_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:acacia_boat": {
     "bedrock_identifier": "minecraft:acacia_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:acacia_chest_boat": {
     "bedrock_identifier": "minecraft:acacia_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:dark_oak_boat": {
     "bedrock_identifier": "minecraft:dark_oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:dark_oak_chest_boat": {
     "bedrock_identifier": "minecraft:dark_oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:mangrove_boat": {
     "bedrock_identifier": "minecraft:mangrove_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:mangrove_chest_boat": {
     "bedrock_identifier": "minecraft:mangrove_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:structure_block": {
     "bedrock_identifier": "minecraft:structure_block",
@@ -5389,287 +5408,358 @@
   },
   "minecraft:allay_spawn_egg": {
     "bedrock_identifier": "minecraft:allay_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:axolotl_spawn_egg": {
     "bedrock_identifier": "minecraft:axolotl_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:bat_spawn_egg": {
     "bedrock_identifier": "minecraft:bat_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:bee_spawn_egg": {
     "bedrock_identifier": "minecraft:bee_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:blaze_spawn_egg": {
     "bedrock_identifier": "minecraft:blaze_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:cat_spawn_egg": {
     "bedrock_identifier": "minecraft:cat_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:cave_spider_spawn_egg": {
     "bedrock_identifier": "minecraft:cave_spider_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:chicken_spawn_egg": {
     "bedrock_identifier": "minecraft:chicken_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:cod_spawn_egg": {
     "bedrock_identifier": "minecraft:cod_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:cow_spawn_egg": {
     "bedrock_identifier": "minecraft:cow_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:creeper_spawn_egg": {
     "bedrock_identifier": "minecraft:creeper_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:dolphin_spawn_egg": {
     "bedrock_identifier": "minecraft:dolphin_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:donkey_spawn_egg": {
     "bedrock_identifier": "minecraft:donkey_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:drowned_spawn_egg": {
     "bedrock_identifier": "minecraft:drowned_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:elder_guardian_spawn_egg": {
     "bedrock_identifier": "minecraft:elder_guardian_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:enderman_spawn_egg": {
     "bedrock_identifier": "minecraft:enderman_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:endermite_spawn_egg": {
     "bedrock_identifier": "minecraft:endermite_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:evoker_spawn_egg": {
     "bedrock_identifier": "minecraft:evoker_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:fox_spawn_egg": {
     "bedrock_identifier": "minecraft:fox_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:frog_spawn_egg": {
     "bedrock_identifier": "minecraft:frog_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:ghast_spawn_egg": {
     "bedrock_identifier": "minecraft:ghast_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:glow_squid_spawn_egg": {
     "bedrock_identifier": "minecraft:glow_squid_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:goat_spawn_egg": {
     "bedrock_identifier": "minecraft:goat_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:guardian_spawn_egg": {
     "bedrock_identifier": "minecraft:guardian_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:hoglin_spawn_egg": {
     "bedrock_identifier": "minecraft:hoglin_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:horse_spawn_egg": {
     "bedrock_identifier": "minecraft:horse_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:husk_spawn_egg": {
     "bedrock_identifier": "minecraft:husk_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:llama_spawn_egg": {
     "bedrock_identifier": "minecraft:llama_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:magma_cube_spawn_egg": {
     "bedrock_identifier": "minecraft:magma_cube_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:mooshroom_spawn_egg": {
     "bedrock_identifier": "minecraft:mooshroom_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:mule_spawn_egg": {
     "bedrock_identifier": "minecraft:mule_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:ocelot_spawn_egg": {
     "bedrock_identifier": "minecraft:ocelot_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:panda_spawn_egg": {
     "bedrock_identifier": "minecraft:panda_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:parrot_spawn_egg": {
     "bedrock_identifier": "minecraft:parrot_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:phantom_spawn_egg": {
     "bedrock_identifier": "minecraft:phantom_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:pig_spawn_egg": {
     "bedrock_identifier": "minecraft:pig_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:piglin_spawn_egg": {
     "bedrock_identifier": "minecraft:piglin_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:piglin_brute_spawn_egg": {
     "bedrock_identifier": "minecraft:piglin_brute_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:pillager_spawn_egg": {
     "bedrock_identifier": "minecraft:pillager_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:polar_bear_spawn_egg": {
     "bedrock_identifier": "minecraft:polar_bear_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:pufferfish_spawn_egg": {
     "bedrock_identifier": "minecraft:pufferfish_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:rabbit_spawn_egg": {
     "bedrock_identifier": "minecraft:rabbit_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:ravager_spawn_egg": {
     "bedrock_identifier": "minecraft:ravager_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:salmon_spawn_egg": {
     "bedrock_identifier": "minecraft:salmon_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:sheep_spawn_egg": {
     "bedrock_identifier": "minecraft:sheep_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:shulker_spawn_egg": {
     "bedrock_identifier": "minecraft:shulker_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:silverfish_spawn_egg": {
     "bedrock_identifier": "minecraft:silverfish_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:skeleton_spawn_egg": {
     "bedrock_identifier": "minecraft:skeleton_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:skeleton_horse_spawn_egg": {
     "bedrock_identifier": "minecraft:skeleton_horse_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:slime_spawn_egg": {
     "bedrock_identifier": "minecraft:slime_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:spider_spawn_egg": {
     "bedrock_identifier": "minecraft:spider_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:squid_spawn_egg": {
     "bedrock_identifier": "minecraft:squid_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:stray_spawn_egg": {
     "bedrock_identifier": "minecraft:stray_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:strider_spawn_egg": {
     "bedrock_identifier": "minecraft:strider_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:tadpole_spawn_egg": {
     "bedrock_identifier": "minecraft:tadpole_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:trader_llama_spawn_egg": {
     "bedrock_identifier": "minecraft:llama_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:tropical_fish_spawn_egg": {
     "bedrock_identifier": "minecraft:tropical_fish_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:turtle_spawn_egg": {
     "bedrock_identifier": "minecraft:turtle_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:vex_spawn_egg": {
     "bedrock_identifier": "minecraft:vex_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:villager_spawn_egg": {
     "bedrock_identifier": "minecraft:villager_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:vindicator_spawn_egg": {
     "bedrock_identifier": "minecraft:vindicator_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:wandering_trader_spawn_egg": {
     "bedrock_identifier": "minecraft:wandering_trader_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:warden_spawn_egg": {
     "bedrock_identifier": "minecraft:warden_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:witch_spawn_egg": {
     "bedrock_identifier": "minecraft:witch_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:wither_skeleton_spawn_egg": {
     "bedrock_identifier": "minecraft:wither_skeleton_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:wolf_spawn_egg": {
     "bedrock_identifier": "minecraft:wolf_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:zoglin_spawn_egg": {
     "bedrock_identifier": "minecraft:zoglin_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:zombie_spawn_egg": {
     "bedrock_identifier": "minecraft:zombie_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:zombie_horse_spawn_egg": {
     "bedrock_identifier": "minecraft:zombie_horse_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:zombie_villager_spawn_egg": {
     "bedrock_identifier": "minecraft:zombie_villager_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:zombified_piglin_spawn_egg": {
     "bedrock_identifier": "minecraft:zombie_pigman_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:experience_bottle": {
     "bedrock_identifier": "minecraft:experience_bottle",
@@ -5782,7 +5872,8 @@
   },
   "minecraft:firework_rocket": {
     "bedrock_identifier": "minecraft:firework_rocket",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:firework_star": {
     "bedrock_identifier": "minecraft:firework_star",
@@ -5865,7 +5956,8 @@
   "minecraft:command_block_minecart": {
     "bedrock_identifier": "minecraft:command_block_minecart",
     "bedrock_data": 0,
-    "stack_size": 1
+    "stack_size": 1,
+    "is_entity_placer": true
   },
   "minecraft:mutton": {
     "bedrock_identifier": "minecraft:mutton",
