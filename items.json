@@ -5905,7 +5905,8 @@
   },
   "minecraft:trader_llama_spawn_egg": {
     "bedrock_identifier": "minecraft:llama_spawn_egg",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "is_entity_placer": true
   },
   "minecraft:tropical_fish_spawn_egg": {
     "bedrock_identifier": "minecraft:tropical_fish_spawn_egg",
