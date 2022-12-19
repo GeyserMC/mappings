@@ -15,7 +15,7 @@
   },
   "minecraft:polished_granite": {
     "bedrock_identifier": "minecraft:stone",
-    "bedrock_data": 0,
+    "bedrock_data": 2,
     "firstBlockRuntimeId": 3
   },
   "minecraft:diorite": {
