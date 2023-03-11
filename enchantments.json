@@ -118,7 +118,8 @@
       "minecraft:shears",
       "minecraft:shield",
       "minecraft:trident",
-      "minecraft:crossbow"
+      "minecraft:crossbow",
+      "minecraft:brush"
     ]
   },
   "minecraft:power": {
@@ -405,7 +406,8 @@
       "minecraft:piglin_head",
       "minecraft:shield",
       "minecraft:trident",
-      "minecraft:crossbow"
+      "minecraft:crossbow",
+      "minecraft:brush"
     ]
   },
   "minecraft:punch": {
@@ -742,7 +744,8 @@
       "minecraft:shears",
       "minecraft:shield",
       "minecraft:trident",
-      "minecraft:crossbow"
+      "minecraft:crossbow",
+      "minecraft:brush"
     ]
   },
   "minecraft:riptide": {
