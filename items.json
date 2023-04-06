@@ -1460,8 +1460,7 @@
     "bedrock_identifier": "minecraft:flower_pot",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 23717,
-    "lastBlockRuntimeId": 23724,
-    "stack_size": 1
+    "lastBlockRuntimeId": 23724
   },
   "minecraft:mossy_cobblestone": {
     "bedrock_identifier": "minecraft:mossy_cobblestone",
@@ -2752,120 +2751,103 @@
     "bedrock_identifier": "minecraft:undyed_shulker_box",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12406,
-    "lastBlockRuntimeId": 12411,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12411
   },
   "minecraft:white_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12412,
-    "lastBlockRuntimeId": 12417,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12417
   },
   "minecraft:orange_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 12418,
-    "lastBlockRuntimeId": 12423,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12423
   },
   "minecraft:magenta_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 12424,
-    "lastBlockRuntimeId": 12429,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12429
   },
   "minecraft:light_blue_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 12430,
-    "lastBlockRuntimeId": 12435,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12435
   },
   "minecraft:yellow_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 12436,
-    "lastBlockRuntimeId": 12441,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12441
   },
   "minecraft:lime_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 12442,
-    "lastBlockRuntimeId": 12447,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12447
   },
   "minecraft:pink_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 12448,
-    "lastBlockRuntimeId": 12453,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12453
   },
   "minecraft:gray_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 7,
     "firstBlockRuntimeId": 12454,
-    "lastBlockRuntimeId": 12459,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12459
   },
   "minecraft:light_gray_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 12460,
-    "lastBlockRuntimeId": 12465,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12465
   },
   "minecraft:cyan_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 12466,
-    "lastBlockRuntimeId": 12471,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12471
   },
   "minecraft:purple_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 12472,
-    "lastBlockRuntimeId": 12477,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12477
   },
   "minecraft:blue_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 12478,
-    "lastBlockRuntimeId": 12483,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12483
   },
   "minecraft:brown_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 12484,
-    "lastBlockRuntimeId": 12489,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12489
   },
   "minecraft:green_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 12490,
-    "lastBlockRuntimeId": 12495,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12495
   },
   "minecraft:red_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 14,
     "firstBlockRuntimeId": 12496,
-    "lastBlockRuntimeId": 12501,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12501
   },
   "minecraft:black_shulker_box": {
     "bedrock_identifier": "minecraft:shulker_box",
     "bedrock_data": 15,
     "firstBlockRuntimeId": 12502,
-    "lastBlockRuntimeId": 12507,
-    "stack_size": 1
+    "lastBlockRuntimeId": 12507
   },
   "minecraft:white_glazed_terracotta": {
     "bedrock_identifier": "minecraft:white_glazed_terracotta",
@@ -4071,56 +4053,44 @@
   },
   "minecraft:saddle": {
     "bedrock_identifier": "minecraft:saddle",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:minecart": {
     "bedrock_identifier": "minecraft:minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:chest_minecart": {
     "bedrock_identifier": "minecraft:chest_minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:furnace_minecart": {
     "bedrock_identifier": "minecraft:hopper_minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:tnt_minecart": {
     "bedrock_identifier": "minecraft:tnt_minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:hopper_minecart": {
     "bedrock_identifier": "minecraft:hopper_minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:carrot_on_a_stick": {
     "bedrock_identifier": "minecraft:carrot_on_a_stick",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 25
+    "bedrock_data": 0
   },
   "minecraft:warped_fungus_on_a_stick": {
     "bedrock_identifier": "minecraft:warped_fungus_on_a_stick",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 100
+    "bedrock_data": 0
   },
   "minecraft:elytra": {
     "bedrock_identifier": "minecraft:elytra",
     "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 432,
     "repair_materials": [
       "minecraft:phantom_membrane"
     ]
@@ -4128,109 +4098,91 @@
   "minecraft:oak_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:oak_chest_boat": {
     "bedrock_identifier": "minecraft:oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:spruce_boat": {
     "bedrock_identifier": "minecraft:spruce_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:spruce_chest_boat": {
     "bedrock_identifier": "minecraft:spruce_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:birch_boat": {
     "bedrock_identifier": "minecraft:birch_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:birch_chest_boat": {
     "bedrock_identifier": "minecraft:birch_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:jungle_boat": {
     "bedrock_identifier": "minecraft:jungle_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:jungle_chest_boat": {
     "bedrock_identifier": "minecraft:jungle_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:acacia_boat": {
     "bedrock_identifier": "minecraft:acacia_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:acacia_chest_boat": {
     "bedrock_identifier": "minecraft:acacia_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:cherry_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:cherry_chest_boat": {
     "bedrock_identifier": "minecraft:oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:dark_oak_boat": {
     "bedrock_identifier": "minecraft:dark_oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:dark_oak_chest_boat": {
     "bedrock_identifier": "minecraft:dark_oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:mangrove_boat": {
     "bedrock_identifier": "minecraft:mangrove_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:mangrove_chest_boat": {
     "bedrock_identifier": "minecraft:mangrove_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:bamboo_raft": {
     "bedrock_identifier": "minecraft:oak_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:bamboo_chest_raft": {
     "bedrock_identifier": "minecraft:oak_chest_boat",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:structure_block": {
@@ -4248,9 +4200,7 @@
   "minecraft:turtle_helmet": {
     "bedrock_identifier": "minecraft:turtle_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 275,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:scute"
@@ -4262,9 +4212,7 @@
   },
   "minecraft:flint_and_steel": {
     "bedrock_identifier": "minecraft:flint_and_steel",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 64
+    "bedrock_data": 0
   },
   "minecraft:apple": {
     "bedrock_identifier": "minecraft:apple",
@@ -4273,9 +4221,7 @@
   },
   "minecraft:bow": {
     "bedrock_identifier": "minecraft:bow",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 384
+    "bedrock_data": 0
   },
   "minecraft:arrow": {
     "bedrock_identifier": "minecraft:arrow",
@@ -4344,10 +4290,8 @@
   "minecraft:wooden_sword": {
     "bedrock_identifier": "minecraft:wooden_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "wooden",
-    "max_damage": 59,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -4365,10 +4309,8 @@
   "minecraft:wooden_shovel": {
     "bedrock_identifier": "minecraft:wooden_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "wooden",
-    "max_damage": 59,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -4386,10 +4328,8 @@
   "minecraft:wooden_pickaxe": {
     "bedrock_identifier": "minecraft:wooden_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "wooden",
-    "max_damage": 59,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -4407,10 +4347,8 @@
   "minecraft:wooden_axe": {
     "bedrock_identifier": "minecraft:wooden_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "wooden",
-    "max_damage": 59,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -4428,10 +4366,8 @@
   "minecraft:wooden_hoe": {
     "bedrock_identifier": "minecraft:wooden_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "wooden",
-    "max_damage": 59,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -4449,10 +4385,8 @@
   "minecraft:stone_sword": {
     "bedrock_identifier": "minecraft:stone_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "stone",
-    "max_damage": 131,
     "repair_materials": [
       "minecraft:cobblestone",
       "minecraft:cobbled_deepslate",
@@ -4462,10 +4396,8 @@
   "minecraft:stone_shovel": {
     "bedrock_identifier": "minecraft:stone_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "stone",
-    "max_damage": 131,
     "repair_materials": [
       "minecraft:cobblestone",
       "minecraft:cobbled_deepslate",
@@ -4475,10 +4407,8 @@
   "minecraft:stone_pickaxe": {
     "bedrock_identifier": "minecraft:stone_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "stone",
-    "max_damage": 131,
     "repair_materials": [
       "minecraft:cobblestone",
       "minecraft:cobbled_deepslate",
@@ -4488,10 +4418,8 @@
   "minecraft:stone_axe": {
     "bedrock_identifier": "minecraft:stone_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "stone",
-    "max_damage": 131,
     "repair_materials": [
       "minecraft:cobblestone",
       "minecraft:cobbled_deepslate",
@@ -4501,10 +4429,8 @@
   "minecraft:stone_hoe": {
     "bedrock_identifier": "minecraft:stone_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "stone",
-    "max_damage": 131,
     "repair_materials": [
       "minecraft:cobblestone",
       "minecraft:cobbled_deepslate",
@@ -4514,10 +4440,8 @@
   "minecraft:golden_sword": {
     "bedrock_identifier": "minecraft:golden_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "golden",
-    "max_damage": 32,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4525,10 +4449,8 @@
   "minecraft:golden_shovel": {
     "bedrock_identifier": "minecraft:golden_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "golden",
-    "max_damage": 32,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4536,10 +4458,8 @@
   "minecraft:golden_pickaxe": {
     "bedrock_identifier": "minecraft:golden_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "golden",
-    "max_damage": 32,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4547,10 +4467,8 @@
   "minecraft:golden_axe": {
     "bedrock_identifier": "minecraft:golden_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "golden",
-    "max_damage": 32,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4558,10 +4476,8 @@
   "minecraft:golden_hoe": {
     "bedrock_identifier": "minecraft:golden_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "golden",
-    "max_damage": 32,
     "repair_materials": [
       "minecraft:gold_ingot"
     ]
@@ -4569,10 +4485,8 @@
   "minecraft:iron_sword": {
     "bedrock_identifier": "minecraft:iron_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "iron",
-    "max_damage": 250,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4580,10 +4494,8 @@
   "minecraft:iron_shovel": {
     "bedrock_identifier": "minecraft:iron_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "iron",
-    "max_damage": 250,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4591,10 +4503,8 @@
   "minecraft:iron_pickaxe": {
     "bedrock_identifier": "minecraft:iron_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "iron",
-    "max_damage": 250,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4602,10 +4512,8 @@
   "minecraft:iron_axe": {
     "bedrock_identifier": "minecraft:iron_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "iron",
-    "max_damage": 250,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4613,10 +4521,8 @@
   "minecraft:iron_hoe": {
     "bedrock_identifier": "minecraft:iron_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "iron",
-    "max_damage": 250,
     "repair_materials": [
       "minecraft:iron_ingot"
     ]
@@ -4624,10 +4530,8 @@
   "minecraft:diamond_sword": {
     "bedrock_identifier": "minecraft:diamond_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "diamond",
-    "max_damage": 1561,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4635,10 +4539,8 @@
   "minecraft:diamond_shovel": {
     "bedrock_identifier": "minecraft:diamond_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "diamond",
-    "max_damage": 1561,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4646,10 +4548,8 @@
   "minecraft:diamond_pickaxe": {
     "bedrock_identifier": "minecraft:diamond_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "diamond",
-    "max_damage": 1561,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4657,10 +4557,8 @@
   "minecraft:diamond_axe": {
     "bedrock_identifier": "minecraft:diamond_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "diamond",
-    "max_damage": 1561,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4668,10 +4566,8 @@
   "minecraft:diamond_hoe": {
     "bedrock_identifier": "minecraft:diamond_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "diamond",
-    "max_damage": 1561,
     "repair_materials": [
       "minecraft:diamond"
     ]
@@ -4679,10 +4575,8 @@
   "minecraft:netherite_sword": {
     "bedrock_identifier": "minecraft:netherite_sword",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "sword",
     "tool_tier": "netherite",
-    "max_damage": 2031,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4690,10 +4584,8 @@
   "minecraft:netherite_shovel": {
     "bedrock_identifier": "minecraft:netherite_shovel",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "shovel",
     "tool_tier": "netherite",
-    "max_damage": 2031,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4701,10 +4593,8 @@
   "minecraft:netherite_pickaxe": {
     "bedrock_identifier": "minecraft:netherite_pickaxe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "pickaxe",
     "tool_tier": "netherite",
-    "max_damage": 2031,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4712,10 +4602,8 @@
   "minecraft:netherite_axe": {
     "bedrock_identifier": "minecraft:netherite_axe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "axe",
     "tool_tier": "netherite",
-    "max_damage": 2031,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4723,10 +4611,8 @@
   "minecraft:netherite_hoe": {
     "bedrock_identifier": "minecraft:netherite_hoe",
     "bedrock_data": 0,
-    "stack_size": 1,
     "tool_type": "hoe",
     "tool_tier": "netherite",
-    "max_damage": 2031,
     "repair_materials": [
       "minecraft:netherite_ingot"
     ]
@@ -4742,7 +4628,6 @@
   "minecraft:mushroom_stew": {
     "bedrock_identifier": "minecraft:mushroom_stew",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_edible": true
   },
   "minecraft:string": {
@@ -4777,9 +4662,7 @@
   "minecraft:leather_helmet": {
     "bedrock_identifier": "minecraft:leather_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 55,
     "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
@@ -4788,9 +4671,7 @@
   "minecraft:leather_chestplate": {
     "bedrock_identifier": "minecraft:leather_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 80,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:leather"
@@ -4799,9 +4680,7 @@
   "minecraft:leather_leggings": {
     "bedrock_identifier": "minecraft:leather_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 75,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:leather"
@@ -4810,9 +4689,7 @@
   "minecraft:leather_boots": {
     "bedrock_identifier": "minecraft:leather_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 65,
     "protection_value": 1,
     "repair_materials": [
       "minecraft:leather"
@@ -4821,9 +4698,7 @@
   "minecraft:chainmail_helmet": {
     "bedrock_identifier": "minecraft:chainmail_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 165,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4832,9 +4707,7 @@
   "minecraft:chainmail_chestplate": {
     "bedrock_identifier": "minecraft:chainmail_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 240,
     "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4843,9 +4716,7 @@
   "minecraft:chainmail_leggings": {
     "bedrock_identifier": "minecraft:chainmail_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 225,
     "protection_value": 4,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4854,9 +4725,7 @@
   "minecraft:chainmail_boots": {
     "bedrock_identifier": "minecraft:chainmail_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 195,
     "protection_value": 1,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4865,9 +4734,7 @@
   "minecraft:iron_helmet": {
     "bedrock_identifier": "minecraft:iron_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 165,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4876,9 +4743,7 @@
   "minecraft:iron_chestplate": {
     "bedrock_identifier": "minecraft:iron_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 240,
     "protection_value": 6,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4887,9 +4752,7 @@
   "minecraft:iron_leggings": {
     "bedrock_identifier": "minecraft:iron_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 225,
     "protection_value": 5,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4898,9 +4761,7 @@
   "minecraft:iron_boots": {
     "bedrock_identifier": "minecraft:iron_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 195,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:iron_ingot"
@@ -4909,9 +4770,7 @@
   "minecraft:diamond_helmet": {
     "bedrock_identifier": "minecraft:diamond_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 363,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
@@ -4920,9 +4779,7 @@
   "minecraft:diamond_chestplate": {
     "bedrock_identifier": "minecraft:diamond_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 528,
     "protection_value": 8,
     "repair_materials": [
       "minecraft:diamond"
@@ -4931,9 +4788,7 @@
   "minecraft:diamond_leggings": {
     "bedrock_identifier": "minecraft:diamond_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 495,
     "protection_value": 6,
     "repair_materials": [
       "minecraft:diamond"
@@ -4942,9 +4797,7 @@
   "minecraft:diamond_boots": {
     "bedrock_identifier": "minecraft:diamond_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 429,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:diamond"
@@ -4953,9 +4806,7 @@
   "minecraft:golden_helmet": {
     "bedrock_identifier": "minecraft:golden_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 77,
     "protection_value": 2,
     "repair_materials": [
       "minecraft:gold_ingot"
@@ -4964,9 +4815,7 @@
   "minecraft:golden_chestplate": {
     "bedrock_identifier": "minecraft:golden_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 112,
     "protection_value": 5,
     "repair_materials": [
       "minecraft:gold_ingot"
@@ -4975,9 +4824,7 @@
   "minecraft:golden_leggings": {
     "bedrock_identifier": "minecraft:golden_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 105,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:gold_ingot"
@@ -4986,9 +4833,7 @@
   "minecraft:golden_boots": {
     "bedrock_identifier": "minecraft:golden_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 91,
     "protection_value": 1,
     "repair_materials": [
       "minecraft:gold_ingot"
@@ -4997,9 +4842,7 @@
   "minecraft:netherite_helmet": {
     "bedrock_identifier": "minecraft:netherite_helmet",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "helmet",
-    "max_damage": 407,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
@@ -5008,9 +4851,7 @@
   "minecraft:netherite_chestplate": {
     "bedrock_identifier": "minecraft:netherite_chestplate",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "chestplate",
-    "max_damage": 592,
     "protection_value": 8,
     "repair_materials": [
       "minecraft:netherite_ingot"
@@ -5019,9 +4860,7 @@
   "minecraft:netherite_leggings": {
     "bedrock_identifier": "minecraft:netherite_leggings",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "leggings",
-    "max_damage": 555,
     "protection_value": 6,
     "repair_materials": [
       "minecraft:netherite_ingot"
@@ -5030,9 +4869,7 @@
   "minecraft:netherite_boots": {
     "bedrock_identifier": "minecraft:netherite_boots",
     "bedrock_data": 0,
-    "stack_size": 1,
     "armor_type": "boots",
-    "max_damage": 481,
     "protection_value": 3,
     "repair_materials": [
       "minecraft:netherite_ingot"
@@ -5070,181 +4907,154 @@
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4298,
-    "lastBlockRuntimeId": 4329,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4329
   },
   "minecraft:spruce_sign": {
     "bedrock_identifier": "minecraft:spruce_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4330,
-    "lastBlockRuntimeId": 4361,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4361
   },
   "minecraft:birch_sign": {
     "bedrock_identifier": "minecraft:birch_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4362,
-    "lastBlockRuntimeId": 4393,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4393
   },
   "minecraft:jungle_sign": {
     "bedrock_identifier": "minecraft:jungle_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4458,
-    "lastBlockRuntimeId": 4489,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4489
   },
   "minecraft:acacia_sign": {
     "bedrock_identifier": "minecraft:acacia_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4394,
-    "lastBlockRuntimeId": 4425,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4425
   },
   "minecraft:cherry_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4426,
-    "lastBlockRuntimeId": 4457,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4457
   },
   "minecraft:dark_oak_sign": {
     "bedrock_identifier": "minecraft:dark_oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4490,
-    "lastBlockRuntimeId": 4521,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4521
   },
   "minecraft:mangrove_sign": {
     "bedrock_identifier": "minecraft:mangrove_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4522,
-    "lastBlockRuntimeId": 4553,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4553
   },
   "minecraft:bamboo_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4554,
-    "lastBlockRuntimeId": 4585,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4585
   },
   "minecraft:crimson_sign": {
     "bedrock_identifier": "minecraft:crimson_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 19117,
-    "lastBlockRuntimeId": 19148,
-    "stack_size": 16
+    "lastBlockRuntimeId": 19148
   },
   "minecraft:warped_sign": {
     "bedrock_identifier": "minecraft:warped_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 19149,
-    "lastBlockRuntimeId": 19180,
-    "stack_size": 16
+    "lastBlockRuntimeId": 19180
   },
   "minecraft:oak_hanging_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4830,
-    "lastBlockRuntimeId": 4893,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4893
   },
   "minecraft:spruce_hanging_sign": {
     "bedrock_identifier": "minecraft:spruce_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4894,
-    "lastBlockRuntimeId": 4957,
-    "stack_size": 16
+    "lastBlockRuntimeId": 4957
   },
   "minecraft:birch_hanging_sign": {
     "bedrock_identifier": "minecraft:birch_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4958,
-    "lastBlockRuntimeId": 5021,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5021
   },
   "minecraft:jungle_hanging_sign": {
     "bedrock_identifier": "minecraft:jungle_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5150,
-    "lastBlockRuntimeId": 5213,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5213
   },
   "minecraft:acacia_hanging_sign": {
     "bedrock_identifier": "minecraft:acacia_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5022,
-    "lastBlockRuntimeId": 5085,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5085
   },
   "minecraft:cherry_hanging_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5086,
-    "lastBlockRuntimeId": 5149,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5149
   },
   "minecraft:dark_oak_hanging_sign": {
     "bedrock_identifier": "minecraft:dark_oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5214,
-    "lastBlockRuntimeId": 5277,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5277
   },
   "minecraft:mangrove_hanging_sign": {
     "bedrock_identifier": "minecraft:mangrove_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5406,
-    "lastBlockRuntimeId": 5469,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5469
   },
   "minecraft:bamboo_hanging_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5470,
-    "lastBlockRuntimeId": 5533,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5533
   },
   "minecraft:crimson_hanging_sign": {
     "bedrock_identifier": "minecraft:crimson_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5278,
-    "lastBlockRuntimeId": 5341,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5341
   },
   "minecraft:warped_hanging_sign": {
     "bedrock_identifier": "minecraft:warped_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5342,
-    "lastBlockRuntimeId": 5405,
-    "stack_size": 16
+    "lastBlockRuntimeId": 5405
   },
   "minecraft:bucket": {
     "bedrock_identifier": "minecraft:bucket",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:water_bucket": {
     "bedrock_identifier": "minecraft:water_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:lava_bucket": {
     "bedrock_identifier": "minecraft:lava_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:powder_snow_bucket": {
     "bedrock_identifier": "minecraft:powder_snow_bucket",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 20925,
-    "stack_size": 1
+    "firstBlockRuntimeId": 20925
   },
   "minecraft:snowball": {
     "bedrock_identifier": "minecraft:snowball",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:leather": {
     "bedrock_identifier": "minecraft:leather",
@@ -5252,38 +5062,31 @@
   },
   "minecraft:milk_bucket": {
     "bedrock_identifier": "minecraft:milk_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:pufferfish_bucket": {
     "bedrock_identifier": "minecraft:pufferfish_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:salmon_bucket": {
     "bedrock_identifier": "minecraft:salmon_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:cod_bucket": {
     "bedrock_identifier": "minecraft:cod_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:tropical_fish_bucket": {
     "bedrock_identifier": "minecraft:tropical_fish_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:axolotl_bucket": {
     "bedrock_identifier": "minecraft:axolotl_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:tadpole_bucket": {
     "bedrock_identifier": "minecraft:tadpole_bucket",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:brick": {
     "bedrock_identifier": "minecraft:brick",
@@ -5312,8 +5115,7 @@
   },
   "minecraft:egg": {
     "bedrock_identifier": "minecraft:egg",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:compass": {
     "bedrock_identifier": "minecraft:compass",
@@ -5325,14 +5127,11 @@
   },
   "minecraft:bundle": {
     "bedrock_identifier": "minecraft:shulker_shell",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:fishing_rod": {
     "bedrock_identifier": "minecraft:fishing_rod",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 64
+    "bedrock_data": 0
   },
   "minecraft:clock": {
     "bedrock_identifier": "minecraft:clock",
@@ -5340,8 +5139,7 @@
   },
   "minecraft:spyglass": {
     "bedrock_identifier": "minecraft:spyglass",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:glowstone_dust": {
     "bedrock_identifier": "minecraft:glowstone_dust",
@@ -5393,83 +5191,67 @@
   },
   "minecraft:white_dye": {
     "bedrock_identifier": "minecraft:white_dye",
-    "bedrock_data": 0,
-    "dye_color": 0
+    "bedrock_data": 0
   },
   "minecraft:orange_dye": {
     "bedrock_identifier": "minecraft:orange_dye",
-    "bedrock_data": 0,
-    "dye_color": 1
+    "bedrock_data": 0
   },
   "minecraft:magenta_dye": {
     "bedrock_identifier": "minecraft:magenta_dye",
-    "bedrock_data": 0,
-    "dye_color": 2
+    "bedrock_data": 0
   },
   "minecraft:light_blue_dye": {
     "bedrock_identifier": "minecraft:light_blue_dye",
-    "bedrock_data": 0,
-    "dye_color": 3
+    "bedrock_data": 0
   },
   "minecraft:yellow_dye": {
     "bedrock_identifier": "minecraft:yellow_dye",
-    "bedrock_data": 0,
-    "dye_color": 4
+    "bedrock_data": 0
   },
   "minecraft:lime_dye": {
     "bedrock_identifier": "minecraft:lime_dye",
-    "bedrock_data": 0,
-    "dye_color": 5
+    "bedrock_data": 0
   },
   "minecraft:pink_dye": {
     "bedrock_identifier": "minecraft:pink_dye",
-    "bedrock_data": 0,
-    "dye_color": 6
+    "bedrock_data": 0
   },
   "minecraft:gray_dye": {
     "bedrock_identifier": "minecraft:gray_dye",
-    "bedrock_data": 0,
-    "dye_color": 7
+    "bedrock_data": 0
   },
   "minecraft:light_gray_dye": {
     "bedrock_identifier": "minecraft:light_gray_dye",
-    "bedrock_data": 0,
-    "dye_color": 8
+    "bedrock_data": 0
   },
   "minecraft:cyan_dye": {
     "bedrock_identifier": "minecraft:cyan_dye",
-    "bedrock_data": 0,
-    "dye_color": 9
+    "bedrock_data": 0
   },
   "minecraft:purple_dye": {
     "bedrock_identifier": "minecraft:purple_dye",
-    "bedrock_data": 0,
-    "dye_color": 10
+    "bedrock_data": 0
   },
   "minecraft:blue_dye": {
     "bedrock_identifier": "minecraft:blue_dye",
-    "bedrock_data": 0,
-    "dye_color": 11
+    "bedrock_data": 0
   },
   "minecraft:brown_dye": {
     "bedrock_identifier": "minecraft:brown_dye",
-    "bedrock_data": 0,
-    "dye_color": 12
+    "bedrock_data": 0
   },
   "minecraft:green_dye": {
     "bedrock_identifier": "minecraft:green_dye",
-    "bedrock_data": 0,
-    "dye_color": 13
+    "bedrock_data": 0
   },
   "minecraft:red_dye": {
     "bedrock_identifier": "minecraft:red_dye",
-    "bedrock_data": 0,
-    "dye_color": 14
+    "bedrock_data": 0
   },
   "minecraft:black_dye": {
     "bedrock_identifier": "minecraft:black_dye",
-    "bedrock_data": 0,
-    "dye_color": 15
+    "bedrock_data": 0
   },
   "minecraft:bone_meal": {
     "bedrock_identifier": "minecraft:bone_meal",
@@ -5487,120 +5269,103 @@
     "bedrock_identifier": "minecraft:cake",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5871,
-    "lastBlockRuntimeId": 5877,
-    "stack_size": 1
+    "lastBlockRuntimeId": 5877
   },
   "minecraft:white_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 1684,
-    "lastBlockRuntimeId": 1699,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1699
   },
   "minecraft:orange_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 1700,
-    "lastBlockRuntimeId": 1715,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1715
   },
   "minecraft:magenta_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 1716,
-    "lastBlockRuntimeId": 1731,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1731
   },
   "minecraft:light_blue_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 1732,
-    "lastBlockRuntimeId": 1747,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1747
   },
   "minecraft:yellow_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 1748,
-    "lastBlockRuntimeId": 1763,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1763
   },
   "minecraft:lime_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 1764,
-    "lastBlockRuntimeId": 1779,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1779
   },
   "minecraft:pink_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 1780,
-    "lastBlockRuntimeId": 1795,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1795
   },
   "minecraft:gray_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 7,
     "firstBlockRuntimeId": 1796,
-    "lastBlockRuntimeId": 1811,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1811
   },
   "minecraft:light_gray_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 1812,
-    "lastBlockRuntimeId": 1827,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1827
   },
   "minecraft:cyan_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 1828,
-    "lastBlockRuntimeId": 1843,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1843
   },
   "minecraft:purple_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 1844,
-    "lastBlockRuntimeId": 1859,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1859
   },
   "minecraft:blue_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 1860,
-    "lastBlockRuntimeId": 1875,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1875
   },
   "minecraft:brown_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 1876,
-    "lastBlockRuntimeId": 1891,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1891
   },
   "minecraft:green_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 1892,
-    "lastBlockRuntimeId": 1907,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1907
   },
   "minecraft:red_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 14,
     "firstBlockRuntimeId": 1908,
-    "lastBlockRuntimeId": 1923,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1923
   },
   "minecraft:black_bed": {
     "bedrock_identifier": "minecraft:bed",
     "bedrock_data": 15,
     "firstBlockRuntimeId": 1924,
-    "lastBlockRuntimeId": 1939,
-    "stack_size": 1
+    "lastBlockRuntimeId": 1939
   },
   "minecraft:cookie": {
     "bedrock_identifier": "minecraft:cookie",
@@ -5614,9 +5379,7 @@
   "minecraft:shears": {
     "bedrock_identifier": "minecraft:shears",
     "bedrock_data": 0,
-    "stack_size": 1,
-    "tool_type": "shears",
-    "max_damage": 238
+    "tool_type": "shears"
   },
   "minecraft:melon_slice": {
     "bedrock_identifier": "minecraft:melon_slice",
@@ -5667,8 +5430,7 @@
   },
   "minecraft:ender_pearl": {
     "bedrock_identifier": "minecraft:ender_pearl",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:blaze_rod": {
     "bedrock_identifier": "minecraft:blaze_rod",
@@ -5690,8 +5452,7 @@
   },
   "minecraft:potion": {
     "bedrock_identifier": "minecraft:potion",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:glass_bottle": {
     "bedrock_identifier": "minecraft:glass_bottle",
@@ -6128,13 +5889,11 @@
   },
   "minecraft:writable_book": {
     "bedrock_identifier": "minecraft:writable_book",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:written_book": {
     "bedrock_identifier": "minecraft:written_book",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:item_frame": {
     "bedrock_identifier": "minecraft:frame",
@@ -6244,8 +6003,7 @@
   },
   "minecraft:enchanted_book": {
     "bedrock_identifier": "minecraft:enchanted_book",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:nether_brick": {
     "bedrock_identifier": "minecraft:netherbrick",
@@ -6272,7 +6030,6 @@
   "minecraft:rabbit_stew": {
     "bedrock_identifier": "minecraft:rabbit_stew",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_edible": true
   },
   "minecraft:rabbit_foot": {
@@ -6285,28 +6042,23 @@
   },
   "minecraft:armor_stand": {
     "bedrock_identifier": "minecraft:armor_stand",
-    "bedrock_data": 0,
-    "stack_size": 16
+    "bedrock_data": 0
   },
   "minecraft:iron_horse_armor": {
     "bedrock_identifier": "minecraft:iron_horse_armor",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:golden_horse_armor": {
     "bedrock_identifier": "minecraft:golden_horse_armor",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:diamond_horse_armor": {
     "bedrock_identifier": "minecraft:diamond_horse_armor",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:leather_horse_armor": {
     "bedrock_identifier": "minecraft:leather_horse_armor",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:lead": {
     "bedrock_identifier": "minecraft:lead",
@@ -6319,7 +6071,6 @@
   "minecraft:command_block_minecart": {
     "bedrock_identifier": "minecraft:command_block_minecart",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_entity_placer": true
   },
   "minecraft:mutton": {
@@ -6336,113 +6087,97 @@
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 15,
     "firstBlockRuntimeId": 10614,
-    "lastBlockRuntimeId": 10629,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10629
   },
   "minecraft:orange_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 14,
     "firstBlockRuntimeId": 10630,
-    "lastBlockRuntimeId": 10645,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10645
   },
   "minecraft:magenta_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 10646,
-    "lastBlockRuntimeId": 10661,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10661
   },
   "minecraft:light_blue_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 10662,
-    "lastBlockRuntimeId": 10677,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10677
   },
   "minecraft:yellow_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 10678,
-    "lastBlockRuntimeId": 10693,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10693
   },
   "minecraft:lime_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 10694,
-    "lastBlockRuntimeId": 10709,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10709
   },
   "minecraft:pink_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 10710,
-    "lastBlockRuntimeId": 10725,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10725
   },
   "minecraft:gray_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 10726,
-    "lastBlockRuntimeId": 10741,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10741
   },
   "minecraft:light_gray_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 7,
     "firstBlockRuntimeId": 10742,
-    "lastBlockRuntimeId": 10757,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10757
   },
   "minecraft:cyan_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 10758,
-    "lastBlockRuntimeId": 10773,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10773
   },
   "minecraft:purple_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 10774,
-    "lastBlockRuntimeId": 10789,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10789
   },
   "minecraft:blue_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 10790,
-    "lastBlockRuntimeId": 10805,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10805
   },
   "minecraft:brown_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 10806,
-    "lastBlockRuntimeId": 10821,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10821
   },
   "minecraft:green_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 10822,
-    "lastBlockRuntimeId": 10837,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10837
   },
   "minecraft:red_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 10838,
-    "lastBlockRuntimeId": 10853,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10853
   },
   "minecraft:black_banner": {
     "bedrock_identifier": "minecraft:banner",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10854,
-    "lastBlockRuntimeId": 10869,
-    "stack_size": 16
+    "lastBlockRuntimeId": 10869
   },
   "minecraft:end_crystal": {
     "bedrock_identifier": "minecraft:end_crystal",
@@ -6477,7 +6212,6 @@
   "minecraft:beetroot_soup": {
     "bedrock_identifier": "minecraft:beetroot_soup",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_edible": true
   },
   "minecraft:dragon_breath": {
@@ -6486,8 +6220,7 @@
   },
   "minecraft:splash_potion": {
     "bedrock_identifier": "minecraft:splash_potion",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:spectral_arrow": {
     "bedrock_identifier": "minecraft:arrow",
@@ -6499,14 +6232,11 @@
   },
   "minecraft:lingering_potion": {
     "bedrock_identifier": "minecraft:lingering_potion",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:shield": {
     "bedrock_identifier": "minecraft:shield",
     "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 336,
     "repair_materials": [
       "minecraft:oak_planks",
       "minecraft:spruce_planks",
@@ -6523,8 +6253,7 @@
   },
   "minecraft:totem_of_undying": {
     "bedrock_identifier": "minecraft:totem_of_undying",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:shulker_shell": {
     "bedrock_identifier": "minecraft:shulker_shell",
@@ -6536,88 +6265,71 @@
   },
   "minecraft:knowledge_book": {
     "bedrock_identifier": "minecraft:book",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:debug_stick": {
     "bedrock_identifier": "minecraft:stick",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_13": {
     "bedrock_identifier": "minecraft:music_disc_13",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_cat": {
     "bedrock_identifier": "minecraft:music_disc_cat",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_blocks": {
     "bedrock_identifier": "minecraft:music_disc_blocks",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_chirp": {
     "bedrock_identifier": "minecraft:music_disc_chirp",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_far": {
     "bedrock_identifier": "minecraft:music_disc_far",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_mall": {
     "bedrock_identifier": "minecraft:music_disc_mall",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_mellohi": {
     "bedrock_identifier": "minecraft:music_disc_mellohi",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_stal": {
     "bedrock_identifier": "minecraft:music_disc_stal",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_strad": {
     "bedrock_identifier": "minecraft:music_disc_strad",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_ward": {
     "bedrock_identifier": "minecraft:music_disc_ward",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_11": {
     "bedrock_identifier": "minecraft:music_disc_11",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_wait": {
     "bedrock_identifier": "minecraft:music_disc_wait",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_otherside": {
     "bedrock_identifier": "minecraft:music_disc_otherside",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_5": {
     "bedrock_identifier": "minecraft:music_disc_5",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:music_disc_pigstep": {
     "bedrock_identifier": "minecraft:music_disc_pigstep",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:disc_fragment_5": {
     "bedrock_identifier": "minecraft:disc_fragment_5",
@@ -6625,9 +6337,7 @@
   },
   "minecraft:trident": {
     "bedrock_identifier": "minecraft:trident",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 250
+    "bedrock_data": 0
   },
   "minecraft:phantom_membrane": {
     "bedrock_identifier": "minecraft:phantom_membrane",
@@ -6643,14 +6353,11 @@
   },
   "minecraft:crossbow": {
     "bedrock_identifier": "minecraft:crossbow",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 465
+    "bedrock_data": 0
   },
   "minecraft:suspicious_stew": {
     "bedrock_identifier": "minecraft:suspicious_stew",
     "bedrock_data": 0,
-    "stack_size": 1,
     "is_edible": true
   },
   "minecraft:loom": {
@@ -6661,38 +6368,31 @@
   },
   "minecraft:flower_banner_pattern": {
     "bedrock_identifier": "minecraft:flower_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:creeper_banner_pattern": {
     "bedrock_identifier": "minecraft:creeper_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:skull_banner_pattern": {
     "bedrock_identifier": "minecraft:skull_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:mojang_banner_pattern": {
     "bedrock_identifier": "minecraft:mojang_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:globe_banner_pattern": {
     "bedrock_identifier": "minecraft:globe_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:piglin_banner_pattern": {
     "bedrock_identifier": "minecraft:piglin_banner_pattern",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:goat_horn": {
     "bedrock_identifier": "minecraft:goat_horn",
-    "bedrock_data": 0,
-    "stack_size": 1
+    "bedrock_data": 0
   },
   "minecraft:composter": {
     "bedrock_identifier": "minecraft:composter",
@@ -6813,7 +6513,6 @@
   "minecraft:honey_bottle": {
     "bedrock_identifier": "minecraft:honey_bottle",
     "bedrock_data": 0,
-    "stack_size": 16,
     "is_edible": true
   },
   "minecraft:honeycomb_block": {
@@ -7064,9 +6763,7 @@
   },
   "minecraft:brush": {
     "bedrock_identifier": "minecraft:shears",
-    "bedrock_data": 0,
-    "stack_size": 1,
-    "max_damage": 64
+    "bedrock_data": 0
   },
   "minecraft:netherite_upgrade_smithing_template": {
     "bedrock_identifier": "minecraft:blackstone_slab",
