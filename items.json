@@ -5575,7 +5575,7 @@
     "is_entity_placer": true
   },
   "minecraft:ender_dragon_spawn_egg": {
-    "bedrock_identifier": "minecraft:enderman_spawn_egg",
+    "bedrock_identifier": "minecraft:ender_dragon_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5640,7 +5640,7 @@
     "is_entity_placer": true
   },
   "minecraft:iron_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:wolf_spawn_egg",
+    "bedrock_identifier": "minecraft:iron_golem_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5765,7 +5765,7 @@
     "is_entity_placer": true
   },
   "minecraft:snow_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:polar_bear_spawn_egg",
+    "bedrock_identifier": "minecraft:snow_golem_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5795,7 +5795,7 @@
     "is_entity_placer": true
   },
   "minecraft:trader_llama_spawn_egg": {
-    "bedrock_identifier": "minecraft:llama_spawn_egg",
+    "bedrock_identifier": "minecraft:trader_llama_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5840,7 +5840,7 @@
     "is_entity_placer": true
   },
   "minecraft:wither_spawn_egg": {
-    "bedrock_identifier": "minecraft:wither_skeleton_spawn_egg",
+    "bedrock_identifier": "minecraft:wither_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
