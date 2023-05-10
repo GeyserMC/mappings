@@ -164,6 +164,9 @@
   "minecraft:the_end": {
     "bedrock_id": 9
   },
+  "minecraft:the_void": {
+    "bedrock_id": 7
+  },
   "minecraft:warm_ocean": {
     "bedrock_id": 40
   },
@@ -183,6 +186,6 @@
     "bedrock_id": 163
   },
   "minecraft:wooded_badlands": {
-    "bedrock_id": 39
+    "bedrock_id": 38
   }
 }
