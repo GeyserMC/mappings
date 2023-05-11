@@ -235,7 +235,7 @@
     "firstBlockRuntimeId": 112
   },
   "minecraft:suspicious_sand": {
-    "bedrock_identifier": "minecraft:sand",
+    "bedrock_identifier": "minecraft:suspicious_sand",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 113,
     "lastBlockRuntimeId": 116
