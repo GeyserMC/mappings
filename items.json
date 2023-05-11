@@ -1061,86 +1061,72 @@
   "minecraft:dandelion": {
     "bedrock_identifier": "minecraft:yellow_flower",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 2071,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2071
   },
   "minecraft:poppy": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 2073,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2073
   },
   "minecraft:blue_orchid": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 1,
-    "firstBlockRuntimeId": 2074,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2074
   },
   "minecraft:allium": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 2,
-    "firstBlockRuntimeId": 2075,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2075
   },
   "minecraft:azure_bluet": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 3,
-    "firstBlockRuntimeId": 2076,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2076
   },
   "minecraft:red_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 4,
-    "firstBlockRuntimeId": 2077,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2077
   },
   "minecraft:orange_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 5,
-    "firstBlockRuntimeId": 2078,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2078
   },
   "minecraft:white_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 6,
-    "firstBlockRuntimeId": 2079,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2079
   },
   "minecraft:pink_tulip": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 7,
-    "firstBlockRuntimeId": 2080,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2080
   },
   "minecraft:oxeye_daisy": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 8,
-    "firstBlockRuntimeId": 2081,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2081
   },
   "minecraft:cornflower": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 9,
-    "firstBlockRuntimeId": 2082,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2082
   },
   "minecraft:lily_of_the_valley": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 10,
-    "firstBlockRuntimeId": 2084,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2084
   },
   "minecraft:wither_rose": {
     "bedrock_identifier": "minecraft:wither_rose",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 2083,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2083
   },
   "minecraft:torchflower": {
     "bedrock_identifier": "minecraft:red_flower",
     "bedrock_data": 0,
-    "firstBlockRuntimeId": 2072,
-    "has_suspicious_stew_effect": true
+    "firstBlockRuntimeId": 2072
   },
   "minecraft:spore_blossom": {
     "bedrock_identifier": "minecraft:spore_blossom",
@@ -5575,7 +5561,7 @@
     "is_entity_placer": true
   },
   "minecraft:ender_dragon_spawn_egg": {
-    "bedrock_identifier": "minecraft:ender_dragon_spawn_egg",
+    "bedrock_identifier": "minecraft:enderman_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5640,7 +5626,7 @@
     "is_entity_placer": true
   },
   "minecraft:iron_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:iron_golem_spawn_egg",
+    "bedrock_identifier": "minecraft:wolf_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5765,7 +5751,7 @@
     "is_entity_placer": true
   },
   "minecraft:snow_golem_spawn_egg": {
-    "bedrock_identifier": "minecraft:snow_golem_spawn_egg",
+    "bedrock_identifier": "minecraft:polar_bear_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -5840,7 +5826,7 @@
     "is_entity_placer": true
   },
   "minecraft:wither_spawn_egg": {
-    "bedrock_identifier": "minecraft:wither_spawn_egg",
+    "bedrock_identifier": "minecraft:wither_skeleton_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
