@@ -1135,7 +1135,7 @@
     "firstBlockRuntimeId": 2076
   },
   "minecraft:pitcher_plant": {
-    "bedrock_identifier": "minecraft:pitcher_plant",
+    "bedrock_identifier": "minecraft:chorus_flower",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12366,
     "lastBlockRuntimeId": 12367
@@ -3110,7 +3110,7 @@
     "lastBlockRuntimeId": 12658
   },
   "minecraft:sniffer_egg": {
-    "bedrock_identifier": "minecraft:sniffer_egg",
+    "bedrock_identifier": "minecraft:dragon_egg",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12659,
     "lastBlockRuntimeId": 12661
@@ -4156,12 +4156,12 @@
     "is_entity_placer": true
   },
   "minecraft:cherry_boat": {
-    "bedrock_identifier": "minecraft:oak_boat",
+    "bedrock_identifier": "minecraft:cherry_boat",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
   "minecraft:cherry_chest_boat": {
-    "bedrock_identifier": "minecraft:oak_chest_boat",
+    "bedrock_identifier": "minecraft:cherry_chest_boat",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -6209,7 +6209,7 @@
     "lastBlockRuntimeId": 12355
   },
   "minecraft:pitcher_pod": {
-    "bedrock_identifier": "minecraft:pitcher_pod",
+    "bedrock_identifier": "minecraft:beetroot",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12356,
     "lastBlockRuntimeId": 12365
@@ -6340,7 +6340,7 @@
     "bedrock_data": 0
   },
   "minecraft:music_disc_relic": {
-    "bedrock_identifier": "minecraft:music_disc_relic",
+    "bedrock_identifier": "minecraft:music_disc_wait",
     "bedrock_data": 0
   },
   "minecraft:music_disc_5": {
@@ -6854,83 +6854,83 @@
     "bedrock_data": 0
   },
   "minecraft:angler_pottery_sherd": {
-    "bedrock_identifier": "minecraft:angler_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:archer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:archer_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:arms_up_pottery_sherd": {
-    "bedrock_identifier": "minecraft:arms_up_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:blade_pottery_sherd": {
-    "bedrock_identifier": "minecraft:blade_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:brewer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:brewer_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:burn_pottery_sherd": {
-    "bedrock_identifier": "minecraft:burn_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:danger_pottery_sherd": {
-    "bedrock_identifier": "minecraft:danger_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:explorer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:explorer_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:friend_pottery_sherd": {
-    "bedrock_identifier": "minecraft:friend_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:heart_pottery_sherd": {
-    "bedrock_identifier": "minecraft:heart_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:heartbreak_pottery_sherd": {
-    "bedrock_identifier": "minecraft:heartbreak_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:howl_pottery_sherd": {
-    "bedrock_identifier": "minecraft:howl_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:miner_pottery_sherd": {
-    "bedrock_identifier": "minecraft:miner_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:mourner_pottery_sherd": {
-    "bedrock_identifier": "minecraft:mourner_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:plenty_pottery_sherd": {
-    "bedrock_identifier": "minecraft:plenty_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:prize_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prize_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:sheaf_pottery_sherd": {
-    "bedrock_identifier": "minecraft:sheaf_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:shelter_pottery_sherd": {
-    "bedrock_identifier": "minecraft:shelter_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:skull_pottery_sherd": {
-    "bedrock_identifier": "minecraft:skull_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   },
   "minecraft:snort_pottery_sherd": {
-    "bedrock_identifier": "minecraft:snort_pottery_sherd",
+    "bedrock_identifier": "minecraft:prismarine_shard",
     "bedrock_data": 0
   }
 }
