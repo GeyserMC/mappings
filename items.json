@@ -3110,7 +3110,7 @@
     "lastBlockRuntimeId": 12658
   },
   "minecraft:sniffer_egg": {
-    "bedrock_identifier": "minecraft:dragon_egg",
+    "bedrock_identifier": "minecraft:sniffer_spawn_egg",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12659,
     "lastBlockRuntimeId": 12661
@@ -5770,7 +5770,7 @@
     "is_entity_placer": true
   },
   "minecraft:sniffer_spawn_egg": {
-    "bedrock_identifier": "minecraft:sheep_spawn_egg",
+    "bedrock_identifier": "minecraft:sniffer_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -6786,51 +6786,51 @@
     "bedrock_data": 0
   },
   "minecraft:netherite_upgrade_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:netherite_upgrade_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:sentry_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:sentry_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:dune_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:dune_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:coast_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:coast_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:wild_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:wild_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:ward_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:ward_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:eye_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:eye_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:vex_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:vex_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:tide_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:tide_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:snout_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:snout_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:rib_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:rib_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:spire_armor_trim_smithing_template": {
-    "bedrock_identifier": "minecraft:blackstone_slab",
+    "bedrock_identifier": "minecraft:spire_armor_trim_smithing_template",
     "bedrock_data": 0
   },
   "minecraft:wayfinder_armor_trim_smithing_template": {
