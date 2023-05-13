@@ -142,7 +142,7 @@
     "firstBlockRuntimeId": 19
   },
   "minecraft:cherry_planks": {
-    "bedrock_identifier": "minecraft:planks",
+    "bedrock_identifier": "minecraft:cherry_planks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 20
   },
@@ -207,7 +207,7 @@
     "lastBlockRuntimeId": 34
   },
   "minecraft:cherry_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
+    "bedrock_identifier": "minecraft:cherry_sapling",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 35,
     "lastBlockRuntimeId": 36
@@ -610,7 +610,7 @@
     "lastBlockRuntimeId": 144
   },
   "minecraft:cherry_log": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:cherry_log",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 145,
     "lastBlockRuntimeId": 147
@@ -652,7 +652,7 @@
     "lastBlockRuntimeId": 18440
   },
   "minecraft:bamboo_block": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:bamboo_block",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 159,
     "lastBlockRuntimeId": 161
@@ -688,7 +688,7 @@
     "lastBlockRuntimeId": 173
   },
   "minecraft:stripped_cherry_log": {
-    "bedrock_identifier": "minecraft:stripped_oak_log",
+    "bedrock_identifier": "minecraft:stripped_cherry_log",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 174,
     "lastBlockRuntimeId": 176
@@ -748,7 +748,7 @@
     "lastBlockRuntimeId": 227
   },
   "minecraft:stripped_cherry_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_cherry_wood",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 228,
     "lastBlockRuntimeId": 230
@@ -778,7 +778,7 @@
     "lastBlockRuntimeId": 18449
   },
   "minecraft:stripped_bamboo_block": {
-    "bedrock_identifier": "minecraft:planks",
+    "bedrock_identifier": "minecraft:stripped_bamboo_block",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 186,
     "lastBlockRuntimeId": 188
@@ -814,7 +814,7 @@
     "lastBlockRuntimeId": 203
   },
   "minecraft:cherry_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:cherry_wood",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 204,
     "lastBlockRuntimeId": 206
@@ -874,7 +874,7 @@
     "lastBlockRuntimeId": 376
   },
   "minecraft:cherry_leaves": {
-    "bedrock_identifier": "minecraft:leaves",
+    "bedrock_identifier": "minecraft:cherry_leaves",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 377,
     "lastBlockRuntimeId": 404
@@ -1275,7 +1275,7 @@
     "lastBlockRuntimeId": 11050
   },
   "minecraft:cherry_slab": {
-    "bedrock_identifier": "minecraft:wooden_slab",
+    "bedrock_identifier": "minecraft:cherry_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11051,
     "lastBlockRuntimeId": 11056
@@ -1614,7 +1614,7 @@
     "lastBlockRuntimeId": 11552
   },
   "minecraft:cherry_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:cherry_fence",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11553,
     "lastBlockRuntimeId": 11584
@@ -2010,7 +2010,7 @@
     "lastBlockRuntimeId": 9823
   },
   "minecraft:cherry_stairs": {
-    "bedrock_identifier": "minecraft:oak_stairs",
+    "bedrock_identifier": "minecraft:cherry_stairs",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9824,
     "lastBlockRuntimeId": 9903
@@ -3702,7 +3702,7 @@
     "lastBlockRuntimeId": 8730
   },
   "minecraft:cherry_button": {
-    "bedrock_identifier": "minecraft:wooden_button",
+    "bedrock_identifier": "minecraft:cherry_button",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 8731,
     "lastBlockRuntimeId": 8754
@@ -3792,7 +3792,7 @@
     "lastBlockRuntimeId": 5725
   },
   "minecraft:cherry_pressure_plate": {
-    "bedrock_identifier": "minecraft:wooden_pressure_plate",
+    "bedrock_identifier": "minecraft:cherry_pressure_plate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5726,
     "lastBlockRuntimeId": 5727
@@ -3864,7 +3864,7 @@
     "lastBlockRuntimeId": 11936
   },
   "minecraft:cherry_door": {
-    "bedrock_identifier": "minecraft:wooden_door",
+    "bedrock_identifier": "minecraft:cherry_door",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11937,
     "lastBlockRuntimeId": 12000
@@ -3936,7 +3936,7 @@
     "lastBlockRuntimeId": 6281
   },
   "minecraft:cherry_trapdoor": {
-    "bedrock_identifier": "minecraft:trapdoor",
+    "bedrock_identifier": "minecraft:cherry_trapdoor",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6282,
     "lastBlockRuntimeId": 6345
@@ -4002,7 +4002,7 @@
     "lastBlockRuntimeId": 11296
   },
   "minecraft:cherry_fence_gate": {
-    "bedrock_identifier": "minecraft:fence_gate",
+    "bedrock_identifier": "minecraft:cherry_fence_gate",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11297,
     "lastBlockRuntimeId": 11328
@@ -4944,7 +4944,7 @@
     "lastBlockRuntimeId": 4429
   },
   "minecraft:cherry_sign": {
-    "bedrock_identifier": "minecraft:oak_sign",
+    "bedrock_identifier": "minecraft:cherry_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4430,
     "lastBlockRuntimeId": 4461
@@ -5010,7 +5010,7 @@
     "lastBlockRuntimeId": 5089
   },
   "minecraft:cherry_hanging_sign": {
-    "bedrock_identifier": "minecraft:oak_sign",
+    "bedrock_identifier": "minecraft:cherry_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5090,
     "lastBlockRuntimeId": 5153
