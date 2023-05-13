@@ -580,31 +580,31 @@
     "lastBlockRuntimeId": 22250
   },
   "minecraft:oak_log": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:oak_log",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 130,
     "lastBlockRuntimeId": 132
   },
   "minecraft:spruce_log": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:spruce_log",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 133,
     "lastBlockRuntimeId": 135
   },
   "minecraft:birch_log": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:birch_log",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 136,
     "lastBlockRuntimeId": 138
   },
   "minecraft:jungle_log": {
-    "bedrock_identifier": "minecraft:log",
+    "bedrock_identifier": "minecraft:jungle_log",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 139,
     "lastBlockRuntimeId": 141
   },
   "minecraft:acacia_log": {
-    "bedrock_identifier": "minecraft:log2",
+    "bedrock_identifier": "minecraft:acacia_log",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 142,
     "lastBlockRuntimeId": 144
@@ -616,7 +616,7 @@
     "lastBlockRuntimeId": 147
   },
   "minecraft:dark_oak_log": {
-    "bedrock_identifier": "minecraft:log2",
+    "bedrock_identifier": "minecraft:dark_oak_log",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 148,
     "lastBlockRuntimeId": 150
@@ -1584,31 +1584,31 @@
     "lastBlockRuntimeId": 5816
   },
   "minecraft:oak_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:oak_fence",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5817,
     "lastBlockRuntimeId": 5848
   },
   "minecraft:spruce_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:spruce_fence",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 11425,
     "lastBlockRuntimeId": 11456
   },
   "minecraft:birch_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:birch_fence",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 11457,
     "lastBlockRuntimeId": 11488
   },
   "minecraft:jungle_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:jungle_fence",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 11489,
     "lastBlockRuntimeId": 11520
   },
   "minecraft:acacia_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:acacia_fence",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 11521,
     "lastBlockRuntimeId": 11552
@@ -1620,7 +1620,7 @@
     "lastBlockRuntimeId": 11584
   },
   "minecraft:dark_oak_fence": {
-    "bedrock_identifier": "minecraft:fence",
+    "bedrock_identifier": "minecraft:dark_oak_fence",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 11585,
     "lastBlockRuntimeId": 11616
