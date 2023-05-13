@@ -1130,7 +1130,7 @@
     "firstBlockRuntimeId": 2087
   },
   "minecraft:torchflower": {
-    "bedrock_identifier": "minecraft:red_flower",
+    "bedrock_identifier": "minecraft:torchflower",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2076
   },
@@ -6203,7 +6203,7 @@
     "bedrock_data": 0
   },
   "minecraft:torchflower_seeds": {
-    "bedrock_identifier": "minecraft:melon_seeds",
+    "bedrock_identifier": "minecraft:torchflower_seeds",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12354,
     "lastBlockRuntimeId": 12355
