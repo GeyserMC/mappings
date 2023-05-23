@@ -206,7 +206,6 @@
     "max_level": 1,
     "valid_items": [
       "minecraft:carved_pumpkin",
-      "minecraft:jack_o_lantern",
       "minecraft:elytra",
       "minecraft:turtle_helmet",
       "minecraft:leather_helmet",
@@ -333,7 +332,6 @@
     "max_level": 1,
     "valid_items": [
       "minecraft:carved_pumpkin",
-      "minecraft:jack_o_lantern",
       "minecraft:carrot_on_a_stick",
       "minecraft:warped_fungus_on_a_stick",
       "minecraft:elytra",
