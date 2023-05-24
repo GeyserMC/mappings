@@ -1135,7 +1135,7 @@
     "firstBlockRuntimeId": 2076
   },
   "minecraft:pitcher_plant": {
-    "bedrock_identifier": "minecraft:chorus_flower",
+    "bedrock_identifier": "minecraft:pitcher_plant",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12366,
     "lastBlockRuntimeId": 12367
@@ -2337,82 +2337,82 @@
     "lastBlockRuntimeId": 10586
   },
   "minecraft:white_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:white_carpet",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10587
   },
   "minecraft:orange_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:orange_carpet",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 10588
   },
   "minecraft:magenta_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:magenta_carpet",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 10589
   },
   "minecraft:light_blue_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:light_blue_carpet",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 10590
   },
   "minecraft:yellow_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:yellow_carpet",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 10591
   },
   "minecraft:lime_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:lime_carpet",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 10592
   },
   "minecraft:pink_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:pink_carpet",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 10593
   },
   "minecraft:gray_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:gray_carpet",
     "bedrock_data": 7,
     "firstBlockRuntimeId": 10594
   },
   "minecraft:light_gray_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:light_gray_carpet",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 10595
   },
   "minecraft:cyan_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:cyan_carpet",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 10596
   },
   "minecraft:purple_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:purple_carpet",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 10597
   },
   "minecraft:blue_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:blue_carpet",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 10598
   },
   "minecraft:brown_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:brown_carpet",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 10599
   },
   "minecraft:green_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:green_carpet",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 10600
   },
   "minecraft:red_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:red_carpet",
     "bedrock_data": 14,
     "firstBlockRuntimeId": 10601
   },
   "minecraft:black_carpet": {
-    "bedrock_identifier": "minecraft:carpet",
+    "bedrock_identifier": "minecraft:black_carpet",
     "bedrock_data": 15,
     "firstBlockRuntimeId": 10602
   },
@@ -3110,7 +3110,7 @@
     "lastBlockRuntimeId": 12658
   },
   "minecraft:sniffer_egg": {
-    "bedrock_identifier": "minecraft:sniffer_spawn_egg",
+    "bedrock_identifier": "minecraft:sniffer_egg",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12659,
     "lastBlockRuntimeId": 12661
@@ -3166,61 +3166,61 @@
     "firstBlockRuntimeId": 12671
   },
   "minecraft:tube_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:tube_coral",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12682,
     "lastBlockRuntimeId": 12683
   },
   "minecraft:brain_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:brain_coral",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 12684,
     "lastBlockRuntimeId": 12685
   },
   "minecraft:bubble_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:bubble_coral",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 12686,
     "lastBlockRuntimeId": 12687
   },
   "minecraft:fire_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:fire_coral",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 12688,
     "lastBlockRuntimeId": 12689
   },
   "minecraft:horn_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:horn_coral",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 12690,
     "lastBlockRuntimeId": 12691
   },
   "minecraft:dead_brain_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:dead_brain_coral",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 12674,
     "lastBlockRuntimeId": 12675
   },
   "minecraft:dead_bubble_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:dead_bubble_coral",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 12676,
     "lastBlockRuntimeId": 12677
   },
   "minecraft:dead_fire_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:dead_fire_coral",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 12678,
     "lastBlockRuntimeId": 12679
   },
   "minecraft:dead_horn_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:dead_horn_coral",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 12680,
     "lastBlockRuntimeId": 12681
   },
   "minecraft:dead_tube_coral": {
-    "bedrock_identifier": "minecraft:coral",
+    "bedrock_identifier": "minecraft:dead_tube_coral",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 12672,
     "lastBlockRuntimeId": 12673
@@ -6209,7 +6209,7 @@
     "lastBlockRuntimeId": 12355
   },
   "minecraft:pitcher_pod": {
-    "bedrock_identifier": "minecraft:beetroot",
+    "bedrock_identifier": "minecraft:pitcher_pod",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12356,
     "lastBlockRuntimeId": 12365
@@ -6340,7 +6340,7 @@
     "bedrock_data": 0
   },
   "minecraft:music_disc_relic": {
-    "bedrock_identifier": "minecraft:music_disc_wait",
+    "bedrock_identifier": "minecraft:music_disc_relic",
     "bedrock_data": 0
   },
   "minecraft:music_disc_5": {
@@ -6854,83 +6854,83 @@
     "bedrock_data": 0
   },
   "minecraft:angler_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:angler_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:archer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:archer_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:arms_up_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:arms_up_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:blade_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:blade_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:brewer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:brewer_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:burn_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:burn_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:danger_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:danger_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:explorer_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:explorer_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:friend_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:friend_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:heart_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:heart_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:heartbreak_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:heartbreak_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:howl_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:howl_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:miner_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:miner_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:mourner_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:mourner_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:plenty_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:plenty_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:prize_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:prize_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:sheaf_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:sheaf_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:shelter_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:shelter_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:skull_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:skull_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:snort_pottery_sherd": {
-    "bedrock_identifier": "minecraft:prismarine_shard",
+    "bedrock_identifier": "minecraft:snort_pottery_sherd",
     "bedrock_data": 0
   }
 }
