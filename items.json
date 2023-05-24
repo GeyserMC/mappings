@@ -1455,7 +1455,7 @@
     "lastBlockRuntimeId": 2352
   },
   "minecraft:decorated_pot": {
-    "bedrock_identifier": "minecraft:flower_pot",
+    "bedrock_identifier": "minecraft:decorated_pot",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 24119,
     "lastBlockRuntimeId": 24134
