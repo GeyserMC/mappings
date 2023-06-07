@@ -985,83 +985,83 @@
     "lastBlockRuntimeId": 12799
   },
   "minecraft:white_wool": {
-    "bedrock_identifier": "minecraft:wool",
+    "bedrock_identifier": "minecraft:white_wool",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2047
   },
   "minecraft:orange_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:orange_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2048
   },
   "minecraft:magenta_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:magenta_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2049
   },
   "minecraft:light_blue_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:light_blue_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2050
   },
   "minecraft:yellow_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:yellow_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2051
   },
   "minecraft:lime_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:lime_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2052
   },
   "minecraft:pink_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:pink_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2053
   },
   "minecraft:gray_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 7,
+    "bedrock_identifier": "minecraft:gray_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2054
   },
   "minecraft:light_gray_wool": {
-    "bedrock_identifier": "minecraft:wool",
+    "bedrock_identifier": "minecraft:light_gray_wool",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 2055
   },
   "minecraft:cyan_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 9,
+    "bedrock_identifier": "minecraft:cyan_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2056
   },
   "minecraft:purple_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 10,
+    "bedrock_identifier": "minecraft:purple_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2057
   },
   "minecraft:blue_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 11,
+    "bedrock_identifier": "minecraft:blue_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2058
   },
   "minecraft:brown_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 12,
+    "bedrock_identifier": "minecraft:brown_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2059
   },
   "minecraft:green_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 13,
+    "bedrock_identifier": "minecraft:green_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2060
   },
   "minecraft:red_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 14,
+    "bedrock_identifier": "minecraft:red_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2061
   },
   "minecraft:black_wool": {
-    "bedrock_identifier": "minecraft:wool",
-    "bedrock_data": 15,
+    "bedrock_identifier": "minecraft:black_wool",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2062
   },
   "minecraft:dandelion": {
