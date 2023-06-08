@@ -1210,7 +1210,7 @@
     "firstBlockRuntimeId": 22371
   },
   "minecraft:pink_petals": {
-    "bedrock_identifier": "minecraft:red_flower",
+    "bedrock_identifier": "minecraft:pink_petals",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 22372,
     "lastBlockRuntimeId": 22387
