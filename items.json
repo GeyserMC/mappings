@@ -1449,7 +1449,7 @@
     "firstBlockRuntimeId": 2096
   },
   "minecraft:chiseled_bookshelf": {
-    "bedrock_identifier": "minecraft:bookshelf",
+    "bedrock_identifier": "minecraft:chiseled_bookshelf",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2097,
     "lastBlockRuntimeId": 2352
@@ -4980,31 +4980,31 @@
     "lastBlockRuntimeId": 19198
   },
   "minecraft:oak_hanging_sign": {
-    "bedrock_identifier": "minecraft:oak_sign",
+    "bedrock_identifier": "minecraft:oak_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4834,
     "lastBlockRuntimeId": 4897
   },
   "minecraft:spruce_hanging_sign": {
-    "bedrock_identifier": "minecraft:spruce_sign",
+    "bedrock_identifier": "minecraft:spruce_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4898,
     "lastBlockRuntimeId": 4961
   },
   "minecraft:birch_hanging_sign": {
-    "bedrock_identifier": "minecraft:birch_sign",
+    "bedrock_identifier": "minecraft:birch_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 4962,
     "lastBlockRuntimeId": 5025
   },
   "minecraft:jungle_hanging_sign": {
-    "bedrock_identifier": "minecraft:jungle_sign",
+    "bedrock_identifier": "minecraft:jungle_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5154,
     "lastBlockRuntimeId": 5217
   },
   "minecraft:acacia_hanging_sign": {
-    "bedrock_identifier": "minecraft:acacia_sign",
+    "bedrock_identifier": "minecraft:acacia_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5026,
     "lastBlockRuntimeId": 5089
@@ -5016,13 +5016,13 @@
     "lastBlockRuntimeId": 5153
   },
   "minecraft:dark_oak_hanging_sign": {
-    "bedrock_identifier": "minecraft:dark_oak_sign",
+    "bedrock_identifier": "minecraft:dark_oak_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5218,
     "lastBlockRuntimeId": 5281
   },
   "minecraft:mangrove_hanging_sign": {
-    "bedrock_identifier": "minecraft:mangrove_sign",
+    "bedrock_identifier": "minecraft:mangrove_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5410,
     "lastBlockRuntimeId": 5473
@@ -5034,13 +5034,13 @@
     "lastBlockRuntimeId": 5537
   },
   "minecraft:crimson_hanging_sign": {
-    "bedrock_identifier": "minecraft:crimson_sign",
+    "bedrock_identifier": "minecraft:crimson_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5282,
     "lastBlockRuntimeId": 5345
   },
   "minecraft:warped_hanging_sign": {
-    "bedrock_identifier": "minecraft:warped_sign",
+    "bedrock_identifier": "minecraft:warped_hanging_sign",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 5346,
     "lastBlockRuntimeId": 5409
@@ -6782,7 +6782,7 @@
     "bedrock_data": 0
   },
   "minecraft:brush": {
-    "bedrock_identifier": "minecraft:shears",
+    "bedrock_identifier": "minecraft:brush",
     "bedrock_data": 0
   },
   "minecraft:netherite_upgrade_smithing_template": {
