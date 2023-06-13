@@ -650,11 +650,11 @@
   },
   "item.book.put": {
     "playsound_mapping": "item.book.put",
-    "bedrock_mapping": "LECTERN_PLACE_BOOK"
+    "bedrock_mapping": "LECTERN_BOOK_PLACE"
   },
   "block.blastfurnace.fire_crackle": {
     "playsound_mapping": "block.blastfurnace.fire_crackle",
-    "bedrock_mapping": "BLASTFURNACE_FIRE_CRACKLE"
+    "bedrock_mapping": "BLAST_FURNACE_USE"
   },
   "item.bottle.empty": {
     "playsound_mapping": "",
@@ -1074,11 +1074,11 @@
   },
   "block.chorus_flower.death": {
     "playsound_mapping": "block.chorusflower.death",
-    "bedrock_mapping": "CHORUSDEATH"
+    "bedrock_mapping": "CHORUS_DEATH"
   },
   "block.chorus_flower.grow": {
     "playsound_mapping": "block.chorusflower.grow",
-    "bedrock_mapping": "CHORUSGROW"
+    "bedrock_mapping": "CHORUS_GROW"
   },
   "item.chorus_fruit.teleport": {
     "playsound_mapping": "",
@@ -1102,7 +1102,7 @@
   },
   "block.comparator.click": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": "REDSTONE_TRIGGER"
+    "bedrock_mapping": "BLOCK_CLICK"
   },
   "block.composter.empty": {
     "playsound_mapping": "block.composter.empty",
@@ -1114,7 +1114,7 @@
   },
   "block.composter.fill_success": {
     "playsound_mapping": "block.composter.fill_success",
-    "bedrock_mapping": "COMPOSTER_FILL_SUCCESS"
+    "bedrock_mapping": "COMPOSTER_FILL_LAYER"
   },
   "block.composter.ready": {
     "playsound_mapping": "block.composter.ready",
@@ -1989,7 +1989,7 @@
   },
   "block.furnace.fire_crackle": {
     "playsound_mapping": "block.furnace.lit",
-    "bedrock_mapping": "FURNACE_LIT"
+    "bedrock_mapping": "FURNACE_USE"
   },
   "entity.generic.big_fall": {
     "playsound_mapping": "damage.fallbig",
@@ -2740,7 +2740,7 @@
   },
   "block.lever.click": {
     "playsound_mapping": "random.click",
-    "bedrock_mapping": "REDSTONE_TRIGGER"
+    "bedrock_mapping": "BLOCK_CLICK"
   },
   "entity.lightning_bolt.impact": {
     "playsound_mapping": "ambient.weather.lightning.impact",
@@ -2919,7 +2919,7 @@
   },
   "entity.mooshroom.convert": {
     "playsound_mapping": "mob.mooshroom.convert",
-    "bedrock_mapping": "CONVERT_MOOSHROOM"
+    "bedrock_mapping": "MOOSHROOM_CONVERT"
   },
   "entity.mooshroom.eat": {
     "playsound_mapping": "mob.mooshroom.eat",
@@ -4019,7 +4019,7 @@
   },
   "entity.player.hurt_sweet_berry_bush": {
     "playsound_mapping": "block.sweet_berry_bush.hurt",
-    "bedrock_mapping": "SWEET_BERRIES_HURT"
+    "bedrock_mapping": "SWEET_BERRY_BUSH_HURT"
   },
   "entity.player.levelup": {
     "playsound_mapping": "random.levelup",
@@ -4201,11 +4201,11 @@
   },
   "entity.ravager.stunned": {
     "playsound_mapping": "mob.ravager.stun",
-    "bedrock_mapping": "SOUND_STUN"
+    "bedrock_mapping": "STUN"
   },
   "entity.ravager.roar": {
     "playsound_mapping": "mob.ravager.roar",
-    "bedrock_mapping": "SOUND_ROAR"
+    "bedrock_mapping": "ROAR"
   },
   "block.nether_gold_ore.break": {
     "playsound_mapping": "block.nether_gold_ore.break",
@@ -4851,7 +4851,7 @@
   },
   "block.smoker.smoke": {
     "playsound_mapping": "block.smoker.smoke",
-    "bedrock_mapping": "BLOCK_SMOKER_SMOKE"
+    "bedrock_mapping": "SMOKER_USE"
   },
   "entity.sniffer.step": {
     "playsound_mapping": "mob.sniffer.step"
@@ -5176,7 +5176,7 @@
   },
   "entity.turtle.death_baby": {
     "playsound_mapping": "mob.turtle_baby.death",
-    "bedrock_mapping": "DEATH_BABY"
+    "bedrock_mapping": "BABY_DEATH"
   },
   "entity.turtle.egg_break": {
     "playsound_mapping": "block.turtle_egg.break",
@@ -5196,7 +5196,7 @@
   },
   "entity.turtle.hurt_baby": {
     "playsound_mapping": "mob.turtle_baby.hurt",
-    "bedrock_mapping": "HURT_BABY"
+    "bedrock_mapping": "BABY_HURT"
   },
   "entity.turtle.lay_egg": {
     "playsound_mapping": "block.turtle_egg.drop",
@@ -5208,7 +5208,7 @@
   },
   "entity.turtle.shamble_baby": {
     "playsound_mapping": "mob.turtle_baby.step",
-    "bedrock_mapping": "STEP_BABY"
+    "bedrock_mapping": "BABY_STEP"
   },
   "entity.turtle.swim": {
     "playsound_mapping": "mob.turtle.swim",
@@ -5219,24 +5219,22 @@
     "bedrock_mapping": ""
   },
   "ui.loom.select_pattern": {
-    "playsound_mapping": "ui.loom.select_pattern",
-    "bedrock_mapping": "LOOM_USE"
+    "playsound_mapping": "ui.loom.select_pattern"
   },
   "ui.loom.take_result": {
     "playsound_mapping": "ui.loom.take_result",
-    "bedrock_mapping": "UI_LOOM_TAKE_RESULT"
+    "bedrock_mapping": "UI_LOOM_USE"
   },
   "ui.cartography_table.take_result": {
     "playsound_mapping": "ui.cartography_table.take_result",
-    "bedrock_mapping": "UI_CARTOGRAPHY_TABLE_TAKE_RESULT"
+    "bedrock_mapping": "UI_CARTOGRAPHY_TABLE_USE"
   },
   "ui.stonecutter.take_result": {
     "playsound_mapping": "ui.stonecutter.take_result",
-    "bedrock_mapping": "UI_STONECUTTER_TAKE_RESULT"
+    "bedrock_mapping": "UI_STONECUTTER_USE"
   },
   "ui.stonecutter.select_recipe": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "STONECUTTER_USE"
+    "playsound_mapping": "random.click"
   },
   "ui.toast.challenge_complete": {
     "playsound_mapping": "random.toast",
