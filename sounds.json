@@ -121,23 +121,23 @@
     "bedrock_mapping": "AMBIENT_IN_WATER"
   },
   "block.amethyst_block.break": {
-    "playsound_mapping": "block.amethyst_block.break",
+    "playsound_mapping": "break.amethyst_block",
     "bedrock_mapping": ""
   },
   "block.amethyst_block.chime": {
-    "playsound_mapping": "block.amethyst_block.chime",
+    "playsound_mapping": "chime.amethyst_block",
     "bedrock_mapping": ""
   },
   "block.amethyst_block.fall": {
-    "playsound_mapping": "block.amethyst_block.fall",
+    "playsound_mapping": "fall.amethyst_block",
     "bedrock_mapping": ""
   },
   "block.amethyst_block.hit": {
-    "playsound_mapping": "block.amethyst_block.hit",
+    "playsound_mapping": "hit.amethyst_block",
     "bedrock_mapping": ""
   },
   "block.amethyst_block.place": {
-    "playsound_mapping": "block.amethyst_block.place",
+    "playsound_mapping": "place.amethyst_block",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:amethyst_block"
   },
@@ -145,28 +145,28 @@
     "playsound_mapping": "resonate.amethyst_block"
   },
   "block.amethyst_block.step": {
-    "playsound_mapping": "block.amethyst_block.step",
+    "playsound_mapping": "step.amethyst_block",
     "bedrock_mapping": ""
   },
   "block.amethyst_cluster.break": {
-    "playsound_mapping": "block.amethyst_cluster.break",
+    "playsound_mapping": "break.amethyst_cluster",
     "bedrock_mapping": ""
   },
   "block.amethyst_cluster.fall": {
-    "playsound_mapping": "block.amethyst_cluster.fall",
+    "playsound_mapping": "fall.amethyst_cluster",
     "bedrock_mapping": ""
   },
   "block.amethyst_cluster.hit": {
-    "playsound_mapping": "block.amethyst_cluster.hit",
+    "playsound_mapping": "hit.amethyst_cluster",
     "bedrock_mapping": ""
   },
   "block.amethyst_cluster.place": {
-    "playsound_mapping": "block.amethyst_cluster.place",
+    "playsound_mapping": "place.amethyst_cluster",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:amethyst_cluster[facing=up,waterlogged=false]"
   },
   "block.amethyst_cluster.step": {
-    "playsound_mapping": "block.amethyst_cluster.step",
+    "playsound_mapping": "step.amethyst_cluster",
     "bedrock_mapping": ""
   },
   "block.ancient_debris.break": {
@@ -203,7 +203,7 @@
     "bedrock_mapping": "FALL"
   },
   "block.anvil.hit": {
-    "playsound_mapping": "hit.stone",
+    "playsound_mapping": "hit.anvil",
     "bedrock_mapping": "HIT"
   },
   "block.anvil.land": {
@@ -303,15 +303,15 @@
     "bedrock_mapping": ""
   },
   "entity.axolotl.attack": {
-    "playsound_mapping": "entity.axolotl.attack",
+    "playsound_mapping": "mob.axolotl.attack",
     "bedrock_mapping": ""
   },
   "entity.axolotl.death": {
-    "playsound_mapping": "entity.axolotl.death",
+    "playsound_mapping": "mob.axolotl.death",
     "bedrock_mapping": ""
   },
   "entity.axolotl.hurt": {
-    "playsound_mapping": "entity.axolotl.hurt",
+    "playsound_mapping": "mob.axolotl.hurt",
     "bedrock_mapping": ""
   },
   "entity.axolotl.idle_air": {
@@ -319,36 +319,36 @@
     "bedrock_mapping": ""
   },
   "entity.axolotl.idle_water": {
-    "playsound_mapping": "entity.axolotl.idle_water",
+    "playsound_mapping": "mob.axolotl.idle_water",
     "bedrock_mapping": ""
   },
   "entity.axolotl.splash": {
-    "playsound_mapping": "entity.axolotl.splash",
+    "playsound_mapping": "mob.axolotl.splash",
     "bedrock_mapping": ""
   },
   "entity.axolotl.swim": {
-    "playsound_mapping": "entity.axolotl.swim",
+    "playsound_mapping": "mob.axolotl.swim",
     "bedrock_mapping": ""
   },
   "block.azalea.break": {
-    "playsound_mapping": "block.azalea.break",
+    "playsound_mapping": "break.azalea",
     "bedrock_mapping": ""
   },
   "block.azalea.fall": {
-    "playsound_mapping": "block.azalea.fall",
+    "playsound_mapping": "fall.azalea",
     "bedrock_mapping": ""
   },
   "block.azalea.hit": {
-    "playsound_mapping": "block.azalea.hit",
+    "playsound_mapping": "hit.azalea",
     "bedrock_mapping": ""
   },
   "block.azalea.place": {
-    "playsound_mapping": "block.azalea.place",
+    "playsound_mapping": "place.azalea",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:azalea"
   },
   "block.azalea.step": {
-    "playsound_mapping": "block.azalea.step",
+    "playsound_mapping": "step.azalea",
     "bedrock_mapping": ""
   },
   "block.azalea_leaves.break": {
@@ -356,20 +356,20 @@
     "bedrock_mapping": ""
   },
   "block.azalea_leaves.fall": {
-    "playsound_mapping": "block.azalea_leaves.fall",
+    "playsound_mapping": "fall.azalea_leaves",
     "bedrock_mapping": ""
   },
   "block.azalea_leaves.hit": {
-    "playsound_mapping": "block.azalea_leaves.hit",
+    "playsound_mapping": "hit.azalea_leaves",
     "bedrock_mapping": ""
   },
   "block.azalea_leaves.place": {
-    "playsound_mapping": "block.azalea_leaves.place",
+    "playsound_mapping": "place.azalea_leaves",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:azalea_leaves[distance=7,persistent=false,waterlogged=false]"
   },
   "block.azalea_leaves.step": {
-    "playsound_mapping": "block.azalea_leaves.step",
+    "playsound_mapping": "step.azalea_leaves",
     "bedrock_mapping": ""
   },
   "block.bamboo.break": {
@@ -466,7 +466,7 @@
     "bedrock_mapping": ""
   },
   "block.basalt.step": {
-    "playsound_mapping": "block.basalt.step",
+    "playsound_mapping": "step.basalt",
     "bedrock_mapping": ""
   },
   "block.basalt.place": {
@@ -475,11 +475,11 @@
     "identifier": "minecraft:basalt[axis=x]"
   },
   "block.basalt.hit": {
-    "playsound_mapping": "block.basalt.hit",
+    "playsound_mapping": "hit.basalt",
     "bedrock_mapping": "HIT"
   },
   "block.basalt.fall": {
-    "playsound_mapping": "block.basalt.fall",
+    "playsound_mapping": "fall.basalt",
     "bedrock_mapping": "FALL"
   },
   "entity.bat.ambient": {
@@ -571,24 +571,24 @@
     "bedrock_mapping": "BELL"
   },
   "block.big_dripleaf.break": {
-    "playsound_mapping": "block.big_dripleaf.break",
+    "playsound_mapping": "break.big_dripleaf",
     "bedrock_mapping": ""
   },
   "block.big_dripleaf.fall": {
-    "playsound_mapping": "block.big_dripleaf.fall",
+    "playsound_mapping": "fall.big_dripleaf",
     "bedrock_mapping": ""
   },
   "block.big_dripleaf.hit": {
-    "playsound_mapping": "block.big_dripleaf.hit",
+    "playsound_mapping": "hit.big_dripleaf",
     "bedrock_mapping": ""
   },
   "block.big_dripleaf.place": {
-    "playsound_mapping": "block.big_dripleaf.place",
+    "playsound_mapping": "place.big_dripleaf",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:big_dripleaf[facing=north,tilt=none,waterlogged=false]"
   },
   "block.big_dripleaf.step": {
-    "playsound_mapping": "block.big_dripleaf.step",
+    "playsound_mapping": "step.big_dripleaf",
     "bedrock_mapping": ""
   },
   "entity.blaze.ambient": {
@@ -624,11 +624,11 @@
     "bedrock_mapping": ""
   },
   "block.bone_block.fall": {
-    "playsound_mapping": "block.bone_block.fall",
+    "playsound_mapping": "fall.bone_block",
     "bedrock_mapping": ""
   },
   "block.bone_block.hit": {
-    "playsound_mapping": "block.bone_block.hit",
+    "playsound_mapping": "hit.bone_block",
     "bedrock_mapping": ""
   },
   "block.bone_block.place": {
@@ -637,7 +637,7 @@
     "identifier": "minecraft:bone_block[axis=x]"
   },
   "block.bone_block.step": {
-    "playsound_mapping": "block.bone_block.step",
+    "playsound_mapping": "step.bone_block",
     "bedrock_mapping": "STEP"
   },
   "item.bone_meal.use": {
@@ -762,24 +762,24 @@
     "bedrock_mapping": ""
   },
   "block.calcite.break": {
-    "playsound_mapping": "block.calcite.break",
+    "playsound_mapping": "break.calcite",
     "bedrock_mapping": ""
   },
   "block.calcite.step": {
-    "playsound_mapping": "block.calcite.step",
+    "playsound_mapping": "step.calcite",
     "bedrock_mapping": ""
   },
   "block.calcite.place": {
-    "playsound_mapping": "block.calcite.place",
+    "playsound_mapping": "place.calcite",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:calcite"
   },
   "block.calcite.hit": {
-    "playsound_mapping": "block.calcite.hit",
+    "playsound_mapping": "hit.calcite",
     "bedrock_mapping": ""
   },
   "block.calcite.fall": {
-    "playsound_mapping": "block.calcite.fall",
+    "playsound_mapping": "fall.calcite",
     "bedrock_mapping": ""
   },
   "entity.camel.ambient": {
@@ -818,7 +818,7 @@
     "bedrock_mapping": "CAMPFIRE_CRACKLE"
   },
   "block.candle.ambient": {
-    "playsound_mapping": "block.candle.ambient",
+    "playsound_mapping": "ambient.candle",
     "bedrock_mapping": ""
   },
   "block.candle.break": {
@@ -826,7 +826,7 @@
     "bedrock_mapping": ""
   },
   "block.candle.extinguish": {
-    "playsound_mapping": "block.candle.extinguish",
+    "playsound_mapping": "extinguish.candle",
     "bedrock_mapping": ""
   },
   "block.candle.fall": {
@@ -834,7 +834,7 @@
     "bedrock_mapping": ""
   },
   "block.candle.hit": {
-    "playsound_mapping": "block.candle.hit",
+    "playsound_mapping": "hit.candle",
     "bedrock_mapping": ""
   },
   "block.candle.place": {
@@ -843,7 +843,7 @@
     "identifier": "minecraft:candle[candles=1,lit=false,waterlogged=false]"
   },
   "block.candle.step": {
-    "playsound_mapping": "block.candle.step",
+    "playsound_mapping": "step.candle",
     "bedrock_mapping": ""
   },
   "entity.cat.ambient": {
@@ -859,7 +859,7 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.cat.eat": {
-    "playsound_mapping": "random.eat",
+    "playsound_mapping": "mob.cat.eat",
     "bedrock_mapping": "EAT"
   },
   "entity.cat.hiss": {
@@ -887,11 +887,11 @@
     "bedrock_mapping": ""
   },
   "block.cave_vines.fall": {
-    "playsound_mapping": "block.cave_vines.fall",
+    "playsound_mapping": "fall.cave_vines",
     "bedrock_mapping": ""
   },
   "block.cave_vines.hit": {
-    "playsound_mapping": "block.cave_vines.hit",
+    "playsound_mapping": "hit.cave_vines",
     "bedrock_mapping": ""
   },
   "block.cave_vines.place": {
@@ -900,11 +900,11 @@
     "identifier": "minecraft:cave_vines[age=0,berries=false]"
   },
   "block.cave_vines.step": {
-    "playsound_mapping": "block.cave_vines.step",
+    "playsound_mapping": "step.cave_vines",
     "bedrock_mapping": ""
   },
   "block.cave_vines.pick_berries": {
-    "playsound_mapping": "block.cave_vines.pick_berries",
+    "playsound_mapping": "pick_berries.cave_vines",
     "bedrock_mapping": ""
   },
   "block.chain.break": {
@@ -912,11 +912,11 @@
     "bedrock_mapping": ""
   },
   "block.chain.fall": {
-    "playsound_mapping": "block.chain.fall",
+    "playsound_mapping": "fall.chain",
     "bedrock_mapping": ""
   },
   "block.chain.hit": {
-    "playsound_mapping": "block.chain.hit",
+    "playsound_mapping": "hit.chain",
     "bedrock_mapping": ""
   },
   "block.chain.place": {
@@ -925,7 +925,7 @@
     "identifier": "minecraft:chain[axis=y,waterlogged=false]"
   },
   "block.chain.step": {
-    "playsound_mapping": "block.chain.step",
+    "playsound_mapping": "step.chain",
     "bedrock_mapping": "STEP"
   },
   "block.cherry_wood.break": {
@@ -1145,20 +1145,20 @@
     "bedrock_mapping": ""
   },
   "block.copper.step": {
-    "playsound_mapping": "block.copper.step",
+    "playsound_mapping": "step.copper",
     "bedrock_mapping": ""
   },
   "block.copper.place": {
-    "playsound_mapping": "block.copper.place",
+    "playsound_mapping": "place.copper",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:copper_block"
   },
   "block.copper.hit": {
-    "playsound_mapping": "block.copper.hit",
+    "playsound_mapping": "hit.copper",
     "bedrock_mapping": ""
   },
   "block.copper.fall": {
-    "playsound_mapping": "block.copper.fall",
+    "playsound_mapping": "fall.copper",
     "bedrock_mapping": ""
   },
   "block.coral_block.break": {
@@ -1276,20 +1276,20 @@
     "bedrock_mapping": ""
   },
   "block.deepslate_bricks.fall": {
-    "playsound_mapping": "block.deepslate_bricks.fall",
+    "playsound_mapping": "fall.deepslate_bricks",
     "bedrock_mapping": ""
   },
   "block.deepslate_bricks.hit": {
-    "playsound_mapping": "block.deepslate_bricks.hit",
+    "playsound_mapping": "hit.deepslate_bricks",
     "bedrock_mapping": ""
   },
   "block.deepslate_bricks.place": {
-    "playsound_mapping": "block.deepslate_bricks.place",
+    "playsound_mapping": "place.deepslate_bricks",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:deepslate_bricks"
   },
   "block.deepslate_bricks.step": {
-    "playsound_mapping": "block.deepslate_bricks.step",
+    "playsound_mapping": "step.deepslate_bricks",
     "bedrock_mapping": ""
   },
   "block.deepslate.break": {
@@ -1297,20 +1297,20 @@
     "bedrock_mapping": ""
   },
   "block.deepslate.fall": {
-    "playsound_mapping": "block.deepslate.fall",
+    "playsound_mapping": "fall.deepslate",
     "bedrock_mapping": ""
   },
   "block.deepslate.hit": {
-    "playsound_mapping": "block.deepslate.hit",
+    "playsound_mapping": "hit.deepslate",
     "bedrock_mapping": ""
   },
   "block.deepslate.place": {
-    "playsound_mapping": "block.deepslate.place",
+    "playsound_mapping": "place.deepslate",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:deepslate[axis=y]"
   },
   "block.deepslate.step": {
-    "playsound_mapping": "block.deepslate.step",
+    "playsound_mapping": "step.deepslate",
     "bedrock_mapping": ""
   },
   "block.deepslate_tiles.break": {
@@ -1411,49 +1411,49 @@
     "bedrock_mapping": "HURT"
   },
   "block.dripstone_block.break": {
-    "playsound_mapping": "block.dripstone_block.break",
+    "playsound_mapping": "break.dripstone_block",
     "bedrock_mapping": ""
   },
   "block.dripstone_block.step": {
-    "playsound_mapping": "block.dripstone_block.step",
+    "playsound_mapping": "step.dripstone_block",
     "bedrock_mapping": ""
   },
   "block.dripstone_block.place": {
-    "playsound_mapping": "block.dripstone_block.place",
+    "playsound_mapping": "place.dripstone_block",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:dripstone_block"
   },
   "block.dripstone_block.hit": {
-    "playsound_mapping": "block.dripstone_block.hit",
+    "playsound_mapping": "hit.dripstone_block",
     "bedrock_mapping": ""
   },
   "block.dripstone_block.fall": {
-    "playsound_mapping": "block.dripstone_block.fall",
+    "playsound_mapping": "fall.dripstone_block",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.break": {
-    "playsound_mapping": "block.pointed_dripstone.break",
+    "playsound_mapping": "break.pointed_dripstone",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.step": {
-    "playsound_mapping": "block.pointed_dripstone.step",
+    "playsound_mapping": "step.pointed_dripstone",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.place": {
-    "playsound_mapping": "block.pointed_dripstone.place",
+    "playsound_mapping": "place.pointed_dripstone",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]"
   },
   "block.pointed_dripstone.hit": {
-    "playsound_mapping": "block.pointed_dripstone.hit",
+    "playsound_mapping": "hit.pointed_dripstone",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.fall": {
-    "playsound_mapping": "block.pointed_dripstone.fall",
+    "playsound_mapping": "fall.pointed_dripstone",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.land": {
-    "playsound_mapping": "block.pointed_dripstone.land",
+    "playsound_mapping": "land.pointed_dripstone",
     "bedrock_mapping": ""
   },
   "block.pointed_dripstone.drip_lava": {
@@ -1473,11 +1473,11 @@
     "bedrock_mapping": ""
   },
   "block.big_dripleaf.tilt_down": {
-    "playsound_mapping": "block.big_dripleaf.tilt_down",
+    "playsound_mapping": "tilt_down.big_dripleaf",
     "bedrock_mapping": ""
   },
   "block.big_dripleaf.tilt_up": {
-    "playsound_mapping": "block.big_dripleaf.tilt_up",
+    "playsound_mapping": "tilt_up.big_dripleaf",
     "bedrock_mapping": ""
   },
   "entity.drowned.ambient": {
@@ -1713,12 +1713,12 @@
     "level_event": true
   },
   "block.fence_gate.close": {
-    "playsound_mapping": "random.door_close",
+    "playsound_mapping": "close.fence_gate",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.fence_gate.open": {
-    "playsound_mapping": "random.door_open",
+    "playsound_mapping": "open.fence_gate",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
@@ -1971,7 +1971,7 @@
     "bedrock_mapping": ""
   },
   "block.roots.step": {
-    "playsound_mapping": "block.roots.step",
+    "playsound_mapping": "step.roots",
     "bedrock_mapping": ""
   },
   "block.roots.place": {
@@ -1980,11 +1980,11 @@
     "identifier": "minecraft:crimson_roots"
   },
   "block.roots.hit": {
-    "playsound_mapping": "block.roots.hit",
+    "playsound_mapping": "hit.roots",
     "bedrock_mapping": "HIT"
   },
   "block.roots.fall": {
-    "playsound_mapping": "block.roots.fall",
+    "playsound_mapping": "fall.roots",
     "bedrock_mapping": "FALL"
   },
   "block.furnace.fire_crackle": {
@@ -2127,15 +2127,15 @@
     "bedrock_mapping": ""
   },
   "entity.glow_squid.ambient": {
-    "playsound_mapping": "entity.glow_squid.ambient",
+    "playsound_mapping": "mob.glow_squid.ambient",
     "bedrock_mapping": ""
   },
   "entity.glow_squid.death": {
-    "playsound_mapping": "entity.glow_squid.death",
+    "playsound_mapping": "mob.glow_squid.death",
     "bedrock_mapping": ""
   },
   "entity.glow_squid.hurt": {
-    "playsound_mapping": "entity.glow_squid.hurt",
+    "playsound_mapping": "mob.glow_squid.hurt",
     "bedrock_mapping": ""
   },
   "entity.glow_squid.squirt": {
@@ -2143,19 +2143,19 @@
     "bedrock_mapping": ""
   },
   "entity.goat.ambient": {
-    "playsound_mapping": "entity.goat.ambient",
+    "playsound_mapping": "mob.goat.ambient",
     "bedrock_mapping": ""
   },
   "entity.goat.death": {
-    "playsound_mapping": "entity.goat.death",
+    "playsound_mapping": "mob.goat.death",
     "bedrock_mapping": ""
   },
   "entity.goat.eat": {
-    "playsound_mapping": "entity.goat.eat",
+    "playsound_mapping": "mob.goat.eat",
     "bedrock_mapping": ""
   },
   "entity.goat.hurt": {
-    "playsound_mapping": "entity.goat.hurt",
+    "playsound_mapping": "mob.goat.hurt",
     "bedrock_mapping": ""
   },
   "entity.goat.long_jump": {
@@ -2167,11 +2167,11 @@
     "bedrock_mapping": ""
   },
   "entity.goat.prepare_ram": {
-    "playsound_mapping": "entity.goat.prepare_ram",
+    "playsound_mapping": "mob.goat.prepare_ram",
     "bedrock_mapping": ""
   },
   "entity.goat.ram_impact": {
-    "playsound_mapping": "entity.goat.ram_impact",
+    "playsound_mapping": "mob.goat.ram_impact",
     "bedrock_mapping": ""
   },
   "entity.goat.horn_break": {
@@ -2219,7 +2219,7 @@
     "bedrock_mapping": ""
   },
   "entity.goat.step": {
-    "playsound_mapping": "entity.goat.step",
+    "playsound_mapping": "mob.goat.step",
     "bedrock_mapping": ""
   },
   "block.grass.break": {
@@ -2305,24 +2305,24 @@
     "bedrock_mapping": "HURT"
   },
   "block.hanging_roots.break": {
-    "playsound_mapping": "block.hanging_roots.break",
+    "playsound_mapping": "break.hanging_roots",
     "bedrock_mapping": ""
   },
   "block.hanging_roots.fall": {
-    "playsound_mapping": "block.hanging_roots.fall",
+    "playsound_mapping": "fall.hanging_roots",
     "bedrock_mapping": ""
   },
   "block.hanging_roots.hit": {
-    "playsound_mapping": "block.hanging_roots.hit",
+    "playsound_mapping": "hit.hanging_roots",
     "bedrock_mapping": ""
   },
   "block.hanging_roots.place": {
-    "playsound_mapping": "block.hanging_roots.place",
+    "playsound_mapping": "place.hanging_roots",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:hanging_roots[waterlogged=false]"
   },
   "block.hanging_roots.step": {
-    "playsound_mapping": "block.hanging_roots.step",
+    "playsound_mapping": "step.hanging_roots",
     "bedrock_mapping": ""
   },
   "block.hanging_sign.step": {
@@ -2402,11 +2402,11 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.honey_block.fall": {
-    "playsound_mapping": "hit.slime",
+    "playsound_mapping": "fall.honey_block",
     "bedrock_mapping": "FALL"
   },
   "block.honey_block.hit": {
-    "playsound_mapping": "hit.slime",
+    "playsound_mapping": "hit.honey_block",
     "bedrock_mapping": "HIT"
   },
   "block.honey_block.place": {
@@ -2419,7 +2419,7 @@
     "bedrock_mapping": "STEP"
   },
   "block.honey_block.step": {
-    "playsound_mapping": "step.slime",
+    "playsound_mapping": "step.honey_block",
     "bedrock_mapping": "STEP"
   },
   "item.honeycomb.wax_on": {
@@ -2591,12 +2591,12 @@
     "bedrock_mapping": ""
   },
   "block.iron_door.close": {
-    "playsound_mapping": "random.door_close",
+    "playsound_mapping": "close.iron_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.iron_door.open": {
-    "playsound_mapping": "random.door_open",
+    "playsound_mapping": "open.iron_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
@@ -2625,12 +2625,12 @@
     "bedrock_mapping": "STEP"
   },
   "block.iron_trapdoor.close": {
-    "playsound_mapping": "random.door_close",
+    "playsound_mapping": "close.iron_trapdoor",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.iron_trapdoor.open": {
-    "playsound_mapping": "random.door_open",
+    "playsound_mapping": "open.iron_trapdoor",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
@@ -2710,11 +2710,11 @@
     "bedrock_mapping": "STEP"
   },
   "block.large_amethyst_bud.break": {
-    "playsound_mapping": "block.large_amethyst_bud.break",
+    "playsound_mapping": "break.large_amethyst_bud",
     "bedrock_mapping": ""
   },
   "block.large_amethyst_bud.place": {
-    "playsound_mapping": "block.large_amethyst_bud.place",
+    "playsound_mapping": "place.large_amethyst_bud",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:large_amethyst_bud[facing=up,waterlogged=false]"
   },
@@ -2790,7 +2790,7 @@
     "bedrock_mapping": "STEP"
   },
   "entity.llama.swag": {
-    "playsound_mapping": "mob.horse.leather",
+    "playsound_mapping": "mob.llama.swag",
     "bedrock_mapping": ""
   },
   "entity.magma_cube.death_small": {
@@ -2847,32 +2847,32 @@
     "bedrock_mapping": "SQUISH_SMALL"
   },
   "block.mangrove_roots.break": {
-    "playsound_mapping": "break.mangrove_roots",
+    "playsound_mapping": "block.mangrove_roots.break",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.fall": {
-    "playsound_mapping": "fall.mangrove_roots",
+    "playsound_mapping": "block.mangrove_roots.fall",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.hit": {
-    "playsound_mapping": "hit.mangrove_roots",
+    "playsound_mapping": "block.mangrove_roots.hit",
     "bedrock_mapping": ""
   },
   "block.mangrove_roots.place": {
-    "playsound_mapping": "place.mangrove_roots",
+    "playsound_mapping": "block.mangrove_roots.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mangrove_roots[waterlogged=false]"
   },
   "block.mangrove_roots.step": {
-    "playsound_mapping": "step.mangrove_roots",
+    "playsound_mapping": "block.mangrove_roots.step",
     "bedrock_mapping": ""
   },
   "block.medium_amethyst_bud.break": {
-    "playsound_mapping": "block.medium_amethyst_bud.break",
+    "playsound_mapping": "break.medium_amethyst_bud",
     "bedrock_mapping": ""
   },
   "block.medium_amethyst_bud.place": {
-    "playsound_mapping": "block.medium_amethyst_bud.place",
+    "playsound_mapping": "place.medium_amethyst_bud",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:medium_amethyst_bud[facing=up,waterlogged=false]"
   },
@@ -2894,11 +2894,11 @@
     "identifier": "minecraft:iron_block"
   },
   "block.metal_pressure_plate.click_off": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_off.metal_pressure_plate",
     "bedrock_mapping": "POWER_OFF"
   },
   "block.metal_pressure_plate.click_on": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_on.metal_pressure_plate",
     "bedrock_mapping": "POWER_ON"
   },
   "block.metal.step": {
@@ -2922,7 +2922,7 @@
     "bedrock_mapping": "CONVERT_MOOSHROOM"
   },
   "entity.mooshroom.eat": {
-    "playsound_mapping": "random.eat",
+    "playsound_mapping": "mob.mooshroom.eat",
     "bedrock_mapping": "EAT"
   },
   "entity.mooshroom.milk": {
@@ -2980,83 +2980,83 @@
     "bedrock_mapping": ""
   },
   "block.moss.fall": {
-    "playsound_mapping": "block.moss.fall",
+    "playsound_mapping": "fall.moss",
     "bedrock_mapping": ""
   },
   "block.moss.hit": {
-    "playsound_mapping": "block.moss.hit",
+    "playsound_mapping": "hit.moss",
     "bedrock_mapping": ""
   },
   "block.moss.place": {
-    "playsound_mapping": "block.moss.place",
+    "playsound_mapping": "place.moss",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:moss_block"
   },
   "block.moss.step": {
-    "playsound_mapping": "block.moss.step",
+    "playsound_mapping": "step.moss",
     "bedrock_mapping": ""
   },
   "block.mud.break": {
-    "playsound_mapping": "break.mud",
+    "playsound_mapping": "block.mud.break",
     "bedrock_mapping": ""
   },
   "block.mud.fall": {
-    "playsound_mapping": "fall.mud",
+    "playsound_mapping": "block.mud.fall",
     "bedrock_mapping": ""
   },
   "block.mud.hit": {
-    "playsound_mapping": "hit.mud",
+    "playsound_mapping": "block.mud.hit",
     "bedrock_mapping": ""
   },
   "block.mud.place": {
-    "playsound_mapping": "place.mud",
+    "playsound_mapping": "block.mud.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mud"
   },
   "block.mud.step": {
-    "playsound_mapping": "step.mud",
+    "playsound_mapping": "block.mud.step",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.break": {
-    "playsound_mapping": "break.mud_bricks",
+    "playsound_mapping": "block.mud_bricks.break",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.fall": {
-    "playsound_mapping": "fall.mud_bricks",
+    "playsound_mapping": "block.mud_bricks.fall",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.hit": {
-    "playsound_mapping": "hit.mud_bricks",
+    "playsound_mapping": "block.mud_bricks.hit",
     "bedrock_mapping": ""
   },
   "block.mud_bricks.place": {
-    "playsound_mapping": "place.mud_bricks",
+    "playsound_mapping": "block.mud_bricks.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:mud_bricks"
   },
   "block.mud_bricks.step": {
-    "playsound_mapping": "step.mud_bricks",
+    "playsound_mapping": "block.mud_bricks.step",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.break": {
-    "playsound_mapping": "break.muddy_mangrove_roots",
+    "playsound_mapping": "block.muddy_mangrove_roots.break",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.fall": {
-    "playsound_mapping": "fall.muddy_mangrove_roots",
+    "playsound_mapping": "block.muddy_mangrove_roots.fall",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.hit": {
-    "playsound_mapping": "hit.muddy_mangrove_roots",
+    "playsound_mapping": "block.muddy_mangrove_roots.hit",
     "bedrock_mapping": ""
   },
   "block.muddy_mangrove_roots.place": {
-    "playsound_mapping": "place.muddy_mangrove_roots",
+    "playsound_mapping": "block.muddy_mangrove_roots.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:muddy_mangrove_roots[axis=y]"
   },
   "block.muddy_mangrove_roots.step": {
-    "playsound_mapping": "step.muddy_mangrove_roots",
+    "playsound_mapping": "block.muddy_mangrove_roots.step",
     "bedrock_mapping": ""
   },
   "entity.mule.ambient": {
@@ -3333,24 +3333,24 @@
   },
   "intentionally_empty": {},
   "block.packed_mud.break": {
-    "playsound_mapping": "break.packed_mud",
+    "playsound_mapping": "block.packed_mud.break",
     "bedrock_mapping": ""
   },
   "block.packed_mud.fall": {
-    "playsound_mapping": "fall.packed_mud",
+    "playsound_mapping": "block.packed_mud.fall",
     "bedrock_mapping": ""
   },
   "block.packed_mud.hit": {
-    "playsound_mapping": "hit.packed_mud",
+    "playsound_mapping": "block.packed_mud.hit",
     "bedrock_mapping": ""
   },
   "block.packed_mud.place": {
-    "playsound_mapping": "place.packed_mud",
+    "playsound_mapping": "block.packed_mud.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:packed_mud"
   },
   "block.packed_mud.step": {
-    "playsound_mapping": "step.packed_mud",
+    "playsound_mapping": "block.packed_mud.step",
     "bedrock_mapping": ""
   },
   "block.stem.break": {
@@ -3358,7 +3358,7 @@
     "bedrock_mapping": ""
   },
   "block.stem.step": {
-    "playsound_mapping": "block.stem.step",
+    "playsound_mapping": "step.stem",
     "bedrock_mapping": ""
   },
   "block.stem.place": {
@@ -3367,11 +3367,11 @@
     "identifier": "minecraft:attached_pumpkin_stem[facing=north]"
   },
   "block.stem.hit": {
-    "playsound_mapping": "block.stem.hit",
+    "playsound_mapping": "hit.stem",
     "bedrock_mapping": "HIT"
   },
   "block.stem.fall": {
-    "playsound_mapping": "block.stem.fall",
+    "playsound_mapping": "fall.stem",
     "bedrock_mapping": "FALL"
   },
   "block.nylium.break": {
@@ -3379,7 +3379,7 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.nylium.step": {
-    "playsound_mapping": "block.nylium.step",
+    "playsound_mapping": "step.nylium",
     "bedrock_mapping": "STEP"
   },
   "block.nylium.place": {
@@ -3388,11 +3388,11 @@
     "identifier": "minecraft:warped_nylium"
   },
   "block.nylium.hit": {
-    "playsound_mapping": "block.nylium.hit",
+    "playsound_mapping": "hit.nylium",
     "bedrock_mapping": "HIT"
   },
   "block.nylium.fall": {
-    "playsound_mapping": "block.nylium.fall",
+    "playsound_mapping": "fall.nylium",
     "bedrock_mapping": "FALL"
   },
   "block.nether_sprouts.break": {
@@ -3400,7 +3400,7 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.nether_sprouts.step": {
-    "playsound_mapping": "block.nether_sprouts.step",
+    "playsound_mapping": "step.nether_sprouts",
     "bedrock_mapping": "STEP"
   },
   "block.nether_sprouts.place": {
@@ -3409,11 +3409,11 @@
     "identifier": "minecraft:nether_sprouts"
   },
   "block.nether_sprouts.hit": {
-    "playsound_mapping": "block.nether_sprouts.hit",
+    "playsound_mapping": "hit.nether_sprouts",
     "bedrock_mapping": "HIT"
   },
   "block.nether_sprouts.fall": {
-    "playsound_mapping": "block.nether_sprouts.fall",
+    "playsound_mapping": "fall.nether_sprouts",
     "bedrock_mapping": "FALL"
   },
   "block.fungus.break": {
@@ -3505,7 +3505,7 @@
     "bedrock_mapping": "BREAK"
   },
   "block.netherrack.step": {
-    "playsound_mapping": "block.netherrack.step",
+    "playsound_mapping": "step.netherrack",
     "bedrock_mapping": "STEP"
   },
   "block.netherrack.place": {
@@ -3514,11 +3514,11 @@
     "identifier": "minecraft:netherrack"
   },
   "block.netherrack.hit": {
-    "playsound_mapping": "block.netherrack.hit",
+    "playsound_mapping": "hit.netherrack",
     "bedrock_mapping": "HIT"
   },
   "block.netherrack.fall": {
-    "playsound_mapping": "block.netherrack.fall",
+    "playsound_mapping": "fall.netherrack",
     "bedrock_mapping": "FALL"
   },
   "block.note_block.basedrum": {
@@ -3874,67 +3874,67 @@
     "bedrock_mapping": "STEP"
   },
   "entity.piglin.admiring_item": {
-    "playsound_mapping": "entity.piglin.admiring_item",
+    "playsound_mapping": "mob.piglin.admiring_item",
     "bedrock_mapping": ""
   },
   "entity.piglin.ambient": {
-    "playsound_mapping": "entity.piglin.ambient",
+    "playsound_mapping": "mob.piglin.ambient",
     "bedrock_mapping": ""
   },
   "entity.piglin.angry": {
-    "playsound_mapping": "entity.piglin.angry",
+    "playsound_mapping": "mob.piglin.angry",
     "bedrock_mapping": ""
   },
   "entity.piglin.celebrate": {
-    "playsound_mapping": "entity.piglin.celebrate",
+    "playsound_mapping": "mob.piglin.celebrate",
     "bedrock_mapping": ""
   },
   "entity.piglin.death": {
-    "playsound_mapping": "entity.piglin.death",
+    "playsound_mapping": "mob.piglin.death",
     "bedrock_mapping": ""
   },
   "entity.piglin.jealous": {
-    "playsound_mapping": "entity.piglin.jealous",
+    "playsound_mapping": "mob.piglin.jealous",
     "bedrock_mapping": ""
   },
   "entity.piglin.hurt": {
-    "playsound_mapping": "entity.piglin.hurt",
+    "playsound_mapping": "mob.piglin.hurt",
     "bedrock_mapping": ""
   },
   "entity.piglin.retreat": {
-    "playsound_mapping": "entity.piglin.retreat",
+    "playsound_mapping": "mob.piglin.retreat",
     "bedrock_mapping": ""
   },
   "entity.piglin.step": {
-    "playsound_mapping": "entity.piglin.step",
+    "playsound_mapping": "mob.piglin.step",
     "bedrock_mapping": ""
   },
   "entity.piglin.converted_to_zombified": {
-    "playsound_mapping": "entity.piglin.converted_to_zombified",
+    "playsound_mapping": "mob.piglin.converted_to_zombified",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.ambient": {
-    "playsound_mapping": "entity.piglin_brute.ambient",
+    "playsound_mapping": "mob.piglin_brute.ambient",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.angry": {
-    "playsound_mapping": "entity.piglin_brute.angry",
+    "playsound_mapping": "mob.piglin_brute.angry",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.death": {
-    "playsound_mapping": "entity.piglin_brute.death",
+    "playsound_mapping": "mob.piglin_brute.death",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.hurt": {
-    "playsound_mapping": "entity.piglin_brute.hurt",
+    "playsound_mapping": "mob.piglin_brute.hurt",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.step": {
-    "playsound_mapping": "entity.piglin_brute.step",
+    "playsound_mapping": "mob.piglin_brute.step",
     "bedrock_mapping": ""
   },
   "entity.piglin_brute.converted_to_zombified": {
-    "playsound_mapping": "entity.piglin_brute.converted_to_zombified",
+    "playsound_mapping": "mob.piglin_brute.converted_to_zombified",
     "bedrock_mapping": ""
   },
   "entity.pillager.ambient": {
@@ -4006,15 +4006,15 @@
     "bedrock_mapping": "HURT"
   },
   "entity.player.hurt_drown": {
-    "playsound_mapping": "game.player.hurt",
+    "playsound_mapping": "mob.player.hurt_drown",
     "bedrock_mapping": "HURT_IN_WATER"
   },
   "entity.player.hurt_freeze": {
-    "playsound_mapping": "entity.player.hurt_freeze",
+    "playsound_mapping": "mob.player.hurt_freeze",
     "bedrock_mapping": ""
   },
   "entity.player.hurt_on_fire": {
-    "playsound_mapping": "game.player.hurt",
+    "playsound_mapping": "mob.player.hurt_on_fire",
     "bedrock_mapping": "HURT"
   },
   "entity.player.hurt_sweet_berry_bush": {
@@ -4103,20 +4103,20 @@
     "bedrock_mapping": ""
   },
   "block.powder_snow.fall": {
-    "playsound_mapping": "block.powder_snow.fall",
+    "playsound_mapping": "fall.powder_snow",
     "bedrock_mapping": ""
   },
   "block.powder_snow.hit": {
-    "playsound_mapping": "block.powder_snow.hit",
+    "playsound_mapping": "hit.powder_snow",
     "bedrock_mapping": ""
   },
   "block.powder_snow.place": {
-    "playsound_mapping": "block.powder_snow.place",
+    "playsound_mapping": "place.powder_snow",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:powder_snow"
   },
   "block.powder_snow.step": {
-    "playsound_mapping": "block.powder_snow.step",
+    "playsound_mapping": "step.powder_snow",
     "bedrock_mapping": ""
   },
   "entity.puffer_fish.ambient": {
@@ -4212,11 +4212,11 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.nether_gold_ore.fall": {
-    "playsound_mapping": "block.nether_gold_ore.fall",
+    "playsound_mapping": "fall.nether_gold_ore",
     "bedrock_mapping": "FALL"
   },
   "block.nether_gold_ore.hit": {
-    "playsound_mapping": "block.nether_gold_ore.hit",
+    "playsound_mapping": "hit.nether_gold_ore",
     "bedrock_mapping": "HIT"
   },
   "block.nether_gold_ore.place": {
@@ -4225,7 +4225,7 @@
     "identifier": "minecraft:nether_gold_ore"
   },
   "block.nether_gold_ore.step": {
-    "playsound_mapping": "block.nether_gold_ore.step",
+    "playsound_mapping": "step.nether_gold_ore",
     "bedrock_mapping": "STEP"
   },
   "block.nether_ore.break": {
@@ -4411,24 +4411,24 @@
     "bedrock_mapping": "SCULK_SENSOR_POWER_OFF"
   },
   "block.sculk_sensor.break": {
-    "playsound_mapping": "block.sculk_sensor.break",
+    "playsound_mapping": "break.sculk_sensor",
     "bedrock_mapping": ""
   },
   "block.sculk_sensor.fall": {
-    "playsound_mapping": "block.sculk_sensor.fall",
+    "playsound_mapping": "fall.sculk_sensor",
     "bedrock_mapping": ""
   },
   "block.sculk_sensor.hit": {
-    "playsound_mapping": "block.sculk_sensor.hit",
+    "playsound_mapping": "hit.sculk_sensor",
     "bedrock_mapping": ""
   },
   "block.sculk_sensor.place": {
-    "playsound_mapping": "block.sculk_sensor.place",
+    "playsound_mapping": "place.sculk_sensor",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:sculk_sensor[power=0,sculk_sensor_phase=inactive,waterlogged=false]"
   },
   "block.sculk_sensor.step": {
-    "playsound_mapping": "block.sculk_sensor.step",
+    "playsound_mapping": "step.sculk_sensor",
     "bedrock_mapping": ""
   },
   "block.sculk_shrieker.break": {
@@ -4511,7 +4511,7 @@
     "bedrock_mapping": "BREAK"
   },
   "block.shroomlight.step": {
-    "playsound_mapping": "block.shroomlight.step",
+    "playsound_mapping": "step.shroomlight",
     "bedrock_mapping": "STEP"
   },
   "block.shroomlight.place": {
@@ -4520,11 +4520,11 @@
     "identifier": "minecraft:shroomlight"
   },
   "block.shroomlight.hit": {
-    "playsound_mapping": "block.shroomlight.hit",
+    "playsound_mapping": "hit.shroomlight",
     "bedrock_mapping": "HIT"
   },
   "block.shroomlight.fall": {
-    "playsound_mapping": "block.shroomlight.fall",
+    "playsound_mapping": "fall.shroomlight",
     "bedrock_mapping": "FALL"
   },
   "item.shovel.flatten": {
@@ -4568,7 +4568,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.shulker.open": {
-    "playsound_mapping": "random.shulkerboxopen",
+    "playsound_mapping": "mob.shulker.open",
     "bedrock_mapping": "SHULKER_OPEN"
   },
   "entity.shulker.shoot": {
@@ -4669,7 +4669,7 @@
     "identifier": "minecraft:slime"
   },
   "entity.slime.squish": {
-    "playsound_mapping": "mob.slime.big",
+    "playsound_mapping": "mob.slime.squish",
     "bedrock_mapping": "SQUISH_BIG",
     "identifier": "minecraft:slime"
   },
@@ -4695,11 +4695,11 @@
     "bedrock_mapping": "STEP"
   },
   "block.small_amethyst_bud.break": {
-    "playsound_mapping": "block.small_amethyst_bud.break",
+    "playsound_mapping": "break.small_amethyst_bud",
     "bedrock_mapping": ""
   },
   "block.small_amethyst_bud.place": {
-    "playsound_mapping": "block.small_amethyst_bud.place",
+    "playsound_mapping": "place.small_amethyst_bud",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:small_amethyst_bud[facing=up,waterlogged=false]"
   },
@@ -4729,7 +4729,7 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.soul_sand.step": {
-    "playsound_mapping": "block.soul_sand.step",
+    "playsound_mapping": "step.soul_sand",
     "bedrock_mapping": "STEP"
   },
   "block.soul_sand.place": {
@@ -4738,11 +4738,11 @@
     "identifier": "minecraft:soul_sand"
   },
   "block.soul_sand.hit": {
-    "playsound_mapping": "block.soul_sand.hit",
+    "playsound_mapping": "hit.soul_sand",
     "bedrock_mapping": "HIT"
   },
   "block.soul_sand.fall": {
-    "playsound_mapping": "block.soul_sand.fall",
+    "playsound_mapping": "fall.soul_sand",
     "bedrock_mapping": "FALL"
   },
   "block.soul_soil.break": {
@@ -4750,7 +4750,7 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.soul_soil.step": {
-    "playsound_mapping": "block.soul_soil.step",
+    "playsound_mapping": "step.soul_soil",
     "bedrock_mapping": "STEP"
   },
   "block.soul_soil.place": {
@@ -4759,11 +4759,11 @@
     "identifier": "minecraft:soul_soil"
   },
   "block.soul_soil.hit": {
-    "playsound_mapping": "block.soul_soil.hit",
+    "playsound_mapping": "hit.soul_soil",
     "bedrock_mapping": "HIT"
   },
   "block.soul_soil.fall": {
-    "playsound_mapping": "block.soul_soil.fall",
+    "playsound_mapping": "fall.soul_soil",
     "bedrock_mapping": "FALL"
   },
   "particle.soul_escape": {
@@ -4771,24 +4771,24 @@
     "bedrock_mapping": "SOUL_ESCAPE_LOUD"
   },
   "block.spore_blossom.break": {
-    "playsound_mapping": "block.spore_blossom.break",
+    "playsound_mapping": "break.spore_blossom",
     "bedrock_mapping": ""
   },
   "block.spore_blossom.fall": {
-    "playsound_mapping": "block.spore_blossom.fall",
+    "playsound_mapping": "fall.spore_blossom",
     "bedrock_mapping": ""
   },
   "block.spore_blossom.hit": {
-    "playsound_mapping": "block.spore_blossom.hit",
+    "playsound_mapping": "hit.spore_blossom",
     "bedrock_mapping": ""
   },
   "block.spore_blossom.place": {
-    "playsound_mapping": "block.spore_blossom.place",
+    "playsound_mapping": "place.spore_blossom",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:spore_blossom"
   },
   "block.spore_blossom.step": {
-    "playsound_mapping": "block.spore_blossom.step",
+    "playsound_mapping": "step.spore_blossom",
     "bedrock_mapping": ""
   },
   "entity.strider.ambient": {
@@ -4820,7 +4820,7 @@
     "bedrock_mapping": "STEP_LAVA"
   },
   "entity.strider.eat": {
-    "playsound_mapping": "entity.strider.eat",
+    "playsound_mapping": "mob.strider.eat",
     "bedrock_mapping": "EAT"
   },
   "entity.strider.saddle": {
@@ -5010,11 +5010,11 @@
     "identifier": "minecraft:stone"
   },
   "block.stone_pressure_plate.click_off": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_off.stone_pressure_plate",
     "bedrock_mapping": "POWER_OFF"
   },
   "block.stone_pressure_plate.click_on": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_on.stone_pressure_plate",
     "bedrock_mapping": "POWER_ON"
   },
   "block.stone.step": {
@@ -5146,24 +5146,24 @@
     "bedrock_mapping": "HURT"
   },
   "block.tuff.break": {
-    "playsound_mapping": "block.tuff.break",
+    "playsound_mapping": "break.tuff",
     "bedrock_mapping": ""
   },
   "block.tuff.step": {
-    "playsound_mapping": "block.tuff.step",
+    "playsound_mapping": "step.tuff",
     "bedrock_mapping": ""
   },
   "block.tuff.place": {
-    "playsound_mapping": "block.tuff.place",
+    "playsound_mapping": "place.tuff",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:tuff"
   },
   "block.tuff.hit": {
-    "playsound_mapping": "block.tuff.hit",
+    "playsound_mapping": "hit.tuff",
     "bedrock_mapping": ""
   },
   "block.tuff.fall": {
-    "playsound_mapping": "block.tuff.fall",
+    "playsound_mapping": "fall.tuff",
     "bedrock_mapping": ""
   },
   "entity.turtle.ambient_land": {
@@ -5259,7 +5259,7 @@
     "bedrock_mapping": "CHARGE"
   },
   "entity.vex.death": {
-    "playsound_mapping": "ob.vex.death",
+    "playsound_mapping": "mob.vex.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.vex.hurt": {
@@ -5583,7 +5583,7 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.wither.break_block": {
-    "playsound_mapping": "random.break",
+    "playsound_mapping": "mob.wither.break_block",
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "entity.wither.death": {
@@ -5655,22 +5655,22 @@
     "bedrock_mapping": "WHINE"
   },
   "block.wooden_door.close": {
-    "playsound_mapping": "random.door_close",
+    "playsound_mapping": "close.wooden_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_door.open": {
-    "playsound_mapping": "random.door_open",
+    "playsound_mapping": "open.wooden_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_trapdoor.close": {
-    "playsound_mapping": "random.door_close",
+    "playsound_mapping": "close.wooden_trapdoor",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
   "block.wooden_trapdoor.open": {
-    "playsound_mapping": "random.door_open",
+    "playsound_mapping": "open.wooden_trapdoor",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
     "level_event": true
   },
@@ -5683,11 +5683,11 @@
     "bedrock_mapping": "POWER_ON"
   },
   "block.wooden_pressure_plate.click_off": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_off.wooden_pressure_plate",
     "bedrock_mapping": "POWER_OFF"
   },
   "block.wooden_pressure_plate.click_on": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "click_on.wooden_pressure_plate",
     "bedrock_mapping": "POWER_ON"
   },
   "block.wood.break": {
@@ -5737,11 +5737,11 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.zoglin.angry": {
-    "playsound_mapping": "mob.zoglin.boost",
+    "playsound_mapping": "mob.zoglin.angry",
     "bedrock_mapping": ""
   },
   "entity.zoglin.attack": {
-    "playsound_mapping": "mob.zoglin.boost",
+    "playsound_mapping": "mob.zoglin.attack",
     "bedrock_mapping": "ATTACK"
   },
   "entity.zoglin.death": {
@@ -5749,7 +5749,7 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.zoglin.hurt": {
-    "playsound_mapping": "mob.zoglin.say",
+    "playsound_mapping": "mob.zoglin.hurt",
     "bedrock_mapping": "HURT"
   },
   "entity.zoglin.step": {
