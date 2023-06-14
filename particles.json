@@ -288,7 +288,9 @@
 		"eventType": "WATER_SPLASH",
 		"bedrockId": "minecraft:water_splash_particle_manual"
 	},
-	"SPORE_BLOSSOM_AIR": {},
+	"SPORE_BLOSSOM_AIR": {
+		"bedrockId": "minecraft:spore_blossom_ambient_particle"
+	},
 	"SQUID_INK": {
 		"eventType": "INK"
 	},
