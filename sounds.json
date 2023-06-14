@@ -2182,7 +2182,7 @@
     "bedrock_mapping": ""
   },
   "entity.goat.long_jump": {
-    "playsound_mapping": "entity.goat.long_jump",
+    "playsound_mapping": "component.jump_to_block",
     "bedrock_mapping": ""
   },
   "entity.goat.milk": {
@@ -2205,39 +2205,39 @@
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.ambient": {
-    "playsound_mapping": "entity.goat.screaming.ambient",
+    "playsound_mapping": "mob.goat.ambient.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.death": {
-    "playsound_mapping": "entity.goat.screaming.death",
+    "playsound_mapping": "mob.goat.death.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.eat": {
-    "playsound_mapping": "entity.goat.screaming.eat",
+    "playsound_mapping": "mob.goat.eat",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.hurt": {
-    "playsound_mapping": "entity.goat.screaming.hurt",
+    "playsound_mapping": "mob.goat.hurt.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.long_jump": {
-    "playsound_mapping": "entity.goat.screaming.long_jump",
+    "playsound_mapping": "component.jump_to_block",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.milk": {
-    "playsound_mapping": "entity.goat.screaming.milk",
+    "playsound_mapping": "mob.goat.milk.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.prepare_ram": {
-    "playsound_mapping": "entity.goat.screaming.prepare_ram",
+    "playsound_mapping": "mob.goat.prepare_ram.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.ram_impact": {
-    "playsound_mapping": "entity.goat.screaming.ram_impact",
+    "playsound_mapping": "mob.goat.ram_impact.screamer",
     "bedrock_mapping": ""
   },
   "entity.goat.screaming.horn_break": {
-    "playsound_mapping": "mob.goat.screaming.horn_break",
+    "playsound_mapping": "mob.goat.horn_break",
     "bedrock_mapping": ""
   },
   "entity.goat.step": {
