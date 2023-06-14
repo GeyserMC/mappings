@@ -4198,7 +4198,7 @@
     "bedrock_mapping": ""
   },
   "block.pumpkin.carve": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.sheep.shear",
     "bedrock_mapping": ""
   },
   "entity.rabbit.ambient": {
@@ -4300,7 +4300,7 @@
     "bedrock_mapping": "STEP"
   },
   "block.redstone_torch.burnout": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.fizz",
     "bedrock_mapping": ""
   },
   "block.respawn_anchor.ambient": {
