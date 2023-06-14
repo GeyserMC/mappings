@@ -410,9 +410,7 @@
     "playsound_mapping": "hit.bamboo_wood"
   },
   "block.bamboo_wood.place": {
-    "playsound_mapping": "place.bamboo_wood",
-    "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "playsound_mapping": "place.bamboo_wood"
   },
   "block.bamboo_wood.step": {
     "playsound_mapping": "step.bamboo_wood"
@@ -3332,9 +3330,7 @@
     "playsound_mapping": "hit.nether_wood"
   },
   "block.nether_wood.place": {
-    "playsound_mapping": "place.nether_wood",
-    "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "playsound_mapping": "place.nether_wood"
   },
   "block.nether_wood.step": {
     "playsound_mapping": "step.nether_wood"
