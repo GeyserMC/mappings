@@ -288,7 +288,7 @@
     "bedrock_mapping": "BOW"
   },
   "item.axe.strip": {
-    "playsound_mapping": "",
+    "playsound_mapping": "use.wood",
     "bedrock_mapping": ""
   },
   "item.axe.scrape": {
@@ -610,7 +610,7 @@
     "bedrock_mapping": ""
   },
   "entity.boat.paddle_water": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.swim",
     "bedrock_mapping": ""
   },
   "block.bone_block.break": {
@@ -666,11 +666,21 @@
     "playsound_mapping": "random.potion.brewed",
     "bedrock_mapping": "POTION_BREWED"
   },
-  "item.brush.brushing.generic": {},
-  "item.brush.brushing.sand": {},
-  "item.brush.brushing.gravel": {},
-  "item.brush.brushing.sand.complete": {},
-  "item.brush.brushing.gravel.complete": {},
+  "item.brush.brushing.generic": {
+    "playsound_mapping": "brush.generic"
+  },
+  "item.brush.brushing.sand": {
+    "playsound_mapping": "brush.suspicious_sand"
+  },
+  "item.brush.brushing.gravel": {
+    "playsound_mapping": "brush.suspicious_gravel"
+  },
+  "item.brush.brushing.sand.complete": {
+    "playsound_mapping": "brush.suspicious_sand"
+  },
+  "item.brush.brushing.gravel.complete": {
+    "playsound_mapping": "brush.suspicious_gravel"
+  },
   "block.bubble_column.bubble_pop": {
     "playsound_mapping": "bubble.pop",
     "bedrock_mapping": "BUBBLE_POP"
@@ -1044,7 +1054,9 @@
   "block.chiseled_bookshelf.break": {
     "playsound_mapping": "break.chiseled_bookshelf"
   },
-  "block.chiseled_bookshelf.fall": {},
+  "block.chiseled_bookshelf.fall": {
+    "playsound_mapping": "step.chiseled_bookshelf"
+  },
   "block.chiseled_bookshelf.hit": {
     "playsound_mapping": "hit.chiseled_bookshelf"
   },
@@ -1255,8 +1267,12 @@
   "block.decorated_pot.break": {
     "playsound_mapping": "break.decorated_pot"
   },
-  "block.decorated_pot.fall": {},
-  "block.decorated_pot.hit": {},
+  "block.decorated_pot.fall": {
+    "playsound_mapping": "step.decorated_pot"
+  },
+  "block.decorated_pot.hit": {
+    "playsound_mapping": "step.decorated_pot"
+  },
   "block.decorated_pot.step": {
     "playsound_mapping": "step.decorated_pot"
   },
@@ -2057,24 +2073,24 @@
     "bedrock_mapping": "MOB_WARNING"
   },
   "block.gilded_blackstone.break": {
-    "playsound_mapping": "block.gilded_blackstone.break",
+    "playsound_mapping": "dig.stone",
     "bedrock_mapping": ""
   },
   "block.gilded_blackstone.fall": {
-    "playsound_mapping": "block.gilded_blackstone.fall",
+    "playsound_mapping": "fall.stone",
     "bedrock_mapping": ""
   },
   "block.gilded_blackstone.hit": {
-    "playsound_mapping": "block.gilded_blackstone.hit",
+    "playsound_mapping": "hit.stone",
     "bedrock_mapping": ""
   },
   "block.gilded_blackstone.place": {
-    "playsound_mapping": "block.gilded_blackstone.place",
+    "playsound_mapping": "dig.stone",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:gilded_blackstone"
   },
   "block.gilded_blackstone.step": {
-    "playsound_mapping": "block.gilded_blackstone.step",
+    "playsound_mapping": "step.stone",
     "bedrock_mapping": "STEP"
   },
   "block.glass.break": {
@@ -2867,19 +2883,19 @@
     "identifier": "minecraft:medium_amethyst_bud[facing=up,waterlogged=false]"
   },
   "block.metal.break": {
-    "playsound_mapping": "",
+    "playsound_mapping": "dig.stone",
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.metal.fall": {
-    "playsound_mapping": "",
+    "playsound_mapping": "fall.stone",
     "bedrock_mapping": "FALL"
   },
   "block.metal.hit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "hit.stone",
     "bedrock_mapping": ""
   },
   "block.metal.place": {
-    "playsound_mapping": "",
+    "playsound_mapping": "dig.stone",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:iron_block"
   },
@@ -2892,7 +2908,7 @@
     "bedrock_mapping": "POWER_ON"
   },
   "block.metal.step": {
-    "playsound_mapping": "",
+    "playsound_mapping": "step.stone",
     "bedrock_mapping": "STEP"
   },
   "entity.minecart.inside.underwater": {
@@ -3141,7 +3157,10 @@
     "playsound_mapping": "record.otherside",
     "bedrock_mapping": "RECORD_OTHERSIDE"
   },
-  "music_disc.relic": {},
+  "music_disc.relic": {
+    "playsound_mapping": "record.relic",
+    "bedrock_mapping": "RECORD_RELIC"
+  },
   "music.dragon": {
     "playsound_mapping": "music.game.endboss",
     "bedrock_mapping": ""
@@ -3591,12 +3610,24 @@
     "bedrock_mapping": "NOTE",
     "extra_data": 3584
   },
-  "block.note_block.imitate.zombie": {},
-  "block.note_block.imitate.skeleton": {},
-  "block.note_block.imitate.creeper": {},
-  "block.note_block.imitate.ender_dragon": {},
-  "block.note_block.imitate.wither_skeleton": {},
-  "block.note_block.imitate.piglin": {},
+  "block.note_block.imitate.zombie": {
+    "playsound_mapping": "note.zombie"
+  },
+  "block.note_block.imitate.skeleton": {
+    "playsound_mapping": "note.skeleton"
+  },
+  "block.note_block.imitate.creeper": {
+    "playsound_mapping": "note.creeper"
+  },
+  "block.note_block.imitate.ender_dragon": {
+    "playsound_mapping": "note.enderdragon"
+  },
+  "block.note_block.imitate.wither_skeleton": {
+    "playsound_mapping": "note.witherskeleton"
+  },
+  "block.note_block.imitate.piglin": {
+    "playsound_mapping": "note.piglin"
+  },
   "entity.ocelot.hurt": {
     "playsound_mapping": "mob.cat.hiss",
     "bedrock_mapping": "HURT"
@@ -4861,19 +4892,27 @@
   "entity.sniffer.drop_seed": {
     "playsound_mapping": "mob.sniffer.drop_seed"
   },
-  "entity.sniffer.scenting": {},
-  "entity.sniffer.sniffing": {},
+  "entity.sniffer.scenting": {
+    "playsound_mapping": "mob.sniffer.sniffsniff"
+  },
+  "entity.sniffer.sniffing": {
+    "playsound_mapping": "mob.sniffer.long_sniff"
+  },
   "entity.sniffer.searching": {
     "playsound_mapping": "mob.sniffer.searching"
   },
   "entity.sniffer.digging": {
     "playsound_mapping": "mob.sniffer.digging"
   },
-  "entity.sniffer.digging_stop": {},
+  "entity.sniffer.digging_stop": {
+    "playsound_mapping": "mob.sniffer.stand_up"
+  },
   "entity.sniffer.happy": {
     "playsound_mapping": "mob.sniffer.happy"
   },
-  "block.sniffer_egg.plop": {},
+  "block.sniffer_egg.plop": {
+    "playsound_mapping": "mob.sniffer.plop"
+  },
   "block.sniffer_egg.crack": {
     "playsound_mapping": "block.sniffer_egg.crack"
   },
@@ -4971,7 +5010,7 @@
     "bedrock_mapping": "HURT"
   },
   "entity.squid.squirt": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.squid.ink_squirt",
     "bedrock_mapping": ""
   },
   "block.stone.break": {
