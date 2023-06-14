@@ -3201,71 +3201,73 @@
     "bedrock_mapping": ""
   },
   "music.nether.basalt_deltas": {
-    "playsound_mapping": "music.nether.basalt_deltas",
+    "playsound_mapping": "music.game.basalt_deltas",
     "bedrock_mapping": ""
   },
   "music.nether.crimson_forest": {
-    "playsound_mapping": "music.nether.crimson_forest",
+    "playsound_mapping": "music.game.crimson_forest",
     "bedrock_mapping": ""
   },
   "music.overworld.deep_dark": {
-    "playsound_mapping": "music.overworld.deep_dark",
+    "playsound_mapping": "music.game.deep_dark",
     "bedrock_mapping": ""
   },
   "music.overworld.dripstone_caves": {
-    "playsound_mapping": "music.overworld.dripstone_caves",
+    "playsound_mapping": "music.game.dripstone_caves",
     "bedrock_mapping": ""
   },
   "music.overworld.grove": {
-    "playsound_mapping": "music.overworld.grove",
+    "playsound_mapping": "music.game.grove",
     "bedrock_mapping": ""
   },
   "music.overworld.jagged_peaks": {
-    "playsound_mapping": "music.overworld.jagged_peaks",
+    "playsound_mapping": "music.game.jagged_peaks",
     "bedrock_mapping": ""
   },
   "music.overworld.lush_caves": {
-    "playsound_mapping": "music.overworld.lush_caves",
+    "playsound_mapping": "music.game.lush_caves",
     "bedrock_mapping": ""
   },
   "music.overworld.swamp": {
-    "playsound_mapping": "music.overworld.swamp",
+    "playsound_mapping": "music.game.swamp_music",
     "bedrock_mapping": ""
   },
-  "music.overworld.forest": {},
+  "music.overworld.forest": {
+    "playsound_mapping": "music.overworld.flower_forest"
+  },
   "music.overworld.old_growth_taiga": {
     "playsound_mapping": "music.overworld.old_growth_taiga",
     "bedrock_mapping": ""
   },
   "music.overworld.meadow": {
-    "playsound_mapping": "music.overworld.meadow",
+    "playsound_mapping": "music.game.meadow",
     "bedrock_mapping": ""
   },
   "music.overworld.cherry_grove": {
     "playsound_mapping": "music.overworld.cherry_grove"
   },
   "music.nether.nether_wastes": {
-    "playsound_mapping": "music.nether.nether_wastes",
+    "playsound_mapping": "music.game.nether_wastes",
     "bedrock_mapping": ""
   },
   "music.overworld.frozen_peaks": {
-    "playsound_mapping": "music.overworld.frozen_peaks",
+    "playsound_mapping": "music.game.frozen_peaks",
     "bedrock_mapping": ""
   },
   "music.overworld.snowy_slopes": {
-    "playsound_mapping": "music.overworld.snowy_slopes",
+    "playsound_mapping": "music.game.snowy_slopes",
     "bedrock_mapping": ""
   },
   "music.nether.soul_sand_valley": {
-    "playsound_mapping": "music.nether.soul_sand_valley",
+    "playsound_mapping": "music.game.soul_sand_valley",
     "bedrock_mapping": ""
   },
   "music.overworld.stony_peaks": {
-    "playsound_mapping": "music.overworld.stony_peaks",
+    "playsound_mapping": "music.game.stony_peaks",
     "bedrock_mapping": ""
   },
   "music.nether.warped_forest": {
-    "playsound_mapping": "music.nether.warped_forest",
+    "playsound_mapping": "music.game.warped_forest",
     "bedrock_mapping": ""
   },
   "music.overworld.flower_forest": {
@@ -3274,11 +3276,15 @@
   "music.overworld.desert": {
     "playsound_mapping": "music.overworld.desert"
   },
-  "music.overworld.badlands": {},
+  "music.overworld.badlands": {
+    "playsound_mapping": "music.overworld.mesa"
+  },
   "music.overworld.jungle": {
     "playsound_mapping": "music.overworld.jungle"
   },
-  "music.overworld.sparse_jungle": {},
+  "music.overworld.sparse_jungle": {
+    "playsound_mapping": "music.overworld.jungle"
+  },
   "music.overworld.bamboo_jungle": {
     "playsound_mapping": "music.overworld.bamboo_jungle"
   },
