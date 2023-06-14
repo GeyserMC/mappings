@@ -988,7 +988,7 @@
   },
   "block.cherry_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "identifier": "minecraft:cherry_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
   "block.cherry_wood_door.close": {
     "playsound_mapping": "close.cherry_wood_door"
@@ -2359,7 +2359,7 @@
   },
   "block.hanging_sign.place": {
     "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "identifier": "minecraft:oak_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
   "block.nether_wood_hanging_sign.step": {
     "playsound_mapping": "step.nether_wood_hanging_sign"
@@ -2375,7 +2375,7 @@
   },
   "block.nether_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "identifier": "minecraft:crimson_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
   "block.bamboo_wood_hanging_sign.step": {
     "playsound_mapping": "step.bamboo_wood_hanging_sign"
@@ -2391,7 +2391,7 @@
   },
   "block.bamboo_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
-    "identifier": "MANUALMAP"
+    "identifier": "minecraft:bamboo_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
   "item.hoe.till": {
     "playsound_mapping": "",
