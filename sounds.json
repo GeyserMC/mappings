@@ -1878,7 +1878,9 @@
   "block.suspicious_sand.hit": {
     "playsound_mapping": "hit.suspicious_sand"
   },
-  "block.suspicious_sand.fall": {},
+  "block.suspicious_sand.fall": {
+    "playsound_mapping": "step.suspicious_sand"
+  },
   "block.suspicious_gravel.break": {
     "playsound_mapping": "break.suspicious_gravel"
   },
@@ -1893,7 +1895,9 @@
   "block.suspicious_gravel.hit": {
     "playsound_mapping": "hit.suspicious_gravel"
   },
-  "block.suspicious_gravel.fall": {},
+  "block.suspicious_gravel.fall": {
+    "playsound_mapping": "step.suspicious_gravel"
+  },
   "block.froglight.break": {
     "playsound_mapping": "break.froglight",
     "bedrock_mapping": ""
@@ -3447,24 +3451,24 @@
     "bedrock_mapping": "FALL"
   },
   "block.weeping_vines.break": {
-    "playsound_mapping": "block.weeping_vines.break",
+    "playsound_mapping": "dig.roots",
     "bedrock_mapping": "BREAK"
   },
   "block.weeping_vines.step": {
-    "playsound_mapping": "block.weeping_vines.step",
+    "playsound_mapping": "step.roots",
     "bedrock_mapping": "STEP"
   },
   "block.weeping_vines.place": {
-    "playsound_mapping": "block.weeping_vines.place",
+    "playsound_mapping": "dig.roots",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:weeping_vines[age=0]"
   },
   "block.weeping_vines.hit": {
-    "playsound_mapping": "block.weeping_vines.hit",
+    "playsound_mapping": "hit.roots",
     "bedrock_mapping": "HIT"
   },
   "block.weeping_vines.fall": {
-    "playsound_mapping": "block.weeping_vines.fall",
+    "playsound_mapping": "fall.roots",
     "bedrock_mapping": "FALL"
   },
   "block.wart_block.break": {
@@ -3723,7 +3727,7 @@
     "bedrock_mapping": "IMITATE_CREEPER"
   },
   "entity.parrot.imitate.drowned": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.zombie.say",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.elder_guardian": {
@@ -3735,7 +3739,7 @@
     "bedrock_mapping": "IMITATE_ENDER_DRAGON"
   },
   "entity.parrot.imitate.endermite": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.endermite.say",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.evoker": {
@@ -3747,11 +3751,11 @@
     "bedrock_mapping": "IMITATE_GHAST"
   },
   "entity.parrot.imitate.guardian": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.guardian.ambient",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.hoglin": {
-    "playsound_mapping": "entity.parrot.imitate.hoglin",
+    "playsound_mapping": "mob.hoglin.ambient",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.husk": {
@@ -3767,23 +3771,23 @@
     "bedrock_mapping": "IMITATE_MAGMA_CUBE"
   },
   "entity.parrot.imitate.phantom": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.phantom.idle",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.piglin": {
-    "playsound_mapping": "entity.parrot.imitate.piglin",
+    "playsound_mapping": "mob.piglin.ambient",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.piglin_brute": {
-    "playsound_mapping": "entity.parrot.imitate.piglin_brute",
+    "playsound_mapping": "mob.piglin_brute.ambient",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.pillager": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.pillager.idle",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.ravager": {
-    "playsound_mapping": "",
+    "playsound_mapping": "mob.ravager.ambient",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.shulker": {
@@ -3819,7 +3823,7 @@
     "bedrock_mapping": "IMITATE_VINDICATION_ILLAGER"
   },
   "entity.parrot.imitate.warden": {
-    "playsound_mapping": "mob.parrot.imitate.warden",
+    "playsound_mapping": "mob.warden.clicking",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.witch": {
@@ -3835,7 +3839,7 @@
     "bedrock_mapping": "IMITATE_WITHER_SKELETON"
   },
   "entity.parrot.imitate.zoglin": {
-    "playsound_mapping": "entity.parrot.imitate.zoglin",
+    "playsound_mapping": "mob.zoglin.idle",
     "bedrock_mapping": ""
   },
   "entity.parrot.imitate.zombie": {
