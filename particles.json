@@ -16,7 +16,7 @@
 	"BLOCK_MARKER": {},
 	"BUBBLE": {
 		"eventType": "BUBBLE",
-		"bedrockId": "basic_bubble_particle_manual"
+		"bedrockId": "minecraft:basic_bubble_particle_manual"
 	},
 	"BUBBLE_COLUMN_UP": {
 		"eventType": "BUBBLE_COLUMN_UP",
@@ -24,7 +24,7 @@
 	},
 	"BUBBLE_POP": {
 		"eventType": "BUBBLE",
-		"bedrockId": "minecraft:bubble_column_particle"
+		"bedrockId": "minecraft:bubble_column_bubble"
 	},
 	"CAMPFIRE_COSY_SMOKE": {
 		"eventType": "CAMPFIRE_SMOKE",
@@ -32,6 +32,9 @@
 	},
 	"CAMPFIRE_SIGNAL_SMOKE": {
 		"bedrockId": "minecraft:campfire_tall_smoke_particle"
+	},
+	"CHERRY_LEAVES": {
+		"bedrockId": "minecraft:cherry_leaves_particle"
 	},
 	"CLOUD": {
 		"eventType": "EVAPORATION",
@@ -62,8 +65,14 @@
 		"eventType": "DRAGON_BREATH",
 		"bedrockId": "minecraft:dragon_breath_lingering"
 	},
-	"DRIPPING_DRIPSTONE_LAVA": {},
-	"DRIPPING_DRIPSTONE_WATER": {},
+	"DRIPPING_DRIPSTONE_LAVA": {
+		"eventType": "STALACTITE_DRIP_LAVA",
+		"bedrockId": "minecraft:stalactite_lava_drip_particle"
+	},
+	"DRIPPING_DRIPSTONE_WATER": {
+		"eventType": "STALACTITE_DRIP_WATER",
+		"bedrockId": "minecraft:stalactite_water_drip_particle"
+	},
 	"DRIPPING_HONEY": {
 		"eventType": "DRIP_HONEY"
 	},
@@ -87,8 +96,13 @@
 	"EFFECT": {
 		"bedrockId": "minecraft:splash_spell_emitter"
 	},
-	"ELDER_GUARDIAN": {},
-	"ELECTRIC_SPARK": {},
+	"EGG_CRACK": {},
+	"ELDER_GUARDIAN": {
+		"eventType": "PARTICLE_SOUND_GUARDIAN_GHOST"
+	},
+	"ELECTRIC_SPARK": {
+		"eventType": "ELECTRIC_SPARK"
+	},
 	"ENCHANT": {
 		"eventType": "ENCHANTING_TABLE",
 		"bedrockId": "minecraft:enchanting_table_particle"
@@ -111,9 +125,17 @@
 	"EXPLOSION_EMITTER": {
 		"bedrockId": "minecraft:huge_explosion_emitter"
 	},
-	"FALLING_DRIPSTONE_LAVA": {},
-	"FALLING_DRIPSTONE_WATER": {},
-	"FALLING_DUST": {},
+	"FALLING_DRIPSTONE_LAVA": {
+		"eventType": "STALACTITE_DRIP_LAVA",
+		"bedrockId": "minecraft:stalactite_lava_drip_particle"
+	},
+	"FALLING_DRIPSTONE_WATER": {
+		"eventType": "STALACTITE_DRIP_WATER",
+		"bedrockId": "minecraft:stalactite_water_drip_particle"
+	},
+	"FALLING_DUST": {
+		"eventType": "FALLING_DUST"
+	},
 	"FALLING_HONEY": {
 		"bedrockId": "minecraft:honey_drip_particle"
 	},
@@ -127,10 +149,12 @@
 	"FALLING_OBSIDIAN_TEAR": {
 		"eventType": "OBSIDIAN_TEAR"
 	},
-	"FALLING_SPORE_BLOSSOM": {},
+	"FALLING_SPORE_BLOSSOM": {
+		"eventType": "SPORE_BLOSSOM_SHOWER",
+		"bedrockId": "minecraft:spore_blossom_shower_particle"
+	},
 	"FALLING_WATER": {
-		"eventType": "DRIP_WATER",
-		"bedrockId": "water_splash_particle"
+		"bedrockId": "minecraft:water_splash_particle"
 	},
 	"FIREWORK": {
 		"eventType": "FIREWORKS_STARTER",
@@ -147,7 +171,9 @@
 	"FLASH": {
 		"bedrockId": "geyseropt:flash"
 	},
-	"GLOW": {},
+	"GLOW": {
+		"bedrockId": "minecraft:glow_particle"
+	},
 	"GLOW_SQUID_INK": {
 		"eventType": "INK"
 	},
@@ -202,7 +228,7 @@
 	},
 	"POOF": {
 		"eventType": "EXPLODE",
-		"bedrockId": "explode"
+		"bedrockId": "minecraft:explosion_manual"
 	},
 	"PORTAL": {
 		"eventType": "PORTAL",
@@ -211,25 +237,38 @@
 	"RAIN": {
 		"eventType": "RAIN_SPLASH"
 	},
-	"REVERSE_PORTAL": {},
-	"SCRAPE": {},
-	"SCULK_CHARGE": {},
-	"SCULK_CHARGE_POP": {},
+	"REVERSE_PORTAL": {
+		"bedrockId": "minecraft:portal_reverse_particle"
+	},
+	"SCRAPE": {
+		"eventType": "PARTICLE_SCRAPE"
+	},
+	"SCULK_CHARGE": {
+		"eventType": "SCULK_CHARGE"
+	},
+	"SCULK_CHARGE_POP": {
+		"eventType": "SCULK_CHARGE_POP"
+	},
 	"SCULK_SOUL": {
 		"eventType": "SCULK_SOUL",
 		"bedrockId": "minecraft:sculk_soul_particle"
 	},
 	"SHRIEK": {
+		"eventType": "SHRIEK",
 		"bedrockId": "minecraft:shriek_particle"
 	},
-	"SMALL_FLAME": {},
+	"SMALL_FLAME": {
+		"bedrockId": "minecraft:candle_flame_particle"
+	},
 	"SMOKE": {
 		"eventType": "SMOKE"
 	},
 	"SNEEZE": {
 		"eventType": "SNEEZE"
 	},
-	"SNOWFLAKE": {},
+	"SNOWFLAKE": {
+		"eventType": "SNOWFLAKE"
+	},
 	"SONIC_BOOM": {
 		"bedrockId": "minecraft:sonic_explosion"
 	},
@@ -251,8 +290,7 @@
 	},
 	"SPORE_BLOSSOM_AIR": {},
 	"SQUID_INK": {
-		"eventType": "INK",
-		"bedrockId": "minecraft:ink"
+		"eventType": "INK"
 	},
 	"SWEEP_ATTACK": {
 		"bedrockId": "geyseropt:sweep_attack"
