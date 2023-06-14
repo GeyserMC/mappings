@@ -948,10 +948,13 @@
   "block.cherry_wood.step": {
     "playsound_mapping": "step.cherry_wood"
   },
-  "block.cherry_sapling.break": {},
+  "block.cherry_sapling.break": {
+    "playsound_mapping": "block.bamboo_sapling.break"
+  },
   "block.cherry_sapling.fall": {},
   "block.cherry_sapling.hit": {},
   "block.cherry_sapling.place": {
+    "playsound_mapping": "block.bamboo_sapling.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:cherry_sapling[stage=0]"
   },
@@ -979,8 +982,12 @@
   "block.cherry_wood_hanging_sign.break": {
     "playsound_mapping": "break.cherry_wood_hanging_sign"
   },
-  "block.cherry_wood_hanging_sign.fall": {},
-  "block.cherry_wood_hanging_sign.hit": {},
+  "block.cherry_wood_hanging_sign.fall": {
+    "playsound_mapping": "step.cherry_wood_hanging_sign"
+  },
+  "block.cherry_wood_hanging_sign.hit": {
+    "playsound_mapping": "step.cherry_wood_hanging_sign"
+  },
   "block.cherry_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "MANUALMAP"
@@ -2346,8 +2353,12 @@
   "block.hanging_sign.break": {
     "playsound_mapping": "break.hanging_sign"
   },
-  "block.hanging_sign.fall": {},
-  "block.hanging_sign.hit": {},
+  "block.hanging_sign.fall": {
+    "playsound_mapping": "step.hanging_sign"
+  },
+  "block.hanging_sign.hit": {
+    "playsound_mapping": "step.hanging_sign"
+  },
   "block.hanging_sign.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "MANUALMAP"
@@ -2358,8 +2369,12 @@
   "block.nether_wood_hanging_sign.break": {
     "playsound_mapping": "break.nether_wood_hanging_sign"
   },
-  "block.nether_wood_hanging_sign.fall": {},
-  "block.nether_wood_hanging_sign.hit": {},
+  "block.nether_wood_hanging_sign.fall": {
+    "playsound_mapping": "step.nether_wood_hanging_sign"
+  },
+  "block.nether_wood_hanging_sign.hit": {
+    "playsound_mapping": "step.nether_wood_hanging_sign"
+  },
   "block.nether_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "MANUALMAP"
@@ -2370,8 +2385,12 @@
   "block.bamboo_wood_hanging_sign.break": {
     "playsound_mapping": "break.bamboo_wood_hanging_sign"
   },
-  "block.bamboo_wood_hanging_sign.fall": {},
-  "block.bamboo_wood_hanging_sign.hit": {},
+  "block.bamboo_wood_hanging_sign.fall": {
+    "playsound_mapping": "step.bamboo_wood_hanging_sign"
+  },
+  "block.bamboo_wood_hanging_sign.hit": {
+    "playsound_mapping": "step.bamboo_wood_hanging_sign"
+  },
   "block.bamboo_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "MANUALMAP"
