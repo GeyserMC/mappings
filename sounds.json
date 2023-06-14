@@ -5326,55 +5326,55 @@
     "bedrock_mapping": "HAGGLE_YES"
   },
   "entity.villager.work_armorer": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.blastfurnace.fire_crackle",
     "bedrock_mapping": ""
   },
   "entity.villager.work_butcher": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.smoker.smoke",
     "bedrock_mapping": ""
   },
   "entity.villager.work_cartographer": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.cartography_table.use",
     "bedrock_mapping": ""
   },
   "entity.villager.work_cleric": {
-    "playsound_mapping": "",
+    "playsound_mapping": "random.potion.brewed",
     "bedrock_mapping": ""
   },
   "entity.villager.work_farmer": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.composter.fill",
     "bedrock_mapping": ""
   },
   "entity.villager.work_fisherman": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.barrel.open",
     "bedrock_mapping": ""
   },
   "entity.villager.work_fletcher": {
-    "playsound_mapping": "",
+    "playsound_mapping": "dig.wood",
     "bedrock_mapping": ""
   },
   "entity.villager.work_leatherworker": {
-    "playsound_mapping": "",
+    "playsound_mapping": "bucket.fill_water",
     "bedrock_mapping": ""
   },
   "entity.villager.work_librarian": {
-    "playsound_mapping": "",
+    "playsound_mapping": "item.book.put",
     "bedrock_mapping": ""
   },
   "entity.villager.work_mason": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.stonecutter.use",
     "bedrock_mapping": ""
   },
   "entity.villager.work_shepherd": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.loom.use",
     "bedrock_mapping": ""
   },
   "entity.villager.work_toolsmith": {
-    "playsound_mapping": "",
+    "playsound_mapping": "smithing_table.use",
     "bedrock_mapping": ""
   },
   "entity.villager.work_weaponsmith": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.grindstone.use",
     "bedrock_mapping": ""
   },
   "entity.vindicator.ambient": {
