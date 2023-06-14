@@ -96,7 +96,9 @@
 	"EFFECT": {
 		"bedrockId": "minecraft:splash_spell_emitter"
 	},
-	"EGG_CRACK": {},
+	"EGG_CRACK": {
+		"bedrockId": "minecraft:villager_happy"
+	},
 	"ELDER_GUARDIAN": {
 		"eventType": "PARTICLE_SOUND_GUARDIAN_GHOST"
 	},
