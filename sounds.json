@@ -2447,7 +2447,7 @@
     "identifier": "minecraft:honey_block"
   },
   "block.honey_block.slide": {
-    "playsound_mapping": "step.slime",
+    "playsound_mapping": "step.honey_block",
     "bedrock_mapping": "STEP"
   },
   "block.honey_block.step": {
