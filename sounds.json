@@ -3908,7 +3908,7 @@
     "bedrock_mapping": "DEATH"
   },
   "entity.pig.hurt": {
-    "playsound_mapping": "mob.pig.boost",
+    "playsound_mapping": "mob.pig.say",
     "bedrock_mapping": "HURT"
   },
   "entity.pig.saddle": {
