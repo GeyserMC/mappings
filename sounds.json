@@ -394,7 +394,9 @@
     "playsound_mapping": "block.bamboo_sapling.break",
     "bedrock_mapping": "BREAK_BLOCK"
   },
-  "block.bamboo_sapling.hit": {},
+  "block.bamboo_sapling.hit": {
+    "playsound_mapping": "block.bamboo_sapling.break"
+  },
   "block.bamboo_sapling.place": {
     "playsound_mapping": "block.bamboo_sapling.place",
     "bedrock_mapping": "BLOCK_BAMBOO_SAPLING_PLACE",
@@ -949,14 +951,20 @@
   "block.cherry_sapling.break": {
     "playsound_mapping": "block.bamboo_sapling.break"
   },
-  "block.cherry_sapling.fall": {},
-  "block.cherry_sapling.hit": {},
+  "block.cherry_sapling.fall": {
+    "playsound_mapping": "block.bamboo_sapling.break"
+  },
+  "block.cherry_sapling.hit": {
+    "playsound_mapping": "block.bamboo_sapling.break"
+  },
   "block.cherry_sapling.place": {
     "playsound_mapping": "block.bamboo_sapling.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:cherry_sapling[stage=0]"
   },
-  "block.cherry_sapling.step": {},
+  "block.cherry_sapling.step": {
+    "playsound_mapping": "block.bamboo_sapling.break"
+  },
   "block.cherry_leaves.break": {
     "playsound_mapping": "break.cherry_leaves"
   },
@@ -2691,7 +2699,7 @@
     "bedrock_mapping": "BREAK"
   },
   "entity.item.pickup": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "random.pop",
     "bedrock_mapping": ""
   },
   "block.ladder.break": {
@@ -2766,7 +2774,7 @@
     "bedrock_mapping": "LEASHKNOT_PLACE"
   },
   "block.lever.click": {
-    "playsound_mapping": "random.click",
+    "playsound_mapping": "random.lever_click",
     "bedrock_mapping": "BLOCK_CLICK"
   },
   "entity.lightning_bolt.impact": {
@@ -2921,12 +2929,10 @@
     "identifier": "minecraft:iron_block"
   },
   "block.metal_pressure_plate.click_off": {
-    "playsound_mapping": "click_off.metal_pressure_plate",
-    "bedrock_mapping": "POWER_OFF"
+    "playsound_mapping": "click_off.metal_pressure_plate"
   },
   "block.metal_pressure_plate.click_on": {
-    "playsound_mapping": "click_on.metal_pressure_plate",
-    "bedrock_mapping": "POWER_ON"
+    "playsound_mapping": "click_on.metal_pressure_plate"
   },
   "block.metal.step": {
     "playsound_mapping": "step.stone",
@@ -5043,12 +5049,10 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.stone_button.click_off": {
-    "playsound_mapping": "random.click",
-    "bedrock_mapping": "POWER_OFF"
+    "playsound_mapping": "random.click"
   },
   "block.stone_button.click_on": {
-    "playsound_mapping": "random.click",
-    "bedrock_mapping": "POWER_ON"
+    "playsound_mapping": "random.click"
   },
   "block.stone.fall": {
     "playsound_mapping": "fall.stone",
@@ -5064,12 +5068,10 @@
     "identifier": "minecraft:stone"
   },
   "block.stone_pressure_plate.click_off": {
-    "playsound_mapping": "click_off.stone_pressure_plate",
-    "bedrock_mapping": "POWER_OFF"
+    "playsound_mapping": "click_off.stone_pressure_plate"
   },
   "block.stone_pressure_plate.click_on": {
-    "playsound_mapping": "click_on.stone_pressure_plate",
-    "bedrock_mapping": "POWER_ON"
+    "playsound_mapping": "click_on.stone_pressure_plate"
   },
   "block.stone.step": {
     "playsound_mapping": "step.stone",
@@ -5727,20 +5729,16 @@
     "level_event": true
   },
   "block.wooden_button.click_off": {
-    "playsound_mapping": "random.click",
-    "bedrock_mapping": "POWER_OFF"
+    "playsound_mapping": "random.click"
   },
   "block.wooden_button.click_on": {
-    "playsound_mapping": "random.click",
-    "bedrock_mapping": "POWER_ON"
+    "playsound_mapping": "random.click"
   },
   "block.wooden_pressure_plate.click_off": {
-    "playsound_mapping": "click_off.wooden_pressure_plate",
-    "bedrock_mapping": "POWER_OFF"
+    "playsound_mapping": "click_off.wooden_pressure_plate"
   },
   "block.wooden_pressure_plate.click_on": {
-    "playsound_mapping": "click_on.wooden_pressure_plate",
-    "bedrock_mapping": "POWER_ON"
+    "playsound_mapping": "click_on.wooden_pressure_plate"
   },
   "block.wood.break": {
     "playsound_mapping": "dig.wood",
