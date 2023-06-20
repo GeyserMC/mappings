@@ -5989,7 +5989,7 @@
   },
   "minecraft:piglin_head": {
     "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 0,
+    "bedrock_data": 6,
     "firstBlockRuntimeId": 8947,
     "lastBlockRuntimeId": 8962
   },
