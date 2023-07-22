@@ -1587,8 +1587,8 @@
     "bedrock_mapping": "FLY"
   },
   "block.enchantment_table.use": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "TABLE_USE"
+    "playsound_mapping": "block.enchanting_table.use",
+    "bedrock_mapping": "ENCHANTING_TABLE_USE"
   },
   "block.ender_chest.close": {
     "playsound_mapping": "random.enderchestclosed",
