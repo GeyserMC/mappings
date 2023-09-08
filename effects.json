@@ -23,22 +23,6 @@
     "name": "LAUNCH",
     "type": "soundEvent"
   },
-  "BLOCK_IRON_DOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_DOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_WOODEN_TRAPDOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_FENCE_GATE_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
   "BLOCK_FIRE_EXTINGUISH": {
     "name": "EXTINGUISH_FIRE",
     "type": "soundEvent"
@@ -147,14 +131,6 @@
   "BLOCK_BREWING_STAND_BREW": {
     "name": "POTION_BREWED",
     "type": "soundEvent"
-  },
-  "BLOCK_IRON_TRAPDOOR_CLOSE": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
-  },
-  "BLOCK_IRON_TRAPDOOR_OPEN": {
-    "name": "SOUND_DOOR_OPEN",
-    "type": "soundLevel"
   },
   "BLOCK_END_PORTAL_SPAWN": {
     "name": "BLOCK_END_PORTAL_SPAWN",
