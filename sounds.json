@@ -5020,6 +5020,15 @@
     "playsound_mapping": "random.bow",
     "bedrock_mapping": "THROW"
   },
+  "block.sponge.break": {},
+  "block.sponge.fall": {},
+  "block.sponge.hit": {},
+  "block.sponge.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:sponge"
+  },
+  "block.sponge.step": {},
+  "block.sponge.absorb": {},
   "item.spyglass.use": {
     "playsound_mapping": "item.spyglass.use",
     "bedrock_mapping": ""
@@ -5607,6 +5616,14 @@
     "playsound_mapping": "step.grass",
     "bedrock_mapping": "STEP"
   },
+  "block.wet_sponge.break": {},
+  "block.wet_sponge.fall": {},
+  "block.wet_sponge.hit": {},
+  "block.wet_sponge.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:wet_sponge"
+  },
+  "block.wet_sponge.step": {},
   "entity.witch.ambient": {
     "playsound_mapping": "mob.witch.ambient",
     "bedrock_mapping": "AMBIENT"
