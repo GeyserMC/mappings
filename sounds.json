@@ -94,11 +94,11 @@
     "bedrock_mapping": "AMBIENT_WARPED_FOREST"
   },
   "ambient.underwater.enter": {
-    "playsound_mapping": "",
+    "playsound_mapping": "ambient.underwater.enter",
     "bedrock_mapping": "AMBIENT_IN_WATER"
   },
   "ambient.underwater.exit": {
-    "playsound_mapping": "",
+    "playsound_mapping": "ambient.underwater.exit",
     "bedrock_mapping": "AMBIENT_IN_WATER"
   },
   "ambient.underwater.loop": {
@@ -2418,7 +2418,7 @@
     "bedrock_mapping": ""
   },
   "entity.hoglin.converted_to_zombified": {
-    "playsound_mapping": "mob.hoglin.howl",
+    "playsound_mapping": "mob.hoglin.converted_to_zombified",
     "bedrock_mapping": ""
   },
   "entity.hoglin.death": {
