@@ -662,6 +662,15 @@
     "playsound_mapping": "bottle.dragonbreath",
     "bedrock_mapping": "BOTTLE_DRAGONBREATH"
   },
+  "entity.breeze.inhale": {},
+  "entity.breeze.idle_ground": {},
+  "entity.breeze.idle_air": {},
+  "entity.breeze.shoot": {},
+  "entity.breeze.jump": {},
+  "entity.breeze.land": {},
+  "entity.breeze.slide": {},
+  "entity.breeze.death": {},
+  "entity.breeze.hurt": {},
   "block.brewing_stand.brew": {
     "playsound_mapping": "random.potion.brewed",
     "bedrock_mapping": "POTION_BREWED"
@@ -1161,6 +1170,16 @@
     "playsound_mapping": "conduit.deactivate",
     "bedrock_mapping": "CONDUIT_DEACTIVATE"
   },
+  "block.copper_bulb.break": {},
+  "block.copper_bulb.step": {},
+  "block.copper_bulb.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:copper_bulb[lit=false,powered=false]"
+  },
+  "block.copper_bulb.hit": {},
+  "block.copper_bulb.fall": {},
+  "block.copper_bulb.turn_on": {},
+  "block.copper_bulb.turn_off": {},
   "block.copper.break": {
     "playsound_mapping": "dig.copper",
     "bedrock_mapping": ""
@@ -1182,6 +1201,18 @@
     "playsound_mapping": "fall.copper",
     "bedrock_mapping": ""
   },
+  "block.copper_door.close": {},
+  "block.copper_door.open": {},
+  "block.copper_grate.break": {},
+  "block.copper_grate.step": {},
+  "block.copper_grate.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:copper_grate[waterlogged=false]"
+  },
+  "block.copper_grate.hit": {},
+  "block.copper_grate.fall": {},
+  "block.copper_trapdoor.close": {},
+  "block.copper_trapdoor.open": {},
   "block.coral_block.break": {
     "playsound_mapping": "random.break",
     "bedrock_mapping": "BREAK_BLOCK"
@@ -1223,6 +1254,8 @@
     "playsound_mapping": "mob.cow.step",
     "bedrock_mapping": "STEP"
   },
+  "block.crafter.craft": {},
+  "block.crafter.fail": {},
   "entity.creeper.death": {
     "playsound_mapping": "mob.creeper.death",
     "bedrock_mapping": "DEATH"
@@ -1286,6 +1319,8 @@
   "block.decorated_pot.hit": {
     "playsound_mapping": "step.decorated_pot"
   },
+  "block.decorated_pot.insert": {},
+  "block.decorated_pot.insert_fail": {},
   "block.decorated_pot.step": {
     "playsound_mapping": "step.decorated_pot"
   },
@@ -2401,6 +2436,20 @@
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:bamboo_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
+  "block.trial_spawner.break": {},
+  "block.trial_spawner.step": {},
+  "block.trial_spawner.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:trial_spawner[trial_spawner_state=inactive]"
+  },
+  "block.trial_spawner.hit": {},
+  "block.trial_spawner.fall": {},
+  "block.trial_spawner.spawn_mob": {},
+  "block.trial_spawner.detect_player": {},
+  "block.trial_spawner.ambient": {},
+  "block.trial_spawner.open_shutter": {},
+  "block.trial_spawner.close_shutter": {},
+  "block.trial_spawner.eject_item": {},
   "item.hoe.till": {
     "playsound_mapping": "",
     "bedrock_mapping": "STEP"
@@ -3749,6 +3798,7 @@
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_BLAZE"
   },
+  "entity.parrot.imitate.breeze": {},
   "entity.parrot.imitate.creeper": {
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_CREEPER"
@@ -4093,6 +4143,7 @@
     "playsound_mapping": "random.swim",
     "bedrock_mapping": "SWIM"
   },
+  "entity.player.teleport": {},
   "entity.polar_bear.ambient": {
     "playsound_mapping": "mob.polarbear.idle",
     "bedrock_mapping": "AMBIENT"
@@ -5231,6 +5282,22 @@
     "playsound_mapping": "fall.tuff",
     "bedrock_mapping": ""
   },
+  "block.tuff_bricks.break": {},
+  "block.tuff_bricks.fall": {},
+  "block.tuff_bricks.hit": {},
+  "block.tuff_bricks.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:tuff_bricks"
+  },
+  "block.tuff_bricks.step": {},
+  "block.polished_tuff.break": {},
+  "block.polished_tuff.fall": {},
+  "block.polished_tuff.hit": {},
+  "block.polished_tuff.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:polished_tuff"
+  },
+  "block.polished_tuff.step": {},
   "entity.turtle.ambient_land": {
     "playsound_mapping": "mob.turtle.ambient",
     "bedrock_mapping": "AMBIENT"
@@ -5580,6 +5647,7 @@
     "playsound_mapping": "mob.warden.clicking",
     "bedrock_mapping": ""
   },
+  "block.hanging_sign.waxed_interact_fail": {},
   "block.sign.waxed_interact_fail": {
     "playsound_mapping": "block.sign.waxed_interact_fail"
   },
@@ -5624,6 +5692,7 @@
     "identifier": "minecraft:wet_sponge"
   },
   "block.wet_sponge.step": {},
+  "entity.generic.wind_burst": {},
   "entity.witch.ambient": {
     "playsound_mapping": "mob.witch.ambient",
     "bedrock_mapping": "AMBIENT"
