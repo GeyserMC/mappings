@@ -5647,7 +5647,9 @@
     "playsound_mapping": "mob.warden.clicking",
     "bedrock_mapping": ""
   },
-  "block.hanging_sign.waxed_interact_fail": {},
+  "block.hanging_sign.waxed_interact_fail": {
+    "playsound_mapping": "block.sign.waxed_interact_fail"
+  },
   "block.sign.waxed_interact_fail": {
     "playsound_mapping": "block.sign.waxed_interact_fail"
   },
