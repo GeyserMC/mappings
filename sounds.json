@@ -95,11 +95,11 @@
   },
   "ambient.underwater.enter": {
     "playsound_mapping": "ambient.underwater.enter",
-    "bedrock_mapping": "AMBIENT_IN_WATER"
+    "bedrock_mapping": "AMBIENT_UNDERWATER_ENTER"
   },
   "ambient.underwater.exit": {
     "playsound_mapping": "ambient.underwater.exit",
-    "bedrock_mapping": "AMBIENT_IN_WATER"
+    "bedrock_mapping": "AMBIENT_UNDERWATER_EXIT"
   },
   "ambient.underwater.loop": {
     "playsound_mapping": "",
@@ -652,11 +652,11 @@
   },
   "item.bottle.empty": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BOTTLE_EMPTY"
   },
   "item.bottle.fill": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "BOTTLE_FILL"
   },
   "item.bottle.fill_dragonbreath": {
     "playsound_mapping": "bottle.dragonbreath",
@@ -1178,8 +1178,14 @@
   },
   "block.copper_bulb.hit": {},
   "block.copper_bulb.fall": {},
-  "block.copper_bulb.turn_on": {},
-  "block.copper_bulb.turn_off": {},
+  "block.copper_bulb.turn_on": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "COPPER_BULB_ON"
+  },
+  "block.copper_bulb.turn_off": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "COPPER_BULB_OFF"
+  },
   "block.copper.break": {
     "playsound_mapping": "dig.copper",
     "bedrock_mapping": ""
@@ -1254,8 +1260,14 @@
     "playsound_mapping": "mob.cow.step",
     "bedrock_mapping": "STEP"
   },
-  "block.crafter.craft": {},
-  "block.crafter.fail": {},
+  "block.crafter.craft": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "CRAFTER_CRAFT"
+  },
+  "block.crafter.fail": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "CRAFTER_FAILED"
+  },
   "entity.creeper.death": {
     "playsound_mapping": "mob.creeper.death",
     "bedrock_mapping": "DEATH"
@@ -1319,8 +1331,14 @@
   "block.decorated_pot.hit": {
     "playsound_mapping": "step.decorated_pot"
   },
-  "block.decorated_pot.insert": {},
-  "block.decorated_pot.insert_fail": {},
+  "block.decorated_pot.insert": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "DECORATED_POT_INSERT"
+  },
+  "block.decorated_pot.insert_fail": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "DECORATED_POT_INSERT_FAILED"
+  },
   "block.decorated_pot.step": {
     "playsound_mapping": "step.decorated_pot"
   },
@@ -2468,7 +2486,7 @@
   },
   "entity.hoglin.converted_to_zombified": {
     "playsound_mapping": "mob.hoglin.converted_to_zombified",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "HOGLIN_CONVERT_TO_ZOMBIE"
   },
   "entity.hoglin.death": {
     "playsound_mapping": "mob.hoglin.death",
@@ -2632,8 +2650,8 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.husk.converted_to_zombie": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.husk.convert_to_zombie",
+    "bedrock_mapping": "CONVERT_HUSK_TO_ZOMBIE"
   },
   "entity.husk.death": {
     "playsound_mapping": "mob.husk.death",
@@ -3961,7 +3979,7 @@
   },
   "entity.pig.death": {
     "playsound_mapping": "mob.pig.death",
-    "bedrock_mapping": "DEATH"
+    "bedrock_mapping": "PIG_DEATH"
   },
   "entity.pig.hurt": {
     "playsound_mapping": "mob.pig.say",
@@ -4251,8 +4269,8 @@
     "bedrock_mapping": ""
   },
   "block.pumpkin.carve": {
-    "playsound_mapping": "mob.sheep.shear",
-    "bedrock_mapping": ""
+    "playsound_mapping": "pumpkin.carve",
+    "bedrock_mapping": "PUMPKIN_CARVE"
   },
   "entity.rabbit.ambient": {
     "playsound_mapping": "mob.rabbit.idle",
