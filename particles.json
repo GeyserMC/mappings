@@ -34,6 +34,7 @@
 		"bedrockId": "minecraft:campfire_tall_smoke_particle"
 	},
 	"CHERRY_LEAVES": {
+		"eventType": "CHERRY_LEAVES",
 		"bedrockId": "minecraft:cherry_leaves_particle"
 	},
 	"CLOUD": {
@@ -92,6 +93,9 @@
 	},
 	"DUST_COLOR_TRANSITION": {
 		"eventType": "RED_DUST"
+	},
+	"DUST_PLUME": {
+		"eventType": "DUST_PLUME"
 	},
 	"EFFECT": {
 		"bedrockId": "minecraft:splash_spell_emitter"
@@ -179,6 +183,9 @@
 	"GLOW_SQUID_INK": {
 		"eventType": "INK"
 	},
+	"GUST": {},
+	"GUST_DUST": {},
+	"GUST_EMITTER": {},
 	"HAPPY_VILLAGER": {
 		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
@@ -303,6 +310,7 @@
 		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
+	"TRIAL_SPAWNER_DETECTION": {},
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
 	},
@@ -320,6 +328,9 @@
 	},
 	"WHITE_ASH": {
 		"bedrockId": "geyseropt:white_ash"
+	},
+	"WHITE_SMOKE": {
+		"eventType": "WHITE_SMOKE"
 	},
 	"WITCH": {
 		"eventType": "WITCH_SPELL"
