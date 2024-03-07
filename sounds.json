@@ -879,7 +879,7 @@
     "bedrock_mapping": ""
   },
   "entity.cat.beg_for_food": {
-    "playsound_mapping": "mob.cat.beg",
+    "playsound_mapping": "mob.cat.beg_for_food",
     "bedrock_mapping": ""
   },
   "entity.cat.hurt": {
@@ -1332,11 +1332,11 @@
     "playsound_mapping": "step.decorated_pot"
   },
   "block.decorated_pot.insert": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.decorated_pot.insert",
     "bedrock_mapping": "DECORATED_POT_INSERT"
   },
   "block.decorated_pot.insert_fail": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.decorated_pot.insert_fail",
     "bedrock_mapping": "DECORATED_POT_INSERT_FAILED"
   },
   "block.decorated_pot.step": {
@@ -2111,7 +2111,7 @@
     "bedrock_mapping": "FALL_SMALL"
   },
   "entity.generic.splash": {
-    "playsound_mapping": "random.splash",
+    "playsound_mapping": "entity.generic.splash",
     "bedrock_mapping": "SPLASH"
   },
   "entity.generic.swim": {
@@ -5759,19 +5759,19 @@
     "bedrock_mapping": "SHOOT"
   },
   "entity.wither_skeleton.ambient": {
-    "playsound_mapping": "mob.skeleton.say",
+    "playsound_mapping": "entity.wither_skeleton.ambient",
     "bedrock_mapping": "AMBIENT"
   },
   "entity.wither_skeleton.death": {
-    "playsound_mapping": "mob.skeleton.death",
+    "playsound_mapping": "entity.wither_skeleton.death",
     "bedrock_mapping": "DEATH"
   },
   "entity.wither_skeleton.hurt": {
-    "playsound_mapping": "mob.skeleton.hurt",
+    "playsound_mapping": "entity.wither_skeleton.hurt",
     "bedrock_mapping": "HURT"
   },
   "entity.wither_skeleton.step": {
-    "playsound_mapping": "mob.skeleton.step",
+    "playsound_mapping": "entity.wither_skeleton.step",
     "bedrock_mapping": "STEP"
   },
   "entity.wither.spawn": {
