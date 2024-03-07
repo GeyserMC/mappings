@@ -7252,7 +7252,7 @@
     "lastBlockRuntimeId": 24723
   },
   "minecraft:trial_spawner": {
-    "bedrock_identifier": "minecraft:mob_spawner",
+    "bedrock_identifier": "minecraft:trial_spawner",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 26638,
     "lastBlockRuntimeId": 26643
