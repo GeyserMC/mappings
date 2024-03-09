@@ -7258,7 +7258,7 @@
     "lastBlockRuntimeId": 26643
   },
   "minecraft:trial_key": {
-    "bedrock_identifier": "minecraft:echo_shard",
+    "bedrock_identifier": "minecraft:trial_key",
     "bedrock_data": 0
   }
 }
