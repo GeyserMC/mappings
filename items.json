@@ -144,7 +144,7 @@
     "firstBlockRuntimeId": 24768
   },
   "minecraft:grass_block": {
-    "bedrock_identifier": "minecraft:grass",
+    "bedrock_identifier": "minecraft:grass_block",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 8,
     "lastBlockRuntimeId": 9
