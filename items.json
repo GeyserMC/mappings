@@ -144,7 +144,7 @@
     "firstBlockRuntimeId": 24768
   },
   "minecraft:grass_block": {
-    "bedrock_identifier": "minecraft:grass",
+    "bedrock_identifier": "minecraft:grass_block",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 8,
     "lastBlockRuntimeId": 9
@@ -832,31 +832,31 @@
     "lastBlockRuntimeId": 18584
   },
   "minecraft:stripped_oak_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_oak_wood",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 213,
     "lastBlockRuntimeId": 215
   },
   "minecraft:stripped_spruce_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_spruce_wood",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 216,
     "lastBlockRuntimeId": 218
   },
   "minecraft:stripped_birch_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_birch_wood",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 219,
     "lastBlockRuntimeId": 221
   },
   "minecraft:stripped_jungle_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_jungle_wood",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 222,
     "lastBlockRuntimeId": 224
   },
   "minecraft:stripped_acacia_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_acacia_wood",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 225,
     "lastBlockRuntimeId": 227
@@ -868,7 +868,7 @@
     "lastBlockRuntimeId": 230
   },
   "minecraft:stripped_dark_oak_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:stripped_dark_oak_wood",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 231,
     "lastBlockRuntimeId": 233
@@ -898,31 +898,31 @@
     "lastBlockRuntimeId": 188
   },
   "minecraft:oak_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:oak_wood",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 189,
     "lastBlockRuntimeId": 191
   },
   "minecraft:spruce_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:spruce_wood",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 192,
     "lastBlockRuntimeId": 194
   },
   "minecraft:birch_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:birch_wood",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 195,
     "lastBlockRuntimeId": 197
   },
   "minecraft:jungle_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:jungle_wood",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 198,
     "lastBlockRuntimeId": 200
   },
   "minecraft:acacia_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:acacia_wood",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 201,
     "lastBlockRuntimeId": 203
@@ -934,7 +934,7 @@
     "lastBlockRuntimeId": 206
   },
   "minecraft:dark_oak_wood": {
-    "bedrock_identifier": "minecraft:wood",
+    "bedrock_identifier": "minecraft:dark_oak_wood",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 207,
     "lastBlockRuntimeId": 209
@@ -958,31 +958,31 @@
     "lastBlockRuntimeId": 18587
   },
   "minecraft:oak_leaves": {
-    "bedrock_identifier": "minecraft:leaves",
+    "bedrock_identifier": "minecraft:oak_leaves",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 237,
     "lastBlockRuntimeId": 264
   },
   "minecraft:spruce_leaves": {
-    "bedrock_identifier": "minecraft:leaves",
+    "bedrock_identifier": "minecraft:spruce_leaves",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 265,
     "lastBlockRuntimeId": 292
   },
   "minecraft:birch_leaves": {
-    "bedrock_identifier": "minecraft:leaves",
+    "bedrock_identifier": "minecraft:birch_leaves",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 293,
     "lastBlockRuntimeId": 320
   },
   "minecraft:jungle_leaves": {
-    "bedrock_identifier": "minecraft:leaves",
+    "bedrock_identifier": "minecraft:jungle_leaves",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 321,
     "lastBlockRuntimeId": 348
   },
   "minecraft:acacia_leaves": {
-    "bedrock_identifier": "minecraft:leaves2",
+    "bedrock_identifier": "minecraft:acacia_leaves",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 349,
     "lastBlockRuntimeId": 376
@@ -994,7 +994,7 @@
     "lastBlockRuntimeId": 404
   },
   "minecraft:dark_oak_leaves": {
-    "bedrock_identifier": "minecraft:leaves2",
+    "bedrock_identifier": "minecraft:dark_oak_leaves",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 405,
     "lastBlockRuntimeId": 432
@@ -4428,7 +4428,7 @@
     ]
   },
   "minecraft:scute": {
-    "bedrock_identifier": "minecraft:scute",
+    "bedrock_identifier": "minecraft:turtle_scute",
     "bedrock_data": 0
   },
   "minecraft:flint_and_steel": {
@@ -7252,13 +7252,13 @@
     "lastBlockRuntimeId": 24723
   },
   "minecraft:trial_spawner": {
-    "bedrock_identifier": "minecraft:mob_spawner",
+    "bedrock_identifier": "minecraft:trial_spawner",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 26638,
     "lastBlockRuntimeId": 26643
   },
   "minecraft:trial_key": {
-    "bedrock_identifier": "minecraft:echo_shard",
+    "bedrock_identifier": "minecraft:trial_key",
     "bedrock_data": 0
   }
 }
