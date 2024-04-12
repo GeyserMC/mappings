@@ -1184,58 +1184,58 @@
     "firstBlockRuntimeId": 2075
   },
   "minecraft:poppy": {
-    "bedrock_identifier": "minecraft:red_flower",
+    "bedrock_identifier": "minecraft:poppy",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2077
   },
   "minecraft:blue_orchid": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:blue_orchid",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2078
   },
   "minecraft:allium": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:allium",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2079
   },
   "minecraft:azure_bluet": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:azure_bluet",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2080
   },
   "minecraft:red_tulip": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:red_tulip",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2081
   },
   "minecraft:orange_tulip": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:orange_tulip",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2082
   },
   "minecraft:white_tulip": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:white_tulip",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2083
   },
   "minecraft:pink_tulip": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 7,
+    "bedrock_identifier": "minecraft:pink_tulip",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2084
   },
   "minecraft:oxeye_daisy": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 8,
+    "bedrock_identifier": "minecraft:oxeye_daisy",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2085
   },
   "minecraft:cornflower": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 9,
+    "bedrock_identifier": "minecraft:cornflower",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2086
   },
   "minecraft:lily_of_the_valley": {
-    "bedrock_identifier": "minecraft:red_flower",
-    "bedrock_data": 10,
+    "bedrock_identifier": "minecraft:lily_of_the_valley",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2088
   },
   "minecraft:wither_rose": {
@@ -3341,62 +3341,62 @@
     "lastBlockRuntimeId": 12814
   },
   "minecraft:tube_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan",
+    "bedrock_identifier": "minecraft:tube_coral_fan",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12843,
     "lastBlockRuntimeId": 12844
   },
   "minecraft:brain_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:brain_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12845,
     "lastBlockRuntimeId": 12846
   },
   "minecraft:bubble_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:bubble_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12847,
     "lastBlockRuntimeId": 12848
   },
   "minecraft:fire_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:fire_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12849,
     "lastBlockRuntimeId": 12850
   },
   "minecraft:horn_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:horn_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12851,
     "lastBlockRuntimeId": 12852
   },
   "minecraft:dead_tube_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan_dead",
+    "bedrock_identifier": "minecraft:dead_tube_coral_fan",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12833,
     "lastBlockRuntimeId": 12834
   },
   "minecraft:dead_brain_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan_dead",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:dead_brain_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12835,
     "lastBlockRuntimeId": 12836
   },
   "minecraft:dead_bubble_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan_dead",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:dead_bubble_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12837,
     "lastBlockRuntimeId": 12838
   },
   "minecraft:dead_fire_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan_dead",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:dead_fire_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12839,
     "lastBlockRuntimeId": 12840
   },
   "minecraft:dead_horn_coral_fan": {
-    "bedrock_identifier": "minecraft:coral_fan_dead",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:dead_horn_coral_fan",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12841,
     "lastBlockRuntimeId": 12842
   },
