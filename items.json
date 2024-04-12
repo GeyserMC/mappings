@@ -251,32 +251,32 @@
     "firstBlockRuntimeId": 24
   },
   "minecraft:oak_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
+    "bedrock_identifier": "minecraft:oak_sapling",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 25,
     "lastBlockRuntimeId": 26
   },
   "minecraft:spruce_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:spruce_sapling",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 27,
     "lastBlockRuntimeId": 28
   },
   "minecraft:birch_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:birch_sapling",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 29,
     "lastBlockRuntimeId": 30
   },
   "minecraft:jungle_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:jungle_sapling",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 31,
     "lastBlockRuntimeId": 32
   },
   "minecraft:acacia_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:acacia_sapling",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 33,
     "lastBlockRuntimeId": 34
   },
@@ -287,8 +287,8 @@
     "lastBlockRuntimeId": 36
   },
   "minecraft:dark_oak_sapling": {
-    "bedrock_identifier": "minecraft:sapling",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:dark_oak_sapling",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 37,
     "lastBlockRuntimeId": 38
   },
