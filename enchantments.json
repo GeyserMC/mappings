@@ -1,6 +1,6 @@
 {
   "minecraft:fire_protection": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 4,
     "incompatible_enchantments": [
       "minecraft:protection",
@@ -36,7 +36,7 @@
     ]
   },
   "minecraft:knockback": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 2,
     "valid_items": [
       "minecraft:wooden_sword",
@@ -48,7 +48,7 @@
     ]
   },
   "minecraft:mending": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 1,
     "incompatible_enchantments": [
       "minecraft:infinity"
@@ -123,14 +123,14 @@
     ]
   },
   "minecraft:power": {
-    "rarity": "common",
+    "anvil_cost": 1,
     "max_level": 5,
     "valid_items": [
       "minecraft:bow"
     ]
   },
   "minecraft:luck_of_the_sea": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:silk_touch"
@@ -140,7 +140,7 @@
     ]
   },
   "minecraft:thorns": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 3,
     "valid_items": [
       "minecraft:turtle_helmet",
@@ -170,20 +170,8 @@
       "minecraft:netherite_boots"
     ]
   },
-  "minecraft:sweeping": {
-    "rarity": "rare",
-    "max_level": 3,
-    "valid_items": [
-      "minecraft:wooden_sword",
-      "minecraft:stone_sword",
-      "minecraft:golden_sword",
-      "minecraft:iron_sword",
-      "minecraft:diamond_sword",
-      "minecraft:netherite_sword"
-    ]
-  },
   "minecraft:feather_falling": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 4,
     "valid_items": [
       "minecraft:leather_boots",
@@ -195,14 +183,14 @@
     ]
   },
   "minecraft:flame": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 1,
     "valid_items": [
       "minecraft:bow"
     ]
   },
   "minecraft:binding_curse": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 1,
     "valid_items": [
       "minecraft:carved_pumpkin",
@@ -242,7 +230,7 @@
     ]
   },
   "minecraft:aqua_affinity": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 1,
     "valid_items": [
       "minecraft:turtle_helmet",
@@ -254,8 +242,20 @@
       "minecraft:netherite_helmet"
     ]
   },
+  "minecraft:sweeping_edge": {
+    "anvil_cost": 4,
+    "max_level": 3,
+    "valid_items": [
+      "minecraft:wooden_sword",
+      "minecraft:stone_sword",
+      "minecraft:golden_sword",
+      "minecraft:iron_sword",
+      "minecraft:diamond_sword",
+      "minecraft:netherite_sword"
+    ]
+  },
   "minecraft:projectile_protection": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 4,
     "incompatible_enchantments": [
       "minecraft:protection",
@@ -290,12 +290,18 @@
       "minecraft:netherite_boots"
     ]
   },
+  "minecraft:wind_burst": {
+    "anvil_cost": 4,
+    "max_level": 3,
+    "valid_items": []
+  },
   "minecraft:smite": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 5,
     "incompatible_enchantments": [
       "minecraft:sharpness",
-      "minecraft:bane_of_arthropods"
+      "minecraft:bane_of_arthropods",
+      "minecraft:impaling"
     ],
     "valid_items": [
       "minecraft:wooden_sword",
@@ -313,7 +319,7 @@
     ]
   },
   "minecraft:frost_walker": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 2,
     "incompatible_enchantments": [
       "minecraft:depth_strider"
@@ -328,7 +334,7 @@
     ]
   },
   "minecraft:vanishing_curse": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 1,
     "valid_items": [
       "minecraft:carved_pumpkin",
@@ -409,14 +415,14 @@
     ]
   },
   "minecraft:punch": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 2,
     "valid_items": [
       "minecraft:bow"
     ]
   },
   "minecraft:blast_protection": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 4,
     "incompatible_enchantments": [
       "minecraft:protection",
@@ -452,18 +458,24 @@
     ]
   },
   "minecraft:impaling": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 5,
+    "incompatible_enchantments": [
+      "minecraft:sharpness",
+      "minecraft:smite",
+      "minecraft:bane_of_arthropods"
+    ],
     "valid_items": [
       "minecraft:trident"
     ]
   },
   "minecraft:bane_of_arthropods": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 5,
     "incompatible_enchantments": [
       "minecraft:sharpness",
-      "minecraft:smite"
+      "minecraft:smite",
+      "minecraft:impaling"
     ],
     "valid_items": [
       "minecraft:wooden_sword",
@@ -481,11 +493,12 @@
     ]
   },
   "minecraft:sharpness": {
-    "rarity": "common",
+    "anvil_cost": 1,
     "max_level": 5,
     "incompatible_enchantments": [
       "minecraft:smite",
-      "minecraft:bane_of_arthropods"
+      "minecraft:bane_of_arthropods",
+      "minecraft:impaling"
     ],
     "valid_items": [
       "minecraft:wooden_sword",
@@ -503,7 +516,7 @@
     ]
   },
   "minecraft:efficiency": {
-    "rarity": "common",
+    "anvil_cost": 1,
     "max_level": 5,
     "valid_items": [
       "minecraft:wooden_shovel",
@@ -533,8 +546,13 @@
       "minecraft:shears"
     ]
   },
+  "minecraft:breach": {
+    "anvil_cost": 4,
+    "max_level": 4,
+    "valid_items": []
+  },
   "minecraft:silk_touch": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 1,
     "incompatible_enchantments": [
       "minecraft:looting",
@@ -569,7 +587,7 @@
     ]
   },
   "minecraft:looting": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:silk_touch"
@@ -584,14 +602,14 @@
     ]
   },
   "minecraft:lure": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "valid_items": [
       "minecraft:fishing_rod"
     ]
   },
   "minecraft:depth_strider": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:frost_walker"
@@ -606,7 +624,7 @@
     ]
   },
   "minecraft:soul_speed": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 3,
     "valid_items": [
       "minecraft:leather_boots",
@@ -618,7 +636,7 @@
     ]
   },
   "minecraft:respiration": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "valid_items": [
       "minecraft:turtle_helmet",
@@ -631,7 +649,7 @@
     ]
   },
   "minecraft:fire_aspect": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 2,
     "valid_items": [
       "minecraft:wooden_sword",
@@ -643,7 +661,7 @@
     ]
   },
   "minecraft:piercing": {
-    "rarity": "common",
+    "anvil_cost": 1,
     "max_level": 4,
     "incompatible_enchantments": [
       "minecraft:multishot"
@@ -652,8 +670,13 @@
       "minecraft:crossbow"
     ]
   },
+  "minecraft:density": {
+    "anvil_cost": 1,
+    "max_level": 5,
+    "valid_items": []
+  },
   "minecraft:swift_sneak": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 3,
     "valid_items": [
       "minecraft:leather_leggings",
@@ -665,7 +688,7 @@
     ]
   },
   "minecraft:loyalty": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:riptide"
@@ -675,7 +698,7 @@
     ]
   },
   "minecraft:unbreaking": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 3,
     "valid_items": [
       "minecraft:carrot_on_a_stick",
@@ -747,7 +770,7 @@
     ]
   },
   "minecraft:riptide": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:loyalty",
@@ -758,14 +781,14 @@
     ]
   },
   "minecraft:quick_charge": {
-    "rarity": "uncommon",
+    "anvil_cost": 2,
     "max_level": 3,
     "valid_items": [
       "minecraft:crossbow"
     ]
   },
   "minecraft:protection": {
-    "rarity": "common",
+    "anvil_cost": 1,
     "max_level": 4,
     "incompatible_enchantments": [
       "minecraft:fire_protection",
@@ -801,7 +824,7 @@
     ]
   },
   "minecraft:infinity": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 1,
     "incompatible_enchantments": [
       "minecraft:mending"
@@ -811,7 +834,7 @@
     ]
   },
   "minecraft:fortune": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 3,
     "incompatible_enchantments": [
       "minecraft:silk_touch"
@@ -844,7 +867,7 @@
     ]
   },
   "minecraft:multishot": {
-    "rarity": "rare",
+    "anvil_cost": 4,
     "max_level": 1,
     "incompatible_enchantments": [
       "minecraft:piercing"
@@ -854,7 +877,7 @@
     ]
   },
   "minecraft:channeling": {
-    "rarity": "very_rare",
+    "anvil_cost": 8,
     "max_level": 1,
     "incompatible_enchantments": [
       "minecraft:riptide"

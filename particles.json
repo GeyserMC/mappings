@@ -1,8 +1,4 @@
 {
-	"AMBIENT_ENTITY_EFFECT": {
-		"eventType": "MOB_SPELL_AMBIENT",
-		"bedrockId": "minecraft:mobspell_emitter"
-	},
 	"ANGRY_VILLAGER": {
 		"eventType": "VILLAGER_ANGRY",
 		"bedrockId": "minecraft:villager_angry"
@@ -94,6 +90,7 @@
 	"DUST_COLOR_TRANSITION": {
 		"eventType": "RED_DUST"
 	},
+	"DUST_PILLAR": {},
 	"DUST_PLUME": {
 		"eventType": "DUST_PLUME"
 	},
@@ -184,8 +181,8 @@
 		"eventType": "INK"
 	},
 	"GUST": {},
-	"GUST_DUST": {},
-	"GUST_EMITTER": {},
+	"GUST_EMITTER_LARGE": {},
+	"GUST_EMITTER_SMALL": {},
 	"HAPPY_VILLAGER": {
 		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
@@ -194,6 +191,7 @@
 		"eventType": "HEART",
 		"bedrockId": "minecraft:heart_particle"
 	},
+	"INFESTED": {},
 	"INSTANT_EFFECT": {
 		"eventType": "MOB_SPELL_INSTANTANEOUS",
 		"bedrockId": "minecraft:mobspell_emitter"
@@ -202,6 +200,7 @@
 		"eventType": "ICON_CRACK",
 		"bedrockId": "minecraft:breaking_item_icon"
 	},
+	"ITEM_COBWEB": {},
 	"ITEM_SLIME": {
 		"eventType": "SLIME"
 	},
@@ -235,6 +234,7 @@
 		"eventType": "NOTE",
 		"bedrockId": "minecraft:note_particle"
 	},
+	"OMINOUS_SPAWNING": {},
 	"POOF": {
 		"eventType": "EXPLODE",
 		"bedrockId": "minecraft:explosion_manual"
@@ -243,6 +243,7 @@
 		"eventType": "PORTAL",
 		"bedrockId": "minecraft:mob_portal"
 	},
+	"RAID_OMEN": {},
 	"RAIN": {
 		"eventType": "RAIN_SPLASH"
 	},
@@ -269,6 +270,7 @@
 	"SMALL_FLAME": {
 		"bedrockId": "minecraft:candle_flame_particle"
 	},
+	"SMALL_GUST": {},
 	"SMOKE": {
 		"eventType": "SMOKE"
 	},
@@ -310,9 +312,14 @@
 		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
+	"TRIAL_OMEN": {},
 	"TRIAL_SPAWNER_DETECTION": {},
+	"TRIAL_SPAWNER_DETECTION_OMINOUS": {},
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
+	},
+	"VAULT_CONNECTION": {
+		"eventType": "VAULT_CONNECTION"
 	},
 	"VIBRATION": {
 		"eventType": "VIBRATION_SIGNAL"

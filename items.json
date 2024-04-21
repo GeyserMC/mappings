@@ -447,6 +447,12 @@
     "bedrock_data": 0,
     "firstBlockRuntimeId": 26560
   },
+  "minecraft:heavy_core": {
+    "bedrock_identifier": "minecraft:heavy_core",
+    "bedrock_data": 0,
+    "firstBlockRuntimeId": 26682,
+    "lastBlockRuntimeId": 26683
+  },
   "minecraft:amethyst_block": {
     "bedrock_identifier": "minecraft:amethyst_block",
     "bedrock_data": 0,
@@ -4424,12 +4430,24 @@
     "armor_type": "helmet",
     "protection_value": 2,
     "repair_materials": [
-      "minecraft:scute"
+      "minecraft:turtle_scute"
     ]
   },
-  "minecraft:scute": {
+  "minecraft:turtle_scute": {
     "bedrock_identifier": "minecraft:turtle_scute",
     "bedrock_data": 0
+  },
+  "minecraft:armadillo_scute": {
+    "bedrock_identifier": "minecraft:armadillo_scute",
+    "bedrock_data": 0
+  },
+  "minecraft:wolf_armor": {
+    "bedrock_identifier": "minecraft:wolf_armor",
+    "bedrock_data": 0,
+    "protection_value": 11,
+    "repair_materials": [
+      "minecraft:armadillo_scute"
+    ]
   },
   "minecraft:flint_and_steel": {
     "bedrock_identifier": "minecraft:flint_and_steel",
@@ -5721,6 +5739,11 @@
     "bedrock_identifier": "minecraft:glistering_melon_slice",
     "bedrock_data": 0
   },
+  "minecraft:armadillo_spawn_egg": {
+    "bedrock_identifier": "minecraft:armadillo_spawn_egg",
+    "bedrock_data": 0,
+    "is_entity_placer": true
+  },
   "minecraft:allay_spawn_egg": {
     "bedrock_identifier": "minecraft:allay_spawn_egg",
     "bedrock_data": 0,
@@ -5743,6 +5766,11 @@
   },
   "minecraft:blaze_spawn_egg": {
     "bedrock_identifier": "minecraft:blaze_spawn_egg",
+    "bedrock_data": 0,
+    "is_entity_placer": true
+  },
+  "minecraft:bogged_spawn_egg": {
+    "bedrock_identifier": "minecraft:bogged_spawn_egg",
     "bedrock_data": 0,
     "is_entity_placer": true
   },
@@ -6119,12 +6147,20 @@
     "bedrock_identifier": "minecraft:fire_charge",
     "bedrock_data": 0
   },
+  "minecraft:wind_charge": {
+    "bedrock_identifier": "minecraft:wind_charge",
+    "bedrock_data": 0
+  },
   "minecraft:writable_book": {
     "bedrock_identifier": "minecraft:writable_book",
     "bedrock_data": 0
   },
   "minecraft:written_book": {
     "bedrock_identifier": "minecraft:written_book",
+    "bedrock_data": 0
+  },
+  "minecraft:mace": {
+    "bedrock_identifier": "minecraft:mace",
     "bedrock_data": 0
   },
   "minecraft:item_frame": {
@@ -6632,6 +6668,14 @@
     "bedrock_identifier": "minecraft:piglin_banner_pattern",
     "bedrock_data": 0
   },
+  "minecraft:flow_banner_pattern": {
+    "bedrock_identifier": "minecraft:flow_banner_pattern",
+    "bedrock_data": 0
+  },
+  "minecraft:guster_banner_pattern": {
+    "bedrock_identifier": "minecraft:guster_banner_pattern",
+    "bedrock_data": 0
+  },
   "minecraft:goat_horn": {
     "bedrock_identifier": "minecraft:goat_horn",
     "bedrock_data": 0
@@ -7075,6 +7119,14 @@
     "bedrock_identifier": "minecraft:host_armor_trim_smithing_template",
     "bedrock_data": 0
   },
+  "minecraft:flow_armor_trim_smithing_template": {
+    "bedrock_identifier": "minecraft:flow_armor_trim_smithing_template",
+    "bedrock_data": 0
+  },
+  "minecraft:bolt_armor_trim_smithing_template": {
+    "bedrock_identifier": "minecraft:bolt_armor_trim_smithing_template",
+    "bedrock_data": 0
+  },
   "minecraft:angler_pottery_sherd": {
     "bedrock_identifier": "minecraft:angler_pottery_sherd",
     "bedrock_data": 0
@@ -7107,8 +7159,16 @@
     "bedrock_identifier": "minecraft:explorer_pottery_sherd",
     "bedrock_data": 0
   },
+  "minecraft:flow_pottery_sherd": {
+    "bedrock_identifier": "minecraft:flow_pottery_sherd",
+    "bedrock_data": 0
+  },
   "minecraft:friend_pottery_sherd": {
     "bedrock_identifier": "minecraft:friend_pottery_sherd",
+    "bedrock_data": 0
+  },
+  "minecraft:guster_pottery_sherd": {
+    "bedrock_identifier": "minecraft:guster_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:heart_pottery_sherd": {
@@ -7137,6 +7197,10 @@
   },
   "minecraft:prize_pottery_sherd": {
     "bedrock_identifier": "minecraft:prize_pottery_sherd",
+    "bedrock_data": 0
+  },
+  "minecraft:scrape_pottery_sherd": {
+    "bedrock_identifier": "minecraft:scrape_pottery_sherd",
     "bedrock_data": 0
   },
   "minecraft:sheaf_pottery_sherd": {
@@ -7255,10 +7319,29 @@
     "bedrock_identifier": "minecraft:trial_spawner",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 26638,
-    "lastBlockRuntimeId": 26643
+    "lastBlockRuntimeId": 26649
   },
   "minecraft:trial_key": {
     "bedrock_identifier": "minecraft:trial_key",
+    "bedrock_data": 0
+  },
+  "minecraft:ominous_trial_key": {
+    "bedrock_identifier": "minecraft:trial_key",
+    "bedrock_data": 0
+  },
+  "minecraft:vault": {
+    "bedrock_identifier": "minecraft:vault",
+    "bedrock_data": 0,
+    "firstBlockRuntimeId": 26650,
+    "lastBlockRuntimeId": 26681
+  },
+  "minecraft:ominous_bottle": {
+    "bedrock_identifier": "minecraft:glass_bottle",
+    "bedrock_data": 0,
+    "is_edible": true
+  },
+  "minecraft:breeze_rod": {
+    "bedrock_identifier": "minecraft:breeze_rod",
     "bedrock_data": 0
   }
 }
