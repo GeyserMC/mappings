@@ -1295,20 +1295,29 @@
     "playsound_mapping": "conduit.deactivate",
     "bedrock_mapping": "CONDUIT_DEACTIVATE"
   },
-  "block.copper_bulb.break": {},
-  "block.copper_bulb.step": {},
+  "block.copper_bulb.break": {
+    "playsound_mapping": "break.copper_bulb"
+  },
+  "block.copper_bulb.step": {
+    "playsound_mapping": "step.copper_bulb"
+  },
   "block.copper_bulb.place": {
+    "playsound_mapping": "place.copper_bulb",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:copper_bulb[lit=false,powered=false]"
   },
-  "block.copper_bulb.hit": {},
-  "block.copper_bulb.fall": {},
+  "block.copper_bulb.hit": {
+    "playsound_mapping": "hit.copper_bulb"
+  },
+  "block.copper_bulb.fall": {
+    "playsound_mapping": "fall.copper_bulb"
+  },
   "block.copper_bulb.turn_on": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.copper_bulb.turn_on",
     "bedrock_mapping": "COPPER_BULB_ON"
   },
   "block.copper_bulb.turn_off": {
-    "playsound_mapping": "",
+    "playsound_mapping": "block.copper_bulb.turn_off",
     "bedrock_mapping": "COPPER_BULB_OFF"
   },
   "block.copper.break": {
@@ -1334,8 +1343,12 @@
   },
   "block.copper_door.close": {},
   "block.copper_door.open": {},
-  "block.copper_grate.break": {},
-  "block.copper_grate.step": {},
+  "block.copper_grate.break": {
+    "playsound_mapping": "break.copper_grate"
+  },
+  "block.copper_grate.step": {
+    "playsound_mapping": "step.copper_grate"
+  },
   "block.copper_grate.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:copper_grate[waterlogged=false]"
@@ -3489,23 +3502,23 @@
     "bedrock_mapping": ""
   },
   "music.overworld.deep_dark": {
-    "playsound_mapping": "music.game.deep_dark",
+    "playsound_mapping": "music.overworld.deep_dark",
     "bedrock_mapping": ""
   },
   "music.overworld.dripstone_caves": {
-    "playsound_mapping": "music.game.dripstone_caves",
+    "playsound_mapping": "music.overworld.dripstone_caves",
     "bedrock_mapping": ""
   },
   "music.overworld.grove": {
-    "playsound_mapping": "music.game.grove",
+    "playsound_mapping": "music.overworld.grove",
     "bedrock_mapping": ""
   },
   "music.overworld.jagged_peaks": {
-    "playsound_mapping": "music.game.jagged_peaks",
+    "playsound_mapping": "music.overworld.jagged_peaks",
     "bedrock_mapping": ""
   },
   "music.overworld.lush_caves": {
-    "playsound_mapping": "music.game.lush_caves",
+    "playsound_mapping": "music.overworld.lush_caves",
     "bedrock_mapping": ""
   },
   "music.overworld.swamp": {
@@ -3535,7 +3548,7 @@
     "bedrock_mapping": ""
   },
   "music.overworld.snowy_slopes": {
-    "playsound_mapping": "music.game.snowy_slopes",
+    "playsound_mapping": "music.overworld.snowy_slopes",
     "bedrock_mapping": ""
   },
   "music.nether.soul_sand_valley": {
@@ -3543,7 +3556,7 @@
     "bedrock_mapping": ""
   },
   "music.overworld.stony_peaks": {
-    "playsound_mapping": "music.game.stony_peaks",
+    "playsound_mapping": "music.overworld.stony_peaks",
     "bedrock_mapping": ""
   },
   "music.nether.warped_forest": {
@@ -5524,10 +5537,13 @@
   "block.tuff_bricks.fall": {},
   "block.tuff_bricks.hit": {},
   "block.tuff_bricks.place": {
+    "playsound_mapping": "place.tuff_bricks",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:tuff_bricks"
   },
-  "block.tuff_bricks.step": {},
+  "block.tuff_bricks.step": {
+    "playsound_mapping": "step.tuff_bricks"
+  },
   "block.polished_tuff.break": {},
   "block.polished_tuff.fall": {},
   "block.polished_tuff.hit": {},

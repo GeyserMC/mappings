@@ -1070,12 +1070,12 @@
   },
   "minecraft:short_grass": {
     "bedrock_identifier": "minecraft:tallgrass",
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2005
   },
   "minecraft:fern": {
-    "bedrock_identifier": "minecraft:tallgrass",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:fern",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 2006
   },
   "minecraft:azalea": {
@@ -1443,14 +1443,14 @@
     "lastBlockRuntimeId": 11227
   },
   "minecraft:smooth_stone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
+    "bedrock_identifier": "minecraft:smooth_stone_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11228,
     "lastBlockRuntimeId": 11233
   },
   "minecraft:sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:sandstone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11234,
     "lastBlockRuntimeId": 11239
   },
@@ -1461,26 +1461,26 @@
     "lastBlockRuntimeId": 11245
   },
   "minecraft:petrified_oak_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:petrified_oak_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11246,
     "lastBlockRuntimeId": 11251
   },
   "minecraft:cobblestone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:cobblestone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11252,
     "lastBlockRuntimeId": 11257
   },
   "minecraft:brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:brick_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11258,
     "lastBlockRuntimeId": 11263
   },
   "minecraft:stone_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:stone_brick_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11264,
     "lastBlockRuntimeId": 11269
   },
@@ -1491,14 +1491,14 @@
     "lastBlockRuntimeId": 11275
   },
   "minecraft:nether_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 7,
+    "bedrock_identifier": "minecraft:nether_brick_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11276,
     "lastBlockRuntimeId": 11281
   },
   "minecraft:quartz_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:quartz_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11282,
     "lastBlockRuntimeId": 11287
   },
@@ -2553,38 +2553,38 @@
     "firstBlockRuntimeId": 12513
   },
   "minecraft:sunflower": {
-    "bedrock_identifier": "minecraft:double_plant",
+    "bedrock_identifier": "minecraft:sunflower",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 10747,
     "lastBlockRuntimeId": 10748
   },
   "minecraft:lilac": {
-    "bedrock_identifier": "minecraft:double_plant",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:lilac",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10749,
     "lastBlockRuntimeId": 10750
   },
   "minecraft:rose_bush": {
-    "bedrock_identifier": "minecraft:double_plant",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:rose_bush",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10751,
     "lastBlockRuntimeId": 10752
   },
   "minecraft:peony": {
-    "bedrock_identifier": "minecraft:double_plant",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:peony",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10753,
     "lastBlockRuntimeId": 10754
   },
   "minecraft:tall_grass": {
-    "bedrock_identifier": "minecraft:double_plant",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:tall_grass",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10755,
     "lastBlockRuntimeId": 10756
   },
   "minecraft:large_fern": {
-    "bedrock_identifier": "minecraft:double_plant",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:large_fern",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10757,
     "lastBlockRuntimeId": 10758
   },
@@ -3237,53 +3237,53 @@
     "lastBlockRuntimeId": 12802
   },
   "minecraft:dead_tube_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 8,
+    "bedrock_identifier": "minecraft:dead_tube_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12803
   },
   "minecraft:dead_brain_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 9,
+    "bedrock_identifier": "minecraft:dead_brain_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12804
   },
   "minecraft:dead_bubble_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 10,
+    "bedrock_identifier": "minecraft:dead_bubble_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12805
   },
   "minecraft:dead_fire_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 11,
+    "bedrock_identifier": "minecraft:dead_fire_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12806
   },
   "minecraft:dead_horn_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 12,
+    "bedrock_identifier": "minecraft:dead_horn_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12807
   },
   "minecraft:tube_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
+    "bedrock_identifier": "minecraft:tube_coral_block",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 12808
   },
   "minecraft:brain_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:brain_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12809
   },
   "minecraft:bubble_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:bubble_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12810
   },
   "minecraft:fire_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:fire_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12811
   },
   "minecraft:horn_coral_block": {
-    "bedrock_identifier": "minecraft:coral_block",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:horn_coral_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 12812
   },
   "minecraft:tube_coral": {
