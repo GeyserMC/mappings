@@ -4453,6 +4453,10 @@
     "bedrock_identifier": "minecraft:flint_and_steel",
     "bedrock_data": 0
   },
+  "minecraft:bowl": {
+    "bedrock_identifier": "minecraft:bowl",
+    "bedrock_data": 0
+  },
   "minecraft:apple": {
     "bedrock_identifier": "minecraft:apple",
     "bedrock_data": 0,
@@ -4858,10 +4862,6 @@
   },
   "minecraft:stick": {
     "bedrock_identifier": "minecraft:stick",
-    "bedrock_data": 0
-  },
-  "minecraft:bowl": {
-    "bedrock_identifier": "minecraft:bowl",
     "bedrock_data": 0
   },
   "minecraft:mushroom_stew": {
@@ -6561,6 +6561,14 @@
     "bedrock_identifier": "minecraft:music_disc_chirp",
     "bedrock_data": 0
   },
+  "minecraft:music_disc_creator": {
+    "bedrock_identifier": "minecraft:music_disc_creator",
+    "bedrock_data": 0
+  },
+  "minecraft:music_disc_creator_music_box": {
+    "bedrock_identifier": "minecraft:music_disc_creator_music_box",
+    "bedrock_data": 0
+  },
   "minecraft:music_disc_far": {
     "bedrock_identifier": "minecraft:music_disc_far",
     "bedrock_data": 0
@@ -6607,6 +6615,10 @@
   },
   "minecraft:music_disc_pigstep": {
     "bedrock_identifier": "minecraft:music_disc_pigstep",
+    "bedrock_data": 0
+  },
+  "minecraft:music_disc_precipice": {
+    "bedrock_identifier": "minecraft:music_disc_precipice",
     "bedrock_data": 0
   },
   "minecraft:disc_fragment_5": {
