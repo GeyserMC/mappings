@@ -182,7 +182,9 @@
 	},
 	"GUST": {},
 	"GUST_EMITTER_LARGE": {},
-	"GUST_EMITTER_SMALL": {},
+	"GUST_EMITTER_SMALL": {
+		"eventType": "PARTICLE_WIND_EXPLOSION"
+	},
 	"HAPPY_VILLAGER": {
 		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
