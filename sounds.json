@@ -2616,8 +2616,12 @@
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:bamboo_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
-  "block.trial_spawner.break": {},
-  "block.trial_spawner.step": {},
+  "block.trial_spawner.break": {
+    "playsound_mapping": "trial_spawner.break"
+  },
+  "block.trial_spawner.step": {
+    "playsound_mapping": "trial_spawner.step"
+  },
   "block.trial_spawner.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:trial_spawner[trial_spawner_state=inactive]"
@@ -2635,32 +2639,25 @@
     "bedrock_mapping": ""
   },
   "block.trial_spawner.about_to_spawn_item": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "playsound_mapping": "ominous_item_spawner.about_to_spawn_item"
   },
   "block.trial_spawner.spawn_item": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "playsound_mapping": "ominous_item_spawner.spawn_item"
   },
   "block.trial_spawner.spawn_item_begin": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "playsound_mapping": "ominous_item_spawner.spawn_item_begin"
   },
   "block.trial_spawner.detect_player": {
     "playsound_mapping": "trial_spawner.detect_player",
     "bedrock_mapping": ""
   },
-  "block.trial_spawner.charge_activate": {
-    "playsound_mapping": "trial_spawner.charge_activate",
-    "bedrock_mapping": ""
-  },
+  "block.trial_spawner.ominous_activate": {},
   "block.trial_spawner.ambient": {
     "playsound_mapping": "trial_spawner.ambient",
     "bedrock_mapping": ""
   },
-  "block.trial_spawner.ambient_charged": {
-    "playsound_mapping": "",
-    "bedrock_mapping": ""
+  "block.trial_spawner.ambient_ominous": {
+    "playsound_mapping": "trial_spawner.ambient_ominous"
   },
   "block.trial_spawner.open_shutter": {
     "playsound_mapping": "trial_spawner.open_shutter",
@@ -3477,6 +3474,18 @@
     "playsound_mapping": "record.relic",
     "bedrock_mapping": "RECORD_RELIC"
   },
+  "music_disc.creator": {
+    "playsound_mapping": "record.creator",
+    "bedrock_mapping": "RECORD_CREATOR"
+  },
+  "music_disc.creator_music_box": {
+    "playsound_mapping": "record.creator_music_box",
+    "bedrock_mapping": "RECORD_CREATOR_MUSIC_BOX"
+  },
+  "music_disc.precipice": {
+    "playsound_mapping": "record.precipice",
+    "bedrock_mapping": "RECORD_PRECIPICE"
+  },
   "music.dragon": {
     "playsound_mapping": "music.game.endboss",
     "bedrock_mapping": ""
@@ -3961,7 +3970,7 @@
     "bedrock_mapping": "DEATH"
   },
   "item.ominous_bottle.dispose": {
-    "playsound_mapping": "",
+    "playsound_mapping": "ominous_bottle.end_use",
     "bedrock_mapping": ""
   },
   "entity.painting.break": {
@@ -5658,6 +5667,7 @@
     "playsound_mapping": "vault.eject_item",
     "bedrock_mapping": ""
   },
+  "block.vault.reject_rewarded_player": {},
   "block.vault.fall": {
     "playsound_mapping": "vault.step",
     "bedrock_mapping": ""
