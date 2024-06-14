@@ -7338,7 +7338,7 @@
     "bedrock_data": 0
   },
   "minecraft:ominous_trial_key": {
-    "bedrock_identifier": "minecraft:trial_key",
+    "bedrock_identifier": "minecraft:ominous_trial_key",
     "bedrock_data": 0
   },
   "minecraft:vault": {
@@ -7348,7 +7348,7 @@
     "lastBlockRuntimeId": 26681
   },
   "minecraft:ominous_bottle": {
-    "bedrock_identifier": "minecraft:glass_bottle",
+    "bedrock_identifier": "minecraft:ominous_bottle",
     "bedrock_data": 0,
     "is_edible": true
   },
