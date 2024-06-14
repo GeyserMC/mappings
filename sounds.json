@@ -6172,10 +6172,10 @@
     "level_event": true
   },
   "block.wooden_button.click_off": {
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "random.wood_click"
   },
   "block.wooden_button.click_on": {
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "random.wood_click"
   },
   "block.wooden_pressure_plate.click_off": {
     "playsound_mapping": "click_off.wooden_pressure_plate"

@@ -1,4 +1,12 @@
 {
+  "BLOCK_CRAFTER_CRAFT": {
+    "name": "CRAFTER_CRAFT",
+    "type": "soundEvent"
+  },
+  "BLOCK_CRAFTER_FAIL": {
+    "name": "CRAFTER_FAILED",
+    "type": "soundEvent"
+  },
   "BLOCK_DISPENSER_DISPENSE": {
     "data": 1000,
     "name": "SOUND_CLICK",
