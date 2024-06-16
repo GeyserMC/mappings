@@ -1,99 +1,94 @@
 {
-  "BLOCK_CRAFTER_CRAFT": {
+  "SOUND_CRAFTER_CRAFT": {
     "name": "CRAFTER_CRAFT",
     "type": "soundEvent"
   },
-  "BLOCK_CRAFTER_FAIL": {
+  "SOUND_CRAFTER_FAIL": {
     "name": "CRAFTER_FAILED",
     "type": "soundEvent"
   },
-  "BLOCK_DISPENSER_DISPENSE": {
+  "SOUND_DISPENSER_DISPENSE": {
     "data": 1000,
     "name": "SOUND_CLICK",
     "type": "soundLevel"
   },
-  "BLOCK_DISPENSER_FAIL": {
+  "SOUND_DISPENSER_FAIL": {
     "data": 1200,
     "name": "SOUND_CLICK_FAIL",
     "type": "soundLevel"
   },
-  "BLOCK_DISPENSER_LAUNCH": {
+  "SOUND_DISPENSER_PROJECTILE_LAUNCH": {
     "data": 1000,
     "name": "SOUND_CLICK",
     "type": "soundLevel"
   },
-  "ENTITY_ENDEREYE_LAUNCH": {
-    "identifier": "minecraft:player",
-    "name": "THROW",
-    "type": "soundEvent"
-  },
-  "ENTITY_FIREWORK_SHOOT": {
+  "SOUND_FIREWORK_SHOOT": {
     "name": "LAUNCH",
     "type": "soundEvent"
   },
-  "BLOCK_FIRE_EXTINGUISH": {
+  "SOUND_EXTINGUISH_FIRE": {
     "name": "EXTINGUISH_FIRE",
     "type": "soundEvent"
   },
-  "RECORD": {
+  "SOUND_PLAY_JUKEBOX_SONG": {
     "type": "record"
   },
-  "ENTITY_GHAST_WARN": {
+  "SOUND_GHAST_WARNING": {
     "name": "SOUND_GHAST_WARNING",
     "type": "soundLevel"
   },
-  "ENTITY_GHAST_SHOOT": {
+  "SOUND_GHAST_FIREBALL": {
     "name": "SOUND_GHAST_FIREBALL",
     "type": "soundLevel"
   },
-  "ENTITY_ENDERDRAGON_SHOOT": {
+  "SOUND_DRAGON_FIREBALL": {
     "name": "SOUND_GHAST_FIREBALL",
     "type": "soundLevel"
   },
-  "ENTITY_BLAZE_SHOOT": {
+  "SOUND_BLAZE_FIREBALL": {
     "name": "SOUND_BLAZE_FIREBALL",
     "type": "soundLevel"
   },
-  "ENTITY_ZOMBIE_ATTACK_DOOR_WOOD": {
+  "SOUND_ZOMBIE_WOODEN_DOOR": {
     "name": "SOUND_ZOMBIE_DOOR_BUMP",
     "type": "soundLevel"
   },
-  "ENTITY_ZOMBIE_ATTACK_DOOR_IRON": {
+  "SOUND_ZOMBIE_IRON_DOOR": {
     "name": "",
     "type": ""
   },
-  "ENTITY_ZOMBIE_BREAK_DOOR_WOOD": {
+  "SOUND_ZOMBIE_DOOR_CRASH": {
     "name": "SOUND_ZOMBIE_DOOR_CRASH",
     "type": "soundLevel"
   },
-  "ENTITY_WITHER_BREAK_BLOCK": {
+  "ENTITY_WITHER_BLOCK_BREAK": {
     "name": "SOUND_ZOMBIE_DOOR_CRASH",
     "type": "soundLevel"
   },
-  "ENTITY_WITHER_SPAWN": {
+  "SOUND_WITHER_BOSS_SPAWN": {
     "identifier": "minecraft:wither",
     "name": "SPAWN",
     "type": "soundEvent"
   },
-  "ENTITY_WITHER_SHOOT": {
+  "SOUND_WITHER_BOSS_SHOOT": {
     "identifier": "minecraft:wither",
     "name": "SHOOT",
     "type": "soundEvent"
   },
-  "ENTITY_BAT_TAKEOFF": {
+  "SOUND_BAT_LIFTOFF": {
     "identifier": "minecraft:bat",
     "name": "TAKEOFF",
     "type": "soundEvent"
   },
-  "ENTITY_ZOMBIE_INFECT": {
+  "SOUND_ZOMBIE_INFECTED": {
     "name": "",
     "type": ""
   },
-  "ENTITY_ZOMBIE_VILLAGER_CONVERTED": {
+  "SOUND_ZOMBIE_CONVERTED": {
     "name": "UNFECT",
     "type": "soundEvent"
   },
-  "ENTITY_ENDERDRAGON_GROWL": {
+  "ANIMATION_DRAGON_SUMMON_ROAR": {
     "name": "mob.enderdragon.growl",
     "volume": 64.0,
     "pitch_sub": false,
@@ -102,24 +97,24 @@
     "relative": true,
     "type": "playSound"
   },
-  "ENTITY_ENDERDRAGON_DEATH": {
+  "SOUND_DRAGON_DEATH": {
     "identifier": "minecraft:ender_dragon",
     "name": "DEATH",
     "type": "soundEvent"
   },
-  "BLOCK_ANVIL_DESTROY": {
+  "SOUND_ANVIL_BROKEN": {
     "name": "SOUND_ANVIL_BROKEN",
     "type": "soundLevel"
   },
-  "BLOCK_ANVIL_USE": {
+  "SOUND_ANVIL_USED": {
     "name": "SOUND_ANVIL_USED",
     "type": "soundLevel"
   },
-  "BLOCK_ANVIL_LAND": {
+  "SOUND_ANVIL_LAND": {
     "name": "SOUND_ANVIL_LAND",
     "type": "soundLevel"
   },
-  "BLOCK_PORTAL_TRAVEL": {
+  "SOUND_PORTAL_TRAVEL": {
     "name": "portal.travel",
     "volume": 0.25,
     "pitch_sub": false,
@@ -128,28 +123,28 @@
     "relative": false,
     "type": "playSound"
   },
-  "BLOCK_CHORUS_FLOWER_GROW": {
+  "SOUND_CHORUS_GROW": {
     "name": "CHORUS_GROW",
     "type": "soundEvent"
   },
-  "BLOCK_CHORUS_FLOWER_DEATH": {
+  "SOUND_CHORUS_DEATH": {
     "name": "CHORUS_DEATH",
     "type": "soundEvent"
   },
-  "BLOCK_BREWING_STAND_BREW": {
+  "SOUND_BREWING_STAND_BREW": {
     "name": "POTION_BREWED",
     "type": "soundEvent"
   },
-  "BLOCK_END_PORTAL_SPAWN": {
+  "SOUND_END_PORTAL_SPAWN": {
     "name": "BLOCK_END_PORTAL_SPAWN",
     "type": "soundEvent"
   },
-  "ENTITY_PHANTOM_BITE": {
+  "SOUND_PHANTOM_BITE": {
     "identifier": "minecraft:phantom",
     "name": "ATTACK",
     "type": "soundEvent"
   },
-  "ENTITY_ZOMBIE_CONVERTED_TO_DROWNED": {
+  "SOUND_ZOMBIE_TO_DROWNED": {
     "name": "entity.zombie.converted_to_drowned",
     "volume": 2.0,
     "pitch_sub": true,
@@ -158,15 +153,15 @@
     "relative": true,
     "type": "playSound"
   },
-  "ENTITY_HUSK_CONVERTED_TO_ZOMBIE": {
+  "SOUND_HUSK_TO_ZOMBIE": {
     "name": "",
     "type": ""
   },
-  "BLOCK_GRINDSTONE_USE": {
+  "SOUND_GRINDSTONE_USED": {
     "name": "GRINDSTONE_USE",
     "type": "soundEvent"
   },
-  "ITEM_BOOK_PAGE_TURN": {
+  "SOUND_PAGE_TURN": {
     "name": "item.book.page_turn",
     "volume": 1.0,
     "pitch_sub": false,
@@ -175,23 +170,23 @@
     "relative": true,
     "type": "playSound"
   },
-  "BLOCK_SMITHING_TABLE_USE": {
+  "SOUND_SMITHING_TABLE_USED": {
     "name": "SMITHING_TABLE_USE",
     "type": "soundEvent"
   },
-  "POINTED_DRIPSTONE_LAND": {
+  "SOUND_POINTED_DRIPSTONE_LAND": {
     "name": "SOUND_POINTED_DRIPSTONE_LAND",
     "type": "soundLevel"
   },
-  "DRIP_WATER_INTO_CAULDRON": {
+  "SOUND_DRIP_WATER_INTO_CAULDRON": {
     "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_WATER",
     "type": "soundEvent"
   },
-  "DRIP_LAVA_INTO_CAULDRON": {
+  "SOUND_DRIP_LAVA_INTO_CAULDRON": {
     "name": "POINTED_DRIPSTONE_CAULDRON_DRIP_LAVA",
     "type": "soundEvent"
   },
-  "ENTITY_SKELETON_CONVERTED_TO_STRAY": {
+  "SOUND_SKELETON_TO_STRAY": {
     "name": "CONVERT_TO_STRAY",
     "type": "soundEvent"
   }
