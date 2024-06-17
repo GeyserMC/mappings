@@ -61,7 +61,7 @@
     "name": "SOUND_ZOMBIE_DOOR_CRASH",
     "type": "soundLevel"
   },
-  "ENTITY_WITHER_BLOCK_BREAK": {
+  "SOUND_WITHER_BLOCK_BREAK": {
     "name": "SOUND_ZOMBIE_DOOR_CRASH",
     "type": "soundLevel"
   },
