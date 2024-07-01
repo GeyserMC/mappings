@@ -1069,7 +1069,7 @@
     "firstBlockRuntimeId": 2004
   },
   "minecraft:short_grass": {
-    "bedrock_identifier": "minecraft:tallgrass",
+    "bedrock_identifier": "minecraft:short_grass",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2005
   },
