@@ -5636,11 +5636,11 @@
     "bedrock_mapping": ""
   },
   "ui.toast.in": {
-    "playsound_mapping": "random.toast",
+    "playsound_mapping": "random.toast_recipe_unlocking_in",
     "bedrock_mapping": ""
   },
   "ui.toast.out": {
-    "playsound_mapping": "random.toast",
+    "playsound_mapping": "random.toast_recipe_unlocking_out",
     "bedrock_mapping": ""
   },
   "block.vault.activate": {
