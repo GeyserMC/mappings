@@ -314,9 +314,15 @@
 		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
-	"TRIAL_OMEN": {},
-	"TRIAL_SPAWNER_DETECTION": {},
-	"TRIAL_SPAWNER_DETECTION_OMINOUS": {},
+	"TRIAL_OMEN": {
+        "bedrockId": "minecraft:trial_omen_emitter"
+    },
+	"TRIAL_SPAWNER_DETECTION": {
+        "bedrockId": "minecraft:trial_spawner_detection"
+    },
+	"TRIAL_SPAWNER_DETECTION_OMINOUS": {
+        "bedrockId": "minecraft:trial_spawner_detection_ominous"
+    },
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
 	},
