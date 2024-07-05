@@ -1432,7 +1432,7 @@
     "identifier": "minecraft:creeper"
   },
   "block.crop.break": {
-    "playsound_mapping": "dig.grass",
+    "playsound_mapping": "block.bamboo_sapling.break",
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "item.crop.plant": {
