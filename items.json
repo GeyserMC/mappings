@@ -155,8 +155,8 @@
     "firstBlockRuntimeId": 10
   },
   "minecraft:coarse_dirt": {
-    "bedrock_identifier": "minecraft:dirt",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:coarse_dirt",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11
   },
   "minecraft:podzol": {
@@ -321,8 +321,8 @@
     "lastBlockRuntimeId": 122
   },
   "minecraft:red_sand": {
-    "bedrock_identifier": "minecraft:sand",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:red_sand",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 117
   },
   "minecraft:gravel": {
@@ -1054,13 +1054,13 @@
     "firstBlockRuntimeId": 535
   },
   "minecraft:chiseled_sandstone": {
-    "bedrock_identifier": "minecraft:sandstone",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:chiseled_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 536
   },
   "minecraft:cut_sandstone": {
-    "bedrock_identifier": "minecraft:sandstone",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:cut_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 537
   },
   "minecraft:cobweb": {
@@ -1185,7 +1185,7 @@
     "firstBlockRuntimeId": 2062
   },
   "minecraft:dandelion": {
-    "bedrock_identifier": "minecraft:yellow_flower",
+    "bedrock_identifier": "minecraft:dandelion",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 2075
   },
@@ -1437,8 +1437,8 @@
     "lastBlockRuntimeId": 18679
   },
   "minecraft:stone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab4",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:normal_stone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11222,
     "lastBlockRuntimeId": 11227
   },
@@ -1455,8 +1455,8 @@
     "lastBlockRuntimeId": 11239
   },
   "minecraft:cut_sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab4",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:cut_sandstone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11240,
     "lastBlockRuntimeId": 11245
   },
@@ -1503,54 +1503,54 @@
     "lastBlockRuntimeId": 11287
   },
   "minecraft:red_sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
+    "bedrock_identifier": "minecraft:red_sandstone_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 11288,
     "lastBlockRuntimeId": 11293
   },
   "minecraft:cut_red_sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab4",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:cut_red_sandstone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11294,
     "lastBlockRuntimeId": 11299
   },
   "minecraft:purpur_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:purpur_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11300,
     "lastBlockRuntimeId": 11305
   },
   "minecraft:prismarine_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:prismarine_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10706,
     "lastBlockRuntimeId": 10711
   },
   "minecraft:prismarine_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:prismarine_brick_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10712,
     "lastBlockRuntimeId": 10717
   },
   "minecraft:dark_prismarine_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:dark_prismarine_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10718,
     "lastBlockRuntimeId": 10723
   },
   "minecraft:smooth_quartz": {
-    "bedrock_identifier": "minecraft:quartz_block",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:smooth_quartz",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11308
   },
   "minecraft:smooth_red_sandstone": {
-    "bedrock_identifier": "minecraft:red_sandstone",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:smooth_red_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11309
   },
   "minecraft:smooth_sandstone": {
-    "bedrock_identifier": "minecraft:sandstone",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:smooth_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11307
   },
   "minecraft:smooth_stone": {
@@ -1829,33 +1829,33 @@
     "firstBlockRuntimeId": 5863
   },
   "minecraft:infested_stone": {
-    "bedrock_identifier": "minecraft:monster_egg",
+    "bedrock_identifier": "minecraft:infested_stone",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6543
   },
   "minecraft:infested_cobblestone": {
-    "bedrock_identifier": "minecraft:monster_egg",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:infested_cobblestone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6544
   },
   "minecraft:infested_stone_bricks": {
-    "bedrock_identifier": "minecraft:monster_egg",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:infested_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6545
   },
   "minecraft:infested_mossy_stone_bricks": {
-    "bedrock_identifier": "minecraft:monster_egg",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:infested_mossy_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6546
   },
   "minecraft:infested_cracked_stone_bricks": {
-    "bedrock_identifier": "minecraft:monster_egg",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:infested_cracked_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6547
   },
   "minecraft:infested_chiseled_stone_bricks": {
-    "bedrock_identifier": "minecraft:monster_egg",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:infested_chiseled_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6548
   },
   "minecraft:infested_deepslate": {
@@ -1865,23 +1865,23 @@
     "lastBlockRuntimeId": 26556
   },
   "minecraft:stone_bricks": {
-    "bedrock_identifier": "minecraft:stonebrick",
+    "bedrock_identifier": "minecraft:stone_bricks",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 6537
   },
   "minecraft:mossy_stone_bricks": {
-    "bedrock_identifier": "minecraft:stonebrick",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:mossy_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6538
   },
   "minecraft:cracked_stone_bricks": {
-    "bedrock_identifier": "minecraft:stonebrick",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:cracked_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6539
   },
   "minecraft:chiseled_stone_bricks": {
-    "bedrock_identifier": "minecraft:stonebrick",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:chiseled_stone_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6540
   },
   "minecraft:packed_mud": {
@@ -2321,20 +2321,20 @@
     "lastBlockRuntimeId": 9110
   },
   "minecraft:chipped_anvil": {
-    "bedrock_identifier": "minecraft:anvil",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:chipped_anvil",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9111,
     "lastBlockRuntimeId": 9114
   },
   "minecraft:damaged_anvil": {
-    "bedrock_identifier": "minecraft:anvil",
-    "bedrock_data": 8,
+    "bedrock_identifier": "minecraft:damaged_anvil",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9115,
     "lastBlockRuntimeId": 9118
   },
   "minecraft:chiseled_quartz_block": {
-    "bedrock_identifier": "minecraft:quartz_block",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:chiseled_quartz_block",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9236
   },
   "minecraft:quartz_block": {
@@ -2348,8 +2348,8 @@
     "firstBlockRuntimeId": 20724
   },
   "minecraft:quartz_pillar": {
-    "bedrock_identifier": "minecraft:quartz_block",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:quartz_pillar",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9237,
     "lastBlockRuntimeId": 9239
   },
@@ -2770,13 +2770,13 @@
     "firstBlockRuntimeId": 10463
   },
   "minecraft:prismarine_bricks": {
-    "bedrock_identifier": "minecraft:prismarine",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:prismarine_bricks",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10464
   },
   "minecraft:dark_prismarine": {
-    "bedrock_identifier": "minecraft:prismarine",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:dark_prismarine",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 10465
   },
   "minecraft:prismarine_stairs": {
@@ -2808,13 +2808,13 @@
     "firstBlockRuntimeId": 11079
   },
   "minecraft:chiseled_red_sandstone": {
-    "bedrock_identifier": "minecraft:red_sandstone",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:chiseled_red_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11080
   },
   "minecraft:cut_red_sandstone": {
-    "bedrock_identifier": "minecraft:red_sandstone",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:cut_red_sandstone",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 11081
   },
   "minecraft:red_sandstone_stairs": {
@@ -3526,80 +3526,80 @@
     "lastBlockRuntimeId": 25809
   },
   "minecraft:polished_granite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 7,
+    "bedrock_identifier": "minecraft:polished_granite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14082,
     "lastBlockRuntimeId": 14087
   },
   "minecraft:smooth_red_sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:smooth_red_sandstone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14088,
     "lastBlockRuntimeId": 14093
   },
   "minecraft:mossy_stone_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab4",
+    "bedrock_identifier": "minecraft:mossy_stone_brick_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 14094,
     "lastBlockRuntimeId": 14099
   },
   "minecraft:polished_diorite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:polished_diorite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14100,
     "lastBlockRuntimeId": 14105
   },
   "minecraft:mossy_cobblestone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:mossy_cobblestone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14106,
     "lastBlockRuntimeId": 14111
   },
   "minecraft:end_stone_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
+    "bedrock_identifier": "minecraft:end_stone_brick_slab",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 14112,
     "lastBlockRuntimeId": 14117
   },
   "minecraft:smooth_sandstone_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:smooth_sandstone_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14118,
     "lastBlockRuntimeId": 14123
   },
   "minecraft:smooth_quartz_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab4",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:smooth_quartz_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14124,
     "lastBlockRuntimeId": 14129
   },
   "minecraft:granite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:granite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14130,
     "lastBlockRuntimeId": 14135
   },
   "minecraft:andesite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:andesite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14136,
     "lastBlockRuntimeId": 14141
   },
   "minecraft:red_nether_brick_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab2",
-    "bedrock_data": 7,
+    "bedrock_identifier": "minecraft:red_nether_brick_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14142,
     "lastBlockRuntimeId": 14147
   },
   "minecraft:polished_andesite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:polished_andesite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14148,
     "lastBlockRuntimeId": 14153
   },
   "minecraft:diorite_slab": {
-    "bedrock_identifier": "minecraft:stone_block_slab3",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:diorite_slab",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 14154,
     "lastBlockRuntimeId": 14159
   },
