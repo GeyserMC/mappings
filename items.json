@@ -2189,43 +2189,43 @@
     "lastBlockRuntimeId": 8242
   },
   "minecraft:mossy_cobblestone_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:mossy_cobblestone_wall",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 8243,
     "lastBlockRuntimeId": 8566
   },
   "minecraft:brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:brick_wall",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 14160,
     "lastBlockRuntimeId": 14483
   },
   "minecraft:prismarine_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:prismarine_wall",
     "bedrock_data": 11,
     "firstBlockRuntimeId": 14484,
     "lastBlockRuntimeId": 14807
   },
   "minecraft:red_sandstone_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:red_sandstone_wall",
     "bedrock_data": 12,
     "firstBlockRuntimeId": 14808,
     "lastBlockRuntimeId": 15131
   },
   "minecraft:mossy_stone_brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:mossy_stone_brick_wall",
     "bedrock_data": 8,
     "firstBlockRuntimeId": 15132,
     "lastBlockRuntimeId": 15455
   },
   "minecraft:granite_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:granite_wall",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 15456,
     "lastBlockRuntimeId": 15779
   },
   "minecraft:stone_brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:stone_brick_wall",
     "bedrock_data": 7,
     "firstBlockRuntimeId": 15780,
     "lastBlockRuntimeId": 16103
@@ -2237,37 +2237,37 @@
     "lastBlockRuntimeId": 16427
   },
   "minecraft:nether_brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:nether_brick_wall",
     "bedrock_data": 9,
     "firstBlockRuntimeId": 16428,
     "lastBlockRuntimeId": 16751
   },
   "minecraft:andesite_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:andesite_wall",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 16752,
     "lastBlockRuntimeId": 17075
   },
   "minecraft:red_nether_brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:red_nether_brick_wall",
     "bedrock_data": 13,
     "firstBlockRuntimeId": 17076,
     "lastBlockRuntimeId": 17399
   },
   "minecraft:sandstone_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:sandstone_wall",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 17400,
     "lastBlockRuntimeId": 17723
   },
   "minecraft:end_stone_brick_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:end_stone_brick_wall",
     "bedrock_data": 10,
     "firstBlockRuntimeId": 17724,
     "lastBlockRuntimeId": 18047
   },
   "minecraft:diorite_wall": {
-    "bedrock_identifier": "minecraft:cobblestone_wall",
+    "bedrock_identifier": "minecraft:diorite_wall",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 18048,
     "lastBlockRuntimeId": 18371
