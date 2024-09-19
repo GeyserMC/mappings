@@ -1029,7 +1029,7 @@
     "firstBlockRuntimeId": 517
   },
   "minecraft:wet_sponge": {
-    "bedrock_identifier": "minecraft:sponge",
+    "bedrock_identifier": "minecraft:wet_sponge",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 518
   },
@@ -1619,7 +1619,7 @@
     "firstBlockRuntimeId": 12410
   },
   "minecraft:purpur_pillar": {
-    "bedrock_identifier": "minecraft:purpur_block",
+    "bedrock_identifier": "minecraft:purpur_pillar",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 12411,
     "lastBlockRuntimeId": 12413
