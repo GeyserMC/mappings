@@ -6210,44 +6210,44 @@
     "is_edible": true
   },
   "minecraft:skeleton_skull": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 0,
+    "bedrock_identifier": "minecraft:skeleton_skull",
     "firstBlockRuntimeId": 8827,
+    "bedrock_data": 0,
     "lastBlockRuntimeId": 8858
   },
   "minecraft:wither_skeleton_skull": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 1,
+    "bedrock_identifier": "minecraft:wither_skeleton_skull",
     "firstBlockRuntimeId": 8867,
+    "bedrock_data": 0,
     "lastBlockRuntimeId": 8898
   },
   "minecraft:player_head": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 3,
+    "bedrock_identifier": "minecraft:player_head",
     "firstBlockRuntimeId": 8947,
+    "bedrock_data": 0,
     "lastBlockRuntimeId": 8978
   },
   "minecraft:zombie_head": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 2,
+    "bedrock_identifier": "minecraft:zombie_head",
     "firstBlockRuntimeId": 8907,
+    "bedrock_data": 0,
     "lastBlockRuntimeId": 8938
   },
   "minecraft:creeper_head": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 4,
+    "bedrock_identifier": "minecraft:creeper_head",
     "firstBlockRuntimeId": 8987,
+    "bedrock_data": 0,
     "lastBlockRuntimeId": 9018
   },
   "minecraft:dragon_head": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 5,
+    "bedrock_identifier": "minecraft:dragon_head",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9027,
     "lastBlockRuntimeId": 9058
   },
   "minecraft:piglin_head": {
-    "bedrock_identifier": "minecraft:skull",
-    "bedrock_data": 6,
+    "bedrock_identifier": "minecraft:piglin_head",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9067,
     "lastBlockRuntimeId": 9098
   },
