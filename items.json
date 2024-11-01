@@ -226,9 +226,7 @@
     "firstBlockRuntimeId": 21
   },
   "minecraft:pale_oak_planks": {
-    "bedrock_identifier": "minecraft:pale_oak_planks",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 25
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_planks": {
     "bedrock_identifier": "minecraft:mangrove_planks",
@@ -298,10 +296,7 @@
     "lastBlockRuntimeId": 42
   },
   "minecraft:pale_oak_sapling": {
-    "bedrock_identifier": "minecraft:pale_oak_sapling",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 43,
-    "lastBlockRuntimeId": 44
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_propagule": {
     "bedrock_identifier": "minecraft:mangrove_propagule",
@@ -747,10 +742,7 @@
     "lastBlockRuntimeId": 153
   },
   "minecraft:pale_oak_log": {
-    "bedrock_identifier": "minecraft:pale_oak_log",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 157,
-    "lastBlockRuntimeId": 159
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:dark_oak_log": {
     "bedrock_identifier": "minecraft:dark_oak_log",
@@ -837,10 +829,7 @@
     "lastBlockRuntimeId": 188
   },
   "minecraft:stripped_pale_oak_log": {
-    "bedrock_identifier": "minecraft:stripped_pale_oak_log",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 189,
-    "lastBlockRuntimeId": 191
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:stripped_mangrove_log": {
     "bedrock_identifier": "minecraft:stripped_mangrove_log",
@@ -903,10 +892,7 @@
     "lastBlockRuntimeId": 245
   },
   "minecraft:stripped_pale_oak_wood": {
-    "bedrock_identifier": "minecraft:stripped_pale_oak_wood",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 246,
-    "lastBlockRuntimeId": 248
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:stripped_mangrove_wood": {
     "bedrock_identifier": "minecraft:stripped_mangrove_wood",
@@ -969,10 +955,7 @@
     "lastBlockRuntimeId": 218
   },
   "minecraft:pale_oak_wood": {
-    "bedrock_identifier": "minecraft:pale_oak_wood",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 22,
-    "lastBlockRuntimeId": 24
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:dark_oak_wood": {
     "bedrock_identifier": "minecraft:dark_oak_wood",
@@ -1041,10 +1024,7 @@
     "lastBlockRuntimeId": 447
   },
   "minecraft:pale_oak_leaves": {
-    "bedrock_identifier": "minecraft:pale_oak_leaves",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 448,
-    "lastBlockRuntimeId": 475
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_leaves": {
     "bedrock_identifier": "minecraft:mangrove_leaves",
@@ -1382,21 +1362,13 @@
     "firstBlockRuntimeId": 25312
   },
   "minecraft:pale_moss_carpet": {
-    "bedrock_identifier": "minecraft:pale_moss_carpet",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 27154,
-    "lastBlockRuntimeId": 27315
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:pale_hanging_moss": {
-    "bedrock_identifier": "minecraft:pale_hanging_moss",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 27316,
-    "lastBlockRuntimeId": 27317
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:pale_moss_block": {
-    "bedrock_identifier": "minecraft:pale_moss_block",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 27153
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:hanging_roots": {
     "bedrock_identifier": "minecraft:hanging_roots",
@@ -1465,10 +1437,7 @@
     "lastBlockRuntimeId": 11538
   },
   "minecraft:pale_oak_slab": {
-    "bedrock_identifier": "minecraft:pale_oak_slab",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 11539,
-    "lastBlockRuntimeId": 11544
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_slab": {
     "bedrock_identifier": "minecraft:mangrove_slab",
@@ -1700,10 +1669,7 @@
     "firstBlockRuntimeId": 2916
   },
   "minecraft:creaking_heart": {
-    "bedrock_identifier": "minecraft:creaking_heart",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 2917,
-    "lastBlockRuntimeId": 2925
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:chest": {
     "bedrock_identifier": "minecraft:chest",
@@ -1816,10 +1782,7 @@
     "lastBlockRuntimeId": 12130
   },
   "minecraft:pale_oak_fence": {
-    "bedrock_identifier": "minecraft:pale_oak_fence",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 12131,
-    "lastBlockRuntimeId": 12162
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_fence": {
     "bedrock_identifier": "minecraft:mangrove_fence",
@@ -2218,10 +2181,7 @@
     "lastBlockRuntimeId": 10378
   },
   "minecraft:pale_oak_stairs": {
-    "bedrock_identifier": "minecraft:pale_oak_stairs",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 10379,
-    "lastBlockRuntimeId": 10458
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_stairs": {
     "bedrock_identifier": "minecraft:mangrove_stairs",
@@ -3917,10 +3877,7 @@
     "lastBlockRuntimeId": 9009
   },
   "minecraft:pale_oak_button": {
-    "bedrock_identifier": "minecraft:pale_oak_button",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 9010,
-    "lastBlockRuntimeId": 9033
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_button": {
     "bedrock_identifier": "minecraft:mangrove_button",
@@ -4013,10 +3970,7 @@
     "lastBlockRuntimeId": 5893
   },
   "minecraft:pale_oak_pressure_plate": {
-    "bedrock_identifier": "minecraft:pale_oak_pressure_plate",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 5894,
-    "lastBlockRuntimeId": 5895
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_pressure_plate": {
     "bedrock_identifier": "minecraft:mangrove_pressure_plate",
@@ -4091,10 +4045,7 @@
     "lastBlockRuntimeId": 12610
   },
   "minecraft:pale_oak_door": {
-    "bedrock_identifier": "minecraft:pale_oak_door",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 12611,
-    "lastBlockRuntimeId": 12674
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_door": {
     "bedrock_identifier": "minecraft:mangrove_door",
@@ -4217,10 +4168,7 @@
     "lastBlockRuntimeId": 6574
   },
   "minecraft:pale_oak_trapdoor": {
-    "bedrock_identifier": "minecraft:pale_oak_trapdoor",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 6575,
-    "lastBlockRuntimeId": 6638
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_trapdoor": {
     "bedrock_identifier": "minecraft:mangrove_trapdoor",
@@ -4337,10 +4285,7 @@
     "lastBlockRuntimeId": 11842
   },
   "minecraft:pale_oak_fence_gate": {
-    "bedrock_identifier": "minecraft:pale_oak_fence_gate",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 11843,
-    "lastBlockRuntimeId": 11874
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_fence_gate": {
     "bedrock_identifier": "minecraft:mangrove_fence_gate",
@@ -4506,14 +4451,10 @@
     "is_entity_placer": true
   },
   "minecraft:pale_oak_boat": {
-    "bedrock_identifier": "minecraft:pale_oak_boat",
-    "bedrock_data": 0,
-    "is_entity_placer": true
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:pale_oak_chest_boat": {
-    "bedrock_identifier": "minecraft:pale_oak_chest_boat",
-    "bedrock_data": 0,
-    "is_entity_placer": true
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_boat": {
     "bedrock_identifier": "minecraft:mangrove_boat",
@@ -5054,10 +4995,7 @@
     "lastBlockRuntimeId": 4577
   },
   "minecraft:pale_oak_sign": {
-    "bedrock_identifier": "minecraft:pale_oak_sign",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 4578,
-    "lastBlockRuntimeId": 4609
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_sign": {
     "bedrock_identifier": "minecraft:mangrove_sign",
@@ -5126,10 +5064,7 @@
     "lastBlockRuntimeId": 5373
   },
   "minecraft:pale_oak_hanging_sign": {
-    "bedrock_identifier": "minecraft:pale_oak_hanging_sign",
-    "bedrock_data": 0,
-    "firstBlockRuntimeId": 5374,
-    "lastBlockRuntimeId": 5437
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:mangrove_hanging_sign": {
     "bedrock_identifier": "minecraft:mangrove_hanging_sign",
@@ -6065,9 +6000,7 @@
     "is_entity_placer": true
   },
   "minecraft:creaking_spawn_egg": {
-    "bedrock_identifier": "minecraft:creaking_spawn_egg",
-    "bedrock_data": 0,
-    "is_entity_placer": true
+    "bedrock_identifier": "minecraft:unknown"
   },
   "minecraft:zombie_spawn_egg": {
     "bedrock_identifier": "minecraft:zombie_spawn_egg",
