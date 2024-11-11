@@ -5265,7 +5265,7 @@
     "bedrock_data": 0
   },
   "minecraft:bundle": {
-    "bedrock_identifier": "minecraft:shulker_shell",
+    "bedrock_identifier": "minecraft:bundle",
     "bedrock_data": 0
   },
   "minecraft:white_bundle": {
