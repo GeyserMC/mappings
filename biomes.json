@@ -116,6 +116,9 @@
   "minecraft:old_growth_spruce_taiga": {
     "bedrock_id": 160
   },
+  "minecraft:pale_garden": {
+    "bedrock_id": 62
+  },
   "minecraft:plains": {
     "bedrock_id": 1
   },

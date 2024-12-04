@@ -9,6 +9,7 @@
 	"BLOCK": {
 		"eventType": "TERRAIN"
 	},
+	"BLOCK_CRUMBLE": {},
 	"BLOCK_MARKER": {},
 	"BUBBLE": {
 		"eventType": "BUBBLE",
@@ -237,6 +238,9 @@
 		"bedrockId": "minecraft:note_particle"
 	},
 	"OMINOUS_SPAWNING": {},
+	"PALE_OAK_LEAVES": {
+		"eventType": "PALE_OAK_LEAVES"
+	},
 	"POOF": {
 		"eventType": "EXPLODE",
 		"bedrockId": "minecraft:explosion_manual"
@@ -314,6 +318,7 @@
 		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
+	"TRAIL": {},
 	"TRIAL_OMEN": {},
 	"TRIAL_SPAWNER_DETECTION": {},
 	"TRIAL_SPAWNER_DETECTION_OMINOUS": {},
