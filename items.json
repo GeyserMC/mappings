@@ -6190,37 +6190,37 @@
   },
   "minecraft:wither_skeleton_skull": {
     "bedrock_identifier": "minecraft:wither_skeleton_skull",
-    "bedrock_data": 1,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9666,
     "lastBlockRuntimeId": 9697
   },
   "minecraft:player_head": {
     "bedrock_identifier": "minecraft:player_head",
-    "bedrock_data": 3,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9746,
     "lastBlockRuntimeId": 9777
   },
   "minecraft:zombie_head": {
     "bedrock_identifier": "minecraft:zombie_head",
-    "bedrock_data": 2,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9706,
     "lastBlockRuntimeId": 9737
   },
   "minecraft:creeper_head": {
     "bedrock_identifier": "minecraft:creeper_head",
-    "bedrock_data": 4,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9786,
     "lastBlockRuntimeId": 9817
   },
   "minecraft:dragon_head": {
     "bedrock_identifier": "minecraft:dragon_head",
-    "bedrock_data": 5,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9826,
     "lastBlockRuntimeId": 9857
   },
   "minecraft:piglin_head": {
     "bedrock_identifier": "minecraft:piglin_head",
-    "bedrock_data": 6,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9866,
     "lastBlockRuntimeId": 9897
   },
