@@ -9,7 +9,9 @@
 	"BLOCK": {
 		"eventType": "TERRAIN"
 	},
-	"BLOCK_CRUMBLE": {},
+	"BLOCK_CRUMBLE": {
+		"eventType": "CREAKING_CRUMBLE"
+	},
 	"BLOCK_MARKER": {},
 	"BUBBLE": {
 		"eventType": "BUBBLE",
@@ -203,7 +205,9 @@
 		"eventType": "ICON_CRACK",
 		"bedrockId": "minecraft:breaking_item_icon"
 	},
-	"ITEM_COBWEB": {},
+	"ITEM_COBWEB": {
+		"eventType": "ANIMATION_SPAWN_COBWEB"
+	},
 	"ITEM_SLIME": {
 		"eventType": "SLIME"
 	},
@@ -237,7 +241,9 @@
 		"eventType": "NOTE",
 		"bedrockId": "minecraft:note_particle"
 	},
-	"OMINOUS_SPAWNING": {},
+	"OMINOUS_SPAWNING": {
+		"bedrockId": "minecraft:ominous_spawning_particle"
+	},
 	"PALE_OAK_LEAVES": {
 		"eventType": "PALE_OAK_LEAVES"
 	},
@@ -249,7 +255,9 @@
 		"eventType": "PORTAL",
 		"bedrockId": "minecraft:mob_portal"
 	},
-	"RAID_OMEN": {},
+	"RAID_OMEN": {
+		"bedrockId": "minecraft:raid_omen_ambient"
+	},
 	"RAIN": {
 		"eventType": "RAIN_SPLASH"
 	},
@@ -320,8 +328,13 @@
 	},
 	"TRAIL": {},
 	"TRIAL_OMEN": {},
-	"TRIAL_SPAWNER_DETECTION": {},
-	"TRIAL_SPAWNER_DETECTION_OMINOUS": {},
+	"TRIAL_SPAWNER_DETECTION": {
+		"eventType": "PARTICLE_TRIAL_SPAWNER_DETECTION",
+		"bedrockId": "minecraft:trial_spawner_detection"
+	},
+	"TRIAL_SPAWNER_DETECTION_OMINOUS": {
+		"bedrockId": "TRIAL_SPAWNER_DETECTION_OMINOUS"
+	},
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
 	},
