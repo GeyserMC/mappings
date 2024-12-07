@@ -1070,7 +1070,7 @@
     "firstBlockRuntimeId": 560
   },
   "minecraft:wet_sponge": {
-    "bedrock_identifier": "minecraft:sponge",
+    "bedrock_identifier": "minecraft:wet_sponge",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 561
   },
@@ -1693,7 +1693,7 @@
     "firstBlockRuntimeId": 13423
   },
   "minecraft:purpur_pillar": {
-    "bedrock_identifier": "minecraft:purpur_block",
+    "bedrock_identifier": "minecraft:purpur_pillar",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 13424,
     "lastBlockRuntimeId": 13426
@@ -6183,43 +6183,43 @@
     "is_edible": true
   },
   "minecraft:skeleton_skull": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:skeleton_skull",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 9626,
     "lastBlockRuntimeId": 9657
   },
   "minecraft:wither_skeleton_skull": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:wither_skeleton_skull",
     "bedrock_data": 1,
     "firstBlockRuntimeId": 9666,
     "lastBlockRuntimeId": 9697
   },
   "minecraft:player_head": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:player_head",
     "bedrock_data": 3,
     "firstBlockRuntimeId": 9746,
     "lastBlockRuntimeId": 9777
   },
   "minecraft:zombie_head": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:zombie_head",
     "bedrock_data": 2,
     "firstBlockRuntimeId": 9706,
     "lastBlockRuntimeId": 9737
   },
   "minecraft:creeper_head": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:creeper_head",
     "bedrock_data": 4,
     "firstBlockRuntimeId": 9786,
     "lastBlockRuntimeId": 9817
   },
   "minecraft:dragon_head": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:dragon_head",
     "bedrock_data": 5,
     "firstBlockRuntimeId": 9826,
     "lastBlockRuntimeId": 9857
   },
   "minecraft:piglin_head": {
-    "bedrock_identifier": "minecraft:skull",
+    "bedrock_identifier": "minecraft:piglin_head",
     "bedrock_data": 6,
     "firstBlockRuntimeId": 9866,
     "lastBlockRuntimeId": 9897
