@@ -73,12 +73,15 @@
     "bedrock_mapping": "AMBIENT_NETHER_WASTES"
   },
   "ambient.soul_sand_valley.additions": {
+    "playsound_mapping": "ambient.soulsand_valley.additions",
     "bedrock_mapping": "AMBIENT_SOULSAND_VALLEY"
   },
   "ambient.soul_sand_valley.loop": {
+    "playsound_mapping": "ambient.soulsand_valley.loop",
     "bedrock_mapping": "AMBIENT_SOULSAND_VALLEY"
   },
   "ambient.soul_sand_valley.mood": {
+    "playsound_mapping": "ambient.soulsand_valley.mood",
     "bedrock_mapping": "AMBIENT_SOULSAND_VALLEY"
   },
   "ambient.warped_forest.additions": {
@@ -715,11 +718,11 @@
     "bedrock_mapping": "BLAST_FURNACE_USE"
   },
   "item.bottle.empty": {
-    "playsound_mapping": "",
+    "playsound_mapping": "bottle.empty",
     "bedrock_mapping": "BOTTLE_EMPTY"
   },
   "item.bottle.fill": {
-    "playsound_mapping": "",
+    "playsound_mapping": "bottle.fill",
     "bedrock_mapping": "BOTTLE_FILL"
   },
   "item.bottle.fill_dragonbreath": {
@@ -817,6 +820,9 @@
     "playsound_mapping": "bubble.downinside",
     "bedrock_mapping": "BUBBLE_DOWN_INSIDE"
   },
+  "ui.hud.bubble_pop": {
+    "playsound_mapping": "hud.bubble.pop"
+  },
   "item.bucket.empty": {
     "playsound_mapping": "bucket.empty_water",
     "bedrock_mapping": "BUCKET_EMPTY_WATER"
@@ -866,13 +872,16 @@
     "bedrock_mapping": "BUCKET_FILL_FISH"
   },
   "item.bundle.drop_contents": {
-    "bedrock_mapping": ""
+    "playsound_mapping": "bundle.drop_contents"
   },
   "item.bundle.insert": {
-    "bedrock_mapping": ""
+    "playsound_mapping": "bundle.insert"
+  },
+  "item.bundle.insert_fail": {
+    "playsound_mapping": "bundle.insert_fail"
   },
   "item.bundle.remove_one": {
-    "bedrock_mapping": ""
+    "playsound_mapping": "bundle.remove_one"
   },
   "block.cake.add_candle": {
     "playsound_mapping": "cake.add_candle",
@@ -1411,12 +1420,68 @@
     "bedrock_mapping": "STEP"
   },
   "block.crafter.craft": {
-    "playsound_mapping": "",
+    "playsound_mapping": "crafter.craft",
     "bedrock_mapping": "CRAFTER_CRAFT"
   },
   "block.crafter.fail": {
-    "playsound_mapping": "",
+    "playsound_mapping": "crafter.fail",
     "bedrock_mapping": "CRAFTER_FAILED"
+  },
+  "entity.creaking.ambient": {
+    "playsound_mapping": "mob.creaking.ambient"
+  },
+  "entity.creaking.activate": {
+    "playsound_mapping": "mob.creaking.activate"
+  },
+  "entity.creaking.deactivate": {
+    "playsound_mapping": "mob.creaking.deactivate"
+  },
+  "entity.creaking.attack": {
+    "playsound_mapping": "mob.creaking.attack"
+  },
+  "entity.creaking.death": {
+    "playsound_mapping": "mob.creaking.death"
+  },
+  "entity.creaking.step": {
+    "playsound_mapping": "mob.creaking.step"
+  },
+  "entity.creaking.freeze": {
+    "playsound_mapping": "mob.creaking.freeze"
+  },
+  "entity.creaking.unfreeze": {
+    "playsound_mapping": "mob.creaking.unfreeze"
+  },
+  "entity.creaking.spawn": {
+    "playsound_mapping": "mob.creaking.spawn"
+  },
+  "entity.creaking.sway": {
+    "playsound_mapping": "mob.creaking.sway"
+  },
+  "entity.creaking.twitch": {
+    "playsound_mapping": "mob.creaking.twitch"
+  },
+  "block.creaking_heart.break": {
+    "playsound_mapping": "block.creaking_heart.break"
+  },
+  "block.creaking_heart.fall": {
+    "playsound_mapping": "block.creaking_heart.fall"
+  },
+  "block.creaking_heart.hit": {
+    "playsound_mapping": "block.creaking_heart.hit"
+  },
+  "block.creaking_heart.hurt": {},
+  "block.creaking_heart.place": {
+    "playsound_mapping": "block.creaking_heart.place"
+  },
+  "block.creaking_heart.step": {
+    "playsound_mapping": "block.creaking_heart.step"
+  },
+  "block.creaking_heart.idle": {
+    "playsound_mapping": "block.creaking_heart.ambient"
+  },
+  "block.creaking_heart.spawn": {
+    "playsound_mapping": "block.creaking_heart.spawn_mob",
+    "bedrock_mapping": "CREAKING_HEART_SPAWN"
   },
   "entity.creeper.death": {
     "playsound_mapping": "mob.creeper.death",
@@ -1944,6 +2009,21 @@
     "bedrock_mapping": "SOUND_EXPERIENCE_ORB_PICKUP",
     "level_event": true
   },
+  "block.eyeblossom.open_long": {
+    "playsound_mapping": "block.eyeblossom.open_long"
+  },
+  "block.eyeblossom.open": {
+    "playsound_mapping": "block.eyeblossom.open"
+  },
+  "block.eyeblossom.close_long": {
+    "playsound_mapping": "block.eyeblossom.close_long"
+  },
+  "block.eyeblossom.close": {
+    "playsound_mapping": "block.eyeblossom.close"
+  },
+  "block.eyeblossom.idle": {
+    "playsound_mapping": "block.eyeblossom.ambient"
+  },
   "block.fence_gate.close": {
     "playsound_mapping": "close.fence_gate",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
@@ -2413,10 +2493,6 @@
     "playsound_mapping": "mob.goat.horn_break",
     "bedrock_mapping": ""
   },
-  "item.goat_horn.play": {
-    "playsound_mapping": "item.goat_horn.play",
-    "bedrock_mapping": ""
-  },
   "entity.goat.screaming.ambient": {
     "playsound_mapping": "mob.goat.ambient.screamer",
     "bedrock_mapping": ""
@@ -2447,10 +2523,6 @@
   },
   "entity.goat.screaming.ram_impact": {
     "playsound_mapping": "mob.goat.ram_impact.screamer",
-    "bedrock_mapping": ""
-  },
-  "entity.goat.screaming.horn_break": {
-    "playsound_mapping": "mob.goat.horn_break",
     "bedrock_mapping": ""
   },
   "entity.goat.step": {
@@ -3606,7 +3678,7 @@
     "playsound_mapping": "music.overworld.bamboo_jungle"
   },
   "music.under_water": {
-    "playsound_mapping": "",
+    "playsound_mapping": "music.game.water",
     "bedrock_mapping": ""
   },
   "block.nether_bricks.break": {
@@ -3998,6 +4070,9 @@
     "bedrock_mapping": "SOUND_ITEMFRAME_ITEM_ADD",
     "level_event": true
   },
+  "block.pale_hanging_moss.idle": {
+    "playsound_mapping": "block.pale_hanging_moss.ambient"
+  },
   "entity.panda.pre_sneeze": {
     "playsound_mapping": "mob.panda.presneeze",
     "bedrock_mapping": "PRE_SNEEZE"
@@ -4068,11 +4143,15 @@
   },
   "entity.parrot.imitate.bogged": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "IMITATE_BOGGED"
   },
   "entity.parrot.imitate.breeze": {
     "playsound_mapping": "",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "IMITATE_BREEZE"
+  },
+  "entity.parrot.imitate.creaking": {
+    "playsound_mapping": "",
+    "bedrock_mapping": "IMITATE_CREAKING"
   },
   "entity.parrot.imitate.creeper": {
     "playsound_mapping": "",
@@ -4080,7 +4159,7 @@
   },
   "entity.parrot.imitate.drowned": {
     "playsound_mapping": "mob.zombie.say",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "IMITATE_DROWNED"
   },
   "entity.parrot.imitate.elder_guardian": {
     "playsound_mapping": "",
@@ -4092,7 +4171,7 @@
   },
   "entity.parrot.imitate.endermite": {
     "playsound_mapping": "mob.endermite.say",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "IMITATE_ENDERMITE"
   },
   "entity.parrot.imitate.evoker": {
     "playsound_mapping": "",
@@ -5151,6 +5230,47 @@
     "playsound_mapping": "particle.soul_escape",
     "bedrock_mapping": "SOUL_ESCAPE_LOUD"
   },
+  "block.spawner.break": {
+    "playsound_mapping": "block.mob_spawner.break"
+  },
+  "block.spawner.fall": {},
+  "block.spawner.hit": {},
+  "block.spawner.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:spawner"
+  },
+  "block.spawner.step": {
+    "playsound_mapping": "block.mob_spawner.step"
+  },
+  "block.resin.break": {
+    "playsound_mapping": "block.resin.break"
+  },
+  "block.resin.fall": {
+    "playsound_mapping": "block.resin.fall"
+  },
+  "block.resin.place": {
+    "playsound_mapping": "block.resin.place"
+  },
+  "block.resin.step": {
+    "playsound_mapping": "block.resin.step"
+  },
+  "block.resin_bricks.break": {
+    "playsound_mapping": "block.resin_brick.break"
+  },
+  "block.resin_bricks.fall": {
+    "playsound_mapping": "block.resin_brick.fall"
+  },
+  "block.resin_bricks.hit": {
+    "playsound_mapping": "block.resin_brick.hit"
+  },
+  "block.resin_bricks.place": {
+    "playsound_mapping": "block.resin_brick.place",
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:resin_bricks"
+  },
+  "block.resin_bricks.step": {
+    "playsound_mapping": "block.resin_brick.step"
+  },
   "block.spore_blossom.break": {
     "playsound_mapping": "break.spore_blossom",
     "bedrock_mapping": ""
@@ -5349,15 +5469,24 @@
     "playsound_mapping": "random.bow",
     "bedrock_mapping": "THROW"
   },
-  "block.sponge.break": {},
+  "block.sponge.break": {
+    "playsound_mapping": "break.sponge"
+  },
   "block.sponge.fall": {},
-  "block.sponge.hit": {},
+  "block.sponge.hit": {
+    "playsound_mapping": "hit.sponge"
+  },
   "block.sponge.place": {
+    "playsound_mapping": "place.sponge",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:sponge"
   },
-  "block.sponge.step": {},
-  "block.sponge.absorb": {},
+  "block.sponge.step": {
+    "playsound_mapping": "step.sponge"
+  },
+  "block.sponge.absorb": {
+    "playsound_mapping": "sponge.absorb"
+  },
   "item.spyglass.use": {
     "playsound_mapping": "item.spyglass.use",
     "bedrock_mapping": ""
@@ -5699,7 +5828,9 @@
     "playsound_mapping": "vault.eject_item",
     "bedrock_mapping": ""
   },
-  "block.vault.reject_rewarded_player": {},
+  "block.vault.reject_rewarded_player": {
+    "playsound_mapping": "vault.reject_rewarded_player"
+  },
   "block.vault.fall": {
     "playsound_mapping": "vault.step",
     "bedrock_mapping": ""
@@ -6035,7 +6166,7 @@
     "bedrock_mapping": "STEP"
   },
   "block.wet_sponge.break": {
-    "playsound_mapping": "dig.grass",
+    "playsound_mapping": "break.wet_sponge",
     "bedrock_mapping": ""
   },
   "block.wet_sponge.dries": {
@@ -6047,15 +6178,16 @@
     "bedrock_mapping": ""
   },
   "block.wet_sponge.hit": {
-    "playsound_mapping": "hit.grass",
+    "playsound_mapping": "hit.wet_sponge",
     "bedrock_mapping": ""
   },
   "block.wet_sponge.place": {
+    "playsound_mapping": "place.wet_sponge",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:wet_sponge"
   },
   "block.wet_sponge.step": {
-    "playsound_mapping": "step.grass",
+    "playsound_mapping": "step.wet_sponge",
     "bedrock_mapping": ""
   },
   "entity.wind_charge.wind_burst": {
