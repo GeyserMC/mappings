@@ -328,7 +328,7 @@
     "bedrock_mapping": "BOW_HIT"
   },
   "entity.arrow.hit_player": {
-    "playsound_mapping": "random.bowhit",
+    "playsound_mapping": "random.orb",
     "bedrock_mapping": "BOW_HIT"
   },
   "entity.arrow.shoot": {
@@ -2035,7 +2035,7 @@
     "level_event": true
   },
   "item.firecharge.use": {
-    "playsound_mapping": "fire.ignite",
+    "playsound_mapping": "mob.ghast.fireball",
     "bedrock_mapping": "IGNITE"
   },
   "entity.firework_rocket.blast": {
@@ -2312,7 +2312,7 @@
     "bedrock_mapping": "FALL_BIG"
   },
   "entity.generic.burn": {
-    "playsound_mapping": "game.player.hurt",
+    "playsound_mapping": "random.fizz",
     "bedrock_mapping": "HURT"
   },
   "entity.generic.death": {
