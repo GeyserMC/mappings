@@ -1404,7 +1404,7 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.cow.death": {
-    "playsound_mapping": "mob.fish.hurt",
+    "playsound_mapping": "mob.cow.hurt",
     "bedrock_mapping": "DEATH"
   },
   "entity.cow.hurt": {
