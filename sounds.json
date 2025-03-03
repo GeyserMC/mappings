@@ -478,10 +478,12 @@
     "playsound_mapping": "open.bamboo_wood_trapdoor"
   },
   "block.bamboo_wood_button.click_off": {
-    "playsound_mapping": "click_off.bamboo_wood_button"
+    "playsound_mapping": "click_off.bamboo_wood_button",
+    "pitch_adjust" : 0.5
   },
   "block.bamboo_wood_button.click_on": {
-    "playsound_mapping": "click_on.bamboo_wood_button"
+    "playsound_mapping": "click_on.bamboo_wood_button",
+    "pitch_adjust" : 0.6
   },
   "block.bamboo_wood_pressure_plate.click_off": {
     "playsound_mapping": "click_off.bamboo_wood_pressure_plate"
@@ -1136,10 +1138,12 @@
     "playsound_mapping": "open.cherry_wood_trapdoor"
   },
   "block.cherry_wood_button.click_off": {
-    "playsound_mapping": "click_off.cherry_wood_button"
+    "playsound_mapping": "click_off.cherry_wood_button",
+    "pitch_adjust" : 0.5
   },
   "block.cherry_wood_button.click_on": {
-    "playsound_mapping": "click_on.cherry_wood_button"
+    "playsound_mapping": "click_on.cherry_wood_button",
+    "pitch_adjust" : 0.6
   },
   "block.cherry_wood_pressure_plate.click_off": {
     "playsound_mapping": "click_off.cherry_wood_pressure_plate"
@@ -3739,10 +3743,12 @@
     "playsound_mapping": "open.nether_wood_trapdoor"
   },
   "block.nether_wood_button.click_off": {
-    "playsound_mapping": "click_off.nether_wood_button"
+    "playsound_mapping": "click_off.nether_wood_button",
+    "pitch_adjust" : 0.5
   },
   "block.nether_wood_button.click_on": {
-    "playsound_mapping": "click_on.nether_wood_button"
+    "playsound_mapping": "click_on.nether_wood_button",
+    "pitch_adjust" : 0.6
   },
   "block.nether_wood_pressure_plate.click_off": {
     "playsound_mapping": "click_off.nether_wood_pressure_plate"
@@ -5516,10 +5522,12 @@
     "bedrock_mapping": "BREAK_BLOCK"
   },
   "block.stone_button.click_off": {
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "random.click",
+    "pitch_adjust" : 0.5
   },
   "block.stone_button.click_on": {
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "random.click",
+    "pitch_adjust" : 0.6
   },
   "block.stone.fall": {
     "playsound_mapping": "fall.stone",
@@ -6336,10 +6344,12 @@
     "level_event": true
   },
   "block.wooden_button.click_off": {
-    "playsound_mapping": "random.wood_click"
+    "playsound_mapping": "random.wood_click",
+    "pitch_adjust" : 0.5
   },
   "block.wooden_button.click_on": {
-    "playsound_mapping": "random.wood_click"
+    "playsound_mapping": "random.wood_click",
+    "pitch_adjust" : 0.6
   },
   "block.wooden_pressure_plate.click_off": {
     "playsound_mapping": "click_off.wooden_pressure_plate"
