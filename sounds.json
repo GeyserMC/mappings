@@ -1025,7 +1025,7 @@
     "bedrock_mapping": ""
   },
   "block.cave_vines.place": {
-    "playsound_mapping": "dig.cave_vines",
+    "playsound_mapping": "block.cave_vines.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:cave_vines[age=0,berries=false]"
   },
@@ -3869,24 +3869,24 @@
     "bedrock_mapping": "FALL"
   },
   "block.weeping_vines.break": {
-    "playsound_mapping": "dig.roots",
+    "playsound_mapping": "block.weeping_vines.break",
     "bedrock_mapping": "BREAK"
   },
   "block.weeping_vines.step": {
-    "playsound_mapping": "step.roots",
+    "playsound_mapping": "block.weeping_vines.step",
     "bedrock_mapping": "STEP"
   },
   "block.weeping_vines.place": {
-    "playsound_mapping": "dig.roots",
+    "playsound_mapping": "block.weeping_vines.place",
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:weeping_vines[age=0]"
   },
   "block.weeping_vines.hit": {
-    "playsound_mapping": "hit.roots",
+    "playsound_mapping": "block.weeping_vines.hit",
     "bedrock_mapping": "HIT"
   },
   "block.weeping_vines.fall": {
-    "playsound_mapping": "fall.roots",
+    "playsound_mapping": "block.weeping_vines.fall",
     "bedrock_mapping": "FALL"
   },
   "block.wart_block.break": {
