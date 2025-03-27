@@ -6358,41 +6358,101 @@
     "bedrock_mapping": "WHINE"
   },
   "entity.wolf_puglin.ambient": {},
-  "entity.wolf_puglin.death": {},
-  "entity.wolf_puglin.growl": {},
-  "entity.wolf_puglin.hurt": {},
-  "entity.wolf_puglin.pant": {},
-  "entity.wolf_puglin.whine": {},
+  "entity.wolf_puglin.death": {
+    "playsound_mapping": "mob.wolf.puglin.death"
+  },
+  "entity.wolf_puglin.growl": {
+    "playsound_mapping": "mob.wolf.puglin.growl"
+  },
+  "entity.wolf_puglin.hurt": {
+    "playsound_mapping": "mob.wolf.puglin.hurt"
+  },
+  "entity.wolf_puglin.pant": {
+    "playsound_mapping": "mob.wolf.puglin.panting"
+  },
+  "entity.wolf_puglin.whine": {
+    "playsound_mapping": "mob.wolf.puglin.whine"
+  },
   "entity.wolf_sad.ambient": {},
-  "entity.wolf_sad.death": {},
-  "entity.wolf_sad.growl": {},
-  "entity.wolf_sad.hurt": {},
-  "entity.wolf_sad.pant": {},
-  "entity.wolf_sad.whine": {},
+  "entity.wolf_sad.death": {
+    "playsound_mapping": "mob.wolf.sad.death"
+  },
+  "entity.wolf_sad.growl": {
+    "playsound_mapping": "mob.wolf.sad.growl"
+  },
+  "entity.wolf_sad.hurt": {
+    "playsound_mapping": "mob.wolf.sad.hurt"
+  },
+  "entity.wolf_sad.pant": {
+    "playsound_mapping": "mob.wolf.sad.panting"
+  },
+  "entity.wolf_sad.whine": {
+    "playsound_mapping": "mob.wolf.sad.whine"
+  },
   "entity.wolf_angry.ambient": {},
-  "entity.wolf_angry.death": {},
-  "entity.wolf_angry.growl": {},
-  "entity.wolf_angry.hurt": {},
-  "entity.wolf_angry.pant": {},
-  "entity.wolf_angry.whine": {},
+  "entity.wolf_angry.death": {
+    "playsound_mapping": "mob.wolf.mad.death"
+  },
+  "entity.wolf_angry.growl": {
+    "playsound_mapping": "mob.wolf.mad.growl"
+  },
+  "entity.wolf_angry.hurt": {
+    "playsound_mapping": "mob.wolf.mad.hurt"
+  },
+  "entity.wolf_angry.pant": {
+    "playsound_mapping": "mob.wolf.mad.panting"
+  },
+  "entity.wolf_angry.whine": {
+    "playsound_mapping": "mob.wolf.mad.whine"
+  },
   "entity.wolf_grumpy.ambient": {},
-  "entity.wolf_grumpy.death": {},
-  "entity.wolf_grumpy.growl": {},
-  "entity.wolf_grumpy.hurt": {},
-  "entity.wolf_grumpy.pant": {},
-  "entity.wolf_grumpy.whine": {},
+  "entity.wolf_grumpy.death": {
+    "playsound_mapping": "mob.wolf.grumpy.death"
+  },
+  "entity.wolf_grumpy.growl": {
+    "playsound_mapping": "mob.wolf.grumpy.growl"
+  },
+  "entity.wolf_grumpy.hurt": {
+    "playsound_mapping": "mob.wolf.grumpy.hurt"
+  },
+  "entity.wolf_grumpy.pant": {
+    "playsound_mapping": "mob.wolf.grumpy.panting"
+  },
+  "entity.wolf_grumpy.whine": {
+    "playsound_mapping": "mob.wolf.grumpy.whine"
+  },
   "entity.wolf_big.ambient": {},
-  "entity.wolf_big.death": {},
-  "entity.wolf_big.growl": {},
-  "entity.wolf_big.hurt": {},
-  "entity.wolf_big.pant": {},
-  "entity.wolf_big.whine": {},
+  "entity.wolf_big.death": {
+    "playsound_mapping": "mob.wolf.big.death"
+  },
+  "entity.wolf_big.growl": {
+    "playsound_mapping": "mob.wolf.big.growl"
+  },
+  "entity.wolf_big.hurt": {
+    "playsound_mapping": "mob.wolf.big.hurt"
+  },
+  "entity.wolf_big.pant": {
+    "playsound_mapping": "mob.wolf.big.panting"
+  },
+  "entity.wolf_big.whine": {
+    "playsound_mapping": "mob.wolf.big.whine"
+  },
   "entity.wolf_cute.ambient": {},
-  "entity.wolf_cute.death": {},
-  "entity.wolf_cute.growl": {},
-  "entity.wolf_cute.hurt": {},
-  "entity.wolf_cute.pant": {},
-  "entity.wolf_cute.whine": {},
+  "entity.wolf_cute.death": {
+    "playsound_mapping": "mob.wolf.cute.death"
+  },
+  "entity.wolf_cute.growl": {
+    "playsound_mapping": "mob.wolf.cute.growl"
+  },
+  "entity.wolf_cute.hurt": {
+    "playsound_mapping": "mob.wolf.cute.hurt"
+  },
+  "entity.wolf_cute.pant": {
+    "playsound_mapping": "mob.wolf.cute.panting"
+  },
+  "entity.wolf_cute.whine": {
+    "playsound_mapping": "mob.wolf.cute.whine"
+  },
   "block.wooden_door.close": {
     "playsound_mapping": "close.wooden_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
