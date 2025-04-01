@@ -1481,7 +1481,9 @@
   "block.creaking_heart.hit": {
     "playsound_mapping": "block.creaking_heart.hit"
   },
-  "block.creaking_heart.hurt": {},
+  "block.creaking_heart.hurt": {
+    "playsound_mapping": "block.creaking_heart.trail"
+  },
   "block.creaking_heart.place": {
     "playsound_mapping": "block.creaking_heart.place"
   },
@@ -1549,7 +1551,9 @@
     "playsound_mapping": "crossbow.shoot",
     "bedrock_mapping": "CROSSBOW_SHOOT"
   },
-  "block.deadbush.idle": {},
+  "block.deadbush.idle": {
+    "playsound_mapping": "block.deadbush.ambient"
+  },
   "block.decorated_pot.break": {
     "playsound_mapping": "break.decorated_pot"
   },
@@ -2051,7 +2055,9 @@
     "playsound_mapping": "mob.ghast.fireball",
     "bedrock_mapping": "IGNITE"
   },
-  "block.firefly_bush.idle": {},
+  "block.firefly_bush.idle": {
+    "playsound_mapping": "block.firefly_bush.ambient"
+  },
   "entity.firework_rocket.blast": {
     "playsound_mapping": "firework.blast",
     "bedrock_mapping": "BLAST"
@@ -3013,7 +3019,9 @@
   "block.iron.hit": {
     "playsound_mapping": "hit.iron"
   },
-  "block.iron.fall": {},
+  "block.iron.fall": {
+    "playsound_mapping": "step.iron"
+  },
   "block.iron_door.close": {
     "playsound_mapping": "close.iron_door",
     "bedrock_mapping": "SOUND_DOOR_OPEN",
@@ -3160,8 +3168,12 @@
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:leaf_litter[facing=north,segment_amount=1]"
   },
-  "block.leaf_litter.hit": {},
-  "block.leaf_litter.fall": {},
+  "block.leaf_litter.hit": {
+    "playsound_mapping": "block.leaf_litter.step"
+  },
+  "block.leaf_litter.fall": {
+    "playsound_mapping": "block.leaf_litter.step"
+  },
   "entity.leash_knot.break": {
     "playsound_mapping": "leashknot.break",
     "bedrock_mapping": "LEASHKNOT_BREAK"
@@ -4829,8 +4841,12 @@
     "playsound_mapping": "step.sand",
     "bedrock_mapping": "STEP"
   },
-  "block.sand.idle": {},
-  "block.sand.wind": {},
+  "block.sand.idle": {
+    "playsound_mapping": "block.sand.ambient"
+  },
+  "block.sand.wind": {
+    "playsound_mapping": "block.sand.ambient.attached"
+  },
   "block.scaffolding.break": {
     "playsound_mapping": "block.scaffolding.break",
     "bedrock_mapping": "BREAK_BLOCK"
@@ -5277,8 +5293,12 @@
   "block.spawner.break": {
     "playsound_mapping": "block.mob_spawner.break"
   },
-  "block.spawner.fall": {},
-  "block.spawner.hit": {},
+  "block.spawner.fall": {
+    "playsound_mapping": "block.mob_spawner.step"
+  },
+  "block.spawner.hit": {
+    "playsound_mapping": "block.mob_spawner.step"
+  },
   "block.spawner.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:spawner"
@@ -5516,7 +5536,9 @@
   "block.sponge.break": {
     "playsound_mapping": "break.sponge"
   },
-  "block.sponge.fall": {},
+  "block.sponge.fall": {
+    "playsound_mapping": "step.sponge"
+  },
   "block.sponge.hit": {
     "playsound_mapping": "hit.sponge"
   },
@@ -6357,7 +6379,9 @@
     "playsound_mapping": "mob.wolf.whine",
     "bedrock_mapping": "WHINE"
   },
-  "entity.wolf_puglin.ambient": {},
+  "entity.wolf_puglin.ambient": {
+    "playsound_mapping": "mob.wolf.puglin.bark"
+  },
   "entity.wolf_puglin.death": {
     "playsound_mapping": "mob.wolf.puglin.death"
   },
@@ -6373,7 +6397,9 @@
   "entity.wolf_puglin.whine": {
     "playsound_mapping": "mob.wolf.puglin.whine"
   },
-  "entity.wolf_sad.ambient": {},
+  "entity.wolf_sad.ambient": {
+    "playsound_mapping": "mob.wolf.sad.bark"
+  },
   "entity.wolf_sad.death": {
     "playsound_mapping": "mob.wolf.sad.death"
   },
@@ -6389,7 +6415,9 @@
   "entity.wolf_sad.whine": {
     "playsound_mapping": "mob.wolf.sad.whine"
   },
-  "entity.wolf_angry.ambient": {},
+  "entity.wolf_angry.ambient": {
+    "playsound_mapping": "mob.wolf.mad.bark"
+  },
   "entity.wolf_angry.death": {
     "playsound_mapping": "mob.wolf.mad.death"
   },
@@ -6405,7 +6433,9 @@
   "entity.wolf_angry.whine": {
     "playsound_mapping": "mob.wolf.mad.whine"
   },
-  "entity.wolf_grumpy.ambient": {},
+  "entity.wolf_grumpy.ambient": {
+    "playsound_mapping": "mob.wolf.grumpy.bark"
+  },
   "entity.wolf_grumpy.death": {
     "playsound_mapping": "mob.wolf.grumpy.death"
   },
@@ -6421,7 +6451,9 @@
   "entity.wolf_grumpy.whine": {
     "playsound_mapping": "mob.wolf.grumpy.whine"
   },
-  "entity.wolf_big.ambient": {},
+  "entity.wolf_big.ambient": {
+    "playsound_mapping": "mob.wolf.big.bark"
+  },
   "entity.wolf_big.death": {
     "playsound_mapping": "mob.wolf.big.death"
   },
@@ -6437,7 +6469,9 @@
   "entity.wolf_big.whine": {
     "playsound_mapping": "mob.wolf.big.whine"
   },
-  "entity.wolf_cute.ambient": {},
+  "entity.wolf_cute.ambient": {
+    "playsound_mapping": "mob.wolf.cute.bark"
+  },
   "entity.wolf_cute.death": {
     "playsound_mapping": "mob.wolf.cute.death"
   },

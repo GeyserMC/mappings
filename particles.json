@@ -95,7 +95,8 @@
 	},
 	"DUST_PILLAR": {},
 	"DUST_PLUME": {
-		"eventType": "DUST_PLUME"
+		"eventType": "DUST_PLUME",
+		"bedrockId": "minecraft:dust_plume"
 	},
 	"EFFECT": {
 		"bedrockId": "minecraft:splash_spell_emitter"
@@ -162,7 +163,9 @@
 	"FALLING_WATER": {
 		"bedrockId": "minecraft:water_splash_particle"
 	},
-	"FIREFLY": {},
+	"FIREFLY": {
+		"bedrockId": "minecraft:firefly_particle"
+	},
 	"FIREWORK": {
 		"eventType": "FIREWORKS_STARTER",
 		"bedrockId": "minecraft:sparkler_emitter"
@@ -197,7 +200,9 @@
 		"eventType": "HEART",
 		"bedrockId": "minecraft:heart_particle"
 	},
-	"INFESTED": {},
+	"INFESTED": {
+		"bedrockId": "minecraft:infested_emitter"
+	},
 	"INSTANT_EFFECT": {
 		"eventType": "MOB_SPELL_INSTANTANEOUS",
 		"bedrockId": "minecraft:mobspell_emitter"
@@ -323,19 +328,22 @@
 	"SWEEP_ATTACK": {
 		"bedrockId": "geyseropt:sweep_attack"
 	},
-	"TINTED_LEAVES": {},
+	"TINTED_LEAVES": {
+		"bedrockId": "minecraft:biome_tinted_leaves_particle"
+	},
 	"TOTEM_OF_UNDYING": {
 		"eventType": "TOTEM",
 		"bedrockId": "minecraft:totem_particle"
 	},
 	"TRAIL": {},
-	"TRIAL_OMEN": {},
+	"TRIAL_OMEN": {
+		"bedrockId": "minecraft:trial_omen_emitter"
+	},
 	"TRIAL_SPAWNER_DETECTED_PLAYER": {
-		"eventType": "PARTICLE_TRIAL_SPAWNER_DETECTION",
 		"bedrockId": "minecraft:trial_spawner_detection"
 	},
 	"TRIAL_SPAWNER_DETECTED_PLAYER_OMINOUS": {
-		"bedrockId": "TRIAL_SPAWNER_DETECTION_OMINOUS"
+		"bedrockId": "minecraft:trial_spawner_detection_ominous"
 	},
 	"UNDERWATER": {
 		"bedrockId": "geyseropt:underwater"
