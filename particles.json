@@ -167,7 +167,6 @@
 		"bedrockId": "minecraft:firefly_particle"
 	},
 	"FIREWORK": {
-		"eventType": "FIREWORKS_STARTER",
 		"bedrockId": "minecraft:sparkler_emitter"
 	},
 	"FISHING": {
