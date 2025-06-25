@@ -2060,8 +2060,8 @@
     "lastBlockRuntimeId": 6919
   },
   "minecraft:mushroom_stem": {
-    "bedrock_identifier": "minecraft:brown_mushroom_block",
-    "bedrock_data": 15,
+    "bedrock_identifier": "minecraft:mushroom_stem",
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 6920,
     "lastBlockRuntimeId": 6983
   },
