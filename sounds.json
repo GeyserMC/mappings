@@ -1724,6 +1724,34 @@
     "playsound_mapping": "mob.horse.jump",
     "bedrock_mapping": "JUMP"
   },
+  "block.dried_ghast.break": {
+    "playsound_mapping": "block.dried_ghast.break"
+  },
+  "block.dried_ghast.step": {
+    "playsound_mapping": "block.dried_ghast.step"
+  },
+  "block.dried_ghast.fall": {
+    "playsound_mapping": "block.dried_ghast.fall"
+  },
+  "block.dried_ghast.ambient": {
+    "playsound_mapping": "block.dried_ghast.ambient"
+  },
+  "block.dried_ghast.ambient_water": {
+    "playsound_mapping": "block.dried_ghast.ambient_water"
+  },
+  "block.dried_ghast.place": {
+    "playsound_mapping": "block.dried_ghast.place",
+    "bedrock_mapping": "PLACE",
+    "identifier": "minecraft:dried_ghast"
+  },
+  "block.dried_ghast.place_in_water": {
+    "playsound_mapping": "block.dried_ghast.place_in_water",
+    "bedrock_mapping": "PLACE_IN_WATER"
+  },
+  "block.dried_ghast.transition": {
+    "playsound_mapping": "block.dried_ghast.state_change",
+    "bedrock_mapping": "STATE_CHANGE"
+  },
   "block.dripstone_block.break": {
     "playsound_mapping": "break.dripstone_block",
     "bedrock_mapping": ""
@@ -1744,6 +1772,9 @@
   "block.dripstone_block.fall": {
     "playsound_mapping": "fall.dripstone_block",
     "bedrock_mapping": ""
+  },
+  "block.dry_grass.ambient": {
+    "playsound_mapping": "block.dry_grass.ambient.attached"
   },
   "block.pointed_dripstone.break": {
     "playsound_mapping": "break.pointed_dripstone",
@@ -2396,6 +2427,22 @@
     "playsound_mapping": "mob.ghast.affectionate_scream",
     "bedrock_mapping": "MOB_WARNING"
   },
+  "entity.ghastling.ambient": {
+    "playsound_mapping": "mob.ghastling.ambient",
+    "bedrock_mapping": "AMBIENT"
+  },
+  "entity.ghastling.death": {
+    "playsound_mapping": "mob.ghastling.death",
+    "bedrock_mapping": "DEATH"
+  },
+  "entity.ghastling.hurt": {
+    "playsound_mapping": "mob.ghastling.hurt",
+    "bedrock_mapping": "HURT"
+  },
+  "entity.ghastling.spawn": {
+    "playsound_mapping": "mob.ghastling.spawn",
+    "bedrock_mapping": "SPAWN"
+  },
   "block.gilded_blackstone.break": {
     "playsound_mapping": "dig.stone",
     "bedrock_mapping": ""
@@ -2668,6 +2715,21 @@
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:oak_hanging_sign[attached=true,rotation=0,waterlogged=false]"
   },
+  "entity.happy_ghast.ambient": {
+    "playsound_mapping": "mob.happy_ghast.ambient",
+    "bedrock_mapping": "AMBIENT"
+  },
+  "entity.happy_ghast.death": {
+    "playsound_mapping": "mob.happy_ghast.death",
+    "bedrock_mapping": "DEATH"
+  },
+  "entity.happy_ghast.hurt": {
+    "playsound_mapping": "mob.happy_ghast.hurt",
+    "bedrock_mapping": "HURT"
+  },
+  "entity.happy_ghast.riding": {
+    "playsound_mapping": "mob.happy_ghast.ride"
+  },
   "block.heavy_core.break": {
     "playsound_mapping": "break.heavy_core",
     "bedrock_mapping": ""
@@ -2777,6 +2839,18 @@
   "block.trial_spawner.eject_item": {
     "playsound_mapping": "trial_spawner.eject_item",
     "bedrock_mapping": ""
+  },
+  "entity.happy_ghast.equip": {
+    "playsound_mapping": "mob.happy_ghast.harness_equip"
+  },
+  "entity.happy_ghast.unequip": {
+    "playsound_mapping": "mob.happy_ghast.harness_unequip"
+  },
+  "entity.happy_ghast.harness_goggles_up": {
+    "playsound_mapping": "mob.happy_ghast.goggles_up"
+  },
+  "entity.happy_ghast.harness_goggles_down": {
+    "playsound_mapping": "mob.happy_ghast.goggles_down"
   },
   "item.hoe.till": {
     "playsound_mapping": "",
@@ -2890,6 +2964,9 @@
   "entity.horse.armor": {
     "playsound_mapping": "mob.horse.armor",
     "bedrock_mapping": "ARMOR"
+  },
+  "item.horse_armor.unequip": {
+    "playsound_mapping": "mob.horse.horse_armor_unequip"
   },
   "entity.horse.breathe": {
     "playsound_mapping": "mob.horse.breathe",
@@ -3174,13 +3251,17 @@
   "block.leaf_litter.fall": {
     "playsound_mapping": "block.leaf_litter.step"
   },
-  "entity.leash_knot.break": {
+  "item.lead.untied": {
     "playsound_mapping": "leashknot.break",
     "bedrock_mapping": "LEASHKNOT_BREAK"
   },
-  "entity.leash_knot.place": {
+  "item.lead.tied": {
     "playsound_mapping": "leashknot.place",
     "bedrock_mapping": "LEASHKNOT_PLACE"
+  },
+  "item.lead.break": {
+    "playsound_mapping": "lead.break",
+    "bedrock_mapping": "LEAD_BREAK"
   },
   "block.lever.click": {
     "playsound_mapping": "random.lever_click",
@@ -3236,6 +3317,9 @@
   "entity.llama.swag": {
     "playsound_mapping": "mob.llama.swag",
     "bedrock_mapping": ""
+  },
+  "item.llama_carpet.unequip": {
+    "playsound_mapping": "mob.llama.carpet_unequip"
   },
   "entity.magma_cube.death_small": {
     "playsound_mapping": "mob.magmacube.small",
@@ -3625,6 +3709,10 @@
     "playsound_mapping": "record.precipice",
     "bedrock_mapping": "RECORD_PRECIPICE"
   },
+  "music_disc.tears": {
+    "playsound_mapping": "record.tears",
+    "bedrock_mapping": "RECORD_TEARS"
+  },
   "music.dragon": {
     "playsound_mapping": "music.game.endboss",
     "bedrock_mapping": ""
@@ -3674,7 +3762,7 @@
     "bedrock_mapping": ""
   },
   "music.overworld.forest": {
-    "playsound_mapping": "music.overworld.flower_forest"
+    "playsound_mapping": "music.overworld.forest"
   },
   "music.overworld.old_growth_taiga": {
     "playsound_mapping": "music.overworld.old_growth_taiga",
@@ -4633,10 +4721,6 @@
     "playsound_mapping": "step.powder_snow",
     "bedrock_mapping": ""
   },
-  "entity.puffer_fish.ambient": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "AMBIENT"
-  },
   "entity.puffer_fish.blow_out": {
     "playsound_mapping": "",
     "bedrock_mapping": ""
@@ -4844,9 +4928,6 @@
   "block.sand.idle": {
     "playsound_mapping": "block.sand.ambient"
   },
-  "block.sand.wind": {
-    "playsound_mapping": "block.sand.ambient.attached"
-  },
   "block.scaffolding.break": {
     "playsound_mapping": "block.scaffolding.break",
     "bedrock_mapping": "BREAK_BLOCK"
@@ -5017,6 +5098,10 @@
   "entity.sheep.step": {
     "playsound_mapping": "mob.sheep.step",
     "bedrock_mapping": "STEP"
+  },
+  "item.shears.snip": {
+    "playsound_mapping": "mob.sheep.shear",
+    "bedrock_mapping": "SHEAR"
   },
   "item.shield.block": {
     "playsound_mapping": "item.shield.block",
@@ -6690,5 +6775,9 @@
   "event.mob_effect.raid_omen": {
     "playsound_mapping": "apply_effect.raid_omen",
     "bedrock_mapping": "APPLY_EFFECT_TRIAL_OMEN"
+  },
+  "item.saddle.unequip": {
+    "playsound_mapping": "mob.unsaddle",
+    "bedrock_mapping": "UNSADDLE"
   }
 }
