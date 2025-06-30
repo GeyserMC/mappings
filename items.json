@@ -6668,6 +6668,10 @@
     "bedrock_identifier": "minecraft:music_disc_far",
     "bedrock_data": 0
   },
+  "minecraft:music_disc_lava_chicken": {
+    "bedrock_identifier": "minecraft:music_disc_chirp",
+    "bedrock_data": 0
+  },
   "minecraft:music_disc_mall": {
     "bedrock_identifier": "minecraft:music_disc_mall",
     "bedrock_data": 0
