@@ -3661,7 +3661,10 @@
     "playsound_mapping": "record.far",
     "bedrock_mapping": "RECORD_FAR"
   },
-  "music_disc.lava_chicken": {},
+  "music_disc.lava_chicken": {
+    "playsound_mapping": "record.lava_chicken",
+    "bedrock_mapping": "RECORD_LAVA_CHICKEN"
+  },
   "music_disc.mall": {
     "playsound_mapping": "record.mall",
     "bedrock_mapping": "RECORD_MALL"
