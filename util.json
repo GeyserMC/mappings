@@ -1,0 +1,24 @@
+{
+  "game_master_blocks": [
+    "minecraft:command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:chain_command_block",
+    "minecraft:structure_block",
+    "minecraft:jigsaw",
+    "minecraft:test_block",
+    "minecraft:test_instance_block"
+  ],
+  "dangerous_block_entities": [
+    "minecraft:sign",
+    "minecraft:trial_spawner",
+    "minecraft:lectern",
+    "minecraft:command_block",
+    "minecraft:mob_spawner",
+    "minecraft:hanging_sign"
+  ],
+  "dangerous_entities": [
+    "minecraft:command_block_minecart",
+    "minecraft:spawner_minecart",
+    "minecraft:falling_block"
+  ]
+}
