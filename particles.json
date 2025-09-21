@@ -44,6 +44,7 @@
 		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
 	},
+	"COPPER_FIRE_FLAME": {},
 	"CRIMSON_SPORE": {
 		"bedrockId": "geyseropt:crimson_spore"
 	},
