@@ -44,7 +44,10 @@
 		"eventType": "VILLAGER_HAPPY",
 		"bedrockId": "minecraft:villager_happy"
 	},
-	"COPPER_FIRE_FLAME": {},
+	"COPPER_FIRE_FLAME": {
+		"eventType": "GREEN_FLAME",
+		"bedrockId": "minecraft:green_flame_particle"
+	},
 	"CRIMSON_SPORE": {
 		"bedrockId": "geyseropt:crimson_spore"
 	},
