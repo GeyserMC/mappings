@@ -2072,7 +2072,7 @@
     "lastBlockRuntimeId": 7015
   },
   "minecraft:chain": {
-    "bedrock_identifier": "minecraft:chain",
+    "bedrock_identifier": "minecraft:iron_chain",
     "bedrock_data": 0,
     "firstBlockRuntimeId": 7016,
     "lastBlockRuntimeId": 7021
