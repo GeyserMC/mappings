@@ -290,9 +290,13 @@
     "playsound_mapping": "armor.equip_leather",
     "bedrock_mapping": "ARMOR_EQUIP_LEATHER"
   },
+  "item.armor.equip_copper": {
+    "playsound_mapping": "armor.equip_copper",
+    "bedrock_mapping": "EQUIP_COPPER"
+  },
   "item.armor.equip_netherite": {
     "playsound_mapping": "armor.equip_netherite",
-    "bedrock_mapping": ""
+    "bedrock_mapping": "EQUIP_NETHERITE"
   },
   "item.armor.equip_turtle": {
     "playsound_mapping": "armor.equip_generic",
@@ -1361,11 +1365,97 @@
     "playsound_mapping": "fall.copper",
     "bedrock_mapping": ""
   },
+  "block.copper_chest.close": {
+    "playsound_mapping": "block.copper_chest.closed"
+  },
+  "block.copper_chest.open": {
+    "playsound_mapping": "block.copper_chest.open"
+  },
+  "block.copper_chest_weathered.close": {
+    "playsound_mapping": "block.copper_chest.weathered.closed"
+  },
+  "block.copper_chest_weathered.open": {
+    "playsound_mapping": "block.copper_chest.weathered.open"
+  },
+  "block.copper_chest_oxidized.close": {
+    "playsound_mapping": "block.copper_chest.oxidized.closed"
+  },
+  "block.copper_chest_oxidized.open": {
+    "playsound_mapping": "block.copper_chest.oxidized.open"
+  },
   "block.copper_door.close": {
     "playsound_mapping": "close_door.copper"
   },
   "block.copper_door.open": {
     "playsound_mapping": "open_door.copper"
+  },
+  "entity.copper_golem.step": {
+    "playsound_mapping": "mob.copper_golem.step"
+  },
+  "entity.copper_golem.hurt": {
+    "playsound_mapping": "mob.copper_golem.hurt"
+  },
+  "entity.copper_golem.death": {
+    "playsound_mapping": "mob.copper_golem.death"
+  },
+  "entity.copper_golem_weathered.step": {
+    "playsound_mapping": "mob.copper_golem.weathered.step"
+  },
+  "entity.copper_golem_weathered.hurt": {
+    "playsound_mapping": "mob.copper_golem.weathered.hurt"
+  },
+  "entity.copper_golem_weathered.death": {
+    "playsound_mapping": "mob.copper_golem.weathered.death"
+  },
+  "entity.copper_golem_oxidized.step": {
+    "playsound_mapping": "mob.copper_golem.oxidized.step"
+  },
+  "entity.copper_golem_oxidized.hurt": {
+    "playsound_mapping": "mob.copper_golem.oxidized.hurt"
+  },
+  "entity.copper_golem_oxidized.death": {
+    "playsound_mapping": "mob.copper_golem.oxidized.death"
+  },
+  "entity.copper_golem.spin": {
+    "playsound_mapping": "mob.copper_golem.spin"
+  },
+  "entity.copper_golem_weathered.spin": {
+    "playsound_mapping": "mob.copper_golem.weathered.spin"
+  },
+  "entity.copper_golem_oxidized.spin": {
+    "playsound_mapping": "mob.copper_golem.oxidized.spin"
+  },
+  "entity.copper_golem.no_item_get": {
+    "playsound_mapping": "mob.copper_golem.chest_interaction.take_item"
+  },
+  "entity.copper_golem.no_item_no_get": {
+    "playsound_mapping": "mob.copper_golem.chest_interaction.take_item_fail"
+  },
+  "entity.copper_golem.item_drop": {
+    "playsound_mapping": "mob.copper_golem.chest_interaction.put_item"
+  },
+  "entity.copper_golem.item_no_drop": {
+    "playsound_mapping": "mob.copper_golem.chest_interaction.put_item_fail"
+  },
+  "entity.copper_golem_become_statue": {
+    "playsound_mapping": "mob.copper_golem.becoming_statue"
+  },
+  "block.copper_golem_statue.break": {
+    "playsound_mapping": "block.copper_golem_statue.break"
+  },
+  "block.copper_golem_statue.place": {
+    "playsound_mapping": "block.copper_golem_statue.place"
+  },
+  "block.copper_golem_statue.hit": {
+    "playsound_mapping": "block.copper_golem_statue.hit"
+  },
+  "block.copper_golem_statue.step": {},
+  "block.copper_golem_statue.fall": {},
+  "entity.copper_golem.spawn": {
+    "playsound_mapping": "mob.copper_golem.spawn"
+  },
+  "entity.copper_golem.shear": {
+    "playsound_mapping": "mob.sheep.shear"
   },
   "block.copper_grate.break": {
     "playsound_mapping": "break.copper_grate"
@@ -5107,6 +5197,35 @@
     "playsound_mapping": "mob.sheep.shear",
     "bedrock_mapping": "SHEAR"
   },
+  "block.shelf.activate": {
+    "playsound_mapping": "block.shelf.activate"
+  },
+  "block.shelf.break": {
+    "playsound_mapping": "block.shelf.break"
+  },
+  "block.shelf.deactivate": {
+    "playsound_mapping": "block.shelf.deactivate"
+  },
+  "block.shelf.fall": {},
+  "block.shelf.hit": {},
+  "block.shelf.multi_swap": {
+    "playsound_mapping": "block.shelf.multi_swap",
+    "bedrock_mapping": "MULTI_ITEM_SWAP"
+  },
+  "block.shelf.place": {
+    "bedrock_mapping": "PLACE",
+    "identifier": "MANUALMAP"
+  },
+  "block.shelf.place_item": {
+    "playsound_mapping": "block.shelf.place_item",
+    "bedrock_mapping": "PLACE_ITEM"
+  },
+  "block.shelf.single_swap": {
+    "playsound_mapping": "block.shelf.single_swap",
+    "bedrock_mapping": "SINGLE_ITEM_SWAP"
+  },
+  "block.shelf.step": {},
+  "block.shelf.take_item": {},
   "item.shield.block": {
     "playsound_mapping": "item.shield.block",
     "bedrock_mapping": "SHIELD_BLOCK"
@@ -6292,6 +6411,10 @@
   "block.water.ambient": {
     "playsound_mapping": "liquid.water",
     "bedrock_mapping": "WATER"
+  },
+  "weather.end_flash": {
+    "playsound_mapping": "ambient.weather.the_end_light_flash",
+    "bedrock_mapping": "THE_END_LIGHT_FLASH"
   },
   "weather.rain": {
     "playsound_mapping": "ambient.weather.rain",
