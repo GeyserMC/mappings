@@ -5774,7 +5774,7 @@
   },
   "minecraft:cocoa_beans": {
     "bedrock_identifier": "minecraft:cocoa_beans",
-    "bedrock_data": 3,
+    "bedrock_data": 0,
     "firstBlockRuntimeId": 9280,
     "lastBlockRuntimeId": 9291
   },
