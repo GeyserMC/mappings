@@ -4782,12 +4782,12 @@
     "bedrock_mapping": "PISTON_OUT"
   },
   "entity.player.attack.crit": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ATTACK"
+    "playsound_mapping": "geyseropt.player.attack.crit",
+    "bedrock_mapping": ""
   },
   "entity.player.attack.knockback": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ATTACK"
+    "playsound_mapping": "geyseropt.player.attack.knockback",
+    "bedrock_mapping": ""
   },
   "entity.player.attack.nodamage": {
     "playsound_mapping": "game.player.attack.nodamage",
@@ -4798,12 +4798,12 @@
     "bedrock_mapping": "ATTACK_STRONG"
   },
   "entity.player.attack.sweep": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ATTACK"
+    "playsound_mapping": "geyseropt.player.attack.sweep",
+    "bedrock_mapping": ""
   },
   "entity.player.attack.weak": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ATTACK"
+    "playsound_mapping": "game.player.attack.nodamage",
+    "bedrock_mapping": ""
   },
   "entity.player.big_fall": {
     "playsound_mapping": "damage.fallbig",
