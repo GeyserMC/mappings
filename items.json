@@ -4932,7 +4932,8 @@
   "minecraft:turtle_helmet": {
     "bedrock_identifier": "minecraft:turtle_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 2
   },
   "minecraft:turtle_scute": {
     "bedrock_identifier": "minecraft:turtle_scute",
@@ -4944,7 +4945,8 @@
   },
   "minecraft:wolf_armor": {
     "bedrock_identifier": "minecraft:wolf_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 11
   },
   "minecraft:flint_and_steel": {
     "bedrock_identifier": "minecraft:flint_and_steel",
@@ -5243,142 +5245,170 @@
   "minecraft:leather_helmet": {
     "bedrock_identifier": "minecraft:leather_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 1
   },
   "minecraft:leather_chestplate": {
     "bedrock_identifier": "minecraft:leather_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 3
   },
   "minecraft:leather_leggings": {
     "bedrock_identifier": "minecraft:leather_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 2
   },
   "minecraft:leather_boots": {
     "bedrock_identifier": "minecraft:leather_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 1
   },
   "minecraft:copper_helmet": {
     "bedrock_identifier": "minecraft:copper_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 2
   },
   "minecraft:copper_chestplate": {
     "bedrock_identifier": "minecraft:copper_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 4
   },
   "minecraft:copper_leggings": {
     "bedrock_identifier": "minecraft:copper_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 3
   },
   "minecraft:copper_boots": {
     "bedrock_identifier": "minecraft:copper_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 1
   },
   "minecraft:chainmail_helmet": {
     "bedrock_identifier": "minecraft:chainmail_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 2
   },
   "minecraft:chainmail_chestplate": {
     "bedrock_identifier": "minecraft:chainmail_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 5
   },
   "minecraft:chainmail_leggings": {
     "bedrock_identifier": "minecraft:chainmail_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 4
   },
   "minecraft:chainmail_boots": {
     "bedrock_identifier": "minecraft:chainmail_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 1
   },
   "minecraft:iron_helmet": {
     "bedrock_identifier": "minecraft:iron_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 2
   },
   "minecraft:iron_chestplate": {
     "bedrock_identifier": "minecraft:iron_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 6
   },
   "minecraft:iron_leggings": {
     "bedrock_identifier": "minecraft:iron_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 5
   },
   "minecraft:iron_boots": {
     "bedrock_identifier": "minecraft:iron_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 2
   },
   "minecraft:diamond_helmet": {
     "bedrock_identifier": "minecraft:diamond_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 3
   },
   "minecraft:diamond_chestplate": {
     "bedrock_identifier": "minecraft:diamond_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 8
   },
   "minecraft:diamond_leggings": {
     "bedrock_identifier": "minecraft:diamond_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 6
   },
   "minecraft:diamond_boots": {
     "bedrock_identifier": "minecraft:diamond_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 3
   },
   "minecraft:golden_helmet": {
     "bedrock_identifier": "minecraft:golden_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 2
   },
   "minecraft:golden_chestplate": {
     "bedrock_identifier": "minecraft:golden_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 5
   },
   "minecraft:golden_leggings": {
     "bedrock_identifier": "minecraft:golden_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 3
   },
   "minecraft:golden_boots": {
     "bedrock_identifier": "minecraft:golden_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 1
   },
   "minecraft:netherite_helmet": {
     "bedrock_identifier": "minecraft:netherite_helmet",
     "bedrock_data": 0,
-    "armor_type": "helmet"
+    "armor_type": "helmet",
+    "protection_value": 3
   },
   "minecraft:netherite_chestplate": {
     "bedrock_identifier": "minecraft:netherite_chestplate",
     "bedrock_data": 0,
-    "armor_type": "chestplate"
+    "armor_type": "chestplate",
+    "protection_value": 8
   },
   "minecraft:netherite_leggings": {
     "bedrock_identifier": "minecraft:netherite_leggings",
     "bedrock_data": 0,
-    "armor_type": "leggings"
+    "armor_type": "leggings",
+    "protection_value": 6
   },
   "minecraft:netherite_boots": {
     "bedrock_identifier": "minecraft:netherite_boots",
     "bedrock_data": 0,
-    "armor_type": "boots"
+    "armor_type": "boots",
+    "protection_value": 3
   },
   "minecraft:flint": {
     "bedrock_identifier": "minecraft:flint",
@@ -6711,27 +6741,33 @@
   },
   "minecraft:copper_horse_armor": {
     "bedrock_identifier": "minecraft:copper_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 4
   },
   "minecraft:iron_horse_armor": {
     "bedrock_identifier": "minecraft:iron_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 5
   },
   "minecraft:golden_horse_armor": {
     "bedrock_identifier": "minecraft:golden_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 7
   },
   "minecraft:diamond_horse_armor": {
     "bedrock_identifier": "minecraft:diamond_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 11
   },
   "minecraft:netherite_horse_armor": {
     "bedrock_identifier": "minecraft:netherite_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 19
   },
   "minecraft:leather_horse_armor": {
     "bedrock_identifier": "minecraft:leather_horse_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 3
   },
   "minecraft:lead": {
     "bedrock_identifier": "minecraft:lead",
@@ -7067,23 +7103,28 @@
   },
   "minecraft:iron_nautilus_armor": {
     "bedrock_identifier": "minecraft:iron_nautilus_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 5
   },
   "minecraft:golden_nautilus_armor": {
     "bedrock_identifier": "minecraft:golden_nautilus_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 7
   },
   "minecraft:diamond_nautilus_armor": {
     "bedrock_identifier": "minecraft:diamond_nautilus_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 11
   },
   "minecraft:netherite_nautilus_armor": {
     "bedrock_identifier": "minecraft:netherite_nautilus_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 19
   },
   "minecraft:copper_nautilus_armor": {
     "bedrock_identifier": "minecraft:copper_nautilus_armor",
-    "bedrock_data": 0
+    "bedrock_data": 0,
+    "protection_value": 4
   },
   "minecraft:heart_of_the_sea": {
     "bedrock_identifier": "minecraft:heart_of_the_sea",
