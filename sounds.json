@@ -3504,15 +3504,15 @@
     "bedrock_mapping": "LINK_COMPASS_TO_LODESTONE"
   },
   "item.spear.lunge_1": {
-    "playsound_mapping:": "item.enchant.lunge1",
+    "playsound_mapping": "item.enchant.lunge1",
     "bedrock_mapping": "LUNGE_1"
   },
   "item.spear.lunge_2": {
-    "playsound_mapping:": "item.enchant.lunge2",
+    "playsound_mapping": "item.enchant.lunge2",
     "bedrock_mapping": "LUNGE_2"
   },
   "item.spear.lunge_3": {
-    "playsound_mapping:": "item.enchant.lunge3",
+    "playsound_mapping": "item.enchant.lunge3",
     "bedrock_mapping": "LUNGE_3"
   },
   "item.mace.smash_air": {
