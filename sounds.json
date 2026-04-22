@@ -2799,8 +2799,12 @@
     "playsound_mapping": "mob.goat.step",
     "bedrock_mapping": ""
   },
-  "item.golden_dandelion.use": {},
-  "item.golden_dandelion.unuse": {},
+  "item.golden_dandelion.use": {
+    "bedrock_mapping": "PAUSE_GROWTH"
+  },
+  "item.golden_dandelion.unuse": {
+    "bedrock_mapping": "RESET_GROWTH"
+  },
   "block.grass.break": {
     "playsound_mapping": "hit.grass",
     "bedrock_mapping": "BREAK_BLOCK"
