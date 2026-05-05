@@ -256,6 +256,9 @@
 	"PALE_OAK_LEAVES": {
 		"eventType": "PALE_OAK_LEAVES"
 	},
+	"PAUSE_MOB_GROWTH": {
+		"eventType": "PAUSE_MOB_GROWTH"
+	},
 	"POOF": {
 		"eventType": "EXPLODE",
 		"bedrockId": "minecraft:explosion_manual"
@@ -269,6 +272,9 @@
 	},
 	"RAIN": {
 		"eventType": "RAIN_SPLASH"
+	},
+	"RESET_MOB_GROWTH": {
+		"eventType": "RESET_MOB_GROWTH"
 	},
 	"REVERSE_PORTAL": {
 		"bedrockId": "minecraft:portal_reverse_particle"
