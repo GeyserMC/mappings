@@ -1054,22 +1054,47 @@
     "bedrock_mapping": ""
   },
   "entity.baby_cat.ambient": {
-    "playsound_mapping": "mob.baby_cat.ambient"
+    "playsound_mapping": "mob.baby_cat.ambient",
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:cat"
   },
-  "entity.baby_cat.stray_ambient": {},
+  "entity.baby_cat.stray_ambient": {
+    "playsound_mapping": "mob.baby_cat.ambient",
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:cat"
+  },
   "entity.baby_cat.death": {
-    "playsound_mapping": "mob.baby_cat.death"
+    "playsound_mapping": "mob.baby_cat.death",
+    "bedrock_mapping": "BABY_DEATH",
+    "identifier": "minecraft:cat"
   },
   "entity.baby_cat.eat": {
     "playsound_mapping": "mob.baby_cat.eat"
   },
-  "entity.baby_cat.hiss": {},
-  "entity.baby_cat.beg_for_food": {},
-  "entity.baby_cat.hurt": {
-    "playsound_mapping": "mob.baby_cat.hurt"
+  "entity.baby_cat.hiss": {
+    "playsound_mapping": "mob.cat.hiss",
+    "pitch_adjust": 2.0
   },
-  "entity.baby_cat.purr": {},
-  "entity.baby_cat.purreow": {},
+  "entity.baby_cat.beg_for_food": {
+    "playsound_mapping": "mob.baby_cat.ambient",
+    "bedrock_mapping": "BABY_AMBIENT",
+    "identifier": "minecraft:cat"
+  },
+  "entity.baby_cat.hurt": {
+    "playsound_mapping": "mob.baby_cat.hurt",
+    "bedrock_mapping": "BABY_HURT",
+    "identifier": "minecraft:cat"
+  },
+  "entity.baby_cat.purr": {
+    "playsound_mapping": "mob.cat.purr",
+    "bedrock_mapping": "PURR",
+    "identifier": "minecraft:cat"
+  },
+  "entity.baby_cat.purreow": {
+    "playsound_mapping": "mob.cat.purreow",
+    "bedrock_mapping": "PURREOW",
+    "identifier": "minecraft:cat"
+  },
   "entity.cat.ambient": {
     "playsound_mapping": "mob.cat.meow",
     "bedrock_mapping": "AMBIENT"
@@ -1079,8 +1104,7 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.cat.hiss": {
-    "playsound_mapping": "mob.cat.hiss",
-    "bedrock_mapping": ""
+    "playsound_mapping": "mob.cat.hiss"
   },
   "entity.cat.hurt": {
     "playsound_mapping": "mob.cat.hit",
@@ -1106,15 +1130,37 @@
     "playsound_mapping": "mob.cat.purreow",
     "bedrock_mapping": "PURREOW"
   },
-  "entity.cat_royal.ambient": {},
-  "entity.cat_royal.stray_ambient": {},
-  "entity.cat_royal.hiss": {},
-  "entity.cat_royal.hurt": {},
-  "entity.cat_royal.death": {},
-  "entity.cat_royal.eat": {},
-  "entity.cat_royal.beg_for_food": {},
-  "entity.cat_royal.purr": {},
-  "entity.cat_royal.purreow": {},
+  "entity.cat_royal.ambient": {
+    "playsound_mapping": "mob.royal_cat.ambient"
+  },
+  "entity.cat_royal.stray_ambient": {
+    "playsound_mapping": "mob.royal_cat.ambient"
+  },
+  "entity.cat_royal.hiss": {
+    "playsound_mapping": "mob.cat.hiss"
+  },
+  "entity.cat_royal.hurt": {
+    "playsound_mapping": "mob.royal_cat.hurt"
+  },
+  "entity.cat_royal.death": {
+    "playsound_mapping": "mob.royal_cat.death"
+  },
+  "entity.cat_royal.eat": {
+    "playsound_mapping": "mob.cat.eat",
+    "bedrock_mapping": "EAT",
+    "identifier": "minecraft:cat"
+  },
+  "entity.cat_royal.beg_for_food": {
+    "playsound_mapping": "mob.cat.beg_for_food"
+  },
+  "entity.cat_royal.purr": {
+    "playsound_mapping": "mob.cat.purr",
+    "bedrock_mapping": "PURR",
+    "identifier": "minecraft:cat"
+  },
+  "entity.cat_royal.purreow": {
+    "playsound_mapping": "mob.royal_cat.purreow"
+  },
   "block.cave_vines.break": {
     "playsound_mapping": "dig.cave_vines",
     "bedrock_mapping": ""
@@ -1275,17 +1321,23 @@
     "bedrock_mapping": "CHEST_OPEN"
   },
   "entity.baby_chicken.ambient": {
-    "playsound_mapping": "mob.baby_chicken.ambient"
+    "playsound_mapping": "mob.baby_chicken.ambient",
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:chicken"
   },
   "entity.baby_chicken.death": {
-    "playsound_mapping": "mob.baby_chicken.death"
+    "playsound_mapping": "mob.baby_chicken.death",
+    "bedrock_mapping": "BABY_DEATH",
+    "identifier": "minecraft:chicken"
   },
   "entity.chicken.egg": {
     "playsound_mapping": "mob.chicken.plop",
     "bedrock_mapping": "POP"
   },
   "entity.baby_chicken.hurt": {
-    "playsound_mapping": "mob.baby_chicken.hurt"
+    "playsound_mapping": "mob.baby_chicken.hurt",
+    "bedrock_mapping": "BABY_HURT",
+    "identifier": "minecraft:chicken"
   },
   "entity.chicken.step": {
     "playsound_mapping": "mob.chicken.step",
@@ -1293,7 +1345,9 @@
     "identifier": "minecraft:chicken"
   },
   "entity.baby_chicken.step": {
-    "playsound_mapping": "mob.baby_chicken.step"
+    "playsound_mapping": "mob.baby_chicken.step",
+    "bedrock_mapping": "BABY_STEP",
+    "identifier": "minecraft:chicken"
   },
   "entity.chicken.ambient": {
     "playsound_mapping": "mob.chicken.say",
@@ -1309,9 +1363,15 @@
     "bedrock_mapping": "DEATH",
     "identifier": "minecraft:chicken"
   },
-  "entity.chicken_picky.ambient": {},
-  "entity.chicken_picky.hurt": {},
-  "entity.chicken_picky.death": {},
+  "entity.chicken_picky.ambient": {
+    "playsound_mapping": "mob.picky_chicken.say"
+  },
+  "entity.chicken_picky.hurt": {
+    "playsound_mapping": "mob.picky_chicken.hurt"
+  },
+  "entity.chicken_picky.death": {
+    "playsound_mapping": "mob.picky_chicken.death"
+  },
   "block.chiseled_bookshelf.break": {
     "playsound_mapping": "break.chiseled_bookshelf"
   },
@@ -1629,10 +1689,18 @@
     "playsound_mapping": "mob.cow.step",
     "bedrock_mapping": "STEP"
   },
-  "entity.cow_moody.ambient": {},
-  "entity.cow_moody.hurt": {},
-  "entity.cow_moody.death": {},
-  "entity.cow_moody.step": {},
+  "entity.cow_moody.ambient": {
+    "playsound_mapping": "mob.moody_cow.say"
+  },
+  "entity.cow_moody.hurt": {
+    "playsound_mapping": "mob.moody_cow.hurt"
+  },
+  "entity.cow_moody.death": {
+    "playsound_mapping": "mob.moody_cow.death"
+  },
+  "entity.cow_moody.step": {
+    "playsound_mapping": "mob.cow.step"
+  },
   "block.crafter.craft": {
     "playsound_mapping": "crafter.craft",
     "bedrock_mapping": "CRAFTER_CRAFT"
@@ -2800,9 +2868,11 @@
     "bedrock_mapping": ""
   },
   "item.golden_dandelion.use": {
+    "playsound_mapping": "mob.pause_growth",
     "bedrock_mapping": "PAUSE_GROWTH"
   },
   "item.golden_dandelion.unuse": {
+    "playsound_mapping": "mob.reset_growth",
     "bedrock_mapping": "RESET_GROWTH"
   },
   "block.grass.break": {
@@ -3171,7 +3241,9 @@
     "bedrock_mapping": "AMBIENT"
   },
   "entity.baby_horse.ambient": {
-    "playsound_mapping": "mob.baby_horse.ambient"
+    "playsound_mapping": "mob.baby_horse.ambient",
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:horse"
   },
   "entity.horse.angry": {
     "playsound_mapping": "mob.horse.angry",
@@ -3217,7 +3289,9 @@
     "bedrock_mapping": "HURT"
   },
   "entity.baby_horse.hurt": {
-    "playsound_mapping": "mob.baby_horse.hurt"
+    "playsound_mapping": "mob.baby_horse.hurt",
+    "bedrock_mapping": "BABY_HURT",
+    "identifier": "minecraft:horse"
   },
   "entity.horse.jump": {
     "playsound_mapping": "mob.horse.jump",
@@ -3238,7 +3312,12 @@
     "playsound_mapping": "mob.horse.soft",
     "bedrock_mapping": "STEP"
   },
-  "entity.baby_horse.step": {},
+  "entity.baby_horse.step": {
+    "playsound_mapping": "mob.horse.soft",
+    "bedrock_mapping": "BABY_STEP",
+    "identifier": "minecraft:horse",
+    "pitch_adjust": 0.75
+  },
   "entity.horse.step_wood": {
     "playsound_mapping": "mob.horse.wood",
     "bedrock_mapping": "STEP"
@@ -4776,17 +4855,25 @@
     "bedrock_mapping": "STEP"
   },
   "entity.baby_pig.step": {
-    "playsound_mapping": "mob.baby_pig.step"
+    "playsound_mapping": "mob.baby_pig.step",
+    "bedrock_mapping": "BABY_STEP",
+    "identifier": "minecraft:pig"
   },
   "entity.baby_pig.ambient": {
-    "playsound_mapping": "mob.baby_pig.ambient"
+    "playsound_mapping": "mob.baby_pig.ambient",
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:pig"
   },
   "entity.baby_pig.eat": {},
   "entity.baby_pig.hurt": {
-    "playsound_mapping": "mob.baby_pig.hurt"
+    "playsound_mapping": "mob.baby_pig.hurt",
+    "bedrock_mapping": "BABY_HURT",
+    "identifier": "minecraft:pig"
   },
   "entity.baby_pig.death": {
-    "playsound_mapping": "mob.baby_pig.death"
+    "playsound_mapping": "mob.baby_pig.death",
+    "bedrock_mapping": "BABY_DEATH",
+    "identifier": "minecraft:pig"
   },
   "entity.pig.ambient": {
     "playsound_mapping": "mob.pig.say",
@@ -4801,13 +4888,25 @@
     "bedrock_mapping": "PIG_DEATH"
   },
   "entity.pig.eat": {},
-  "entity.pig_mini.ambient": {},
-  "entity.pig_mini.hurt": {},
-  "entity.pig_mini.death": {},
+  "entity.pig_mini.ambient": {
+    "playsound_mapping": "mob.mini_pig.say"
+  },
+  "entity.pig_mini.hurt": {
+    "playsound_mapping": "mob.mini_pig.hurt"
+  },
+  "entity.pig_mini.death": {
+    "playsound_mapping": "mob.mini_pig.death"
+  },
   "entity.pig_mini.eat": {},
-  "entity.pig_big.ambient": {},
-  "entity.pig_big.hurt": {},
-  "entity.pig_big.death": {},
+  "entity.pig_big.ambient": {
+    "playsound_mapping": "mob.big_pig.say"
+  },
+  "entity.pig_big.hurt": {
+    "playsound_mapping": "mob.big_pig.hurt"
+  },
+  "entity.pig_big.death": {
+    "playsound_mapping": "mob.big_pig.death"
+  },
   "entity.pig_big.eat": {},
   "entity.piglin.admiring_item": {
     "playsound_mapping": "mob.piglin.admiring_item",
@@ -6809,7 +6908,10 @@
     "playsound_mapping": "armor.break_wolf",
     "bedrock_mapping": ""
   },
-  "entity.baby_wolf.ambient": {},
+  "entity.baby_wolf.ambient": {
+    "bedrock_mapping": "AMBIENT_BABY",
+    "identifier": "minecraft:wolf"
+  },
   "item.wolf_armor.crack": {
     "playsound_mapping": "armor.crack_wolf",
     "bedrock_mapping": ""
@@ -6823,15 +6925,21 @@
     "bedrock_mapping": ""
   },
   "entity.baby_wolf.death": {
-    "playsound_mapping": "mob.baby_wolf.death"
+    "playsound_mapping": "mob.baby_wolf.death",
+    "bedrock_mapping": "BABY_DEATH",
+    "identifier": "minecraft:wolf"
   },
   "entity.baby_wolf.growl": {
     "playsound_mapping": "mob.baby_wolf.growl"
   },
   "entity.baby_wolf.hurt": {
-    "playsound_mapping": "mob.baby_wolf.hurt"
+    "playsound_mapping": "mob.baby_wolf.hurt",
+    "bedrock_mapping": "BABY_HURT",
+    "identifier": "minecraft:wolf"
   },
-  "entity.baby_wolf.pant": {},
+  "entity.baby_wolf.pant": {
+    "playsound_mapping": "mob.baby_wolf.panting"
+  },
   "entity.wolf.shake": {
     "playsound_mapping": "mob.wolf.shake",
     "bedrock_mapping": "SHAKE"
@@ -6841,7 +6949,9 @@
     "bedrock_mapping": "STEP"
   },
   "entity.baby_wolf.step": {
-    "playsound_mapping": "mob.baby_wolf.step"
+    "playsound_mapping": "mob.baby_wolf.step",
+    "bedrock_mapping": "BABY_STEP",
+    "identifier": "minecraft:wolf"
   },
   "entity.baby_wolf.whine": {
     "playsound_mapping": "mob.baby_wolf.whine"
