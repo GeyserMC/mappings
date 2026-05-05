@@ -4997,8 +4997,8 @@
     "bedrock_mapping": "PISTON_OUT"
   },
   "entity.player.attack.crit": {
-    "playsound_mapping": "",
-    "bedrock_mapping": "ATTACK"
+    "playsound_mapping": "game.player.attack.critical",
+    "bedrock_mapping": "ATTACK_CRITICAL"
   },
   "entity.player.attack.knockback": {
     "playsound_mapping": "",
