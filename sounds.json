@@ -5001,6 +5001,7 @@
     "bedrock_mapping": "ATTACK_CRITICAL"
   },
   "entity.player.attack.knockback": {
+    "integrated_playsound_mapping": "geyseropt.entity.player.attack.knockback",
     "playsound_mapping": "",
     "bedrock_mapping": "ATTACK"
   },
@@ -5013,6 +5014,7 @@
     "bedrock_mapping": "ATTACK_STRONG"
   },
   "entity.player.attack.sweep": {
+    "integrated_playsound_mapping": "geyseropt.entity.player.attack.sweep",
     "playsound_mapping": "",
     "bedrock_mapping": "ATTACK"
   },
