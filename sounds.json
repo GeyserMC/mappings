@@ -883,7 +883,10 @@
     "playsound_mapping": "bucket.empty_powder_snow",
     "bedrock_mapping": "BUCKET_EMPTY_POWDER_SNOW"
   },
-  "item.bucket.empty_sulfur_cube": {},
+  "item.bucket.empty_sulfur_cube": {
+    "playsound_mapping": "item.sulfur_cube.empty",
+    "bedrock_mapping": "BUCKET_EMPTY_LAND_ANIMAL"
+  },
   "item.bucket.empty_tadpole": {
     "playsound_mapping": "bucket.empty_fish",
     "bedrock_mapping": "BUCKET_EMPTY_FISH"
@@ -908,7 +911,10 @@
     "playsound_mapping": "bucket.fill_powder_snow",
     "bedrock_mapping": "BUCKET_FILL_POWDER_SNOW"
   },
-  "item.bucket.fill_sulfur_cube": {},
+  "item.bucket.fill_sulfur_cube": {
+    "playsound_mapping": "item.sulfur_cube.fill",
+    "bedrock_mapping": "BUCKET_FILL_LAND_ANIMAL"
+  },
   "item.bucket.fill_tadpole": {
     "playsound_mapping": "bucket.fill_fish",
     "bedrock_mapping": "BUCKET_FILL_FISH"
@@ -3981,7 +3987,10 @@
     "playsound_mapping": "record.blocks",
     "bedrock_mapping": "RECORD_BLOCKS"
   },
-  "music_disc.bounce": {},
+  "music_disc.bounce": {
+    "playsound_mapping": "record.bounce",
+    "bedrock_mapping": "RECORD_BOUNCE"
+  },
   "music_disc.cat": {
     "playsound_mapping": "record.cat",
     "bedrock_mapping": "RECORD_CAT"

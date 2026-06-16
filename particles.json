@@ -185,9 +185,15 @@
 		"bedrockId": "geyseropt:flash"
 	},
 	"GEYSER": {},
-	"GEYSER_BASE": {},
-	"GEYSER_PLUME": {},
-	"GEYSER_POOF": {},
+	"GEYSER_BASE": {
+    "bedrockId": "minecraft:geyser_base"
+  },
+	"GEYSER_PLUME": {
+    "bedrockId": "minecraft:geyser_plume"
+  },
+	"GEYSER_POOF": {
+    "bedrockId": "minecraft:geyser_poof"
+  },
 	"GLOW": {
 		"bedrockId": "minecraft:glow_particle"
 	},
@@ -254,7 +260,9 @@
 		"eventType": "NOTE",
 		"bedrockId": "minecraft:note_particle"
 	},
-	"NOXIOUS_GAS": {},
+	"NOXIOUS_GAS": {
+    "bedrockId": "minecraft:noxious_gas_particle"
+  },
 	"NOXIOUS_GAS_CLOUD": {},
 	"OMINOUS_SPAWNING": {
 		"bedrockId": "minecraft:ominous_spawning_particle"
@@ -340,8 +348,13 @@
 	"SQUID_INK": {
 		"eventType": "INK"
 	},
-	"SULFUR_BUBBLES": {},
-	"SULFUR_CUBE_GOO": {},
+	"SULFUR_BUBBLES": {
+    "bedrockId": "minecraft:sulfur_bubble_particle"
+  },
+	"SULFUR_CUBE_GOO": {
+    "eventType": "SULFUR_CUBE",
+    "bedrockId": "minecraft:sulfur_cube_goo"
+  },
 	"SWEEP_ATTACK": {
 		"bedrockId": "geyseropt:sweep_attack"
 	},
