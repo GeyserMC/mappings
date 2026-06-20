@@ -750,6 +750,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:redstone",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -938,6 +939,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:diamond",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -946,6 +948,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:emerald",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -954,6 +957,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:lapis",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -962,6 +966,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:quartz",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -970,6 +975,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:amethyst",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -979,6 +985,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:iron",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -988,6 +995,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:copper",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -997,6 +1005,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:gold",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1005,6 +1014,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:netherite",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1135,6 +1145,7 @@
         "component": "minecraft:chicken/variant",
         "registry": "minecraft:chicken_variant",
         "reference": "minecraft:temperate",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1143,6 +1154,7 @@
         "component": "minecraft:chicken/variant",
         "registry": "minecraft:chicken_variant",
         "reference": "minecraft:cold",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1151,6 +1163,7 @@
         "component": "minecraft:chicken/variant",
         "registry": "minecraft:chicken_variant",
         "reference": "minecraft:warm",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1372,6 +1385,7 @@
         "component": "minecraft:provides_trim_material",
         "registry": "minecraft:trim_material",
         "reference": "minecraft:resin",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1429,6 +1443,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1437,6 +1452,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1445,6 +1461,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1453,6 +1470,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1461,6 +1479,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1469,6 +1488,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1477,6 +1497,7 @@
         "component": "minecraft:damage_type",
         "registry": "minecraft:damage_type",
         "reference": "minecraft:spear",
+        "allows_direct_over_network": false,
         "type": "holder"
       }
     ],
@@ -1491,6 +1512,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:13",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1499,6 +1521,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:cat",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1507,6 +1530,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:blocks",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1515,6 +1539,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:bounce",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1523,6 +1548,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:chirp",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1531,6 +1557,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:creator",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1539,6 +1566,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:creator_music_box",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1547,6 +1575,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:far",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1555,6 +1584,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:lava_chicken",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1563,6 +1593,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:mall",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1571,6 +1602,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:mellohi",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1579,6 +1611,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:stal",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1587,6 +1620,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:strad",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1595,6 +1629,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:ward",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1603,6 +1638,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:11",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1611,6 +1647,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:wait",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1619,6 +1656,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:otherside",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1627,6 +1665,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:relic",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1635,6 +1674,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:5",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1643,6 +1683,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:pigstep",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1651,6 +1692,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:precipice",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1659,6 +1701,7 @@
         "component": "minecraft:jukebox_playable",
         "registry": "minecraft:jukebox_song",
         "reference": "minecraft:tears",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
@@ -1689,6 +1732,7 @@
         "component": "minecraft:instrument",
         "registry": "minecraft:instrument",
         "reference": "minecraft:ponder_goat_horn",
+        "allows_direct_over_network": true,
         "type": "holder"
       }
     ],
