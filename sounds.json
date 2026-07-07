@@ -982,7 +982,9 @@
   "entity.camel_husk.hurt": {
     "playsound_mapping": "mob.camel_husk.hurt"
   },
-  "entity.camel_husk.saddle": {},
+  "entity.camel_husk.saddle": {
+    "playsound_mapping": "mob.horse.leather"
+  },
   "entity.camel_husk.sit": {
     "playsound_mapping": "mob.camel_husk.sit"
   },
@@ -3115,7 +3117,9 @@
     "playsound_mapping": "trial_spawner.detect_player",
     "bedrock_mapping": ""
   },
-  "block.trial_spawner.ominous_activate": {},
+  "block.trial_spawner.ominous_activate": {
+    "playsound_mapping": "trial_spawner.charge_activate"
+  },
   "block.trial_spawner.ambient": {
     "playsound_mapping": "trial_spawner.ambient",
     "bedrock_mapping": ""
@@ -4831,7 +4835,9 @@
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_ZOMBIE"
   },
-  "entity.parrot.imitate.zombie_horse": {},
+  "entity.parrot.imitate.zombie_horse": {
+    "playsound_mapping": "mob.horse.idle"
+  },
   "entity.parrot.imitate.zombie_nautilus": {},
   "entity.parrot.imitate.zombie_villager": {
     "playsound_mapping": "",
@@ -4920,7 +4926,9 @@
   "entity.pig_mini.death": {
     "playsound_mapping": "mob.mini_pig.death"
   },
-  "entity.pig_mini.eat": {},
+  "entity.pig_mini.eat": {
+    "playsound_mapping": "mob.mini_pig.eat"
+  },
   "entity.pig_big.ambient": {
     "playsound_mapping": "mob.big_pig.say"
   },
@@ -4930,7 +4938,9 @@
   "entity.pig_big.death": {
     "playsound_mapping": "mob.big_pig.death"
   },
-  "entity.pig_big.eat": {},
+  "entity.pig_big.eat": {
+    "playsound_mapping": "mob.big_pig.eat"
+  },
   "entity.piglin.admiring_item": {
     "playsound_mapping": "mob.piglin.admiring_item",
     "bedrock_mapping": ""
@@ -5601,8 +5611,12 @@
   "block.shelf.deactivate": {
     "playsound_mapping": "block.shelf.deactivate"
   },
-  "block.shelf.fall": {},
-  "block.shelf.hit": {},
+  "block.shelf.fall": {
+    "playsound_mapping": "step.chiseled_bookshelf"
+  },
+  "block.shelf.hit": {
+    "playsound_mapping": "hit.chiseled_bookshelf"
+  },
   "block.shelf.multi_swap": {
     "playsound_mapping": "block.shelf.multi_swap",
     "bedrock_mapping": "MULTI_ITEM_SWAP"
@@ -5619,8 +5633,12 @@
     "playsound_mapping": "block.shelf.single_swap",
     "bedrock_mapping": "SINGLE_ITEM_SWAP"
   },
-  "block.shelf.step": {},
-  "block.shelf.take_item": {},
+  "block.shelf.step": {
+    "playsound_mapping": "step.chiseled_bookshelf"
+  },
+  "block.shelf.take_item": {
+    "playsound_mapping": "block.shelf.single_swap"
+  },
   "item.shield.block": {
     "playsound_mapping": "item.shield.block",
     "bedrock_mapping": "SHIELD_BLOCK"
@@ -6220,14 +6238,22 @@
     "playsound_mapping": "mob.stray.step",
     "bedrock_mapping": "STEP"
   },
-  "block.sulfur_spike.break": {},
-  "block.sulfur_spike.step": {},
+  "block.sulfur_spike.break": {
+    "playsound_mapping": "block.sulfur.break"
+  },
+  "block.sulfur_spike.step": {
+    "playsound_mapping": "block.sulfur.step"
+  },
   "block.sulfur_spike.place": {
     "bedrock_mapping": "PLACE",
     "identifier": "minecraft:sulfur_spike[thickness=tip,vertical_direction=up,waterlogged=false]"
   },
-  "block.sulfur_spike.hit": {},
-  "block.sulfur_spike.fall": {},
+  "block.sulfur_spike.hit": {
+    "playsound_mapping": "block.sulfur.hit"
+  },
+  "block.sulfur_spike.fall": {
+    "playsound_mapping": "block.sulfur.fall"
+  },
   "block.sulfur_spike.land": {},
   "block.sweet_berry_bush.break": {
     "playsound_mapping": "block.sweet_berry_bush.break",
@@ -7257,7 +7283,9 @@
     "playsound_mapping": "mob.horse.zombie.death",
     "bedrock_mapping": "DEATH"
   },
-  "entity.zombie_horse.eat": {},
+  "entity.zombie_horse.eat": {
+    "playsound_mapping": "mob.horse.eat"
+  },
   "entity.zombie_horse.hurt": {
     "playsound_mapping": "mob.horse.zombie.hit",
     "bedrock_mapping": "HURT"
@@ -7401,11 +7429,15 @@
   "block.potent_sulfur.fall": {
     "playsound_mapping": "block.potent_sulfur.fall"
   },
-  "block.potent_sulfur.geyser_eruption": {},
+  "block.potent_sulfur.geyser_eruption": {
+    "playsound_mapping": "block.potent_sulfur.geyser_eruption_start"
+  },
   "block.potent_sulfur.geyser_eruption_active": {
     "playsound_mapping": "block.potent_sulfur.geyser_eruption_active"
   },
-  "block.potent_sulfur.geyser_continuous_eruption": {},
+  "block.potent_sulfur.geyser_continuous_eruption": {
+    "playsound_mapping": "block.potent_sulfur.geyser_continuous_eruption_start"
+  },
   "block.potent_sulfur.geyser_continuous_eruption_active": {
     "playsound_mapping": "block.potent_sulfur.geyser_continuous_eruption_active"
   },
@@ -7514,11 +7546,23 @@
   "entity.sulfur_cube.hot.push": {
     "playsound_mapping": "mob.sulfur_cube.hot.push"
   },
-  "entity.sulfur_cube.squish": {},
-  "block.potent_sulfur.noxious_gas": {},
-  "entity.small_sulfur_cube.death": {},
-  "entity.small_sulfur_cube.hurt": {},
-  "entity.small_sulfur_cube.jump": {},
-  "entity.small_sulfur_cube.squish": {},
+  "entity.sulfur_cube.squish": {
+    "playsound_mapping": "mob.sulfur_cube.landing"
+  },
+  "block.potent_sulfur.noxious_gas": {
+    "playsound_mapping": "block.potent_sulfur.ambient"
+  },
+  "entity.small_sulfur_cube.death": {
+    "playsound_mapping": "mob.sulfur_cube.small.death"
+  },
+  "entity.small_sulfur_cube.hurt": {
+    "playsound_mapping": "mob.sulfur_cube.small.hurt"
+  },
+  "entity.small_sulfur_cube.jump": {
+    "playsound_mapping": "mob.sulfur_cube.small.jump"
+  },
+  "entity.small_sulfur_cube.squish": {
+    "playsound_mapping": "mob.sulfur_cube.small.landing"
+  },
   "entity.small_sulfur_cube.eat": {}
 }
