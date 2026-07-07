@@ -4705,7 +4705,9 @@
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_BREEZE"
   },
-  "entity.parrot.imitate.camel_husk": {},
+  "entity.parrot.imitate.camel_husk": {
+    "playsound_mapping": "mob.imitate.camel_husk"
+  },
   "entity.parrot.imitate.creaking": {
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_CREAKING"
@@ -4762,7 +4764,9 @@
     "playsound_mapping": "mob.phantom.idle",
     "bedrock_mapping": ""
   },
-  "entity.parrot.imitate.parched": {},
+  "entity.parrot.imitate.parched": {
+    "playsound_mapping": "mob.imitate.parched"
+  },
   "entity.parrot.imitate.piglin": {
     "playsound_mapping": "mob.piglin.ambient",
     "bedrock_mapping": ""
@@ -4836,9 +4840,11 @@
     "bedrock_mapping": "IMITATE_ZOMBIE"
   },
   "entity.parrot.imitate.zombie_horse": {
-    "playsound_mapping": "mob.horse.idle"
+    "playsound_mapping": "mob.horse.zombie.idle"
   },
-  "entity.parrot.imitate.zombie_nautilus": {},
+  "entity.parrot.imitate.zombie_nautilus": {
+    "playsound_mapping": "mob.zombie_nautilus.ambient"
+  },
   "entity.parrot.imitate.zombie_villager": {
     "playsound_mapping": "",
     "bedrock_mapping": "IMITATE_ZOMBIE_VILLAGER"
@@ -6254,7 +6260,9 @@
   "block.sulfur_spike.fall": {
     "playsound_mapping": "block.sulfur.fall"
   },
-  "block.sulfur_spike.land": {},
+  "block.sulfur_spike.land": {
+    "playsound_mapping": "block.sulfur.fall"
+  },
   "block.sweet_berry_bush.break": {
     "playsound_mapping": "block.sweet_berry_bush.break",
     "bedrock_mapping": "BREAK_BLOCK"
@@ -7278,7 +7286,9 @@
     "playsound_mapping": "mob.horse.zombie.idle",
     "bedrock_mapping": "AMBIENT"
   },
-  "entity.zombie_horse.angry": {},
+  "entity.zombie_horse.angry": {
+    "playsound_mapping": "mob.horse.zombie.angry"
+  },
   "entity.zombie_horse.death": {
     "playsound_mapping": "mob.horse.zombie.death",
     "bedrock_mapping": "DEATH"
@@ -7328,7 +7338,9 @@
   "entity.zombie_nautilus.hurt": {
     "playsound_mapping": "mob.zombie_nautilus.hurt"
   },
-  "entity.zombie_nautilus.hurt_land": {},
+  "entity.zombie_nautilus.hurt_land": {
+    "playsound_mapping": "mob.zombie_nautilus.hurt"
+  },
   "entity.zombie_nautilus.swim": {
     "playsound_mapping": "mob.zombie_nautilus.swim"
   },
@@ -7564,5 +7576,8 @@
   "entity.small_sulfur_cube.squish": {
     "playsound_mapping": "mob.sulfur_cube.small.landing"
   },
-  "entity.small_sulfur_cube.eat": {}
+  "entity.small_sulfur_cube.eat": {
+    "playsound_mapping": "random.eat",
+    "pitch_adjust": 2.0
+  }
 }
