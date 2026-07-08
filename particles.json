@@ -97,7 +97,10 @@
 	"DUST_COLOR_TRANSITION": {
 		"eventType": "RED_DUST"
 	},
-	"DUST_PILLAR": {},
+	"DUST_PILLAR": {
+		"eventType": "PARTICLE_SMASH_ATTACK_GROUND_DUST",
+		"bedrockId": "minecraft:smash_ground_particle"
+	},
 	"DUST_PLUME": {
 		"eventType": "DUST_PLUME",
 		"bedrockId": "minecraft:dust_plume"
@@ -190,10 +193,15 @@
 	"GLOW_SQUID_INK": {
 		"eventType": "INK"
 	},
-	"GUST": {},
-	"GUST_EMITTER_LARGE": {},
+	"GUST": {
+		"bedrockId": "minecraft:breeze_wind_explosion_emitter"
+	},
+	"GUST_EMITTER_LARGE": {
+		"bedrockId": "minecraft:wind_explosion_emitter"
+	},
 	"GUST_EMITTER_SMALL": {
-		"eventType": "PARTICLE_WIND_EXPLOSION"
+		"eventType": "PARTICLE_BREEZE_WIND_EXPLOSION",
+		"bedrockId": "minecraft:breeze_wind_explosion_emitter"
 	},
 	"HAPPY_VILLAGER": {
 		"eventType": "VILLAGER_HAPPY",
@@ -299,7 +307,9 @@
 	"SMALL_FLAME": {
 		"bedrockId": "minecraft:candle_flame_particle"
 	},
-	"SMALL_GUST": {},
+	"SMALL_GUST": {
+		"bedrockId": "minecraft:wind_charged_emitter"
+	},
 	"SMOKE": {
 		"eventType": "SMOKE"
 	},
