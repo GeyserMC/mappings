@@ -158,6 +158,9 @@
   "minecraft:stony_shore": {
     "bedrock_id": 25
   },
+  "minecraft:sulfur_caves": {
+    "bedrock_id": 194
+  },
   "minecraft:sunflower_plains": {
     "bedrock_id": 129
   },
