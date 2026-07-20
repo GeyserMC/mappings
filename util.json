@@ -1,4 +1,13 @@
 {
+  "game_master_blocks": [
+    "minecraft:chain_command_block",
+    "minecraft:command_block",
+    "minecraft:jigsaw",
+    "minecraft:repeating_command_block",
+    "minecraft:structure_block",
+    "minecraft:test_block",
+    "minecraft:test_instance_block"
+  ],
   "dangerous_block_entities": [
     "minecraft:command_block",
     "minecraft:hanging_sign",
@@ -12,13 +21,23 @@
     "minecraft:falling_block",
     "minecraft:spawner_minecart"
   ],
-  "game_master_blocks": [
-    "minecraft:command_block",
-    "minecraft:repeating_command_block",
-    "minecraft:chain_command_block",
-    "minecraft:structure_block",
-    "minecraft:jigsaw",
-    "minecraft:test_block",
-    "minecraft:test_instance_block"
+  "suspicious_effect_holders": [
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:blue_orchid",
+    "minecraft:closed_eyeblossom",
+    "minecraft:cornflower",
+    "minecraft:dandelion",
+    "minecraft:golden_dandelion",
+    "minecraft:lily_of_the_valley",
+    "minecraft:open_eyeblossom",
+    "minecraft:orange_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:pink_tulip",
+    "minecraft:poppy",
+    "minecraft:red_tulip",
+    "minecraft:torchflower",
+    "minecraft:white_tulip",
+    "minecraft:wither_rose"
   ]
 }
