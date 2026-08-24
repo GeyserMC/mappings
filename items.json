@@ -1,21 +1,25 @@
 {
   "minecraft:acacia_boat": {
     "bedrock_identifier": "minecraft:acacia_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:acacia_button": {
     "bedrock_identifier": "minecraft:acacia_button",
     "firstBlockRuntimeId": 10771,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10794
   },
   "minecraft:acacia_chest_boat": {
     "bedrock_identifier": "minecraft:acacia_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:acacia_door": {
     "bedrock_identifier": "minecraft:acacia_door",
     "firstBlockRuntimeId": 14252,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14315
   },
@@ -23,18 +27,21 @@
     "bedrock_data": 4,
     "bedrock_identifier": "minecraft:acacia_fence",
     "firstBlockRuntimeId": 13868,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13899
   },
   "minecraft:acacia_fence_gate": {
     "bedrock_identifier": "minecraft:acacia_fence_gate",
     "firstBlockRuntimeId": 13580,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13611
   },
   "minecraft:acacia_hanging_sign": {
     "bedrock_identifier": "minecraft:acacia_hanging_sign",
     "firstBlockRuntimeId": 6099,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6162
   },
@@ -47,6 +54,7 @@
   "minecraft:acacia_log": {
     "bedrock_identifier": "minecraft:acacia_log",
     "firstBlockRuntimeId": 148,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 150
   },
@@ -54,48 +62,56 @@
     "bedrock_data": 4,
     "bedrock_identifier": "minecraft:acacia_planks",
     "firstBlockRuntimeId": 19,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 19
   },
   "minecraft:acacia_pressure_plate": {
     "bedrock_identifier": "minecraft:acacia_pressure_plate",
     "firstBlockRuntimeId": 6869,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6870
   },
   "minecraft:acacia_sapling": {
     "bedrock_identifier": "minecraft:acacia_sapling",
     "firstBlockRuntimeId": 37,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 38
   },
   "minecraft:acacia_shelf": {
     "bedrock_identifier": "minecraft:acacia_shelf",
     "firstBlockRuntimeId": 2600,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2663
   },
   "minecraft:acacia_sign": {
     "bedrock_identifier": "minecraft:acacia_sign",
     "firstBlockRuntimeId": 5431,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5462
   },
   "minecraft:acacia_slab": {
     "bedrock_identifier": "minecraft:acacia_slab",
     "firstBlockRuntimeId": 13354,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13359
   },
   "minecraft:acacia_stairs": {
     "bedrock_identifier": "minecraft:acacia_stairs",
     "firstBlockRuntimeId": 11972,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12051
   },
   "minecraft:acacia_trapdoor": {
     "bedrock_identifier": "minecraft:acacia_trapdoor",
     "firstBlockRuntimeId": 7370,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7433
   },
@@ -103,6 +119,7 @@
     "bedrock_data": 4,
     "bedrock_identifier": "minecraft:acacia_wood",
     "firstBlockRuntimeId": 213,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 215
   },
@@ -213,6 +230,7 @@
   "minecraft:azalea": {
     "bedrock_identifier": "minecraft:azalea",
     "firstBlockRuntimeId": 30304,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 30304
   },
@@ -234,116 +252,136 @@
   "minecraft:bamboo": {
     "bedrock_identifier": "minecraft:bamboo",
     "firstBlockRuntimeId": 15279,
+    "fuel_duration": 50,
     "is_block": true,
     "lastBlockRuntimeId": 15290
   },
   "minecraft:bamboo_block": {
     "bedrock_identifier": "minecraft:bamboo_block",
     "firstBlockRuntimeId": 168,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 170
   },
   "minecraft:bamboo_button": {
     "bedrock_identifier": "minecraft:bamboo_button",
     "firstBlockRuntimeId": 10891,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10914
   },
   "minecraft:bamboo_chest_raft": {
     "bedrock_identifier": "minecraft:bamboo_chest_raft",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:bamboo_door": {
     "bedrock_identifier": "minecraft:bamboo_door",
     "firstBlockRuntimeId": 14572,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14635
   },
   "minecraft:bamboo_fence": {
     "bedrock_identifier": "minecraft:bamboo_fence",
     "firstBlockRuntimeId": 14028,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 14059
   },
   "minecraft:bamboo_fence_gate": {
     "bedrock_identifier": "minecraft:bamboo_fence_gate",
     "firstBlockRuntimeId": 13740,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13771
   },
   "minecraft:bamboo_hanging_sign": {
     "bedrock_identifier": "minecraft:bamboo_hanging_sign",
     "firstBlockRuntimeId": 6611,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6674
   },
   "minecraft:bamboo_mosaic": {
     "bedrock_identifier": "minecraft:bamboo_mosaic",
     "firstBlockRuntimeId": 28,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 28
   },
   "minecraft:bamboo_mosaic_slab": {
     "bedrock_identifier": "minecraft:bamboo_mosaic_slab",
     "firstBlockRuntimeId": 13390,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13395
   },
   "minecraft:bamboo_mosaic_stairs": {
     "bedrock_identifier": "minecraft:bamboo_mosaic_stairs",
     "firstBlockRuntimeId": 12452,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12531
   },
   "minecraft:bamboo_planks": {
     "bedrock_identifier": "minecraft:bamboo_planks",
     "firstBlockRuntimeId": 27,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 27
   },
   "minecraft:bamboo_pressure_plate": {
     "bedrock_identifier": "minecraft:bamboo_pressure_plate",
     "firstBlockRuntimeId": 6879,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6880
   },
   "minecraft:bamboo_raft": {
     "bedrock_identifier": "minecraft:bamboo_raft",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:bamboo_shelf": {
     "bedrock_identifier": "minecraft:bamboo_shelf",
     "firstBlockRuntimeId": 2664,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2727
   },
   "minecraft:bamboo_sign": {
     "bedrock_identifier": "minecraft:bamboo_sign",
     "firstBlockRuntimeId": 5623,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5654
   },
   "minecraft:bamboo_slab": {
     "bedrock_identifier": "minecraft:bamboo_slab",
     "firstBlockRuntimeId": 13384,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13389
   },
   "minecraft:bamboo_stairs": {
     "bedrock_identifier": "minecraft:bamboo_stairs",
     "firstBlockRuntimeId": 12372,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12451
   },
   "minecraft:bamboo_trapdoor": {
     "bedrock_identifier": "minecraft:bamboo_trapdoor",
     "firstBlockRuntimeId": 7690,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7753
   },
   "minecraft:barrel": {
     "bedrock_identifier": "minecraft:barrel",
     "firstBlockRuntimeId": 20742,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20753
   },
@@ -420,21 +458,25 @@
   },
   "minecraft:birch_boat": {
     "bedrock_identifier": "minecraft:birch_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:birch_button": {
     "bedrock_identifier": "minecraft:birch_button",
     "firstBlockRuntimeId": 10723,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10746
   },
   "minecraft:birch_chest_boat": {
     "bedrock_identifier": "minecraft:birch_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:birch_door": {
     "bedrock_identifier": "minecraft:birch_door",
     "firstBlockRuntimeId": 14124,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14187
   },
@@ -442,18 +484,21 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:birch_fence",
     "firstBlockRuntimeId": 13804,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13835
   },
   "minecraft:birch_fence_gate": {
     "bedrock_identifier": "minecraft:birch_fence_gate",
     "firstBlockRuntimeId": 13516,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13547
   },
   "minecraft:birch_hanging_sign": {
     "bedrock_identifier": "minecraft:birch_hanging_sign",
     "firstBlockRuntimeId": 6035,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6098
   },
@@ -468,6 +513,7 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:birch_log",
     "firstBlockRuntimeId": 142,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 144
   },
@@ -475,48 +521,56 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:birch_planks",
     "firstBlockRuntimeId": 17,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 17
   },
   "minecraft:birch_pressure_plate": {
     "bedrock_identifier": "minecraft:birch_pressure_plate",
     "firstBlockRuntimeId": 6865,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6866
   },
   "minecraft:birch_sapling": {
     "bedrock_identifier": "minecraft:birch_sapling",
     "firstBlockRuntimeId": 33,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 34
   },
   "minecraft:birch_shelf": {
     "bedrock_identifier": "minecraft:birch_shelf",
     "firstBlockRuntimeId": 2728,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2791
   },
   "minecraft:birch_sign": {
     "bedrock_identifier": "minecraft:birch_sign",
     "firstBlockRuntimeId": 5399,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5430
   },
   "minecraft:birch_slab": {
     "bedrock_identifier": "minecraft:birch_slab",
     "firstBlockRuntimeId": 13342,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13347
   },
   "minecraft:birch_stairs": {
     "bedrock_identifier": "minecraft:birch_stairs",
     "firstBlockRuntimeId": 9808,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 9887
   },
   "minecraft:birch_trapdoor": {
     "bedrock_identifier": "minecraft:birch_trapdoor",
     "firstBlockRuntimeId": 7242,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7305
   },
@@ -524,12 +578,14 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:birch_wood",
     "firstBlockRuntimeId": 207,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 209
   },
   "minecraft:black_banner": {
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13167,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13182
   },
@@ -553,6 +609,7 @@
     "bedrock_data": 15,
     "bedrock_identifier": "minecraft:black_carpet",
     "firstBlockRuntimeId": 12911,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12911
   },
@@ -613,6 +670,7 @@
   "minecraft:black_wool": {
     "bedrock_identifier": "minecraft:black_wool",
     "firstBlockRuntimeId": 2308,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2308
   },
@@ -653,7 +711,8 @@
     "bedrock_identifier": "minecraft:blaze_powder"
   },
   "minecraft:blaze_rod": {
-    "bedrock_identifier": "minecraft:blaze_rod"
+    "bedrock_identifier": "minecraft:blaze_rod",
+    "fuel_duration": 2400
   },
   "minecraft:blaze_spawn_egg": {
     "bedrock_identifier": "minecraft:blaze_spawn_egg",
@@ -663,6 +722,7 @@
     "bedrock_data": 4,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13103,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13118
   },
@@ -686,6 +746,7 @@
     "bedrock_data": 11,
     "bedrock_identifier": "minecraft:blue_carpet",
     "firstBlockRuntimeId": 12907,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12907
   },
@@ -761,6 +822,7 @@
   "minecraft:blue_wool": {
     "bedrock_identifier": "minecraft:blue_wool",
     "firstBlockRuntimeId": 2304,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2304
   },
@@ -789,6 +851,7 @@
   "minecraft:bookshelf": {
     "bedrock_identifier": "minecraft:bookshelf",
     "firstBlockRuntimeId": 2343,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2343
   },
@@ -796,10 +859,12 @@
     "bedrock_identifier": "minecraft:bordure_indented_banner_pattern"
   },
   "minecraft:bow": {
-    "bedrock_identifier": "minecraft:bow"
+    "bedrock_identifier": "minecraft:bow",
+    "fuel_duration": 300
   },
   "minecraft:bowl": {
-    "bedrock_identifier": "minecraft:bowl"
+    "bedrock_identifier": "minecraft:bowl",
+    "fuel_duration": 100
   },
   "minecraft:brain_coral": {
     "bedrock_data": 1,
@@ -871,6 +936,7 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13119,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13134
   },
@@ -894,6 +960,7 @@
     "bedrock_data": 12,
     "bedrock_identifier": "minecraft:brown_carpet",
     "firstBlockRuntimeId": 12908,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12908
   },
@@ -970,6 +1037,7 @@
   "minecraft:brown_wool": {
     "bedrock_identifier": "minecraft:brown_wool",
     "firstBlockRuntimeId": 2305,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2305
   },
@@ -1078,6 +1146,7 @@
   "minecraft:cartography_table": {
     "bedrock_identifier": "minecraft:cartography_table",
     "firstBlockRuntimeId": 20770,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20770
   },
@@ -1120,43 +1189,51 @@
     "bedrock_identifier": "minecraft:chainmail_leggings"
   },
   "minecraft:charcoal": {
-    "bedrock_identifier": "minecraft:charcoal"
+    "bedrock_identifier": "minecraft:charcoal",
+    "fuel_duration": 1600
   },
   "minecraft:cherry_boat": {
     "bedrock_identifier": "minecraft:cherry_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:cherry_button": {
     "bedrock_identifier": "minecraft:cherry_button",
     "firstBlockRuntimeId": 10795,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10818
   },
   "minecraft:cherry_chest_boat": {
     "bedrock_identifier": "minecraft:cherry_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:cherry_door": {
     "bedrock_identifier": "minecraft:cherry_door",
     "firstBlockRuntimeId": 14316,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14379
   },
   "minecraft:cherry_fence": {
     "bedrock_identifier": "minecraft:cherry_fence",
     "firstBlockRuntimeId": 13900,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13931
   },
   "minecraft:cherry_fence_gate": {
     "bedrock_identifier": "minecraft:cherry_fence_gate",
     "firstBlockRuntimeId": 13612,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13643
   },
   "minecraft:cherry_hanging_sign": {
     "bedrock_identifier": "minecraft:cherry_hanging_sign",
     "firstBlockRuntimeId": 6163,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6226
   },
@@ -1169,66 +1246,77 @@
   "minecraft:cherry_log": {
     "bedrock_identifier": "minecraft:cherry_log",
     "firstBlockRuntimeId": 151,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 153
   },
   "minecraft:cherry_planks": {
     "bedrock_identifier": "minecraft:cherry_planks",
     "firstBlockRuntimeId": 20,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20
   },
   "minecraft:cherry_pressure_plate": {
     "bedrock_identifier": "minecraft:cherry_pressure_plate",
     "firstBlockRuntimeId": 6871,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6872
   },
   "minecraft:cherry_sapling": {
     "bedrock_identifier": "minecraft:cherry_sapling",
     "firstBlockRuntimeId": 39,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 40
   },
   "minecraft:cherry_shelf": {
     "bedrock_identifier": "minecraft:cherry_shelf",
     "firstBlockRuntimeId": 2792,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2855
   },
   "minecraft:cherry_sign": {
     "bedrock_identifier": "minecraft:cherry_sign",
     "firstBlockRuntimeId": 5463,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5494
   },
   "minecraft:cherry_slab": {
     "bedrock_identifier": "minecraft:cherry_slab",
     "firstBlockRuntimeId": 13360,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13365
   },
   "minecraft:cherry_stairs": {
     "bedrock_identifier": "minecraft:cherry_stairs",
     "firstBlockRuntimeId": 12052,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12131
   },
   "minecraft:cherry_trapdoor": {
     "bedrock_identifier": "minecraft:cherry_trapdoor",
     "firstBlockRuntimeId": 7434,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7497
   },
   "minecraft:cherry_wood": {
     "bedrock_identifier": "minecraft:cherry_wood",
     "firstBlockRuntimeId": 216,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 218
   },
   "minecraft:chest": {
     "bedrock_identifier": "minecraft:chest",
     "firstBlockRuntimeId": 3987,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 4010
   },
@@ -1252,6 +1340,7 @@
   "minecraft:chiseled_bookshelf": {
     "bedrock_identifier": "minecraft:chiseled_bookshelf",
     "firstBlockRuntimeId": 2344,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2599
   },
@@ -1415,11 +1504,13 @@
     "lastBlockRuntimeId": 32362
   },
   "minecraft:coal": {
-    "bedrock_identifier": "minecraft:coal"
+    "bedrock_identifier": "minecraft:coal",
+    "fuel_duration": 1600
   },
   "minecraft:coal_block": {
     "bedrock_identifier": "minecraft:coal_block",
     "firstBlockRuntimeId": 12913,
+    "fuel_duration": 16000,
     "is_block": true,
     "lastBlockRuntimeId": 12913
   },
@@ -1531,6 +1622,7 @@
   "minecraft:composter": {
     "bedrock_identifier": "minecraft:composter",
     "firstBlockRuntimeId": 21743,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 21751
   },
@@ -1731,6 +1823,7 @@
   "minecraft:crafting_table": {
     "bedrock_identifier": "minecraft:crafting_table",
     "firstBlockRuntimeId": 5310,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 5310
   },
@@ -1860,7 +1953,8 @@
     "lastBlockRuntimeId": 21177
   },
   "minecraft:crossbow": {
-    "bedrock_identifier": "minecraft:crossbow"
+    "bedrock_identifier": "minecraft:crossbow",
+    "fuel_duration": 300
   },
   "minecraft:crying_obsidian": {
     "bedrock_identifier": "minecraft:crying_obsidian",
@@ -1914,6 +2008,7 @@
     "bedrock_data": 6,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13071,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13086
   },
@@ -1937,6 +2032,7 @@
     "bedrock_data": 9,
     "bedrock_identifier": "minecraft:cyan_carpet",
     "firstBlockRuntimeId": 12905,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12905
   },
@@ -1997,6 +2093,7 @@
   "minecraft:cyan_wool": {
     "bedrock_identifier": "minecraft:cyan_wool",
     "firstBlockRuntimeId": 2302,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2302
   },
@@ -2017,21 +2114,25 @@
   },
   "minecraft:dark_oak_boat": {
     "bedrock_identifier": "minecraft:dark_oak_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:dark_oak_button": {
     "bedrock_identifier": "minecraft:dark_oak_button",
     "firstBlockRuntimeId": 10819,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10842
   },
   "minecraft:dark_oak_chest_boat": {
     "bedrock_identifier": "minecraft:dark_oak_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:dark_oak_door": {
     "bedrock_identifier": "minecraft:dark_oak_door",
     "firstBlockRuntimeId": 14380,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14443
   },
@@ -2039,18 +2140,21 @@
     "bedrock_data": 5,
     "bedrock_identifier": "minecraft:dark_oak_fence",
     "firstBlockRuntimeId": 13932,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13963
   },
   "minecraft:dark_oak_fence_gate": {
     "bedrock_identifier": "minecraft:dark_oak_fence_gate",
     "firstBlockRuntimeId": 13644,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13675
   },
   "minecraft:dark_oak_hanging_sign": {
     "bedrock_identifier": "minecraft:dark_oak_hanging_sign",
     "firstBlockRuntimeId": 6291,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6354
   },
@@ -2065,6 +2169,7 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:dark_oak_log",
     "firstBlockRuntimeId": 154,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 156
   },
@@ -2072,48 +2177,56 @@
     "bedrock_data": 5,
     "bedrock_identifier": "minecraft:dark_oak_planks",
     "firstBlockRuntimeId": 21,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 21
   },
   "minecraft:dark_oak_pressure_plate": {
     "bedrock_identifier": "minecraft:dark_oak_pressure_plate",
     "firstBlockRuntimeId": 6873,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6874
   },
   "minecraft:dark_oak_sapling": {
     "bedrock_identifier": "minecraft:dark_oak_sapling",
     "firstBlockRuntimeId": 41,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 42
   },
   "minecraft:dark_oak_shelf": {
     "bedrock_identifier": "minecraft:dark_oak_shelf",
     "firstBlockRuntimeId": 2920,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 2983
   },
   "minecraft:dark_oak_sign": {
     "bedrock_identifier": "minecraft:dark_oak_sign",
     "firstBlockRuntimeId": 5527,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5558
   },
   "minecraft:dark_oak_slab": {
     "bedrock_identifier": "minecraft:dark_oak_slab",
     "firstBlockRuntimeId": 13366,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13371
   },
   "minecraft:dark_oak_stairs": {
     "bedrock_identifier": "minecraft:dark_oak_stairs",
     "firstBlockRuntimeId": 12132,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12211
   },
   "minecraft:dark_oak_trapdoor": {
     "bedrock_identifier": "minecraft:dark_oak_trapdoor",
     "firstBlockRuntimeId": 7498,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7561
   },
@@ -2121,6 +2234,7 @@
     "bedrock_data": 5,
     "bedrock_identifier": "minecraft:dark_oak_wood",
     "firstBlockRuntimeId": 219,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 221
   },
@@ -2145,6 +2259,7 @@
   "minecraft:daylight_detector": {
     "bedrock_identifier": "minecraft:daylight_detector",
     "firstBlockRuntimeId": 11279,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 11310
   },
@@ -2189,6 +2304,7 @@
   "minecraft:dead_bush": {
     "bedrock_identifier": "minecraft:deadbush",
     "firstBlockRuntimeId": 2250,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2250
   },
@@ -2500,6 +2616,7 @@
   "minecraft:dried_kelp_block": {
     "bedrock_identifier": "minecraft:dried_kelp_block",
     "firstBlockRuntimeId": 15089,
+    "fuel_duration": 4001,
     "is_block": true,
     "lastBlockRuntimeId": 15089
   },
@@ -2796,11 +2913,13 @@
     "bedrock_identifier": "minecraft:firework_star"
   },
   "minecraft:fishing_rod": {
-    "bedrock_identifier": "minecraft:fishing_rod"
+    "bedrock_identifier": "minecraft:fishing_rod",
+    "fuel_duration": 300
   },
   "minecraft:fletching_table": {
     "bedrock_identifier": "minecraft:fletching_table",
     "firstBlockRuntimeId": 20771,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20771
   },
@@ -2831,6 +2950,7 @@
   "minecraft:flowering_azalea": {
     "bedrock_identifier": "minecraft:flowering_azalea",
     "firstBlockRuntimeId": 30305,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 30305
   },
@@ -3047,6 +3167,7 @@
     "bedrock_data": 8,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13039,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13054
   },
@@ -3070,6 +3191,7 @@
     "bedrock_data": 7,
     "bedrock_identifier": "minecraft:gray_carpet",
     "firstBlockRuntimeId": 12903,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12903
   },
@@ -3130,6 +3252,7 @@
   "minecraft:gray_wool": {
     "bedrock_identifier": "minecraft:gray_wool",
     "firstBlockRuntimeId": 2300,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2300
   },
@@ -3137,6 +3260,7 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13135,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13150
   },
@@ -3160,6 +3284,7 @@
     "bedrock_data": 13,
     "bedrock_identifier": "minecraft:green_carpet",
     "firstBlockRuntimeId": 12909,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12909
   },
@@ -3220,6 +3345,7 @@
   "minecraft:green_wool": {
     "bedrock_identifier": "minecraft:green_wool",
     "firstBlockRuntimeId": 2306,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2306
   },
@@ -3495,26 +3621,31 @@
   "minecraft:jukebox": {
     "bedrock_identifier": "minecraft:jukebox",
     "firstBlockRuntimeId": 6963,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6964
   },
   "minecraft:jungle_boat": {
     "bedrock_identifier": "minecraft:jungle_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:jungle_button": {
     "bedrock_identifier": "minecraft:jungle_button",
     "firstBlockRuntimeId": 10747,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10770
   },
   "minecraft:jungle_chest_boat": {
     "bedrock_identifier": "minecraft:jungle_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:jungle_door": {
     "bedrock_identifier": "minecraft:jungle_door",
     "firstBlockRuntimeId": 14188,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14251
   },
@@ -3522,18 +3653,21 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:jungle_fence",
     "firstBlockRuntimeId": 13836,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13867
   },
   "minecraft:jungle_fence_gate": {
     "bedrock_identifier": "minecraft:jungle_fence_gate",
     "firstBlockRuntimeId": 13548,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13579
   },
   "minecraft:jungle_hanging_sign": {
     "bedrock_identifier": "minecraft:jungle_hanging_sign",
     "firstBlockRuntimeId": 6227,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6290
   },
@@ -3548,6 +3682,7 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:jungle_log",
     "firstBlockRuntimeId": 145,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 147
   },
@@ -3555,48 +3690,56 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:jungle_planks",
     "firstBlockRuntimeId": 18,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 18
   },
   "minecraft:jungle_pressure_plate": {
     "bedrock_identifier": "minecraft:jungle_pressure_plate",
     "firstBlockRuntimeId": 6867,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6868
   },
   "minecraft:jungle_sapling": {
     "bedrock_identifier": "minecraft:jungle_sapling",
     "firstBlockRuntimeId": 35,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 36
   },
   "minecraft:jungle_shelf": {
     "bedrock_identifier": "minecraft:jungle_shelf",
     "firstBlockRuntimeId": 2984,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3047
   },
   "minecraft:jungle_sign": {
     "bedrock_identifier": "minecraft:jungle_sign",
     "firstBlockRuntimeId": 5495,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5526
   },
   "minecraft:jungle_slab": {
     "bedrock_identifier": "minecraft:jungle_slab",
     "firstBlockRuntimeId": 13348,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13353
   },
   "minecraft:jungle_stairs": {
     "bedrock_identifier": "minecraft:jungle_stairs",
     "firstBlockRuntimeId": 9888,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 9967
   },
   "minecraft:jungle_trapdoor": {
     "bedrock_identifier": "minecraft:jungle_trapdoor",
     "firstBlockRuntimeId": 7306,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7369
   },
@@ -3604,6 +3747,7 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:jungle_wood",
     "firstBlockRuntimeId": 210,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 212
   },
@@ -3619,6 +3763,7 @@
   "minecraft:ladder": {
     "bedrock_identifier": "minecraft:ladder",
     "firstBlockRuntimeId": 5719,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 5726
   },
@@ -3656,7 +3801,8 @@
     "lastBlockRuntimeId": 12926
   },
   "minecraft:lava_bucket": {
-    "bedrock_identifier": "minecraft:lava_bucket"
+    "bedrock_identifier": "minecraft:lava_bucket",
+    "fuel_duration": 20000
   },
   "minecraft:lead": {
     "bedrock_identifier": "minecraft:lead"
@@ -3664,6 +3810,7 @@
   "minecraft:leaf_litter": {
     "bedrock_identifier": "minecraft:leaf_litter",
     "firstBlockRuntimeId": 30339,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 30354
   },
@@ -3688,6 +3835,7 @@
   "minecraft:lectern": {
     "bedrock_identifier": "minecraft:lectern",
     "firstBlockRuntimeId": 20784,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20799
   },
@@ -3707,6 +3855,7 @@
     "bedrock_data": 12,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 12975,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12990
   },
@@ -3730,6 +3879,7 @@
     "bedrock_data": 3,
     "bedrock_identifier": "minecraft:light_blue_carpet",
     "firstBlockRuntimeId": 12899,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12899
   },
@@ -3790,6 +3940,7 @@
   "minecraft:light_blue_wool": {
     "bedrock_identifier": "minecraft:light_blue_wool",
     "firstBlockRuntimeId": 2296,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2296
   },
@@ -3797,6 +3948,7 @@
     "bedrock_data": 7,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13055,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13070
   },
@@ -3820,6 +3972,7 @@
     "bedrock_data": 8,
     "bedrock_identifier": "minecraft:light_gray_carpet",
     "firstBlockRuntimeId": 12904,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12904
   },
@@ -3881,6 +4034,7 @@
     "bedrock_data": 8,
     "bedrock_identifier": "minecraft:light_gray_wool",
     "firstBlockRuntimeId": 2301,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2301
   },
@@ -3918,6 +4072,7 @@
     "bedrock_data": 10,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13007,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13022
   },
@@ -3941,6 +4096,7 @@
     "bedrock_data": 5,
     "bedrock_identifier": "minecraft:lime_carpet",
     "firstBlockRuntimeId": 12901,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12901
   },
@@ -4001,6 +4157,7 @@
   "minecraft:lime_wool": {
     "bedrock_identifier": "minecraft:lime_wool",
     "firstBlockRuntimeId": 2298,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2298
   },
@@ -4020,6 +4177,7 @@
   "minecraft:loom": {
     "bedrock_identifier": "minecraft:loom",
     "firstBlockRuntimeId": 20738,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20741
   },
@@ -4030,6 +4188,7 @@
     "bedrock_data": 13,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 12959,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12974
   },
@@ -4053,6 +4212,7 @@
     "bedrock_data": 2,
     "bedrock_identifier": "minecraft:magenta_carpet",
     "firstBlockRuntimeId": 12898,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12898
   },
@@ -4113,6 +4273,7 @@
   "minecraft:magenta_wool": {
     "bedrock_identifier": "minecraft:magenta_wool",
     "firstBlockRuntimeId": 2295,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2295
   },
@@ -4131,39 +4292,46 @@
   },
   "minecraft:mangrove_boat": {
     "bedrock_identifier": "minecraft:mangrove_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:mangrove_button": {
     "bedrock_identifier": "minecraft:mangrove_button",
     "firstBlockRuntimeId": 10867,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10890
   },
   "minecraft:mangrove_chest_boat": {
     "bedrock_identifier": "minecraft:mangrove_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:mangrove_door": {
     "bedrock_identifier": "minecraft:mangrove_door",
     "firstBlockRuntimeId": 14508,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14571
   },
   "minecraft:mangrove_fence": {
     "bedrock_identifier": "minecraft:mangrove_fence",
     "firstBlockRuntimeId": 13996,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 14027
   },
   "minecraft:mangrove_fence_gate": {
     "bedrock_identifier": "minecraft:mangrove_fence_gate",
     "firstBlockRuntimeId": 13708,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13739
   },
   "minecraft:mangrove_hanging_sign": {
     "bedrock_identifier": "minecraft:mangrove_hanging_sign",
     "firstBlockRuntimeId": 6547,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6610
   },
@@ -4176,66 +4344,77 @@
   "minecraft:mangrove_log": {
     "bedrock_identifier": "minecraft:mangrove_log",
     "firstBlockRuntimeId": 160,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 162
   },
   "minecraft:mangrove_planks": {
     "bedrock_identifier": "minecraft:mangrove_planks",
     "firstBlockRuntimeId": 26,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 26
   },
   "minecraft:mangrove_pressure_plate": {
     "bedrock_identifier": "minecraft:mangrove_pressure_plate",
     "firstBlockRuntimeId": 6877,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6878
   },
   "minecraft:mangrove_propagule": {
     "bedrock_identifier": "minecraft:mangrove_propagule",
     "firstBlockRuntimeId": 45,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 84
   },
   "minecraft:mangrove_roots": {
     "bedrock_identifier": "minecraft:mangrove_roots",
     "firstBlockRuntimeId": 163,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 164
   },
   "minecraft:mangrove_shelf": {
     "bedrock_identifier": "minecraft:mangrove_shelf",
     "firstBlockRuntimeId": 3048,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3111
   },
   "minecraft:mangrove_sign": {
     "bedrock_identifier": "minecraft:mangrove_sign",
     "firstBlockRuntimeId": 5591,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5622
   },
   "minecraft:mangrove_slab": {
     "bedrock_identifier": "minecraft:mangrove_slab",
     "firstBlockRuntimeId": 13378,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13383
   },
   "minecraft:mangrove_stairs": {
     "bedrock_identifier": "minecraft:mangrove_stairs",
     "firstBlockRuntimeId": 12292,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12371
   },
   "minecraft:mangrove_trapdoor": {
     "bedrock_identifier": "minecraft:mangrove_trapdoor",
     "firstBlockRuntimeId": 7626,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7689
   },
   "minecraft:mangrove_wood": {
     "bedrock_identifier": "minecraft:mangrove_wood",
     "firstBlockRuntimeId": 222,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 224
   },
@@ -4606,44 +4785,52 @@
   "minecraft:note_block": {
     "bedrock_identifier": "minecraft:noteblock",
     "firstBlockRuntimeId": 581,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 1930
   },
   "minecraft:oak_boat": {
     "bedrock_identifier": "minecraft:oak_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:oak_button": {
     "bedrock_identifier": "minecraft:wooden_button",
     "firstBlockRuntimeId": 10675,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10698
   },
   "minecraft:oak_chest_boat": {
     "bedrock_identifier": "minecraft:oak_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:oak_door": {
     "bedrock_identifier": "minecraft:wooden_door",
     "firstBlockRuntimeId": 5655,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5718
   },
   "minecraft:oak_fence": {
     "bedrock_identifier": "minecraft:oak_fence",
     "firstBlockRuntimeId": 6965,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6996
   },
   "minecraft:oak_fence_gate": {
     "bedrock_identifier": "minecraft:fence_gate",
     "firstBlockRuntimeId": 8646,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 8677
   },
   "minecraft:oak_hanging_sign": {
     "bedrock_identifier": "minecraft:oak_hanging_sign",
     "firstBlockRuntimeId": 5907,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 5970
   },
@@ -4656,60 +4843,70 @@
   "minecraft:oak_log": {
     "bedrock_identifier": "minecraft:oak_log",
     "firstBlockRuntimeId": 136,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 138
   },
   "minecraft:oak_planks": {
     "bedrock_identifier": "minecraft:oak_planks",
     "firstBlockRuntimeId": 15,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 15
   },
   "minecraft:oak_pressure_plate": {
     "bedrock_identifier": "minecraft:wooden_pressure_plate",
     "firstBlockRuntimeId": 6861,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6862
   },
   "minecraft:oak_sapling": {
     "bedrock_identifier": "minecraft:oak_sapling",
     "firstBlockRuntimeId": 29,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 30
   },
   "minecraft:oak_shelf": {
     "bedrock_identifier": "minecraft:oak_shelf",
     "firstBlockRuntimeId": 3112,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3175
   },
   "minecraft:oak_sign": {
     "bedrock_identifier": "minecraft:oak_sign",
     "firstBlockRuntimeId": 5335,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5366
   },
   "minecraft:oak_slab": {
     "bedrock_identifier": "minecraft:oak_slab",
     "firstBlockRuntimeId": 13330,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13335
   },
   "minecraft:oak_stairs": {
     "bedrock_identifier": "minecraft:oak_stairs",
     "firstBlockRuntimeId": 3907,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3986
   },
   "minecraft:oak_trapdoor": {
     "bedrock_identifier": "minecraft:trapdoor",
     "firstBlockRuntimeId": 7114,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7177
   },
   "minecraft:oak_wood": {
     "bedrock_identifier": "minecraft:oak_wood",
     "firstBlockRuntimeId": 201,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 203
   },
@@ -4751,6 +4948,7 @@
     "bedrock_data": 14,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 12943,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12958
   },
@@ -4774,6 +4972,7 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:orange_carpet",
     "firstBlockRuntimeId": 12897,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12897
   },
@@ -4840,6 +5039,7 @@
   "minecraft:orange_wool": {
     "bedrock_identifier": "minecraft:orange_wool",
     "firstBlockRuntimeId": 2294,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2294
   },
@@ -4974,39 +5174,46 @@
   },
   "minecraft:pale_oak_boat": {
     "bedrock_identifier": "minecraft:pale_oak_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:pale_oak_button": {
     "bedrock_identifier": "minecraft:pale_oak_button",
     "firstBlockRuntimeId": 10843,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10866
   },
   "minecraft:pale_oak_chest_boat": {
     "bedrock_identifier": "minecraft:pale_oak_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:pale_oak_door": {
     "bedrock_identifier": "minecraft:pale_oak_door",
     "firstBlockRuntimeId": 14444,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14507
   },
   "minecraft:pale_oak_fence": {
     "bedrock_identifier": "minecraft:pale_oak_fence",
     "firstBlockRuntimeId": 13964,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13995
   },
   "minecraft:pale_oak_fence_gate": {
     "bedrock_identifier": "minecraft:pale_oak_fence_gate",
     "firstBlockRuntimeId": 13676,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13707
   },
   "minecraft:pale_oak_hanging_sign": {
     "bedrock_identifier": "minecraft:pale_oak_hanging_sign",
     "firstBlockRuntimeId": 6355,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6418
   },
@@ -5019,60 +5226,70 @@
   "minecraft:pale_oak_log": {
     "bedrock_identifier": "minecraft:pale_oak_log",
     "firstBlockRuntimeId": 157,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 159
   },
   "minecraft:pale_oak_planks": {
     "bedrock_identifier": "minecraft:pale_oak_planks",
     "firstBlockRuntimeId": 25,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 25
   },
   "minecraft:pale_oak_pressure_plate": {
     "bedrock_identifier": "minecraft:pale_oak_pressure_plate",
     "firstBlockRuntimeId": 6875,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6876
   },
   "minecraft:pale_oak_sapling": {
     "bedrock_identifier": "minecraft:pale_oak_sapling",
     "firstBlockRuntimeId": 43,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 44
   },
   "minecraft:pale_oak_shelf": {
     "bedrock_identifier": "minecraft:pale_oak_shelf",
     "firstBlockRuntimeId": 3176,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3239
   },
   "minecraft:pale_oak_sign": {
     "bedrock_identifier": "minecraft:pale_oak_sign",
     "firstBlockRuntimeId": 5559,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5590
   },
   "minecraft:pale_oak_slab": {
     "bedrock_identifier": "minecraft:pale_oak_slab",
     "firstBlockRuntimeId": 13372,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13377
   },
   "minecraft:pale_oak_stairs": {
     "bedrock_identifier": "minecraft:pale_oak_stairs",
     "firstBlockRuntimeId": 12212,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12291
   },
   "minecraft:pale_oak_trapdoor": {
     "bedrock_identifier": "minecraft:pale_oak_trapdoor",
     "firstBlockRuntimeId": 7562,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7625
   },
   "minecraft:pale_oak_wood": {
     "bedrock_identifier": "minecraft:pale_oak_wood",
     "firstBlockRuntimeId": 22,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 24
   },
@@ -5145,6 +5362,7 @@
     "bedrock_data": 9,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13023,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13038
   },
@@ -5168,6 +5386,7 @@
     "bedrock_data": 6,
     "bedrock_identifier": "minecraft:pink_carpet",
     "firstBlockRuntimeId": 12902,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12902
   },
@@ -5240,6 +5459,7 @@
   "minecraft:pink_wool": {
     "bedrock_identifier": "minecraft:pink_wool",
     "firstBlockRuntimeId": 2299,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2299
   },
@@ -5629,6 +5849,7 @@
     "bedrock_data": 5,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13087,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13102
   },
@@ -5652,6 +5873,7 @@
     "bedrock_data": 10,
     "bedrock_identifier": "minecraft:purple_carpet",
     "firstBlockRuntimeId": 12906,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12906
   },
@@ -5712,6 +5934,7 @@
   "minecraft:purple_wool": {
     "bedrock_identifier": "minecraft:purple_wool",
     "firstBlockRuntimeId": 2303,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2303
   },
@@ -5836,6 +6059,7 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 13151,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13166
   },
@@ -5859,6 +6083,7 @@
     "bedrock_data": 14,
     "bedrock_identifier": "minecraft:red_carpet",
     "firstBlockRuntimeId": 12910,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12910
   },
@@ -5994,6 +6219,7 @@
   "minecraft:red_wool": {
     "bedrock_identifier": "minecraft:red_wool",
     "firstBlockRuntimeId": 2307,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2307
   },
@@ -6155,6 +6381,7 @@
   "minecraft:scaffolding": {
     "bedrock_identifier": "minecraft:scaffolding",
     "firstBlockRuntimeId": 20706,
+    "fuel_duration": 50,
     "is_block": true,
     "lastBlockRuntimeId": 20737
   },
@@ -6234,6 +6461,7 @@
   "minecraft:short_dry_grass": {
     "bedrock_identifier": "minecraft:short_dry_grass",
     "firstBlockRuntimeId": 2252,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2252
   },
@@ -6317,6 +6545,7 @@
   "minecraft:smithing_table": {
     "bedrock_identifier": "minecraft:smithing_table",
     "firstBlockRuntimeId": 20800,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 20800
   },
@@ -6499,21 +6728,25 @@
   },
   "minecraft:spruce_boat": {
     "bedrock_identifier": "minecraft:spruce_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:spruce_button": {
     "bedrock_identifier": "minecraft:spruce_button",
     "firstBlockRuntimeId": 10699,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 10722
   },
   "minecraft:spruce_chest_boat": {
     "bedrock_identifier": "minecraft:spruce_chest_boat",
+    "fuel_duration": 1200,
     "is_entity_placer": true
   },
   "minecraft:spruce_door": {
     "bedrock_identifier": "minecraft:spruce_door",
     "firstBlockRuntimeId": 14060,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 14123
   },
@@ -6521,18 +6754,21 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:spruce_fence",
     "firstBlockRuntimeId": 13772,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13803
   },
   "minecraft:spruce_fence_gate": {
     "bedrock_identifier": "minecraft:spruce_fence_gate",
     "firstBlockRuntimeId": 13484,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13515
   },
   "minecraft:spruce_hanging_sign": {
     "bedrock_identifier": "minecraft:spruce_hanging_sign",
     "firstBlockRuntimeId": 5971,
+    "fuel_duration": 800,
     "is_block": true,
     "lastBlockRuntimeId": 6034
   },
@@ -6547,6 +6783,7 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:spruce_log",
     "firstBlockRuntimeId": 139,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 141
   },
@@ -6554,48 +6791,56 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:spruce_planks",
     "firstBlockRuntimeId": 16,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 16
   },
   "minecraft:spruce_pressure_plate": {
     "bedrock_identifier": "minecraft:spruce_pressure_plate",
     "firstBlockRuntimeId": 6863,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 6864
   },
   "minecraft:spruce_sapling": {
     "bedrock_identifier": "minecraft:spruce_sapling",
     "firstBlockRuntimeId": 31,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 32
   },
   "minecraft:spruce_shelf": {
     "bedrock_identifier": "minecraft:spruce_shelf",
     "firstBlockRuntimeId": 3240,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 3303
   },
   "minecraft:spruce_sign": {
     "bedrock_identifier": "minecraft:spruce_sign",
     "firstBlockRuntimeId": 5367,
+    "fuel_duration": 200,
     "is_block": true,
     "lastBlockRuntimeId": 5398
   },
   "minecraft:spruce_slab": {
     "bedrock_identifier": "minecraft:spruce_slab",
     "firstBlockRuntimeId": 13336,
+    "fuel_duration": 150,
     "is_block": true,
     "lastBlockRuntimeId": 13341
   },
   "minecraft:spruce_stairs": {
     "bedrock_identifier": "minecraft:spruce_stairs",
     "firstBlockRuntimeId": 9728,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 9807
   },
   "minecraft:spruce_trapdoor": {
     "bedrock_identifier": "minecraft:spruce_trapdoor",
     "firstBlockRuntimeId": 7178,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 7241
   },
@@ -6603,6 +6848,7 @@
     "bedrock_data": 1,
     "bedrock_identifier": "minecraft:spruce_wood",
     "firstBlockRuntimeId": 204,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 206
   },
@@ -6614,7 +6860,8 @@
     "is_entity_placer": true
   },
   "minecraft:stick": {
-    "bedrock_identifier": "minecraft:stick"
+    "bedrock_identifier": "minecraft:stick",
+    "fuel_duration": 100
   },
   "minecraft:sticky_piston": {
     "bedrock_data": 1,
@@ -6719,6 +6966,7 @@
   "minecraft:stripped_acacia_log": {
     "bedrock_identifier": "minecraft:stripped_acacia_log",
     "firstBlockRuntimeId": 180,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 182
   },
@@ -6726,18 +6974,21 @@
     "bedrock_data": 12,
     "bedrock_identifier": "minecraft:stripped_acacia_wood",
     "firstBlockRuntimeId": 237,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 239
   },
   "minecraft:stripped_bamboo_block": {
     "bedrock_identifier": "minecraft:stripped_bamboo_block",
     "firstBlockRuntimeId": 198,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 200
   },
   "minecraft:stripped_birch_log": {
     "bedrock_identifier": "minecraft:stripped_birch_log",
     "firstBlockRuntimeId": 174,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 176
   },
@@ -6745,18 +6996,21 @@
     "bedrock_data": 10,
     "bedrock_identifier": "minecraft:stripped_birch_wood",
     "firstBlockRuntimeId": 231,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 233
   },
   "minecraft:stripped_cherry_log": {
     "bedrock_identifier": "minecraft:stripped_cherry_log",
     "firstBlockRuntimeId": 183,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 185
   },
   "minecraft:stripped_cherry_wood": {
     "bedrock_identifier": "minecraft:stripped_cherry_wood",
     "firstBlockRuntimeId": 240,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 242
   },
@@ -6775,6 +7029,7 @@
   "minecraft:stripped_dark_oak_log": {
     "bedrock_identifier": "minecraft:stripped_dark_oak_log",
     "firstBlockRuntimeId": 186,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 188
   },
@@ -6782,12 +7037,14 @@
     "bedrock_data": 13,
     "bedrock_identifier": "minecraft:stripped_dark_oak_wood",
     "firstBlockRuntimeId": 243,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 245
   },
   "minecraft:stripped_jungle_log": {
     "bedrock_identifier": "minecraft:stripped_jungle_log",
     "firstBlockRuntimeId": 177,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 179
   },
@@ -6795,24 +7052,28 @@
     "bedrock_data": 11,
     "bedrock_identifier": "minecraft:stripped_jungle_wood",
     "firstBlockRuntimeId": 234,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 236
   },
   "minecraft:stripped_mangrove_log": {
     "bedrock_identifier": "minecraft:stripped_mangrove_log",
     "firstBlockRuntimeId": 195,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 197
   },
   "minecraft:stripped_mangrove_wood": {
     "bedrock_identifier": "minecraft:stripped_mangrove_wood",
     "firstBlockRuntimeId": 249,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 251
   },
   "minecraft:stripped_oak_log": {
     "bedrock_identifier": "minecraft:stripped_oak_log",
     "firstBlockRuntimeId": 192,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 194
   },
@@ -6820,24 +7081,28 @@
     "bedrock_data": 8,
     "bedrock_identifier": "minecraft:stripped_oak_wood",
     "firstBlockRuntimeId": 225,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 227
   },
   "minecraft:stripped_pale_oak_log": {
     "bedrock_identifier": "minecraft:stripped_pale_oak_log",
     "firstBlockRuntimeId": 189,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 191
   },
   "minecraft:stripped_pale_oak_wood": {
     "bedrock_identifier": "minecraft:stripped_pale_oak_wood",
     "firstBlockRuntimeId": 246,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 248
   },
   "minecraft:stripped_spruce_log": {
     "bedrock_identifier": "minecraft:stripped_spruce_log",
     "firstBlockRuntimeId": 171,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 173
   },
@@ -6845,6 +7110,7 @@
     "bedrock_data": 9,
     "bedrock_identifier": "minecraft:stripped_spruce_wood",
     "firstBlockRuntimeId": 228,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 230
   },
@@ -6979,6 +7245,7 @@
   "minecraft:tall_dry_grass": {
     "bedrock_identifier": "minecraft:tall_dry_grass",
     "firstBlockRuntimeId": 2253,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2253
   },
@@ -7062,6 +7329,7 @@
   "minecraft:trapped_chest": {
     "bedrock_identifier": "minecraft:trapped_chest",
     "firstBlockRuntimeId": 11207,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 11230
   },
@@ -7818,6 +8086,7 @@
     "bedrock_data": 15,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 12927,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 12942
   },
@@ -7839,6 +8108,7 @@
   "minecraft:white_carpet": {
     "bedrock_identifier": "minecraft:white_carpet",
     "firstBlockRuntimeId": 12896,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12896
   },
@@ -7899,6 +8169,7 @@
   "minecraft:white_wool": {
     "bedrock_identifier": "minecraft:white_wool",
     "firstBlockRuntimeId": 2293,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2293
   },
@@ -7946,22 +8217,28 @@
     "is_entity_placer": true
   },
   "minecraft:wooden_axe": {
-    "bedrock_identifier": "minecraft:wooden_axe"
+    "bedrock_identifier": "minecraft:wooden_axe",
+    "fuel_duration": 200
   },
   "minecraft:wooden_hoe": {
-    "bedrock_identifier": "minecraft:wooden_hoe"
+    "bedrock_identifier": "minecraft:wooden_hoe",
+    "fuel_duration": 200
   },
   "minecraft:wooden_pickaxe": {
-    "bedrock_identifier": "minecraft:wooden_pickaxe"
+    "bedrock_identifier": "minecraft:wooden_pickaxe",
+    "fuel_duration": 200
   },
   "minecraft:wooden_shovel": {
-    "bedrock_identifier": "minecraft:wooden_shovel"
+    "bedrock_identifier": "minecraft:wooden_shovel",
+    "fuel_duration": 200
   },
   "minecraft:wooden_spear": {
-    "bedrock_identifier": "minecraft:wooden_spear"
+    "bedrock_identifier": "minecraft:wooden_spear",
+    "fuel_duration": 200
   },
   "minecraft:wooden_sword": {
-    "bedrock_identifier": "minecraft:wooden_sword"
+    "bedrock_identifier": "minecraft:wooden_sword",
+    "fuel_duration": 200
   },
   "minecraft:writable_book": {
     "bedrock_identifier": "minecraft:writable_book"
@@ -7973,6 +8250,7 @@
     "bedrock_data": 11,
     "bedrock_identifier": "minecraft:banner",
     "firstBlockRuntimeId": 12991,
+    "fuel_duration": 300,
     "is_block": true,
     "lastBlockRuntimeId": 13006
   },
@@ -7996,6 +8274,7 @@
     "bedrock_data": 4,
     "bedrock_identifier": "minecraft:yellow_carpet",
     "firstBlockRuntimeId": 12900,
+    "fuel_duration": 67,
     "is_block": true,
     "lastBlockRuntimeId": 12900
   },
@@ -8056,6 +8335,7 @@
   "minecraft:yellow_wool": {
     "bedrock_identifier": "minecraft:yellow_wool",
     "firstBlockRuntimeId": 2297,
+    "fuel_duration": 100,
     "is_block": true,
     "lastBlockRuntimeId": 2297
   },
