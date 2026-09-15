@@ -2702,23 +2702,24 @@
     "playsound_mapping": "block.sulfur.step"
   },
   "block.sulfur_spike.break": {
-    "playsound_mapping": "block.sulfur.break"
+    "playsound_mapping": "block.sulfur_spike.break"
   },
   "block.sulfur_spike.fall": {
-    "playsound_mapping": "block.sulfur.fall"
+    "playsound_mapping": "block.sulfur_spike.fall"
   },
   "block.sulfur_spike.hit": {
-    "playsound_mapping": "block.sulfur.hit"
+    "playsound_mapping": "block.sulfur_spike.hit"
   },
   "block.sulfur_spike.land": {
-    "playsound_mapping": "block.sulfur.fall"
+    "playsound_mapping": "block.sulfur_spike.land"
   },
   "block.sulfur_spike.place": {
     "bedrock_mapping": "PLACE",
-    "identifier": "minecraft:sulfur_spike[thickness=tip,vertical_direction=up,waterlogged=false]"
+    "identifier": "minecraft:sulfur_spike[thickness=tip,vertical_direction=up,waterlogged=false]",
+    "playsound_mapping": "block.sulfur_spike.place"
   },
   "block.sulfur_spike.step": {
-    "playsound_mapping": "block.sulfur.step"
+    "playsound_mapping": "block.sulfur_spike.step"
   },
   "block.suspicious_gravel.break": {
     "playsound_mapping": "break.suspicious_gravel"
@@ -6926,7 +6927,7 @@
     "playsound_mapping": "music.overworld.forest"
   },
   "music.overworld.frozen_peaks": {
-    "playsound_mapping": "music.game.frozen_peaks"
+    "playsound_mapping": "music.overworld.frozen_peaks"
   },
   "music.overworld.grove": {
     "playsound_mapping": "music.overworld.grove"
@@ -6941,7 +6942,7 @@
     "playsound_mapping": "music.overworld.lush_caves"
   },
   "music.overworld.meadow": {
-    "playsound_mapping": "music.game.meadow"
+    "playsound_mapping": "music.overworld.meadow"
   },
   "music.overworld.old_growth_taiga": {
     "playsound_mapping": "music.overworld.old_growth_taiga"
