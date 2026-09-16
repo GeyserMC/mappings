@@ -1106,40 +1106,208 @@
     ],
     [],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
     [],
     [],
     [],
@@ -1953,7 +2121,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:angler",
         "registry": "minecraft:decorated_pot_pattern"
@@ -1962,7 +2130,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:archer",
         "registry": "minecraft:decorated_pot_pattern"
@@ -1971,7 +2139,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:arms_up",
         "registry": "minecraft:decorated_pot_pattern"
@@ -1980,7 +2148,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:blade",
         "registry": "minecraft:decorated_pot_pattern"
@@ -1989,7 +2157,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:brewer",
         "registry": "minecraft:decorated_pot_pattern"
@@ -1998,7 +2166,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:burn",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2007,7 +2175,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:danger",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2016,7 +2184,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:explorer",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2025,7 +2193,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:flow",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2034,7 +2202,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:friend",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2043,7 +2211,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:guster",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2052,7 +2220,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:heart",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2061,7 +2229,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:heartbreak",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2070,7 +2238,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:howl",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2079,7 +2247,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:miner",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2088,7 +2256,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:mourner",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2097,7 +2265,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:plenty",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2106,7 +2274,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:prize",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2115,7 +2283,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:scrape",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2124,7 +2292,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:sheaf",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2133,7 +2301,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:shelter",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2142,7 +2310,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:skull",
         "registry": "minecraft:decorated_pot_pattern"
@@ -2151,7 +2319,7 @@
     [
       {
         "type": "holder",
-        "allows_direct_over_network": true,
+        "allows_direct_over_network": false,
         "component": "minecraft:provides_pottery_pattern",
         "reference": "minecraft:snort",
         "registry": "minecraft:decorated_pot_pattern"
