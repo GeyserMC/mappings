@@ -275,6 +275,9 @@
   "OMINOUS_SPAWNING": {
     "bedrockId": "minecraft:ominous_spawning_particle"
   },
+  "ORANGE_POPLAR_LEAVES": {
+    "eventType": "ORANGE_POPLAR_LEAVES"
+  },
   "PALE_OAK_LEAVES": {
     "eventType": "PALE_OAK_LEAVES"
   },
@@ -294,6 +297,9 @@
   },
   "RAIN": {
     "eventType": "RAIN_SPLASH"
+  },
+  "RED_POPLAR_LEAVES": {
+    "eventType": "RED_POPLAR_LEAVES"
   },
   "RESET_MOB_GROWTH": {
     "eventType": "RESET_MOB_GROWTH"
@@ -411,5 +417,8 @@
   },
   "WITCH": {
     "eventType": "WITCH_SPELL"
+  },
+  "YELLOW_POPLAR_LEAVES": {
+    "eventType": "YELLOW_POPLAR_LEAVES"
   }
 }

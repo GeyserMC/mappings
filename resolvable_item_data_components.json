@@ -745,13 +745,92 @@
     [],
     [],
     [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:redstone",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [],
@@ -934,88 +1013,299 @@
     [],
     [],
     [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:diamond",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:emerald",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:lapis",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:quartz",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:amethyst",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:iron",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:copper",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:gold",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:netherite",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:trim_material"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:shovel",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:axe",
+        "registry": "minecraft:block_transformer"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:block_transformer",
+        "reference": "minecraft:hoe",
+        "registry": "minecraft:block_transformer"
       }
     ],
     [],
@@ -1106,65 +1396,31 @@
     [],
     [],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": false,
         "component": "minecraft:chicken/variant",
-        "registry": "minecraft:chicken_variant",
         "reference": "minecraft:temperate",
-        "allows_direct_over_network": false,
-        "type": "holder"
+        "registry": "minecraft:chicken_variant"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": false,
         "component": "minecraft:chicken/variant",
-        "registry": "minecraft:chicken_variant",
         "reference": "minecraft:cold",
-        "allows_direct_over_network": false,
-        "type": "holder"
+        "registry": "minecraft:chicken_variant"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": false,
         "component": "minecraft:chicken/variant",
-        "registry": "minecraft:chicken_variant",
         "reference": "minecraft:warm",
-        "allows_direct_over_network": false,
-        "type": "holder"
+        "registry": "minecraft:chicken_variant"
       }
     ],
     [],
@@ -1380,329 +1636,362 @@
     [],
     [],
     [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:provides_trim_material",
-        "registry": "minecraft:trim_material",
         "reference": "minecraft:resin",
+        "registry": "minecraft:trim_material"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:damage_type",
+        "reference": "minecraft:spear",
+        "registry": "minecraft:damage_type"
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "type": "holder",
         "allows_direct_over_network": true,
-        "type": "holder"
-      }
-    ],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [
-      {
-        "component": "minecraft:damage_type",
-        "registry": "minecraft:damage_type",
-        "reference": "minecraft:spear",
-        "allows_direct_over_network": false,
-        "type": "holder"
-      }
-    ],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [
-      {
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:13",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:cat",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:blocks",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:bounce",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:chirp",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:creator",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:creator_music_box",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:far",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:lava_chicken",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:mall",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:mellohi",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:stal",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:strad",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:ward",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:11",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:wait",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:otherside",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:relic",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:5",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:pigstep",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:precipice",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [
       {
+        "type": "holder",
+        "allows_direct_over_network": true,
         "component": "minecraft:jukebox_playable",
-        "registry": "minecraft:jukebox_song",
         "reference": "minecraft:tears",
-        "allows_direct_over_network": true,
-        "type": "holder"
+        "registry": "minecraft:jukebox_song"
       }
     ],
     [],
@@ -1729,11 +2018,11 @@
     [],
     [
       {
-        "component": "minecraft:instrument",
-        "registry": "minecraft:instrument",
-        "reference": "minecraft:ponder_goat_horn",
+        "type": "holder",
         "allows_direct_over_network": true,
-        "type": "holder"
+        "component": "minecraft:instrument",
+        "reference": "minecraft:ponder_goat_horn",
+        "registry": "minecraft:instrument"
       }
     ],
     [],
@@ -1829,29 +2118,213 @@
     [],
     [],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:angler",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:archer",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:arms_up",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:blade",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:brewer",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:burn",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:danger",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:explorer",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:flow",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:friend",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:guster",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:heart",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:heartbreak",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:howl",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:miner",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:mourner",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:plenty",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:prize",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:scrape",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:sheaf",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:shelter",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:skull",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
+    [
+      {
+        "type": "holder",
+        "allows_direct_over_network": false,
+        "component": "minecraft:provides_pottery_pattern",
+        "reference": "minecraft:snort",
+        "registry": "minecraft:decorated_pot_pattern"
+      }
+    ],
     [],
     [],
     [],
