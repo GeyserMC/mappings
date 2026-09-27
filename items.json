@@ -7239,7 +7239,7 @@
     "lastBlockRuntimeId": 24161
   },
   "minecraft:straw_bed": {
-    "bedrock_identifier": "minecraft:bed",
+    "bedrock_identifier": "minecraft:straw_bed",
     "firstBlockRuntimeId": 2286,
     "is_block": true,
     "lastBlockRuntimeId": 2301
