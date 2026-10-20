@@ -726,7 +726,7 @@
   },
   "block.comparator.click": {
     "bedrock_mapping": "BLOCK_CLICK",
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "block.comparator.click"
   },
   "block.composter.empty": {
     "bedrock_mapping": "COMPOSTER_EMPTY",
@@ -1015,7 +1015,7 @@
   },
   "block.dispenser.fail": {
     "bedrock_mapping": "DENY",
-    "playsound_mapping": "random.click"
+    "playsound_mapping": "block.dispenser.fail"
   },
   "block.dispenser.launch": {
     "bedrock_mapping": "LAUNCH",
@@ -3733,15 +3733,15 @@
   },
   "entity.cod.death": {
     "bedrock_mapping": "DEATH",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.cod.death"
   },
   "entity.cod.flop": {
     "bedrock_mapping": "FLOP",
-    "playsound_mapping": "mob.fish.flop"
+    "playsound_mapping": "mob.cod.flop"
   },
   "entity.cod.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.cod.hurt"
   },
   "entity.copper_golem.death": {
     "playsound_mapping": "mob.copper_golem.death"
@@ -3954,7 +3954,7 @@
   },
   "entity.donkey.jump": {
     "bedrock_mapping": "JUMP",
-    "playsound_mapping": "mob.horse.jump"
+    "playsound_mapping": "mob.horse.donkey.jump"
   },
   "entity.dragon_fireball.explode": {
     "bedrock_mapping": "EXPLODE",
@@ -3999,7 +3999,7 @@
   "entity.egg.throw": {
     "bedrock_mapping": "THROW",
     "identifier": "minecraft:player",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.egg.throw"
   },
   "entity.elder_guardian.ambient": {
     "bedrock_mapping": "AMBIENT",
@@ -4062,12 +4062,12 @@
   },
   "entity.ender_eye.launch": {
     "bedrock_mapping": "LAUNCH",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.ender_eye.launch"
   },
   "entity.ender_pearl.throw": {
     "bedrock_mapping": "THROW",
     "identifier": "minecraft:player",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.ender_pearl.throw"
   },
   "entity.enderman.ambient": {
     "bedrock_mapping": "AMBIENT",
@@ -4199,7 +4199,7 @@
   },
   "entity.fishing_bobber.throw": {
     "bedrock_mapping": "THROW",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.fishing_bobber.throw"
   },
   "entity.fox.aggro": {
     "playsound_mapping": "mob.fox.aggro"
@@ -5331,15 +5331,15 @@
   "entity.puffer_fish.blow_up": {},
   "entity.puffer_fish.death": {
     "bedrock_mapping": "DEATH",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.puffer_fish.death"
   },
   "entity.puffer_fish.flop": {
     "bedrock_mapping": "FLOP",
-    "playsound_mapping": "mob.fish.flop"
+    "playsound_mapping": "mob.puffer_fish.flop"
   },
   "entity.puffer_fish.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.puffer_fish.hurt"
   },
   "entity.puffer_fish.sting": {},
   "entity.rabbit.ambient": {
@@ -5400,15 +5400,16 @@
   },
   "entity.salmon.death": {
     "bedrock_mapping": "DEATH",
-    "identifier": "minecraft:salmon"
+    "identifier": "minecraft:salmon",
+    "playsound_mapping": "mob.salmon.death"
   },
   "entity.salmon.flop": {
     "bedrock_mapping": "FLOP",
-    "playsound_mapping": "mob.fish.flop"
+    "playsound_mapping": "mob.salmon.flop"
   },
   "entity.salmon.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.salmon.hurt"
   },
   "entity.sheep.ambient": {
     "bedrock_mapping": "AMBIENT",
@@ -5655,7 +5656,7 @@
   "entity.snowball.throw": {
     "bedrock_mapping": "THROW",
     "identifier": "minecraft:player",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.snowball.throw"
   },
   "entity.spider.ambient": {
     "bedrock_mapping": "AMBIENT",
@@ -5844,7 +5845,7 @@
     "playsound_mapping": "mob.tadpole.death"
   },
   "entity.tadpole.flop": {
-    "playsound_mapping": "mob.fish.flop"
+    "playsound_mapping": "mob.tadpole.flop"
   },
   "entity.tadpole.grow_up": {
     "playsound_mapping": "mob.tadpole.convert_to_frog"
@@ -5863,15 +5864,15 @@
   },
   "entity.tropical_fish.death": {
     "bedrock_mapping": "DEATH",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.tropical_fish.death"
   },
   "entity.tropical_fish.flop": {
     "bedrock_mapping": "FLOP",
-    "playsound_mapping": "mob.fish.flop"
+    "playsound_mapping": "mob.tropical_fish.flop"
   },
   "entity.tropical_fish.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.fish.hurt"
+    "playsound_mapping": "mob.tropical_fish.hurt"
   },
   "entity.turtle.ambient_land": {
     "bedrock_mapping": "AMBIENT",
