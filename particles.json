@@ -5,6 +5,9 @@
   "minecraft:ash": {
     "bedrock_id": "geyseropt:ash"
   },
+  "minecraft:block": {
+    "built_in": {}
+  },
   "minecraft:block_crumble": {
     "particle_type": "CREAKING_CRUMBLE"
   },
@@ -71,11 +74,20 @@
   "minecraft:dripping_water": {
     "bedrock_id": "minecraft:water_drip_particle"
   },
+  "minecraft:dust": {
+    "built_in": {}
+  },
+  "minecraft:dust_color_transition": {
+    "built_in": {}
+  },
   "minecraft:dust_pillar": {
     "bedrock_id": "minecraft:smash_ground_particle"
   },
   "minecraft:dust_plume": {
     "bedrock_id": "minecraft:dust_plume"
+  },
+  "minecraft:effect": {
+    "built_in": {}
   },
   "minecraft:egg_crack": {
     "bedrock_id": "minecraft:villager_happy"
@@ -95,9 +107,6 @@
   "minecraft:end_rod": {
     "bedrock_id": "minecraft:endrod"
   },
-  "minecraft:entity_effect": {
-    "bedrock_id": "minecraft:evoker_spell"
-  },
   "minecraft:explosion": {
     "bedrock_id": "minecraft:large_explosion"
   },
@@ -109,6 +118,9 @@
   },
   "minecraft:falling_dripstone_water": {
     "bedrock_id": "minecraft:stalactite_water_drip_particle"
+  },
+  "minecraft:falling_dust": {
+    "built_in": {}
   },
   "minecraft:falling_honey": {
     "bedrock_id": "minecraft:honey_drip_particle"
@@ -131,6 +143,9 @@
   "minecraft:firefly": {
     "bedrock_id": "minecraft:firefly_particle"
   },
+  "minecraft:firework": {
+    "built_in": {}
+  },
   "minecraft:fishing": {
     "bedrock_id": "minecraft:water_wake_particle"
   },
@@ -139,6 +154,9 @@
   },
   "minecraft:flash": {
     "bedrock_id": "geyseropt:flash"
+  },
+  "minecraft:geyser": {
+    "built_in": {}
   },
   "minecraft:geyser_base": {
     "bedrock_id": "minecraft:geyser_base"
@@ -149,17 +167,20 @@
   "minecraft:geyser_poof": {
     "bedrock_id": "minecraft:geyser_poof"
   },
+  "minecraft:glow": {
+    "built_in": {}
+  },
   "minecraft:glow_squid_ink": {
     "particle_type": "INK"
   },
   "minecraft:gust": {
-    "bedrock_id": "minecraft:breeze_wind_explosion_emitter"
+    "bedrock_id": "minecraft:breeze_ground_particle"
   },
   "minecraft:gust_emitter_large": {
-    "bedrock_id": "minecraft:wind_explosion_emitter"
+    "bedrock_id": "minecraft:breeze_wind_explosion_emitter"
   },
   "minecraft:gust_emitter_small": {
-    "bedrock_id": "minecraft:breeze_wind_explosion_emitter"
+    "bedrock_id": "minecraft:wind_explosion_emitter"
   },
   "minecraft:happy_villager": {
     "bedrock_id": "minecraft:villager_happy"
@@ -171,7 +192,10 @@
     "bedrock_id": "minecraft:infested_emitter"
   },
   "minecraft:instant_effect": {
-    "bedrock_id": "minecraft:mobspell_emitter"
+    "built_in": {}
+  },
+  "minecraft:item": {
+    "built_in": {}
   },
   "minecraft:item_cobweb": {
     "level_event": "ANIMATION_SPAWN_COBWEB"
@@ -239,6 +263,9 @@
   "minecraft:reverse_portal": {
     "bedrock_id": "minecraft:portal_reverse_particle"
   },
+  "minecraft:scrape": {
+    "built_in": {}
+  },
   "minecraft:sculk_charge": {
     "level_event": "SCULK_CHARGE"
   },
@@ -296,8 +323,14 @@
   "minecraft:sweep_attack": {
     "bedrock_id": "geyseropt:sweep_attack"
   },
+  "minecraft:tinted_leaves": {
+    "built_in": {}
+  },
   "minecraft:totem_of_undying": {
     "bedrock_id": "minecraft:totem_particle"
+  },
+  "minecraft:trail": {
+    "built_in": {}
   },
   "minecraft:trial_omen": {
     "bedrock_id": "minecraft:trial_omen_emitter"
@@ -314,8 +347,17 @@
   "minecraft:vault_connection": {
     "particle_type": "VAULT_CONNECTION"
   },
+  "minecraft:vibration": {
+    "built_in": {}
+  },
   "minecraft:warped_spore": {
     "bedrock_id": "geyseropt:warped_spore"
+  },
+  "minecraft:wax_off": {
+    "built_in": {}
+  },
+  "minecraft:wax_on": {
+    "built_in": {}
   },
   "minecraft:white_ash": {
     "bedrock_id": "geyseropt:white_ash"
