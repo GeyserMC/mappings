@@ -159,13 +159,13 @@
     "built_in": {}
   },
   "minecraft:geyser_base": {
-    "bedrock_id": "minecraft:geyser_base"
+    "built_in": {}
   },
   "minecraft:geyser_plume": {
-    "bedrock_id": "minecraft:geyser_plume"
+    "built_in": {}
   },
   "minecraft:geyser_poof": {
-    "bedrock_id": "minecraft:geyser_poof"
+    "built_in": {}
   },
   "minecraft:glow": {
     "built_in": {}
