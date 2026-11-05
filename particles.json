@@ -171,7 +171,7 @@
     "built_in": {}
   },
   "minecraft:glow_squid_ink": {
-    "bedrock_id": "minecraft:ink_emitter"
+    "bedrock_id": "minecraft:squid_ink_bubble"
   },
   "minecraft:gust": {
     "bedrock_id": "minecraft:wind_charged_emitter"
@@ -205,6 +205,9 @@
   },
   "minecraft:item_snowball": {
     "particle_type": "SNOWBALL_POOF"
+  },
+  "minecraft:landing_honey": {
+    "bedrock_id": "geyseropt:landing_honey"
   },
   "minecraft:landing_lava": {
     "bedrock_id": "geyseropt:landing_lava"
@@ -312,7 +315,7 @@
     "bedrock_id": "minecraft:spore_blossom_ambient_particle"
   },
   "minecraft:squid_ink": {
-    "bedrock_id": "minecraft:ink_emitter"
+    "bedrock_id": "minecraft:squid_ink_bubble"
   },
   "minecraft:sulfur_bubbles": {
     "bedrock_id": "minecraft:sulfur_bubble_particle"
