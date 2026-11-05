@@ -9,7 +9,7 @@
     "built_in": {}
   },
   "minecraft:block_crumble": {
-    "particle_type": "CREAKING_CRUMBLE"
+    "bedrock_id": "minecraft:creaking_crumble_body"
   },
   "minecraft:bubble": {
     "bedrock_id": "minecraft:basic_bubble_particle_manual"
@@ -63,13 +63,13 @@
     "bedrock_id": "minecraft:stalactite_water_drip_particle"
   },
   "minecraft:dripping_honey": {
-    "particle_type": "DRIP_HONEY"
+    "bedrock_id": "minecraft:honey_drip_particle"
   },
   "minecraft:dripping_lava": {
     "bedrock_id": "minecraft:lava_drip_particle"
   },
   "minecraft:dripping_obsidian_tear": {
-    "particle_type": "OBSIDIAN_TEAR"
+    "bedrock_id": "minecraft:obsidian_tear_particle"
   },
   "minecraft:dripping_water": {
     "bedrock_id": "minecraft:water_drip_particle"
@@ -96,7 +96,7 @@
     "level_event": "PARTICLE_SOUND_GUARDIAN_GHOST"
   },
   "minecraft:electric_spark": {
-    "particle_type": "ELECTRIC_SPARK"
+    "bedrock_id": "minecraft:electric_spark_particle"
   },
   "minecraft:enchant": {
     "bedrock_id": "minecraft:enchanting_table_particle"
@@ -132,7 +132,7 @@
     "bedrock_id": "minecraft:nectar_drip_particle"
   },
   "minecraft:falling_obsidian_tear": {
-    "particle_type": "OBSIDIAN_TEAR"
+    "bedrock_id": "minecraft:obsidian_tear_particle"
   },
   "minecraft:falling_spore_blossom": {
     "bedrock_id": "minecraft:spore_blossom_shower_particle"
@@ -171,7 +171,7 @@
     "built_in": {}
   },
   "minecraft:glow_squid_ink": {
-    "particle_type": "INK"
+    "bedrock_id": "minecraft:ink_emitter"
   },
   "minecraft:gust": {
     "bedrock_id": "minecraft:breeze_ground_particle"
@@ -234,13 +234,13 @@
     "bedrock_id": "minecraft:ominous_spawning_particle"
   },
   "minecraft:orange_poplar_leaves": {
-    "particle_type": "ORANGE_POPLAR_LEAVES"
+    "bedrock_id": "minecraft:orange_poplar_leaves_particle"
   },
   "minecraft:pale_oak_leaves": {
-    "particle_type": "PALE_OAK_LEAVES"
+    "bedrock_id": "minecraft:pale_oak_leaves_particle"
   },
   "minecraft:pause_mob_growth": {
-    "particle_type": "PAUSE_MOB_GROWTH"
+    "bedrock_id": "minecraft:pause_mob_growth"
   },
   "minecraft:poof": {
     "bedrock_id": "minecraft:explosion_manual"
@@ -252,13 +252,13 @@
     "bedrock_id": "minecraft:raid_omen_ambient"
   },
   "minecraft:rain": {
-    "particle_type": "RAIN_SPLASH"
+    "bedrock_id": "minecraft:rain_splash_particle"
   },
   "minecraft:red_poplar_leaves": {
-    "particle_type": "RED_POPLAR_LEAVES"
+    "bedrock_id": "minecraft:red_poplar_leaves_particle"
   },
   "minecraft:reset_mob_growth": {
-    "particle_type": "RESET_MOB_GROWTH"
+    "bedrock_id": "minecraft:reset_mob_growth"
   },
   "minecraft:reverse_portal": {
     "bedrock_id": "minecraft:portal_reverse_particle"
@@ -285,13 +285,13 @@
     "bedrock_id": "minecraft:wind_charged_emitter"
   },
   "minecraft:smoke": {
-    "particle_type": "SMOKE"
+    "bedrock_id": "minecraft:basic_smoke_particle"
   },
   "minecraft:sneeze": {
-    "particle_type": "SNEEZE"
+    "bedrock_id": "minecraft:sneeze"
   },
   "minecraft:snowflake": {
-    "particle_type": "SNOWFLAKE"
+    "bedrock_id": "minecraft:snowflake_particle"
   },
   "minecraft:sonic_boom": {
     "bedrock_id": "minecraft:sonic_explosion"
@@ -312,7 +312,7 @@
     "bedrock_id": "minecraft:spore_blossom_ambient_particle"
   },
   "minecraft:squid_ink": {
-    "particle_type": "INK"
+    "bedrock_id": "minecraft:ink_emitter"
   },
   "minecraft:sulfur_bubbles": {
     "bedrock_id": "minecraft:sulfur_bubble_particle"
@@ -345,7 +345,7 @@
     "bedrock_id": "geyseropt:underwater"
   },
   "minecraft:vault_connection": {
-    "particle_type": "VAULT_CONNECTION"
+    "bedrock_id": "minecraft:vault_connection_particle"
   },
   "minecraft:vibration": {
     "built_in": {}
@@ -363,12 +363,12 @@
     "bedrock_id": "geyseropt:white_ash"
   },
   "minecraft:white_smoke": {
-    "particle_type": "WHITE_SMOKE"
+    "bedrock_id": "minecraft:white_smoke_particle"
   },
   "minecraft:witch": {
-    "particle_type": "WITCH_SPELL"
+    "bedrock_id": "minecraft:witchspell_emitter"
   },
   "minecraft:yellow_poplar_leaves": {
-    "particle_type": "YELLOW_POPLAR_LEAVES"
+    "bedrock_id": "minecraft:yellow_poplar_leaves_particle"
   }
 }
