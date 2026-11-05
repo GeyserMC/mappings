@@ -174,7 +174,7 @@
     "bedrock_id": "minecraft:ink_emitter"
   },
   "minecraft:gust": {
-    "bedrock_id": "minecraft:breeze_ground_particle"
+    "bedrock_id": "minecraft:wind_charged_emitter"
   },
   "minecraft:gust_emitter_large": {
     "bedrock_id": "minecraft:breeze_wind_explosion_emitter"
