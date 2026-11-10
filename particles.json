@@ -144,7 +144,8 @@
     "bedrock_id": "minecraft:firefly_particle"
   },
   "minecraft:firework": {
-    "built_in": {}
+    "bedrock_id": "minecraft:sparkler_emitter",
+    "color": 16777215
   },
   "minecraft:fishing": {
     "bedrock_id": "minecraft:water_wake_particle"
@@ -168,7 +169,14 @@
     "built_in": {}
   },
   "minecraft:glow": {
-    "built_in": {}
+    "bedrock_id": "minecraft:glow_particle",
+    "color": {
+      "type": "random",
+      "values": [
+        10092492,
+        1336934
+      ]
+    }
   },
   "minecraft:glow_squid_ink": {
     "bedrock_id": "minecraft:squid_ink_bubble"
@@ -228,7 +236,10 @@
     "bedrock_id": "geyseropt:nautilus"
   },
   "minecraft:note": {
-    "bedrock_id": "minecraft:note_particle"
+    "bedrock_id": "minecraft:note_particle",
+    "color": {
+      "type": "random"
+    }
   },
   "minecraft:noxious_gas": {
     "bedrock_id": "minecraft:noxious_gas_particle"
@@ -267,7 +278,14 @@
     "bedrock_id": "minecraft:portal_reverse_particle"
   },
   "minecraft:scrape": {
-    "built_in": {}
+    "bedrock_id": "minecraft:wax_particle",
+    "color": {
+      "type": "random",
+      "values": [
+        4821890,
+        7193758
+      ]
+    }
   },
   "minecraft:sculk_charge": {
     "level_event": "SCULK_CHARGE"
@@ -357,10 +375,12 @@
     "bedrock_id": "geyseropt:warped_spore"
   },
   "minecraft:wax_off": {
-    "built_in": {}
+    "bedrock_id": "minecraft:wax_particle",
+    "color": 16770559
   },
   "minecraft:wax_on": {
-    "built_in": {}
+    "bedrock_id": "minecraft:wax_particle",
+    "color": 15240212
   },
   "minecraft:white_ash": {
     "bedrock_id": "geyseropt:white_ash"
