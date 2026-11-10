@@ -238,7 +238,8 @@
   "minecraft:note": {
     "bedrock_id": "minecraft:note_particle",
     "color": {
-      "type": "random"
+      "type": "random",
+      "variable": "variable.note_color"
     }
   },
   "minecraft:noxious_gas": {
