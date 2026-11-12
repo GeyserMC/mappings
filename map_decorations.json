@@ -1,0 +1,137 @@
+{
+  "minecraft:abandoned_camp": {
+    "bedrock_id": 25
+  },
+  "minecraft:ancient_city": {
+    "bedrock_id": 26
+  },
+  "minecraft:banner_black": {
+    "bedrock_id": 13,
+    "color": -14869215
+  },
+  "minecraft:banner_blue": {
+    "bedrock_id": 13,
+    "color": -12827478
+  },
+  "minecraft:banner_brown": {
+    "bedrock_id": 13,
+    "color": -8170446
+  },
+  "minecraft:banner_cyan": {
+    "bedrock_id": 13,
+    "color": -15295332
+  },
+  "minecraft:banner_gray": {
+    "bedrock_id": 13,
+    "color": -12103854
+  },
+  "minecraft:banner_green": {
+    "bedrock_id": 13,
+    "color": -10585066
+  },
+  "minecraft:banner_light_blue": {
+    "bedrock_id": 13,
+    "color": -12930086
+  },
+  "minecraft:banner_light_gray": {
+    "bedrock_id": 13,
+    "color": -6447721
+  },
+  "minecraft:banner_lime": {
+    "bedrock_id": 13,
+    "color": -8337633
+  },
+  "minecraft:banner_magenta": {
+    "bedrock_id": 13,
+    "color": -3715395
+  },
+  "minecraft:banner_orange": {
+    "bedrock_id": 13,
+    "color": -425955
+  },
+  "minecraft:banner_pink": {
+    "bedrock_id": 13,
+    "color": -816214
+  },
+  "minecraft:banner_purple": {
+    "bedrock_id": 13,
+    "color": -7785800
+  },
+  "minecraft:banner_red": {
+    "bedrock_id": 13,
+    "color": -5231066
+  },
+  "minecraft:banner_white": {
+    "bedrock_id": 13
+  },
+  "minecraft:banner_yellow": {
+    "bedrock_id": 13,
+    "color": -75715
+  },
+  "minecraft:blue_marker": {
+    "bedrock_id": 3
+  },
+  "minecraft:desert_pyramid": {
+    "bedrock_id": 28
+  },
+  "minecraft:frame": {
+    "bedrock_id": 7
+  },
+  "minecraft:jungle_temple": {
+    "bedrock_id": 22
+  },
+  "minecraft:mansion": {
+    "bedrock_id": 14
+  },
+  "minecraft:mineshaft": {
+    "bedrock_id": 27
+  },
+  "minecraft:monument": {
+    "bedrock_id": 15
+  },
+  "minecraft:ocean_ruin_warm": {
+    "bedrock_id": 29
+  },
+  "minecraft:player": {
+    "bedrock_id": 0
+  },
+  "minecraft:player_off_limits": {
+    "bedrock_id": 13
+  },
+  "minecraft:player_off_map": {
+    "bedrock_id": 6
+  },
+  "minecraft:red_marker": {
+    "bedrock_id": 2
+  },
+  "minecraft:red_x": {
+    "bedrock_id": 4
+  },
+  "minecraft:swamp_hut": {
+    "bedrock_id": 23
+  },
+  "minecraft:target_point": {
+    "bedrock_id": 5
+  },
+  "minecraft:target_x": {
+    "bedrock_id": 4
+  },
+  "minecraft:trial_chambers": {
+    "bedrock_id": 24
+  },
+  "minecraft:village_desert": {
+    "bedrock_id": 17
+  },
+  "minecraft:village_plains": {
+    "bedrock_id": 18
+  },
+  "minecraft:village_savanna": {
+    "bedrock_id": 19
+  },
+  "minecraft:village_snowy": {
+    "bedrock_id": 20
+  },
+  "minecraft:village_taiga": {
+    "bedrock_id": 21
+  }
+}
