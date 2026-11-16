@@ -114,7 +114,8 @@
     "bedrock_id": 5
   },
   "minecraft:target_x": {
-    "bedrock_id": 4
+    "bedrock_id": 4,
+    "color": -16777216
   },
   "minecraft:trial_chambers": {
     "bedrock_id": 24
