@@ -3623,6 +3623,9 @@
   "minecraft:entity.goat.long_jump": {
     "play_sound": "component.jump_to_block"
   },
+  "minecraft:entity.goat.milk": {
+    "play_sound": "mob.mooshroom.suspicious_milk"
+  },
   "minecraft:entity.goat.prepare_ram": {
     "play_sound": "mob.goat.prepare_ram"
   },
@@ -4537,6 +4540,9 @@
   },
   "minecraft:entity.skeleton_horse.hurt": {
     "play_sound": "mob.horse.skeleton.hit"
+  },
+  "minecraft:entity.skeleton_horse.swim": {
+    "play_sound": "random.swim"
   },
   "minecraft:entity.slime.attack": {
     "play_sound": "mob.slime.attack"
