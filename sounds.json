@@ -302,9 +302,6 @@
   "minecraft:block.beehive.work": {
     "play_sound": "block.beehive.work"
   },
-  "minecraft:block.bell.resonate": {
-    "play_sound": "block.bell.hit"
-  },
   "minecraft:block.bell.use": {
     "play_sound": "block.bell.hit"
   },
@@ -1008,7 +1005,7 @@
     "play_sound": "place.fungus"
   },
   "minecraft:block.fungus.step": {
-    "play_sound": "dig.fungus"
+    "play_sound": "place.nether_wart"
   },
   "minecraft:block.furnace.fire_crackle": {
     "play_sound": "block.furnace.lit"
