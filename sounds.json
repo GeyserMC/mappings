@@ -3777,7 +3777,7 @@
     "play_sound": "damage.fallsmall"
   },
   "minecraft:entity.hostile.splash": {
-    "play_sound": "random.splash"
+    "play_sound": "entity.generic.splash"
   },
   "minecraft:entity.hostile.swim": {
     "play_sound": "random.swim"
