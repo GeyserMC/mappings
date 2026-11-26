@@ -3378,7 +3378,7 @@
     "play_sound": "mob.endermen.stare"
   },
   "minecraft:entity.enderman.teleport": {
-    "play_sound": "mob.enderman.portal"
+    "play_sound": "mob.endermen.portal"
   },
   "minecraft:entity.endermite.ambient": {
     "play_sound": "mob.endermite.say"
@@ -4422,7 +4422,7 @@
     "play_sound": "mob.ravager.ambient"
   },
   "minecraft:entity.ravager.attack": {
-    "play_sound": "mob.ravager.hurt"
+    "play_sound": "mob.ravager.bite"
   },
   "minecraft:entity.ravager.celebrate": {
     "play_sound": "mob.ravager.celebrate"
@@ -4557,7 +4557,7 @@
     "play_sound": "fall.slime"
   },
   "minecraft:entity.slime.squish": {
-    "play_sound": "mob.slime.squish"
+    "play_sound": "mob.slime.big"
   },
   "minecraft:entity.slime.squish_small": {
     "play_sound": "mob.slime.small"
@@ -4951,6 +4951,9 @@
   },
   "minecraft:entity.wandering_trader.reappeared": {
     "play_sound": "mob.wanderingtrader.reappeared"
+  },
+  "minecraft:entity.wandering_trader.trade": {
+    "play_sound": "mob.wanderingtrader.haggle"
   },
   "minecraft:entity.wandering_trader.yes": {
     "play_sound": "mob.wanderingtrader.yes"
@@ -5472,7 +5475,7 @@
     "play_sound": "bundle.remove_one"
   },
   "minecraft:item.chorus_fruit.teleport": {
-    "play_sound": "mob.enderman.portal"
+    "play_sound": "mob.endermen.portal"
   },
   "minecraft:item.crossbow.hit": {
     "play_sound": "random.bowhit"
