@@ -1557,6 +1557,9 @@
     "pitch": 0.5,
     "play_sound": "random.fuse"
   },
+  "minecraft:block.note_block.imitate.ender_dragon": {
+    "play_sound": "mob.enderdragon.growl"
+  },
   "minecraft:block.note_block.imitate.piglin": {
     "play_sound": "mob.piglin.ambient"
   },
@@ -4089,6 +4092,9 @@
   },
   "minecraft:entity.parrot.imitate.elder_guardian": {
     "play_sound": "mob.imitate.elder_guardian"
+  },
+  "minecraft:entity.parrot.imitate.ender_dragon": {
+    "play_sound": "mob.enderdragon.growl"
   },
   "minecraft:entity.parrot.imitate.endermite": {
     "play_sound": "mob.imitate.endermite"
