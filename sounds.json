@@ -1557,6 +1557,7 @@
     "play_sound": "note.hat"
   },
   "minecraft:block.note_block.imitate.creeper": {
+    "pitch": 0.5,
     "play_sound": "random.fuse"
   },
   "minecraft:block.note_block.imitate.piglin": {
@@ -2952,7 +2953,9 @@
     "play_sound": "mob.camel.hurt"
   },
   "minecraft:entity.camel.saddle": {
-    "play_sound": "mob.horse.leather"
+    "pitch": 0.8,
+    "play_sound": "mob.horse.leather",
+    "volume": 0.5
   },
   "minecraft:entity.camel.sit": {
     "play_sound": "mob.camel.sit"
@@ -4080,7 +4083,9 @@
     "play_sound": "mob.imitate.creaking"
   },
   "minecraft:entity.parrot.imitate.creeper": {
-    "play_sound": "random.fuse"
+    "pitch": 1.8,
+    "play_sound": "random.fuse",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.drowned": {
     "play_sound": "mob.imitate.drowned"
@@ -4092,7 +4097,9 @@
     "play_sound": "mob.imitate.endermite"
   },
   "minecraft:entity.parrot.imitate.evoker": {
-    "play_sound": "mob.evocation_illager.cast_spell"
+    "pitch": 1.8,
+    "play_sound": "mob.evocation_illager.cast_spell",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.ghast": {
     "play_sound": "mob.imitate.ghast"
@@ -4101,16 +4108,22 @@
     "play_sound": "mob.imitate.guardian"
   },
   "minecraft:entity.parrot.imitate.hoglin": {
-    "play_sound": "mob.hoglin.ambient"
+    "pitch": 1.9,
+    "play_sound": "mob.hoglin.ambient",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.husk": {
     "play_sound": "mob.imitate.husk"
   },
   "minecraft:entity.parrot.imitate.illusioner": {
-    "play_sound": "mob.evocation_illager.ambient"
+    "pitch": 1.8,
+    "play_sound": "mob.evocation_illager.ambient",
+    "volume": 0.7
   },
   "minecraft:entity.parrot.imitate.magma_cube": {
-    "play_sound": "mob.magmacube.big"
+    "pitch": 1.8,
+    "play_sound": "mob.magmacube.big",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.parched": {
     "play_sound": "mob.imitate.parched"
@@ -4119,10 +4132,14 @@
     "play_sound": "mob.imitate.phantom"
   },
   "minecraft:entity.parrot.imitate.piglin": {
-    "play_sound": "mob.piglin.ambient"
+    "pitch": 1.8,
+    "play_sound": "mob.piglin.ambient",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.piglin_brute": {
-    "play_sound": "mob.piglin_brute.ambient"
+    "pitch": 1.8,
+    "play_sound": "mob.piglin_brute.ambient",
+    "volume": 0.6
   },
   "minecraft:entity.parrot.imitate.pillager": {
     "play_sound": "mob.imitate.pillager"
@@ -4173,10 +4190,14 @@
     "play_sound": "mob.imitate.zombie"
   },
   "minecraft:entity.parrot.imitate.zombie_horse": {
-    "play_sound": "mob.horse.zombie.idle"
+    "pitch": 1.8,
+    "play_sound": "mob.horse.zombie.idle",
+    "volume": 0.7
   },
   "minecraft:entity.parrot.imitate.zombie_nautilus": {
-    "play_sound": "mob.zombie_nautilus.ambient.in.water"
+    "pitch": 1.8,
+    "play_sound": "mob.zombie_nautilus.ambient.in.water",
+    "volume": 0.7
   },
   "minecraft:entity.parrot.imitate.zombie_villager": {
     "play_sound": "mob.imitate.zombie_villager"
