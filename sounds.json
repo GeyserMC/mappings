@@ -286,7 +286,7 @@
     "playsound_mapping": "step.bamboo_wood_hanging_sign"
   },
   "block.bamboo_wood_hanging_sign.hit": {
-    "playsound_mapping": "step.bamboo_wood_hanging_sign"
+    "playsound_mapping": "block.bamboo_wood_hanging_sign.hit"
   },
   "block.bamboo_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
@@ -619,7 +619,7 @@
     "playsound_mapping": "step.cherry_wood_hanging_sign"
   },
   "block.cherry_wood_hanging_sign.hit": {
-    "playsound_mapping": "step.cherry_wood_hanging_sign"
+    "playsound_mapping": "block.cherry_wood_hanging_sign.hit"
   },
   "block.cherry_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
@@ -1320,7 +1320,7 @@
     "playsound_mapping": "step.hanging_sign"
   },
   "block.hanging_sign.hit": {
-    "playsound_mapping": "step.hanging_sign"
+    "playsound_mapping": "block.hanging_sign.hit"
   },
   "block.hanging_sign.place": {
     "bedrock_mapping": "PLACE",
@@ -1782,7 +1782,7 @@
     "playsound_mapping": "step.nether_wood_hanging_sign"
   },
   "block.nether_wood_hanging_sign.hit": {
-    "playsound_mapping": "step.nether_wood_hanging_sign"
+    "playsound_mapping": "block.nether_wood_hanging_sign.hit"
   },
   "block.nether_wood_hanging_sign.place": {
     "bedrock_mapping": "PLACE",
@@ -2072,13 +2072,13 @@
     "playsound_mapping": "step.deepslate"
   },
   "block.polished_tuff.break": {
-    "playsound_mapping": "break.tuff"
+    "playsound_mapping": "block.polished_tuff.break"
   },
   "block.polished_tuff.fall": {
     "playsound_mapping": "step.tuff"
   },
   "block.polished_tuff.hit": {
-    "playsound_mapping": "hit.tuff"
+    "playsound_mapping": "block.polished_tuff.hit"
   },
   "block.polished_tuff.place": {
     "bedrock_mapping": "PLACE",
@@ -2895,13 +2895,13 @@
     "playsound_mapping": "random.click"
   },
   "block.tuff.break": {
-    "playsound_mapping": "break.tuff"
+    "playsound_mapping": "block.tuff.break"
   },
   "block.tuff.fall": {
     "playsound_mapping": "fall.tuff"
   },
   "block.tuff.hit": {
-    "playsound_mapping": "hit.tuff"
+    "playsound_mapping": "block.tuff.hit"
   },
   "block.tuff.place": {
     "bedrock_mapping": "PLACE",
@@ -2912,13 +2912,13 @@
     "playsound_mapping": "step.tuff"
   },
   "block.tuff_bricks.break": {
-    "playsound_mapping": "place.tuff_bricks"
+    "playsound_mapping": "block.tuff_bricks.break"
   },
   "block.tuff_bricks.fall": {
     "playsound_mapping": "step.tuff_bricks"
   },
   "block.tuff_bricks.hit": {
-    "playsound_mapping": "step.tuff_bricks"
+    "playsound_mapping": "block.tuff_bricks.hit"
   },
   "block.tuff_bricks.place": {
     "bedrock_mapping": "PLACE",
@@ -3703,7 +3703,8 @@
   },
   "entity.chicken.death": {
     "bedrock_mapping": "DEATH",
-    "identifier": "minecraft:chicken"
+    "identifier": "minecraft:chicken",
+    "playsound_mapping": "mob.chicken.death"
   },
   "entity.chicken.egg": {
     "bedrock_mapping": "POP",
@@ -3806,7 +3807,7 @@
   },
   "entity.cow.death": {
     "bedrock_mapping": "DEATH",
-    "playsound_mapping": "mob.cow.hurt"
+    "playsound_mapping": "mob.cow.death"
   },
   "entity.cow.hurt": {
     "bedrock_mapping": "HURT",
@@ -4058,7 +4059,8 @@
     "playsound_mapping": "mob.blaze.shoot"
   },
   "entity.ender_eye.death": {
-    "bedrock_mapping": "DEATH"
+    "bedrock_mapping": "DEATH",
+    "playsound_mapping": "entity.ender_eye.death"
   },
   "entity.ender_eye.launch": {
     "bedrock_mapping": "LAUNCH",
@@ -4195,7 +4197,7 @@
   "entity.fishing_bobber.splash": {
     "bedrock_mapping": "SPLASH",
     "identifier": "minecraft:fishing_hook",
-    "playsound_mapping": "random.splash"
+    "playsound_mapping": "mob.fishing_bobber.splash"
   },
   "entity.fishing_bobber.throw": {
     "bedrock_mapping": "THROW",
@@ -5127,7 +5129,7 @@
   },
   "entity.pig.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.pig.say"
+    "playsound_mapping": "mob.pig.hurt"
   },
   "entity.pig.saddle": {
     "bedrock_mapping": "SADDLE",
@@ -5418,11 +5420,11 @@
   },
   "entity.sheep.death": {
     "bedrock_mapping": "DEATH",
-    "playsound_mapping": "mob.sheep.say"
+    "playsound_mapping": "mob.sheep.death"
   },
   "entity.sheep.hurt": {
     "bedrock_mapping": "HURT",
-    "playsound_mapping": "mob.sheep.say"
+    "playsound_mapping": "mob.sheep.hurt"
   },
   "entity.sheep.shear": {
     "bedrock_mapping": "SHEAR",
@@ -5676,11 +5678,11 @@
   },
   "entity.splash_potion.break": {
     "bedrock_mapping": "BREAK",
-    "playsound_mapping": "random.break"
+    "playsound_mapping": "entity.splash_potion.break"
   },
   "entity.splash_potion.throw": {
     "bedrock_mapping": "THROW",
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.splash_potion.throw"
   },
   "entity.squid.ambient": {
     "bedrock_mapping": "AMBIENT",
@@ -5962,43 +5964,43 @@
     "playsound_mapping": "mob.villager.haggle"
   },
   "entity.villager.work_armorer": {
-    "playsound_mapping": "block.blastfurnace.fire_crackle"
+    "playsound_mapping": "mob.villager.work_armorer"
   },
   "entity.villager.work_butcher": {
-    "playsound_mapping": "block.smoker.smoke"
+    "playsound_mapping": "mob.villager.work_butcher"
   },
   "entity.villager.work_cartographer": {
-    "playsound_mapping": "block.cartography_table.use"
+    "playsound_mapping": "mob.villager.work_cartographer"
   },
   "entity.villager.work_cleric": {
-    "playsound_mapping": "random.potion.brewed"
+    "playsound_mapping": "mob.villager.work_cleric"
   },
   "entity.villager.work_farmer": {
-    "playsound_mapping": "block.composter.fill"
+    "playsound_mapping": "mob.villager.work_farmer"
   },
   "entity.villager.work_fisherman": {
-    "playsound_mapping": "block.barrel.open"
+    "playsound_mapping": "mob.villager.work_fisherman"
   },
   "entity.villager.work_fletcher": {
-    "playsound_mapping": "dig.wood"
+    "playsound_mapping": "mob.villager.work_fletcher"
   },
   "entity.villager.work_leatherworker": {
-    "playsound_mapping": "bucket.fill_water"
+    "playsound_mapping": "mob.villager.work_leatherworker"
   },
   "entity.villager.work_librarian": {
-    "playsound_mapping": "item.book.put"
+    "playsound_mapping": "mob.villager.work_librarian"
   },
   "entity.villager.work_mason": {
-    "playsound_mapping": "block.stonecutter.use"
+    "playsound_mapping": "mob.villager.work_mason"
   },
   "entity.villager.work_shepherd": {
-    "playsound_mapping": "block.loom.use"
+    "playsound_mapping": "mob.villager.work_shepherd"
   },
   "entity.villager.work_toolsmith": {
-    "playsound_mapping": "smithing_table.use"
+    "playsound_mapping": "mob.villager.work_toolsmith"
   },
   "entity.villager.work_weaponsmith": {
-    "playsound_mapping": "block.grindstone.use"
+    "playsound_mapping": "mob.villager.work_weaponsmith"
   },
   "entity.villager.yes": {
     "bedrock_mapping": "HAGGLE_YES",
@@ -6142,7 +6144,7 @@
     "playsound_mapping": "mob.warden.clicking"
   },
   "entity.wind_charge.throw": {
-    "playsound_mapping": "random.bow"
+    "playsound_mapping": "entity.wind_charge.throw"
   },
   "entity.wind_charge.wind_burst": {
     "playsound_mapping": "wind_charge.burst"
@@ -6401,7 +6403,7 @@
   },
   "entity.zombie.destroy_egg": {
     "bedrock_mapping": "BLOCK_TURTLE_EGG_BREAK",
-    "playsound_mapping": "fall.egg"
+    "playsound_mapping": "mob.zombie.destroy_egg"
   },
   "entity.zombie.hurt": {
     "bedrock_mapping": "HURT",
