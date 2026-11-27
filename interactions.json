@@ -3155,7 +3155,8 @@
     "minecraft:stone_button[face=ceiling,facing=west,powered=false]",
     "minecraft:stone_button[face=ceiling,facing=east,powered=true]",
     "minecraft:stone_button[face=ceiling,facing=east,powered=false]",
-    "minecraft:jukebox[has_record=true]",
+    "minecraft:jukebox[has_record=true,playlist_mode=true]",
+    "minecraft:jukebox[has_record=true,playlist_mode=false]",
     "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=true]",
     "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=true,waterlogged=false]",
     "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=true]",
@@ -7184,7 +7185,7 @@
     "minecraft:potted_open_eyeblossom",
     "minecraft:potted_closed_eyeblossom"
   ],
-  "data_version": 5023,
+  "data_version": 5132,
   "requires_may_build": [
     "minecraft:repeater[delay=1,facing=north,locked=true,powered=true]",
     "minecraft:repeater[delay=1,facing=north,locked=true,powered=false]",

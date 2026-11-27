@@ -80,6 +80,9 @@
   "minecraft:grove": {
     "bedrock_id": 185
   },
+  "minecraft:ice_caves": {
+    "bedrock_id": 196
+  },
   "minecraft:ice_spikes": {
     "bedrock_id": 140
   },

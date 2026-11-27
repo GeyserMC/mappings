@@ -211,9 +211,6 @@
   "minecraft:item_slime": {
     "particle_type": "SLIME"
   },
-  "minecraft:item_snowball": {
-    "particle_type": "SNOWBALL_POOF"
-  },
   "minecraft:landing_honey": {
     "bedrock_id": "geyseropt:landing_honey"
   },
